@@ -4,16 +4,11 @@ import numpy as np
 import faiss
 from sentence_transformers import SentenceTransformer
 from google.cloud import bigquery
-from google import genai
+import openai
+from openai import OpenAI
 import ast
 
-# Initialize Gemini once
-client = genai.Client(
-    vertexai=True,
-    project="trip-recommendation-project",
-    location="us-central1"
-)
-chat = client.chats.create(model="gemini-1.0-pro-002")
+client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
 
 # Load embeddings and indexes
 @st.cache_resource
@@ -466,14 +461,66 @@ elif section == "🌦️ Weather-Aware Destination Insights":
 
 # ---------------------- GEMINI CHAT --------------------------
 elif section == "💬 Gemini Chat Assistant":
-    st.subheader("Chat with Gemini AI")
-    prompt = st.text_area("Ask anything about travel...")
+    st.subheader("Ask Gemini Questions Based on Your CSV Files")
 
-    if st.button("Ask AI") and prompt:
+    uploaded_files = st.file_uploader("Upload CSV file(s)", type=["csv"], accept_multiple_files=True)
+    query = st.text_area("Ask a question about the data...")
+
+    if st.button("Get Answer") and uploaded_files and query:
         try:
-            response = chat.send_message(prompt)
-            st.markdown("### ✈️ Gemini's Response")
-            st.write(response.text)
+            from sentence_transformers import SentenceTransformer
+            import faiss
+            import numpy as np
+
+            # Load model
+            model = SentenceTransformer("all-MiniLM-L6-v2")
+
+            # Step 1: Load and combine text chunks
+            combined_texts = []
+            chunk_to_text_map = []
+
+            for uploaded_file in uploaded_files:
+                df = pd.read_csv(uploaded_file)
+                for i, row in df.iterrows():
+                    text = ", ".join([f"{col}: {row[col]}" for col in df.columns])
+                    combined_texts.append(text)
+                    chunk_to_text_map.append(text)
+
+            # Step 2: Embed the chunks
+            embeddings = model.encode(combined_texts).astype("float32")
+
+            # Step 3: Search for relevant chunks
+            index = faiss.IndexFlatL2(embeddings.shape[1])
+            index.add(embeddings)
+
+            query_vec = model.encode([query]).astype("float32")
+            D, I = index.search(query_vec, k=5)
+
+            # Step 4: Combine top chunks
+            context = "\n\n".join([chunk_to_text_map[i] for i in I[0]])
+
+            # Step 5: Send to Gemini
+            prompt_text = f"""You are a helpful assistant that answers questions using data.
+
+DATA SNIPPETS:
+{context}
+
+QUESTION: {query}
+ANSWER:"""
+
+            response = client.chat.completions.create(
+                model="gpt-3.5-turbo",
+                messages=[{
+                    "role": "user",
+                    "content": prompt_text
+                }]
+            )
+
+            st.markdown("### 💬 GPT's Response")
+            st.write(response.choices[0].message.content)
+
+
         except Exception as e:
-            st.error(f"Gemini failed: {e}")
+            st.error(f"Something went wrong: {e}")
+
 
