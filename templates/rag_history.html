@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Trip History Match</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f7fafc;
+            padding: 30px;
+        }
+        h1 {
+            color: #2c3e50;
+        }
+        .form-section {
+            background: #ffffff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+            max-width: 600px;
+            margin-bottom: 40px;
+        }
+        input, select {
+            width: 100%;
+            padding: 10px;
+            margin-top: 10px;
+            margin-bottom: 20px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+        .recommendation {
+            background: #ffffff;
+            border-left: 5px solid #3498db;
+            padding: 15px;
+            margin-bottom: 20px;
+            border-radius: 5px;
+        }
+        .score {
+            font-size: 0.9em;
+            color: #888;
+        }
+        .query {
+            background: #ecf0f1;
+            padding: 10px;
+            border-radius: 5px;
+            margin-bottom: 20px;
+            max-width: 600px;
+        }
+    </style>
+</head>
+<body>
+    <h1>🔍 Find Similar Travelers (Trip History RAG)</h1>
+
+    <div class="form-section">
+        <form method="post">
+            <label for="age">Age:</label>
+            <input type="number" name="age" id="age" placeholder="e.g. 45" required>
+
+            <label for="budget">Budget ($):</label>
+            <input type="number" name="budget" id="budget" placeholder="e.g. 200000" required>
+
+            <label for="interest">Travel Preference:</label>
+            <select name="interest" id="interest">
+                <option value="adventure">Adventure</option>
+                <option value="luxury">Luxury</option>
+                <option value="cultural">Cultural</option>
+                <option value="budget">Budget</option>
+                <option value="nature">Nature</option>
+                <option value="budget-friendly">Budget-Friendly</option>
+                <option value="romantic">Romantic</option>
+                <option value="beach">Beach</option>
+            </select>
+
+            <input type="submit" value="Find Similar Travelers">
+        </form>
+    </div>
+
+    {% if query %}
+        <div class="query">
+            <h3>🧾 Your Profile Summary</h3>
+            <p>{{ query }}</p>
+        </div>
+    {% endif %}
+
+    {% if recommendations is not none and not recommendations.empty %}
+        <h2>👥 Similar Trip Profiles</h2>
+        {% for rec in recommendations.itertuples() %}
+            <div class="recommendation">
+                <p><strong>Member ID:</strong> {{ rec.member_id }}</p>
+                <p>{{ rec.summary }}</p>
+                <p class="score">🔗 Similarity Score: {{ rec.score | round(2) }}</p>
+            </div>
+        {% endfor %}
+    {% elif recommendations is not none %}
+        <p>No similar travelers found. Try adjusting age, budget, or preference.</p>
+    {% endif %}
+</body>
+</html>

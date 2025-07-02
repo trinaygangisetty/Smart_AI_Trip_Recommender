@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>RAG-Based Travel Recommender</title>
+    <style>
+        body { font-family: Arial, margin: 20px; }
+        input, select { margin: 5px; padding: 5px; }
+        .card {
+            border: 1px solid #ccc; padding: 10px; margin: 10px 0;
+            border-radius: 8px; background-color: #f9f9f9;
+        }
+    </style>
+</head>
+<body>
+    <h1>🌍 AI-Powered Trip Recommender</h1>
+
+    <form method="POST">
+        <label>Age: <input type="number" name="age" required></label><br>
+        <label>Travel Budget ($): <input type="number" name="budget" required></label><br>
+        <label>Preference:
+            <select name="preference">
+                <option>adventure</option><option>luxury</option>
+                <option>beach</option><option>cultural</option>
+                <option>nature</option><option>romantic</option>
+                <option>budget-friendly</option>
+            </select>
+        </label><br>
+        <label>Travel Month:
+            <select name="month">
+                {% for m in ['January', 'February', 'March', 'April', 'May', 'June',
+                             'July', 'August', 'September', 'October', 'November', 'December'] %}
+                <option>{{ m }}</option>
+                {% endfor %}
+            </select>
+        </label><br>
+        <input type="submit" value="Get RAG Recommendations">
+    </form>
+
+    {% if query %}
+        <h3>📝 Your Query:</h3>
+        <p>{{ query }}</p>
+    {% endif %}
+
+    {% if recommendations is not none %}
+        <h2>✨ Recommended Destinations</h2>
+        {% for row in recommendations.itertuples() %}
+            <div class="card">
+                <strong>{{ row.destination }}</strong> ({{ row.country }})<br>
+                Tags: {{ row.tags | safe  }}<br>
+                Cost: ${{ "{:,}".format(row.avg_cost_usd) }}<br>
+                Safety: {{ row.safety_rating }}<br>
+                Relevance Score: {{ row.score | round(2) }}<br>
+                <p><em>Why this was picked?</em><br>
+                This destination aligns with your preference for 
+                <strong>{{ preference }}</strong> experiences and was semantically matched using AI.</p>
+            </div>
+        {% endfor %}
+    {% endif %}
+</body>
+</html>

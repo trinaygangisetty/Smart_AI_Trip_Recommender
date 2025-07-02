@@ -1,0 +1,121 @@
+destination,month,weather,seasonal_rating
+Cancun,January,stormy,4.1
+Cancun,February,rainy,3.1
+Cancun,March,cloudy,4.1
+Cancun,April,rainy,4.6
+Cancun,May,cloudy,4.8
+Cancun,June,stormy,4.0
+Cancun,July,snowy,4.1
+Cancun,August,cloudy,2.8
+Cancun,September,stormy,2.8
+Cancun,October,rainy,2.8
+Cancun,November,windy,4.4
+Cancun,December,sunny,4.3
+Paris,January,windy,3.6
+Paris,February,windy,3.2
+Paris,March,snowy,2.6
+Paris,April,cloudy,2.8
+Paris,May,stormy,2.6
+Paris,June,sunny,3.5
+Paris,July,cloudy,4.3
+Paris,August,windy,4.5
+Paris,September,rainy,3.9
+Paris,October,cloudy,3.9
+Paris,November,stormy,2.8
+Paris,December,cloudy,3.0
+Tokyo,January,windy,2.9
+Tokyo,February,sunny,4.4
+Tokyo,March,sunny,3.2
+Tokyo,April,rainy,4.2
+Tokyo,May,rainy,2.8
+Tokyo,June,cloudy,2.7
+Tokyo,July,snowy,3.8
+Tokyo,August,windy,3.3
+Tokyo,September,sunny,4.3
+Tokyo,October,rainy,3.6
+Tokyo,November,stormy,4.9
+Tokyo,December,sunny,2.6
+Bali,January,sunny,4.3
+Bali,February,cloudy,3.7
+Bali,March,stormy,2.9
+Bali,April,cloudy,2.5
+Bali,May,windy,4.8
+Bali,June,snowy,3.1
+Bali,July,rainy,2.9
+Bali,August,windy,2.6
+Bali,September,windy,4.1
+Bali,October,cloudy,2.6
+Bali,November,rainy,3.1
+Bali,December,windy,2.9
+Cape Town,January,cloudy,4.6
+Cape Town,February,stormy,2.5
+Cape Town,March,stormy,4.8
+Cape Town,April,snowy,2.5
+Cape Town,May,windy,4.4
+Cape Town,June,stormy,4.3
+Cape Town,July,sunny,2.6
+Cape Town,August,windy,2.8
+Cape Town,September,rainy,3.0
+Cape Town,October,sunny,4.6
+Cape Town,November,snowy,2.8
+Cape Town,December,sunny,3.9
+Denver,January,snowy,4.9
+Denver,February,snowy,5.0
+Denver,March,stormy,3.4
+Denver,April,windy,3.9
+Denver,May,cloudy,2.9
+Denver,June,rainy,2.5
+Denver,July,snowy,2.6
+Denver,August,snowy,4.9
+Denver,September,snowy,3.5
+Denver,October,rainy,4.4
+Denver,November,snowy,3.6
+Denver,December,cloudy,4.1
+Banff,January,snowy,3.2
+Banff,February,cloudy,4.3
+Banff,March,rainy,3.6
+Banff,April,stormy,2.7
+Banff,May,cloudy,3.1
+Banff,June,stormy,3.4
+Banff,July,sunny,4.1
+Banff,August,sunny,4.2
+Banff,September,sunny,4.5
+Banff,October,stormy,4.1
+Banff,November,rainy,3.9
+Banff,December,windy,3.9
+Phuket,January,cloudy,3.7
+Phuket,February,windy,4.6
+Phuket,March,stormy,4.6
+Phuket,April,stormy,4.4
+Phuket,May,rainy,3.0
+Phuket,June,rainy,3.0
+Phuket,July,cloudy,4.3
+Phuket,August,sunny,4.6
+Phuket,September,rainy,4.8
+Phuket,October,windy,3.0
+Phuket,November,rainy,4.7
+Phuket,December,sunny,4.2
+Rome,January,cloudy,3.4
+Rome,February,windy,4.5
+Rome,March,rainy,2.8
+Rome,April,snowy,2.7
+Rome,May,stormy,2.5
+Rome,June,sunny,2.7
+Rome,July,windy,2.9
+Rome,August,stormy,4.7
+Rome,September,rainy,3.1
+Rome,October,rainy,3.2
+Rome,November,sunny,4.4
+Rome,December,stormy,3.9
+Barcelona,January,snowy,3.7
+Barcelona,February,sunny,3.2
+Barcelona,March,sunny,4.9
+Barcelona,April,rainy,4.3
+Barcelona,May,cloudy,2.5
+Barcelona,June,cloudy,4.0
+Barcelona,July,stormy,4.3
+Barcelona,August,stormy,3.4
+Barcelona,September,rainy,4.0
+Barcelona,October,cloudy,4.1
+Barcelona,November,snowy,4.2
+Barcelona,December,sunny,4.5

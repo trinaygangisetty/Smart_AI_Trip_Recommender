@@ -1,0 +1,1001 @@
+member_id,name,age,travel_budget,preference,num_dependents,has_passport,city,state,signup_date_clean
+1685,Michael Williams,71.0,646000,luxury,3,False,Stevenstad,IA,2021-07-17
+1614,Danielle George,50.0,153000,adventure,0,True,Jessicabury,NC,2024-04-06
+1602,Denise Brock,22.0,155000,beach,3,True,Salinasfort,ND,2024-09-23
+1502,Terry Holmes,50.0,403000,beach,3,True,South Megan,MP,2024-04-24
+1341,Michelle Walker,25.0,693000,cultural,3,True,Davidburgh,CO,2023-01-22
+1248,Stanley Cardenas,34.0,192000,beach,1,True,Alexbury,MP,2022-09-13
+1716,Jamie Franklin,34.0,675000,adventure,3,True,West Samanthaberg,CA,2024-09-11
+1904,Leah Ochoa,68.0,406000,beach,1,True,New Troytown,WV,2025-01-10
+1827,Diane Leach Dds,33.0,635000,adventure,1,False,Pamelaland,NJ,2021-09-09
+1049,John Franco,74.0,329000,nature,3,True,Kristentown,MD,2022-11-19
+1487,Mary Stanley,54.0,789000,beach,0,True,East Sarahfort,RI,2024-09-25
+1142,Christopher Garcia,25.0,235000,luxury,2,True,West Jeffery,ND,2021-11-16
+1432,Erin Grant,48.5,811000,adventure,3,True,Lake Brandy,OH,2022-11-20
+1250,Sherri Anderson,48.5,675000,adventure,2,True,Thompsonhaven,PR,2022-12-06
+1806,Jose Harvey,48.0,682000,luxury,3,True,Richardsonhaven,AR,2024-03-30
+1133,Paul Simmons,33.0,512000,budget,0,True,East Elizabeth,NV,2024-01-15
+1104,Stephanie Bailey,55.0,262000,adventure,0,True,Port Diana,KY,2023-12-26
+1006,Darren Banks,57.0,834000,nature,1,True,Colleenport,KY,2024-07-16
+1516,Amy Byrd Md,56.0,798000,adventure,1,True,South Sierraland,GA,2023-10-18
+1504,Michael Martin,49.0,383000,cultural,1,True,Sanchezland,MS,2021-10-08
+1992,Maria Cohen,48.0,682000,luxury,2,True,Williston,PA,2024-11-19
+1480,Katelyn Carlson,22.0,889000,adventure,1,True,Port Brandi,AZ,2021-09-16
+1429,Pamela Murray,75.0,688000,beach,1,True,East Joeview,FL,2023-01-08
+1553,Carol Alvarez,27.0,480000,beach,1,True,Port Barry,HI,2025-04-15
+1347,Brandon Berger,63.0,610000,beach,0,True,New Jaredbury,WV,2023-02-19
+1119,Lisa Johnson,62.0,601000,beach,0,True,Sheilabury,MS,2025-03-17
+1108,Nicolas Rios,39.0,291000,budget,3,True,Lake Michael,KY,2024-08-11
+1762,Julia Jarvis,50.0,518000,adventure,3,False,South Mary,MD,2024-12-26
+1962,Peggy Thomas,44.0,750000,beach,1,True,Montgomeryview,WI,2021-07-11
+1659,Nathan Taylor,70.0,519000,adventure,3,False,Shellymouth,MS,2022-07-17
+1915,Susan Wallace,67.0,263000,luxury,2,True,Yeseniamouth,MH,2023-01-15
+1731,Chad Gonzalez,27.0,214000,budget,2,True,Lake Beverlystad,MI,2024-10-05
+1990,Ashley Smith,21.0,563000,beach,0,True,Robertshire,NH,2023-05-01
+1574,Michelle Ferguson,48.5,158000,adventure,1,True,New Megan,PA,2022-08-19
+1830,Lisa Brown,36.0,571000,beach,3,True,Walshburgh,ME,2023-01-11
+1200,Monica Davidson,77.0,500000,adventure,2,True,Ryantown,WA,2024-11-07
+1078,Ashley Hanna,58.0,861000,luxury,1,True,Adrienneton,HI,2025-01-29
+1581,Jessica Buck,70.0,120000,nature,1,True,East Karen,MI,2024-03-05
+1262,Kelly Hunt,61.0,259000,adventure,3,True,Port Diana,NV,2024-04-21
+1619,Brittany Willis Md,48.0,362000,nature,2,True,New Nicholas,VT,2022-11-02
+1957,Angela Green,20.0,300000,beach,1,True,Mendozaville,VA,2023-02-08
+1156,Kevin Miller,71.0,574000,beach,3,True,Stephanieburgh,DE,2024-08-11
+1090,Trevor Jordan,66.0,569000,luxury,2,True,Hicksburgh,NC,2023-06-15
+1101,Brittany Villa,48.5,627000,cultural,3,True,Daveborough,UT,2025-01-11
+1094,Angela Watkins,28.0,482000,beach,3,False,Nicolemouth,KY,2022-07-26
+1496,Katelyn Farmer,24.0,259000,adventure,2,True,East Maurice,MO,2024-05-04
+1943,Veronica Taylor,76.0,866000,beach,1,True,South Stephaniebury,AK,2024-10-05
+1041,Matthew Nguyen,64.0,834000,luxury,0,True,Ericville,WA,2024-01-19
+1661,Patricia Martinez,45.0,737000,adventure,3,True,East Sean,MO,2024-01-01
+1862,Calvin Cole,64.0,314000,cultural,2,True,North Susan,WA,2024-11-21
+1736,Stephanie Lynch,27.0,520000,cultural,2,True,East Jonathanstad,NY,2024-03-07
+1034,Sara Baxter,30.0,736000,nature,2,True,Reedside,SD,2024-09-25
+1175,Jeffery Washington,52.0,517000,beach,2,True,Hollyshire,LA,2022-01-21
+1035,Richard Miller,68.0,531000,luxury,2,True,Port Leslie,ID,2022-12-16
+1148,Zachary Johnson,51.5,784000,nature,1,True,Laurenborough,UT,2021-08-18
+1463,Jason Taylor,41.0,664000,luxury,2,True,West Kimville,OR,2025-04-30
+1599,Mr. Daniel Smith Dds,77.0,288000,adventure,2,True,Allenchester,WA,2024-11-23
+1682,Laura Spencer,71.0,490000,nature,0,True,East Cameron,ME,2022-11-06
+1987,Timothy Phillips,42.0,115000,adventure,0,True,Jessicamouth,RI,2021-08-22
+1700,Billy Boyd,45.0,171000,luxury,0,True,Cainshire,NH,2022-01-15
+1877,Kelly Bowen,54.0,171000,adventure,1,True,East Katie,PA,2021-12-22
+1697,Caleb Ashley,54.0,649000,luxury,1,True,South Kristieville,NJ,2022-06-30
+1374,Melissa Barton,47.0,328000,adventure,3,True,Johnfort,MS,2023-07-19
+1739,Lisa Ball,20.0,616000,adventure,0,True,South Christopherberg,DE,2022-08-15
+1635,Samantha Ali,43.0,801000,luxury,1,False,Morrowhaven,MN,2021-10-11
+1573,Robert Morris,48.0,394000,luxury,1,True,North Nicole,NE,2021-08-19
+1472,Karen Booth,30.0,510000,cultural,3,True,West Jeffreystad,VI,2022-06-29
+1821,Matthew Anderson,58.0,147000,nature,0,False,Lake Alan,MP,2023-03-28
+1976,Henry Hall,48.0,710000,luxury,3,True,West Andrewburgh,IA,2024-12-16
+1017,Lindsey Hoffman,78.0,600000,cultural,1,True,Lake Laura,VT,2021-11-10
+1207,Charles Brooks,50.0,236000,budget,2,True,Jonathanport,TN,2022-11-16
+1758,Chad Zamora,48.0,455000,luxury,0,True,Browningchester,KS,2022-04-12
+1244,Jason Thomas,27.0,224000,beach,2,True,Andrewside,PR,2023-04-15
+1822,Cathy Carr,65.0,385000,adventure,3,False,Johnton,GA,2025-06-17
+1241,Eric Conner,80.0,506000,beach,0,False,Port Edwardshire,CA,2024-03-22
+1065,Terry Riley,25.0,273000,adventure,1,True,South Luis,UT,2022-01-14
+1799,Paul Thomas,55.0,126000,beach,0,True,Port Michaelshire,OH,2024-10-15
+1910,Jesus Burke,52.0,101000,luxury,0,True,North Wayne,ME,2021-10-07
+1563,Kevin Santana,46.0,297000,budget,2,False,Kylefurt,OH,2024-12-17
+1191,Melinda Lowery,65.0,175000,beach,3,True,North William,IN,2024-04-15
+1364,Mr. Robert Smith,47.0,651000,luxury,1,False,Valerieport,VI,2023-04-09
+1747,Charles Joyce,63.0,836000,luxury,1,False,Lancetown,HI,2025-01-09
+1335,Miranda Parsons,64.0,536000,adventure,0,True,Sarahfort,DE,2025-02-19
+1223,Tracy Boyd,18.0,515000,budget,2,True,North Victor,MD,2025-03-02
+1186,David Williams,52.0,476000,adventure,0,True,Williamchester,ND,2023-02-24
+1180,Christopher Lewis,70.0,550000,adventure,0,True,Lake Michael,ID,2023-11-13
+1267,Adrienne Lang,25.0,160000,beach,2,True,New Dawnfort,VA,2023-09-22
+1788,Timothy Wiley,24.0,357000,beach,3,True,Carrollville,AR,2021-07-13
+1578,Sherry West,24.0,696000,luxury,3,True,Grossburgh,SC,2023-10-27
+1643,Michael Torres,59.0,529000,adventure,3,True,Archerton,DE,2023-07-11
+1419,Michael Huber,36.0,170000,adventure,2,False,East Tyler,ND,2023-04-21
+1494,Cheryl Richardson,23.0,193000,adventure,1,True,North Kelly,NY,2024-08-30
+1274,Dawn Schmitt,20.0,483000,budget,2,True,East Kimberlyport,KY,2025-01-09
+1783,Cody Wagner,73.0,689000,beach,2,True,Port Bryan,NV,2025-04-04
+1679,Christy Tapia,61.0,743000,budget,2,False,Mortonhaven,FM,2022-08-16
+1531,Catherine Flores,42.0,846000,beach,2,True,North Lauriechester,FL,2022-07-10
+1320,Maria Nguyen,43.0,402000,adventure,2,True,North Ryan,AK,2024-05-16
+1331,Dominique Saunders,73.0,591000,budget,2,True,Port Danielchester,MT,2024-02-22
+1403,Ashley Decker,18.0,267000,beach,2,True,North Tiffany,RI,2025-01-12
+1154,Philip Estrada,48.0,123000,luxury,3,True,New Donald,IL,2021-08-10
+1340,Debra Black,52.0,336000,nature,0,True,West Ashley,PW,2023-09-10
+1013,Meredith Reed,61.0,755000,cultural,0,True,Sandraton,PR,2025-02-08
+1404,Louis Moreno,53.0,474000,nature,0,True,Smithton,NM,2023-09-14
+1486,Brenda Clark,60.0,159000,beach,1,True,West Joshuachester,NV,2025-04-14
+1436,Austin Lambert,71.0,546000,beach,3,True,Pagehaven,WY,2022-12-01
+1921,Jasmine Gallegos,45.0,313000,beach,3,True,Aaronland,RI,2023-04-17
+1897,Jon Dorsey,45.0,181000,nature,3,True,Leonardview,NY,2023-07-29
+1529,Kristen Sheppard,48.0,311000,budget,2,True,Michelleville,AL,2023-05-04
+1785,Stephen Delgado,28.0,839000,beach,3,True,Port Kathy,PR,2024-07-01
+1464,Sharon Ward,46.0,777000,budget,0,True,Molinamouth,IN,2022-06-26
+1959,Jessica Miller,20.0,159000,adventure,3,True,Lauraport,VT,2022-12-28
+1434,Carrie Good,43.0,222000,beach,1,False,New Jennifer,SD,2022-04-12
+1840,James Young,53.0,886000,beach,2,True,South Jenniferville,MT,2024-07-27
+1059,Curtis Morris,57.0,443000,beach,3,True,Port Lesliechester,IL,2022-09-25
+1873,Philip Lane,34.0,761000,nature,3,True,Lake Stevenborough,CT,2021-07-23
+1382,Tracy Brown,26.0,702000,cultural,3,True,Kellyview,MD,2021-12-26
+1189,Nathaniel Harris,73.0,740000,nature,2,True,West Janefurt,WV,2021-12-01
+1491,David Ross,78.0,654000,luxury,3,False,Kelleychester,LA,2024-06-26
+1120,David Mcdonald,77.0,632000,budget,0,False,Andreaview,ME,2021-10-19
+1443,Christina Martinez,66.0,871000,adventure,1,True,North Shawnstad,AZ,2024-10-16
+1884,Sandra Allison,62.0,284000,adventure,0,True,New Frankhaven,KS,2023-07-19
+1314,Nicholas Garrett,49.0,305000,beach,0,True,South Jason,PW,2022-10-16
+1003,Samantha Hart,80.0,617000,beach,0,True,Port Alishaborough,NY,2023-04-07
+1195,Kimberly Sawyer,39.0,555000,cultural,2,False,Lake Timothy,ND,2023-02-03
+1205,Mr. Michael Fernandez Md,48.5,571000,adventure,0,True,North Joshuaton,ID,2025-05-03
+1644,Samuel Williams,50.0,200000,beach,3,True,West Shannonmouth,GU,2022-02-04
+1701,Timothy Lee,24.0,242000,adventure,0,True,East Robert,PR,2024-05-26
+1455,Samuel Roberson,50.0,506000,beach,1,False,Port Daniel,VT,2023-07-11
+1874,Matthew Turner,72.0,447000,luxury,1,False,Port Amy,IL,2024-03-23
+1923,Joshua Harper,48.5,714000,adventure,2,True,West Ashleytown,OH,2023-10-29
+1720,Debbie Spence,38.0,511000,adventure,3,True,New Alicia,DE,2023-08-02
+1306,Joseph Hernandez,41.0,762000,adventure,1,True,South Kennethstad,ME,2023-09-21
+1482,Kelli Carter,44.0,507000,cultural,3,True,Jessicastad,OH,2023-10-20
+1002,Valerie Roberson,52.0,763000,adventure,2,True,South Charlesport,MN,2024-03-31
+1946,Kathryn Young,78.0,169000,cultural,1,True,South Elizabethside,MH,2021-10-16
+1818,Vanessa Stephenson,64.0,130000,beach,1,True,Arnoldberg,DC,2022-06-03
+1999,Tamara Gonzales,75.0,690000,luxury,3,True,Lake Mary,AZ,2024-04-20
+1956,Autumn Baker,58.0,328000,nature,0,True,South Ambershire,GA,2023-03-24
+1711,Logan Williams,68.0,151000,adventure,1,True,West Brian,UT,2022-12-10
+1663,Kathryn Shah,45.0,231000,beach,1,False,Sarahton,WA,2024-01-03
+1073,Cody Cline,28.0,688000,beach,2,True,South Danielle,TX,2023-05-18
+1117,David Dougherty,78.0,205000,beach,0,True,Colleenport,ND,2021-11-26
+1604,Sarah Santos,67.0,512000,budget,1,True,East Brianfurt,SC,2022-07-19
+1890,Shannon Carr,77.0,210000,luxury,3,True,Juarezton,OK,2025-06-28
+1111,Samantha Johnston,36.0,772000,nature,0,True,North Thomas,GU,2022-12-02
+1005,Joseph Nicholson,64.0,853000,adventure,1,True,Lake Alexanderborough,WA,2024-07-19
+1649,Kevin Hester,33.0,886000,cultural,1,True,Port Tammyburgh,PA,2023-04-20
+1474,Bill Cordova,37.0,739000,adventure,1,True,Alyssafurt,RI,2024-11-15
+1560,Mario Morales,23.0,674000,adventure,1,True,Shannonside,DE,2023-01-07
+1415,Ivan Mckay,29.0,529000,luxury,2,False,Morachester,MD,2022-03-12
+1817,Eric Ortiz,33.0,522000,nature,2,True,Alexanderburgh,OR,2024-01-20
+1446,Brian Petty,33.0,377000,beach,3,True,North Joseph,FM,2022-06-17
+1008,David Ramos,26.0,200000,beach,1,True,West Michael,CT,2022-02-15
+1355,Sara Garcia,78.0,157000,adventure,2,True,Herreratown,FM,2022-06-23
+1056,Mary Clark,38.0,533000,adventure,0,True,Ericchester,MD,2022-07-12
+1258,Sara Stanley,30.0,871000,beach,1,True,Michellefurt,KS,2023-02-15
+1726,Tara Olson,31.0,237000,cultural,3,False,New Clintonmouth,OK,2022-08-24
+1473,Paul Salinas,20.0,773000,nature,0,True,Rodriguezchester,AR,2023-10-05
+1804,Jason Bennett,27.0,535000,nature,2,True,Phillipsberg,NJ,2024-08-23
+1084,Scott Tyler,48.5,164000,adventure,0,True,West Debramouth,MT,2022-11-18
+1975,Kristi Torres,63.0,384000,luxury,2,True,Lake Lauramouth,PW,2022-05-02
+1159,Christian Acosta,59.0,194000,cultural,1,True,South Jonathanville,AZ,2025-05-11
+1721,Lisa Davis,51.0,354000,nature,2,True,Kellytown,MP,2024-09-27
+1125,Calvin Davis,48.0,229000,luxury,3,True,Port Amanda,KS,2023-02-04
+1781,Jasmine Rivas,69.0,380000,nature,2,False,Monicaport,NE,2022-07-09
+1892,Dr. Carmen Carter,60.0,526000,luxury,0,True,Port Annberg,PA,2025-05-31
+1481,Kathleen Ashley,22.0,141000,nature,2,True,Washingtonshire,OR,2023-11-10
+1389,Michael Thompson,32.0,656000,cultural,0,True,South Sarah,ND,2022-07-01
+1550,Cassandra Gutierrez,29.0,834000,budget,0,False,New Sandrashire,DE,2023-04-15
+1802,Alyssa Davis,67.0,164000,beach,2,True,Port Pamela,OR,2023-10-11
+1383,Dawn Harris,45.0,498000,cultural,0,True,Lake Benjamin,MT,2023-02-22
+1934,Scott Lee,40.0,542000,beach,2,True,West Michael,MT,2023-10-02
+1081,Jeffrey Hawkins,75.0,100000,luxury,0,True,Lake Chad,NH,2022-05-03
+1238,Linda Smith,58.0,391000,luxury,0,True,New Rebeccashire,LA,2024-12-18
+1973,Jacob Greene,67.0,236000,nature,3,False,Torresborough,ME,2023-05-14
+1329,Sharon Smith,50.0,333000,cultural,0,True,East Staceybury,PR,2022-08-17
+1202,Christopher Reyes,67.0,224000,nature,0,True,North Justinberg,DE,2021-09-04
+1955,Jeremy Mayer,20.0,414000,nature,2,True,New Melissa,WA,2022-07-10
+1228,Michael Peterson,32.0,710000,beach,0,True,South Michaelfort,MN,2024-05-11
+1354,Tara Stevenson,48.0,106000,luxury,3,True,Banksmouth,GA,2023-07-01
+1216,Victoria Green,32.0,636000,nature,1,True,Craighaven,IA,2023-06-03
+1594,Crystal Robinson,29.0,799000,budget,0,True,Danielstown,CA,2022-10-20
+1050,Tanya Watson,21.0,398000,adventure,2,True,East Maryfurt,LA,2021-09-30
+1941,Kenneth Levy,70.0,816000,beach,3,True,West Jeanetteberg,ND,2022-12-24
+1590,Donna Floyd,63.0,625000,luxury,1,True,Sarahburgh,MP,2023-02-26
+1803,Paul Ortega,67.0,816000,adventure,1,True,West Brittanyshire,MI,2021-09-13
+1605,Elizabeth Harvey,30.0,754000,beach,3,True,Bowmanmouth,TX,2023-10-13
+1201,Robin Brooks,48.0,115000,luxury,3,True,New Jasmine,KS,2023-09-05
+1613,Gary Sanchez,69.0,261000,beach,3,True,Wilcoxmouth,KY,2023-12-11
+1194,William Martinez,22.0,204000,beach,1,True,Ashleyhaven,WI,2023-03-22
+1789,Ashley Hunt,62.0,465000,beach,0,False,North Zachary,KS,2023-07-02
+1719,Mary Jefferson,66.0,855000,nature,1,True,Port Lori,GA,2025-04-17
+1831,Jamie Bass,25.0,594000,nature,1,True,North Valeriemouth,ID,2024-02-18
+1236,Jeremy Ramirez,28.0,685000,nature,1,True,New Carolyn,NM,2025-04-24
+1589,Teresa Bryant,51.5,699000,nature,1,True,West Anthony,NV,2021-11-17
+1255,David Newman,69.0,521000,nature,0,True,East Michaela,AS,2022-02-21
+1667,Teresa Rodriguez,64.0,724000,nature,0,False,Ashleyfort,IN,2025-06-01
+1593,Juan Kim,33.0,855000,nature,2,True,Leeview,VT,2022-12-21
+1555,Matthew Poole,70.0,760000,beach,3,True,Lindaborough,MI,2023-02-26
+1345,Angela Crane,29.0,366000,nature,3,False,Pittston,NJ,2024-02-20
+1298,Natalie Lara,74.0,344000,budget,1,True,Lake Madison,FL,2021-12-19
+1349,Kirsten Schwartz,59.0,388000,budget,1,True,West Natalie,VA,2025-05-06
+1979,Timothy Jones,34.0,878000,adventure,0,True,Justinport,OK,2021-08-02
+1422,Valerie Willis,64.0,461000,beach,0,True,South Annamouth,AR,2023-01-18
+1047,Deanna Rose,29.0,706000,adventure,0,True,Abigailmouth,NJ,2022-08-04
+1676,Edward Brown,35.0,742000,luxury,0,True,West Brianstad,OR,2024-05-28
+1641,Paul Weiss,76.0,341000,adventure,1,True,Leachport,DE,2023-07-01
+1019,Patrick Thompson,69.0,324000,beach,0,True,Ericaborough,GA,2022-03-01
+1372,Brian Guerrero,46.0,809000,beach,1,False,Linchester,OK,2024-03-01
+1865,Kathleen Hanna,26.0,862000,adventure,3,True,East Vanessa,OR,2024-10-10
+1293,Anthony Bryant,48.0,636000,luxury,2,True,Chapmanfurt,ME,2022-05-28
+1680,James Kim,75.0,734000,budget,0,True,Sandrachester,CT,2022-09-22
+1309,Shelby Bennett Md,24.0,451000,adventure,1,True,West Todd,MN,2023-09-08
+1268,John Silva,55.0,832000,cultural,1,False,South Cassandrashire,KY,2022-11-20
+1437,Shelby Gonzales,48.5,591000,adventure,0,True,North Amanda,FM,2024-09-12
+1828,Joseph Taylor,80.0,125000,adventure,2,True,Lisashire,VI,2025-01-11
+1358,Andrea Charles,78.0,891000,cultural,1,True,Lake David,PA,2025-06-06
+1754,Melissa Moore,50.0,250000,beach,2,True,South Elizabethshire,KS,2021-07-21
+1177,Samuel Murillo,20.0,537000,adventure,0,True,Campbellbury,HI,2024-05-17
+1638,Joseph Wright,61.0,629000,nature,0,True,Gordonshire,WY,2022-12-29
+1060,Lisa Reeves,51.5,479000,nature,2,True,Lake Tammy,MN,2021-09-15
+1386,Leslie Rodriguez,57.0,728000,nature,3,True,Port Rachelchester,OH,2023-07-03
+1724,Matthew Lee,45.0,740000,cultural,0,True,Karaland,FM,2023-04-23
+1790,Juan Smith,77.0,237000,budget,2,False,South Jane,ND,2022-11-02
+1584,Paula Mitchell,34.0,384000,nature,1,True,Port Stevenchester,CO,2023-05-09
+1433,James Ritter,60.0,289000,adventure,3,False,Ianside,MA,2024-10-24
+1766,Joshua Donovan,37.0,465000,nature,1,True,Maureenchester,AL,2021-12-27
+1107,Lucas Wagner,53.0,256000,adventure,3,True,Lake Lisa,NM,2022-11-13
+1968,Joshua Hancock,55.0,540000,adventure,3,True,South Timothy,AZ,2022-09-13
+1993,Veronica Brooks,21.0,618000,beach,0,True,East Linda,MA,2024-11-10
+1678,Carla Simmons,42.0,350000,beach,1,True,Leeland,NM,2025-05-12
+1811,Mary Soto,71.0,706000,nature,0,True,Amyberg,KS,2024-07-08
+1099,Stacey Jackson,55.0,212000,adventure,2,True,West Steven,HI,2023-05-02
+1233,Jennifer Mcclain,44.0,346000,luxury,2,True,Gabrielborough,ID,2025-04-14
+1242,Thomas Hart,34.0,561000,beach,3,True,Port Clifford,AZ,2022-04-02
+1810,Gregory Rice,48.0,227000,luxury,3,True,Davidmouth,VA,2022-10-22
+1304,Amy Mcpherson,48.0,587000,luxury,0,True,South Kylietown,MI,2024-12-21
+1414,Mr. Martin Brandt,34.0,899000,beach,1,True,Manuelborough,MO,2022-12-31
+1484,John Koch,69.0,769000,beach,3,True,Danielsmouth,NE,2024-10-12
+1988,Leah Mitchell,43.0,300000,adventure,3,True,South David,IN,2023-12-16
+1930,Susan Bush,21.0,748000,adventure,3,True,Wustad,MD,2023-12-03
+1181,Ashley Wright,48.0,692000,luxury,1,True,Jennifershire,VI,2022-08-27
+1012,Jeremy Jones,63.0,455000,adventure,0,True,West Brandonbury,VT,2023-05-12
+1618,Jacob Smith,78.0,414000,cultural,1,False,Lake Josephborough,MN,2023-09-29
+1085,Riley Hopkins,48.5,599000,cultural,3,True,West Tracifurt,AR,2025-04-26
+1843,Gregory Hill,65.0,641000,beach,1,True,West Rachel,NV,2025-02-18
+1654,Jennifer Butler,43.0,584000,adventure,2,True,Michaelmouth,OK,2022-04-12
+1677,Erin Young,73.0,373000,beach,3,True,Hansenshire,SD,2024-09-03
+1517,Corey Roach,28.0,410000,nature,0,True,South Michellefurt,GU,2024-02-15
+1895,Stephanie Thompson,51.0,216000,adventure,0,True,Amymouth,MA,2025-02-14
+1826,Alexis Jones,37.0,427000,beach,3,True,Lauraborough,AS,2023-05-02
+1135,Steven Gomez,52.0,406000,nature,2,True,Port Lori,MP,2021-10-24
+1848,Laura Roberts,38.0,730000,adventure,1,True,East Elizabethtown,MH,2024-06-07
+1870,Derek Klein,56.0,431000,beach,2,True,Port Shawnside,TN,2021-11-22
+1160,Aaron Clark,46.0,171000,luxury,3,True,South Justinmouth,MN,2022-10-24
+1686,Randy Bender,24.0,691000,beach,0,True,East Anthony,NV,2022-01-25
+1598,Juan Robles,42.0,613000,adventure,1,True,Jenkinsview,NC,2022-06-11
+1577,Sara King,49.0,407000,nature,2,True,Whitetown,ID,2024-07-19
+1911,Dawn Campbell,63.0,802000,beach,2,True,North Josephville,AZ,2023-11-03
+1673,Christopher Parker,21.0,737000,beach,2,False,Lake Rebecca,TX,2023-10-09
+1898,Mary Mcneil,22.0,603000,beach,3,True,New Ronald,KY,2023-09-20
+1710,Jeffrey Carey,24.0,179000,luxury,1,True,East Kevinfurt,NJ,2024-10-18
+1121,Miguel Elliott,80.0,346000,nature,1,True,Petersonmouth,AL,2024-06-12
+1737,Jeffrey Snyder,45.0,498000,budget,2,False,Cookhaven,OK,2024-04-23
+1187,Karla Scott,44.0,166000,luxury,0,True,Brownport,HI,2022-08-31
+1016,Daniel Fields,63.0,137000,beach,0,True,Sarahstad,NM,2021-10-13
+1301,Dawn Stewart,26.0,413000,beach,1,True,East Bryanview,KS,2023-01-08
+1459,Natalie Wong,76.0,707000,adventure,1,True,Port Michael,NE,2022-06-07
+1623,John Long,73.0,359000,nature,0,True,New Benjaminside,TX,2022-09-23
+1651,Kelly Rodriguez,55.0,827000,budget,3,False,Tammystad,TN,2022-11-20
+1709,Kathleen Nelson,47.0,373000,beach,2,True,Zhangshire,IA,2023-07-01
+1106,Shelby Snow,31.0,429000,beach,2,True,Hornetown,NE,2025-03-27
+1457,Lisa Bailey,51.5,103000,nature,1,True,South Robert,MD,2022-08-05
+1023,Robert Pham,33.0,479000,luxury,0,True,Port Alisha,AK,2023-06-13
+1836,Wendy Mcdaniel,26.0,671000,cultural,1,True,Port Carolfort,MT,2023-07-15
+1069,Shane Villanueva,61.0,176000,luxury,1,False,North Vanessa,DE,2022-12-31
+1426,Ryan Weber,48.5,132000,cultural,1,True,Brianchester,LA,2021-12-14
+1493,Mary Wade,43.0,260000,nature,2,True,Port Jessica,NM,2025-01-07
+1311,Cindy Nelson Dvm,34.0,554000,nature,2,True,Smithberg,PR,2024-08-31
+1815,David Maxwell,19.0,522000,cultural,3,True,Nicholasshire,MS,2022-12-02
+1980,Christopher Bauer,80.0,186000,adventure,1,True,Lake Heather,IN,2023-05-30
+1388,Diamond Houston,74.0,897000,adventure,2,True,Howardborough,NV,2022-11-12
+1368,Jerry Carter,28.0,571000,beach,2,False,Hollyborough,MO,2023-10-01
+1878,Sara Johnson,28.0,898000,luxury,3,False,Jeffreymouth,ME,2024-11-08
+1074,John Harris,50.0,350000,beach,0,True,Flowershaven,AK,2024-06-15
+1218,Jason Rodriguez,29.0,450000,nature,0,True,South Luisberg,NC,2024-11-02
+1530,Angela Walton,38.0,598000,beach,1,True,Lake Brittney,ND,2025-01-08
+1265,Curtis Rivera,25.0,227000,beach,2,True,New Rebecca,HI,2025-04-13
+1622,Jamie Mann,32.0,749000,adventure,3,True,Amymouth,IL,2021-09-10
+1110,Timothy Vance,57.0,610000,budget,1,True,Lake Evanshire,NC,2023-06-30
+1408,John Navarro,51.0,744000,luxury,0,True,Dawnport,HI,2024-11-01
+1985,Melanie Price,41.0,391000,beach,2,True,Port Maryview,WA,2024-01-07
+1688,Michelle Ballard,35.0,528000,budget,0,True,Wallsstad,ID,2024-11-16
+1185,Miguel Montgomery,54.0,649000,budget,1,True,Rebeccastad,SD,2022-08-15
+1286,Holly Cox,53.0,810000,adventure,2,True,West Keithshire,RI,2024-11-11
+1587,Emily Jones,77.0,710000,budget,3,True,Jeremyview,MN,2025-06-22
+1366,Mitchell Lara,35.0,362000,luxury,0,False,Paulaburgh,AL,2022-08-07
+1452,Laura Jackson,48.5,177000,cultural,2,True,Jenniferbury,AZ,2024-06-12
+1708,Steven Barnes,52.0,170000,nature,0,True,New Jose,NH,2023-03-22
+1061,Joseph Nguyen,55.0,486000,luxury,1,True,Schultzland,VI,2021-12-16
+1971,Caitlin Bowman,27.0,838000,nature,3,True,Jessicaland,MH,2021-10-12
+1664,Katherine Carter,44.0,713000,beach,0,True,Lorettamouth,VI,2022-05-01
+1439,Andrea Miller,58.0,196000,beach,1,True,Hansenside,ND,2024-09-28
+1675,Joseph Carter,71.0,864000,beach,3,True,West Carmen,NY,2025-04-04
+1997,Gina Nguyen,28.0,430000,adventure,2,True,Port Steven,PA,2024-03-19
+1809,Mr. Jose Gibson,43.0,209000,adventure,3,False,Port Kimberly,WA,2025-02-16
+1742,Amy Taylor,23.0,131000,nature,0,True,Tammyshire,DE,2024-09-18
+1838,Pamela Baldwin,20.0,508000,beach,1,False,Smithville,AR,2023-02-25
+1307,Thomas Cooper,19.0,809000,luxury,0,True,Smithport,AK,2023-12-27
+1850,Brittany Green,75.0,155000,cultural,1,True,Port Kathryn,ND,2024-08-29
+1134,Manuel Newman,78.0,284000,nature,1,True,Brightland,AS,2021-07-11
+1592,Teresa Alexander,68.0,789000,beach,2,True,Eduardoview,IL,2024-04-24
+1769,Gary Dennis,24.0,560000,beach,2,True,Dickersonfort,AK,2024-04-25
+1718,Nancy Stanley,80.0,509000,nature,1,True,West Hannah,SC,2024-03-21
+1057,Marcus Schneider,51.5,151000,nature,1,True,Jamiestad,DC,2025-03-17
+1674,Colleen Holmes,80.0,608000,adventure,3,True,North Terrifurt,AL,2023-01-10
+1672,Linda Williams,31.0,581000,luxury,0,True,Willieberg,RI,2022-06-08
+1757,Kelsey Gamble,53.0,190000,cultural,1,False,West Ashley,OH,2022-01-07
+1965,Gary Thomas,59.0,250000,budget,0,True,Michaeltown,FL,2024-04-06
+1318,Mrs. Chelsea Richardson,66.0,416000,beach,3,True,Taylormouth,WV,2024-07-25
+1291,Anita Roberts,75.0,634000,adventure,1,True,Fryeberg,NJ,2023-10-18
+1046,Ryan Nelson,80.0,843000,nature,3,True,Port Cherylport,OK,2023-11-28
+1277,Barbara Huff,50.0,675000,beach,0,True,South Danielstad,WI,2025-04-26
+1846,Jill Charles,50.0,770000,cultural,1,True,Port Jessicafort,MT,2022-05-05
+1931,Yolanda Murphy,44.0,734000,cultural,0,True,West Nicholas,SD,2023-12-13
+1224,Jose Hartman,30.0,727000,beach,2,True,Ashleebury,MH,2022-08-17
+1535,Brandi Potter,65.0,381000,nature,1,True,Gallowayhaven,NJ,2022-02-19
+1280,Ashley Patton,67.0,150000,nature,3,True,Jenniferberg,DC,2025-03-06
+1000,Anna Williamson,56.0,746000,adventure,0,False,Lake Tonyamouth,NC,2024-11-05
+1449,Laurie Mathews,60.0,357000,cultural,3,True,Welchside,VI,2022-02-14
+1761,Hayden Conner,77.0,707000,budget,2,True,Port Geraldburgh,MH,2024-08-17
+1839,Janet Johnson,51.5,896000,nature,3,True,Donaldsonville,NH,2023-07-22
+1066,John Powell,35.0,620000,adventure,1,False,Murphymouth,MS,2024-11-04
+1772,Robin Miller,61.0,552000,beach,1,False,North Denise,SC,2023-02-03
+1435,Alex Davies,63.0,208000,beach,3,True,Michellechester,OH,2024-02-22
+1339,Mark Townsend,59.0,268000,luxury,0,True,Bowersshire,TX,2022-06-25
+1576,Michael Bell,77.0,893000,nature,3,True,Port Matthewbury,OK,2023-04-25
+1552,Nicholas Wagner Md,72.0,319000,nature,1,True,Ortizfurt,AS,2025-02-17
+1294,Jacqueline Banks,47.0,128000,adventure,2,True,Dillonmouth,MS,2023-05-23
+1538,Kimberly Smith,27.0,281000,beach,1,False,Port Ronaldside,AZ,2021-09-29
+1748,Evan Crane,21.0,435000,adventure,2,False,Lake Julia,FL,2022-02-07
+1245,Michael Henderson,31.0,256000,nature,1,True,Brownington,UT,2023-09-15
+1257,Kelsey Kirby,23.0,703000,adventure,0,True,South Elizabethshire,NY,2022-01-09
+1161,Tyler Alvarez,60.0,108000,beach,2,True,Quinnberg,AZ,2023-04-07
+1893,Matthew Murray,57.0,514000,adventure,1,True,Lake Taylor,NE,2024-04-25
+1639,Lindsey Jones,18.0,400000,cultural,2,True,Port Michelleland,IN,2025-03-23
+1525,Mr. Nicholas Watson,41.0,540000,luxury,3,True,Trevorhaven,GU,2023-11-25
+1467,Sara Hughes,54.0,457000,luxury,0,True,West Gregoryborough,FL,2022-06-14
+1860,John Small,41.0,836000,beach,2,False,Campbellfurt,WI,2025-02-15
+1647,Angela Moore Md,40.0,348000,beach,2,True,Roberthaven,NJ,2023-09-16
+1247,Mary Stewart,25.0,513000,luxury,2,False,Port Karen,CT,2024-06-30
+1546,Kyle Wright,24.0,458000,beach,2,True,North Vicki,NE,2022-11-10
+1239,Brittany Huang,66.0,856000,budget,1,True,East Ryan,MA,2023-09-04
+1220,James Ramirez,60.0,843000,beach,1,False,Ericchester,VA,2022-12-12
+1834,Ryan Hamilton,34.0,118000,cultural,1,False,East Stevenburgh,UT,2024-09-24
+1092,Scott Newman,42.0,383000,beach,0,True,Kennethport,NY,2023-05-11
+1114,Kristina Hoffman,18.0,536000,adventure,2,True,East John,NY,2025-01-22
+1541,Scott Moreno,32.0,474000,beach,2,True,Ruizburgh,ID,2022-11-27
+1984,Haley Martin,76.0,888000,luxury,3,True,Kinghaven,WY,2023-11-23
+1076,Brian Bailey,18.0,804000,nature,1,True,Lake Angela,MI,2023-06-28
+1986,Veronica Kelly,64.0,378000,luxury,3,True,New Alyssachester,LA,2024-12-07
+1837,Yvonne Ortiz,25.0,288000,beach,2,True,North Michael,AK,2022-12-14
+1913,Shawn Greene,20.0,814000,budget,3,True,Port William,AR,2024-02-14
+1132,Phillip Ingram,48.5,533000,cultural,3,True,East Stephanie,PW,2025-03-30
+1527,Amy Ferrell,29.0,868000,beach,2,True,Lake Ryanland,MO,2023-05-07
+1791,Kevin Wilson,48.0,518000,nature,1,True,Ballview,WV,2024-02-06
+1058,Daniel Hanson,42.0,212000,adventure,3,True,Markville,NV,2024-06-13
+1289,Yolanda Flores,56.0,685000,budget,1,False,Whiteside,TN,2023-06-14
+1246,Jessica West,48.5,780000,adventure,0,True,Ashleyside,PA,2022-06-03
+1370,Nathan Johnson,31.0,715000,luxury,1,True,Reyeschester,AZ,2022-01-08
+1876,Alicia White,48.5,821000,cultural,2,True,Holtbury,MI,2024-04-29
+1040,Justin Mitchell,54.0,486000,beach,1,True,Simpsonburgh,AL,2024-03-21
+1089,Nicole Hardin,71.0,443000,cultural,2,True,Michaeltown,ME,2024-09-28
+1192,Kaylee Hernandez,32.0,648000,beach,2,True,Port Benjaminfurt,NJ,2023-10-16
+1430,Cody Johnston,51.5,210000,nature,3,False,West Anthony,LA,2021-07-12
+1068,Lori Daniel,59.0,189000,beach,1,True,North Danielstad,ME,2025-03-08
+1741,Benjamin Wade,36.0,768000,budget,1,True,Lake Sandraville,NE,2023-04-01
+1543,Robert Harper,48.5,744000,adventure,3,True,Lake Robertview,GA,2024-04-14
+1139,Tyler Mathews,36.0,389000,luxury,2,True,South Dustin,GA,2023-05-27
+1395,Dakota Torres,40.0,594000,adventure,1,False,North Charles,ID,2024-04-05
+1969,James Stephenson,38.0,345000,beach,0,True,Mullinsside,SD,2022-06-24
+1118,Dr. Kyle Perez Jr.,64.0,485000,beach,3,True,Frankbury,TN,2024-07-14
+1658,Peter Jones,71.0,289000,beach,1,True,Jesseside,HI,2025-04-08
+1927,Steve Charles,65.0,390000,luxury,2,False,Sandramouth,PR,2021-11-21
+1796,Larry Gomez,48.5,807000,adventure,0,True,Port Laura,PR,2021-09-11
+1350,Jessica Monroe,78.0,217000,beach,2,False,Millerstad,DC,2024-05-26
+1734,Cheryl Phillips,19.0,678000,beach,1,True,Johnsonville,MO,2022-11-07
+1879,Megan Rocha,55.0,466000,nature,0,True,East Russellfort,WI,2024-03-05
+1554,Brenda Colon,36.0,839000,luxury,2,True,New Kyleport,SC,2023-02-27
+1385,Gabrielle Dennis,71.0,620000,beach,3,True,Stephanieland,TN,2025-06-22
+1936,Frank Mcdonald,43.0,106000,nature,1,True,Monicamouth,AL,2021-09-03
+1608,Joseph Rodriguez,25.0,522000,beach,2,True,New Barbarafort,DE,2022-12-31
+1014,Rhonda Ball,32.0,309000,budget,0,True,Danielleview,OR,2023-09-07
+1375,Ashley Rodriguez,22.0,346000,cultural,0,True,Olsonport,NJ,2023-03-17
+1082,Mrs. Deanna Pineda,24.0,114000,nature,0,True,West Matthewfurt,DE,2025-05-13
+1597,Mary Mcpherson,76.0,192000,adventure,2,True,Mendozaton,ID,2023-10-08
+1702,Michael Williams,76.0,534000,nature,3,False,West Rebeccaborough,UT,2025-06-13
+1779,Briana Garcia,22.0,617000,beach,1,True,North Dustinhaven,MT,2025-03-31
+1756,Brad Hooper,37.0,436000,nature,3,True,Sarahfort,UT,2022-04-05
+1088,Beth Powell,24.0,220000,beach,2,True,Travisfort,CT,2023-01-08
+1363,Kathryn Martinez,69.0,402000,nature,1,True,Lake Kristinahaven,AZ,2021-10-25
+1273,Thomas Miller,78.0,113000,budget,0,True,Port Cherylshire,IA,2022-02-22
+1652,Alexa Martin,41.0,217000,beach,1,True,Port Suzanne,NJ,2025-01-21
+1172,Barry Garcia,75.0,355000,adventure,2,False,Johnsonmouth,FL,2025-06-12
+1559,Deanna Faulkner,76.0,561000,nature,1,True,Dawnbury,MA,2024-03-18
+1103,Allison Whitney,37.0,154000,adventure,0,True,East Jilliantown,AS,2025-06-13
+1759,Samuel Schneider,55.0,517000,adventure,3,True,South Robertton,OK,2023-11-08
+1671,Richard Martin Md,67.0,582000,luxury,2,True,Johnsonland,WA,2021-08-15
+1371,Anthony Sanchez,24.0,398000,nature,3,True,Jamestown,DC,2023-10-15
+1045,Wesley Andrews,65.0,861000,cultural,3,True,Millerbury,VT,2021-09-20
+1428,Jordan Myers,30.0,309000,cultural,3,True,Stevenfort,MT,2022-11-16
+1453,Mathew Wells,57.0,541000,adventure,1,True,Lake Amandachester,WY,2022-04-11
+1521,Linda Duncan,21.0,109000,adventure,1,True,Port Kristen,MH,2021-12-21
+1823,Brian Harris,23.0,880000,nature,0,False,New Brian,WY,2024-03-11
+1730,Brian Miller,74.0,869000,beach,2,False,Loriton,CA,2023-01-05
+1011,Sydney Smith,43.0,299000,cultural,0,True,Carloston,IN,2024-09-12
+1214,Kyle Williams,53.0,611000,adventure,2,True,Lake Alexanderborough,NH,2025-04-09
+1344,Kendra Morgan,60.0,789000,adventure,0,False,Harrisburgh,IL,2023-11-06
+1705,Scott Perez,41.0,247000,cultural,2,True,Morganton,RI,2025-02-07
+1725,Matthew Davis,48.0,755000,luxury,3,True,Port Richardmouth,ND,2022-09-18
+1147,Christina Gutierrez,48.0,532000,luxury,2,False,Brandtfurt,TN,2024-04-11
+1299,Lisa Alexander,54.0,600000,nature,3,True,New Andreafort,UT,2023-01-28
+1283,Joann Bryant,56.0,290000,cultural,0,True,New Susan,NC,2022-04-27
+1750,Olivia Olson,23.0,127000,adventure,1,True,Jonesmouth,MH,2021-09-05
+1412,Sherry Moore,74.0,176000,nature,1,True,Heathershire,NH,2024-07-05
+1634,Dennis Brown,56.0,859000,nature,0,False,North Emilymouth,AS,2023-04-03
+1800,Brandon Goodwin,30.0,295000,adventure,0,True,North Cody,ME,2023-03-18
+1746,Beverly Harris,69.0,519000,cultural,2,True,North Michael,MN,2023-04-22
+1891,Stephanie Shea,58.0,505000,adventure,1,True,Matastad,OH,2024-04-16
+1740,Matthew Jones,31.0,224000,nature,1,False,Estradaton,NE,2022-12-14
+1173,Ms. Chelsea Brown Dds,52.0,900000,beach,0,True,East David,IA,2021-10-30
+1916,Joshua Ortiz,75.0,279000,nature,3,True,New Sarahfurt,OK,2021-07-06
+1567,Christopher Davis,48.5,591000,cultural,0,True,South Veronica,NJ,2021-11-24
+1226,Kimberly Martin,22.0,200000,cultural,2,True,Lake Hannah,OR,2021-07-16
+1305,Michael Willis,57.0,152000,nature,3,False,Port Eddie,TX,2022-11-02
+1031,Dylan Stevens,50.0,216000,budget,0,True,Lake Jeremiah,NE,2024-04-12
+1523,Paul Moore,29.0,136000,cultural,0,True,South Denise,SD,2023-01-08
+1958,Melissa Wallace,43.0,163000,luxury,0,True,Adamview,LA,2022-10-27
+1600,Kevin Gutierrez,50.0,144000,budget,1,True,Carterbury,CO,2023-01-04
+1285,Paul Harris,70.0,357000,beach,1,True,Port Christopherview,PA,2021-10-07
+1479,Curtis Johnson,45.0,267000,adventure,0,False,Brianshire,MA,2021-07-04
+1625,Cameron Cisneros,26.0,385000,cultural,1,False,Emilyburgh,MN,2023-10-28
+1918,Alicia Phillips,37.0,375000,beach,1,True,Rossfort,AZ,2022-05-18
+1933,Laurie Nguyen,32.0,548000,luxury,0,True,Calebport,WA,2025-03-19
+1116,Sharon Williams,59.0,623000,nature,0,True,South Lorraine,MO,2024-03-19
+1949,Deanna Gilbert,70.0,268000,adventure,2,False,Wilsonchester,GU,2021-08-21
+1629,Samuel Walton,65.0,668000,beach,2,True,Wilsonburgh,NY,2025-01-28
+1361,Lisa Long,51.0,175000,adventure,3,True,Jacksonchester,NY,2021-08-15
+1095,Kimberly Ellis,43.0,237000,beach,1,True,South Lisaport,LA,2025-02-21
+1261,Zachary Singleton,73.0,326000,adventure,1,True,Hartchester,NM,2022-08-24
+1640,Cody Fisher,74.0,163000,adventure,2,True,Jennifermouth,DE,2023-03-30
+1507,Lawrence Robles,65.0,372000,beach,1,True,Sandersville,MT,2023-01-18
+1579,Kathy Lewis,49.0,898000,budget,2,False,West William,HI,2022-06-12
+1509,David Lindsey,33.0,764000,adventure,0,True,Lake Tinatown,GU,2024-04-09
+1102,Amanda Brown,70.0,832000,adventure,0,False,East Adam,NV,2024-10-12
+1062,Jackie Dixon,42.0,436000,adventure,3,True,Taylortown,RI,2024-09-09
+1204,Phillip Li,74.0,477000,adventure,0,True,Smithberg,AZ,2023-03-07
+1483,Lindsay Baker,52.0,720000,nature,3,False,East Marcshire,VT,2024-12-01
+1691,Carla Parker,22.0,480000,luxury,3,False,East Michael,LA,2023-09-02
+1184,Benjamin Medina,79.0,807000,cultural,0,True,South Loretta,DC,2022-12-24
+1683,Christine Foster,21.0,713000,luxury,2,False,Port Jeffreyview,VI,2024-02-28
+1924,Stephen Castaneda,51.0,755000,nature,1,True,Clarkfurt,MS,2022-07-31
+1091,Jeffrey Brown,38.0,897000,cultural,1,True,South Johnport,HI,2022-10-21
+1947,Erica Cooper,23.0,385000,nature,2,False,South Philipmouth,ID,2021-08-23
+1713,Andrew Brown,24.0,138000,luxury,2,False,Pittmanchester,MP,2024-02-07
+1776,Dr. Kristen James Md,29.0,435000,budget,0,True,Nicholasbury,NC,2022-05-20
+1901,Sharon Herrera,48.0,517000,nature,3,True,Andersonfort,MI,2025-04-21
+1735,Kimberly Harper,51.0,791000,beach,0,True,Lisaside,ME,2023-09-25
+1411,Lisa Lewis,39.0,420000,nature,0,True,Spencermouth,FL,2024-10-11
+1346,Lori Ford,40.0,325000,cultural,3,True,Port Christopher,VI,2021-07-07
+1582,Zachary Jackson,68.0,792000,beach,2,True,Hernandezberg,MN,2023-01-09
+1819,Ronald Cooper,38.0,558000,luxury,0,True,Aliciaton,MP,2023-06-14
+1029,Laurie Brown,28.0,758000,adventure,1,True,West Tyler,MI,2024-04-09
+1054,Betty Velasquez,80.0,310000,beach,2,True,Allenmouth,OK,2022-05-22
+1495,Carl Shelton,71.0,521000,budget,3,True,Washingtonton,OK,2024-09-04
+1039,Abigail Hunter,38.0,221000,nature,1,True,Port Jacqueline,PW,2022-06-24
+1157,Maureen Lucas,77.0,560000,adventure,3,True,East Jason,ID,2024-11-10
+1798,Lisa Snyder,52.0,509000,luxury,3,False,Phillipston,CT,2023-08-27
+1146,Lisa West,55.0,128000,adventure,3,True,Adkinsview,FL,2024-11-09
+1221,Denise Sanford,60.0,761000,adventure,3,True,South Evelynfort,IN,2024-01-19
+1940,Diane Dudley,25.0,301000,luxury,3,True,Jamesmouth,HI,2024-11-14
+1944,Elijah Warner,63.0,411000,cultural,3,True,East Jessica,CT,2024-08-12
+1607,Shannon Tucker,22.0,335000,budget,3,True,New Danielchester,PA,2022-12-03
+1765,Thomas Maynard,72.0,739000,nature,0,True,New Brianmouth,AS,2024-11-27
+1394,Jennifer Lucero,34.0,354000,adventure,0,True,Nolanland,OR,2022-08-12
+1052,Bradley Williams,47.0,744000,beach,3,True,South Maria,WV,2022-04-16
+1952,Kelly Franklin,23.0,580000,beach,2,True,Careyburgh,CA,2023-07-23
+1571,Amber Johnson,36.0,190000,adventure,0,True,New Markview,KY,2022-01-19
+1359,Christine Powell,48.0,478000,cultural,3,False,Port Kimberly,TN,2022-08-27
+1512,Robert Warren,21.0,298000,budget,3,True,Wilsonbury,CO,2024-02-01
+1402,John Moses,27.0,658000,adventure,1,False,Patriciaville,TX,2022-02-08
+1867,Katie Simpson,43.0,352000,budget,1,True,Lake Amy,IA,2023-07-18
+1421,Matthew Smith,71.0,747000,beach,3,True,New Dianeburgh,IL,2021-10-06
+1448,Thomas Harris,41.0,230000,luxury,1,False,Milesside,GU,2022-04-07
+1165,Claudia Turner,56.0,839000,adventure,3,True,Fordville,GU,2023-11-29
+1284,Anthony Adams,27.0,744000,nature,3,True,Cartershire,NC,2024-10-21
+1080,Melissa Byrd,48.0,775000,adventure,1,True,West Stephanietown,AR,2022-07-14
+1227,Tracy Flores,56.0,185000,nature,2,True,West Julia,HI,2022-09-20
+1447,Ian Davis,18.0,777000,cultural,1,False,North Virginia,LA,2024-12-09
+1353,Peter Stark,43.0,601000,nature,0,True,Mcdowelltown,WA,2025-06-08
+1310,Nicole Washington,61.0,743000,beach,1,True,Jamesview,DC,2023-09-20
+1842,Nancy Hunter,65.0,780000,luxury,3,True,Port Kelly,PA,2022-09-05
+1259,Carlos Davis,39.0,436000,beach,3,True,East John,CT,2023-03-15
+1323,Mark Sanchez,29.0,437000,nature,1,True,Lake Bryan,GU,2022-11-10
+1009,Christopher Wagner,33.0,585000,nature,2,True,Port Alyssa,NJ,2021-08-08
+1684,Christopher Bryant,30.0,537000,beach,2,True,Lake Michaelfurt,SD,2025-04-23
+1961,Christopher Thompson,43.0,238000,beach,1,False,Port Rachelchester,MD,2022-07-17
+1030,Audrey Coleman,62.0,771000,luxury,1,True,South Stephanie,VI,2024-03-23
+1794,Annette Williams,50.0,487000,beach,3,True,North Anthony,CT,2023-02-16
+1179,Joy Williams,22.0,305000,beach,2,True,Davidton,ME,2024-02-04
+1027,Amber Schultz,43.0,767000,nature,0,True,Jenniferview,OH,2024-12-02
+1033,Sean Mcclure,58.0,839000,beach,1,True,North Beverlybury,GU,2021-08-31
+1334,Jennifer Mccarthy,42.0,662000,luxury,1,True,West Michaelhaven,MD,2023-08-25
+1787,Danielle Copeland,57.0,834000,budget,1,True,South Joseph,AZ,2022-02-05
+1964,Keith Johnson,31.0,319000,luxury,2,True,Randolphfort,MD,2023-03-11
+1197,Jonathon Brown,23.0,377000,cultural,2,True,East Lisaside,PW,2023-06-06
+1795,Daniel Adams,60.0,344000,beach,2,True,Rubenburgh,VT,2023-03-24
+1392,Heather Obrien,49.0,351000,nature,1,True,Eatontown,MH,2023-06-01
+1868,Kyle Barnes,48.5,150000,adventure,0,True,Lake Zacharyland,GA,2024-12-12
+1899,Jennifer Swanson,36.0,623000,nature,1,True,South Alexandermouth,SD,2022-08-28
+1636,Emily Wheeler,51.5,678000,nature,0,True,Powellside,WA,2022-06-25
+1537,Cathy Hicks,40.0,824000,nature,3,False,North Shannonstad,AK,2023-09-19
+1510,Darren Jones,34.0,174000,nature,2,True,South Elizabethbury,NH,2022-03-09
+1122,Jessica Hill,77.0,173000,luxury,1,True,Kevinshire,NJ,2024-01-28
+1378,Anthony Vazquez,60.0,177000,beach,1,True,Rodriguezstad,MO,2022-02-23
+1038,Thomas Ayala,36.0,606000,beach,1,True,Solishaven,DE,2022-03-17
+1551,Leonard Davis,57.0,869000,luxury,3,True,Wilsonfort,IN,2025-01-29
+1528,Monica Munoz,58.0,779000,adventure,1,True,Marymouth,KS,2023-07-13
+1162,Natalie Ochoa,28.0,149000,beach,0,True,Whitetown,PA,2022-01-27
+1067,Jessica Diaz,37.0,255000,budget,0,True,North Michaelmouth,TN,2022-12-25
+1124,Richard Atkinson,34.0,531000,luxury,1,True,New Suzanneton,IL,2022-04-02
+1004,Adam Dixon,22.0,124000,adventure,1,True,Caseyshire,IN,2021-08-04
+1699,Joshua Martin,25.0,774000,beach,3,True,Alexanderfort,HI,2023-09-21
+1764,Danielle Willis,79.0,456000,luxury,1,True,Jamesberg,TX,2024-05-19
+1427,Nicole Floyd,50.0,155000,cultural,1,True,Kimberlyside,TX,2022-11-02
+1919,Erin Hall,50.0,413000,beach,3,False,Manningside,MT,2025-03-01
+1755,Kimberly Lewis,67.0,855000,luxury,1,True,Williamville,MH,2023-12-14
+1506,Melissa Mcpherson,76.0,877000,luxury,1,True,Billyside,VA,2022-11-25
+1912,Jacob Alvarado,70.0,654000,budget,1,True,East Joseph,MI,2022-03-30
+1399,Robert Riley,41.0,720000,budget,1,True,Saraborough,DC,2024-10-13
+1950,Lisa Ashley,48.5,735000,cultural,0,True,South Mark,KS,2023-12-01
+1352,Jordan Camacho Phd,42.0,264000,cultural,2,True,North Zachary,KS,2023-07-11
+1844,Kendra Andrews,32.0,505000,beach,3,False,New Amandamouth,NH,2023-03-11
+1704,Eric Bowman,32.0,233000,adventure,1,True,Montgomeryview,FM,2023-08-01
+1260,Brandi Lopez,49.0,344000,beach,3,True,Jenniferland,KS,2023-09-21
+1333,Jennifer Evans,52.0,873000,beach,3,False,Port Stevenside,CO,2021-10-22
+1153,Denise Jones,65.0,590000,beach,1,True,East Christopherburgh,ID,2021-10-12
+1396,Rebecca Murphy,52.0,392000,adventure,3,True,Strongmouth,VA,2024-07-18
+1501,Kevin Paul,59.0,400000,nature,3,True,Port Kristenstad,TN,2022-08-24
+1373,Charles Woods,33.0,891000,budget,1,True,East Kimberly,NC,2021-07-01
+1312,Peter Hart,26.0,692000,cultural,3,True,Johnfort,NM,2021-08-06
+1042,Kristie Crawford,24.0,444000,nature,2,True,South Nicholas,DE,2022-07-04
+1763,Jennifer Peterson,80.0,601000,budget,3,True,Russellville,NC,2023-04-04
+1522,James Burgess,44.0,434000,luxury,1,True,Schmidtshire,CT,2023-08-13
+1902,Tammie Taylor,73.0,890000,luxury,3,True,Morrisonmouth,NM,2023-11-28
+1851,Melissa Clark,79.0,793000,beach,3,True,East Rebecca,NV,2022-02-07
+1807,Jason Stewart,44.0,898000,budget,2,True,Vangfort,NH,2023-05-07
+1727,Steve Nelson,19.0,380000,beach,1,True,West Sean,UT,2023-01-15
+1841,Mary Bowers,67.0,716000,cultural,0,True,Allenton,AL,2024-10-01
+1650,Amanda Juarez,46.0,589000,beach,2,True,Millerberg,RI,2023-06-26
+1797,Lisa Luna,60.0,555000,nature,2,False,Harrisonport,WV,2024-05-07
+1773,Timothy Bryant,47.0,228000,beach,2,True,Davisfort,WV,2022-01-04
+1887,Sarah Dougherty,20.0,393000,luxury,2,True,Lake Joseph,DE,2022-08-29
+1445,Rodney Adams,61.0,345000,beach,1,True,West Kyle,IL,2021-08-11
+1272,Marcus Smith,30.0,374000,nature,2,True,Millerside,VI,2022-04-02
+1882,Rhonda Garza,38.0,638000,adventure,2,False,Robertstad,MD,2023-09-20
+1519,Todd Frazier,33.0,203000,adventure,0,True,Shannonside,CO,2024-05-14
+1377,Benjamin Crosby,50.0,165000,adventure,0,True,Lake Erika,MS,2023-06-12
+1498,Dr. Austin Cunningham Md,36.0,481000,adventure,2,True,Colleenbury,GA,2022-07-06
+1932,Marissa Reid,79.0,235000,adventure,0,True,Mejiafurt,CT,2024-12-08
+1825,Evan Kelley,69.0,758000,beach,1,True,Lake Ryan,VA,2022-11-24
+1632,James Williams,78.0,686000,cultural,1,False,Port Brendahaven,NM,2022-04-15
+1097,Ryan Koch,48.5,260000,adventure,0,True,Michaelmouth,CT,2022-03-18
+1128,Natalie Whitehead,56.0,220000,cultural,2,True,Port Coletown,WA,2023-03-29
+1544,Christopher Brown,25.0,133000,luxury,1,True,Danieltown,PW,2021-10-02
+1379,Robert Hubbard,43.0,846000,adventure,3,False,Houstonport,RI,2023-09-18
+1203,Donald Ford,70.0,810000,luxury,2,True,Joyland,NC,2023-11-23
+1343,Austin Rogers,50.0,809000,beach,1,True,Jeremystad,NM,2023-09-21
+1733,Hannah Johnson,41.0,640000,adventure,3,True,Williamstown,RI,2023-05-06
+1866,Theresa Gutierrez,76.0,136000,nature,2,False,Harrismouth,NE,2022-01-25
+1518,Kiara Campbell Dds,24.0,550000,beach,2,True,Olsonview,PW,2022-02-27
+1784,Blake Oneill,21.0,156000,cultural,3,True,North Amyberg,WY,2022-04-24
+1488,Grace Dixon,50.0,304000,beach,2,True,Nealton,OK,2025-02-09
+1237,Kevin Phillips,74.0,870000,luxury,0,False,East Alexandra,OR,2023-08-16
+1549,Bruce Hill,58.0,616000,adventure,1,True,Emilyborough,NY,2023-03-23
+1400,Ryan Chapman,58.0,258000,budget,3,True,South Michaelmouth,NE,2021-10-19
+1570,Raymond Parker,66.0,863000,adventure,2,True,Port Rogermouth,AZ,2024-07-15
+1232,Nancy Stewart,76.0,196000,beach,2,True,South Jennifer,AL,2025-02-10
+1442,Rebecca Price,26.0,447000,nature,3,False,North Amandastad,KS,2021-07-10
+1098,Samuel Smith,27.0,264000,adventure,1,True,North Kevin,FL,2024-01-03
+1880,Diane Walker,48.5,466000,adventure,0,True,Mcculloughton,LA,2024-05-31
+1983,Deanna Watson,50.0,648000,luxury,0,True,Sherriberg,NY,2022-09-14
+1511,Eric Mendez,73.0,383000,luxury,3,True,North Annaland,AR,2025-06-23
+1698,Lori Mcbride,67.0,836000,cultural,3,True,Burkefurt,RI,2024-04-06
+1217,Shawn Peterson,60.0,669000,adventure,1,True,West Deniseland,OK,2024-11-17
+1360,Megan Nguyen,48.0,819000,budget,0,True,East Gregoryland,VI,2022-08-07
+1558,Rachel Phillips,39.0,479000,cultural,2,False,South Tyler,PA,2022-03-11
+1743,Julie Johnson,70.0,751000,beach,2,True,South Tylerville,NY,2023-03-11
+1963,Michael Morgan,20.0,119000,cultural,3,True,East Hannah,UT,2024-10-12
+1225,Ronald Myers,41.0,596000,cultural,1,False,East Victoriaberg,MI,2023-03-25
+1018,Fernando Henry,48.5,262000,cultural,0,True,Lake Jessicamouth,PA,2023-12-10
+1168,Craig Buchanan,45.0,569000,adventure,1,True,East Christopherberg,MP,2022-01-26
+1292,Sandra Bradley,65.0,194000,adventure,1,False,New Matthew,WI,2021-11-12
+1612,Rachel Johnson,49.0,672000,adventure,1,True,Davidport,IL,2024-05-15
+1397,Samuel Hendrix,41.0,628000,adventure,0,True,New Ruben,DC,2025-01-22
+1540,Jennifer Moses,49.0,625000,adventure,2,True,West Sherry,UT,2024-08-28
+1328,Gregory Freeman,50.0,184000,beach,0,True,New Stacy,NM,2022-05-06
+1780,Thomas Carlson,64.0,114000,beach,2,True,Mikefurt,NE,2025-04-15
+1631,Clinton Reynolds,25.0,635000,adventure,1,True,Scottberg,NY,2024-06-29
+1093,Charles Mccoy,72.0,309000,adventure,1,True,North Douglasmouth,GA,2022-08-19
+1213,Bryan Rodgers,51.0,822000,beach,2,False,Leetown,ID,2023-11-19
+1337,Victoria Robertson,71.0,145000,beach,3,True,Riverahaven,IN,2022-08-04
+1425,Jeffrey Patel,35.0,415000,adventure,0,True,Kristenmouth,FL,2025-01-18
+1808,Daniel Young,50.0,151000,budget,2,True,Allenbury,MD,2025-03-13
+1115,Jessica Garner,79.0,419000,beach,2,True,Riverastad,AS,2022-04-14
+1158,Joshua Miller,32.0,257000,beach,1,True,West Heatherburgh,VI,2022-11-15
+1994,Catherine Mccarty,25.0,268000,adventure,3,True,Pricemouth,MO,2024-12-13
+1112,Cameron Aguilar,42.0,361000,nature,2,True,Port Kenneth,GA,2021-12-29
+1036,Guy Barber,67.0,882000,nature,1,True,Kathyborough,WY,2023-10-12
+1105,Heidi Rodriguez,34.0,697000,adventure,2,True,New Kelly,WV,2024-11-27
+1362,William Lynch,21.0,208000,luxury,3,True,Port Cristinaborough,GA,2024-10-18
+1365,Brittany Harrell,45.0,705000,budget,3,True,North Douglas,DE,2022-07-25
+1441,Terrance Poole,25.0,415000,cultural,0,True,South Cynthia,HI,2025-04-11
+1565,John Garcia,50.0,431000,beach,3,True,Carlshire,MP,2025-04-15
+1351,Victor Lee,48.5,885000,cultural,1,True,Port Travisberg,OH,2025-01-22
+1978,Todd Holmes,50.0,785000,cultural,1,True,North Erinmouth,SD,2025-03-08
+1249,Luis Munoz,73.0,519000,luxury,0,True,Bradleyview,GA,2021-11-05
+1854,Keith Malone,36.0,894000,adventure,1,True,Andrewschester,RI,2024-10-14
+1801,Dylan Rivers,35.0,400000,beach,0,False,Powersstad,CT,2021-12-04
+1406,Scott Maxwell,64.0,525000,nature,2,True,Hendersonshire,PW,2025-05-30
+1858,Danny Hansen,47.0,102000,beach,0,False,Riverashire,MP,2024-08-07
+1164,Michael Oconnor,29.0,348000,beach,0,True,Garciamouth,ID,2025-06-12
+1881,Ms. Crystal Fernandez,65.0,696000,adventure,1,True,New Jamiefort,MA,2023-11-23
+1833,Joseph Brooks,21.0,385000,beach,1,True,North Kimborough,CT,2022-12-27
+1083,William Park,66.0,228000,adventure,2,True,South Richard,ME,2022-08-13
+1703,Jennifer Rush,52.0,643000,beach,1,False,East Phillip,NH,2022-06-19
+1295,Curtis Foley,48.5,843000,cultural,3,True,West Jordanmouth,PA,2023-05-25
+1070,Brian Graham,62.0,255000,adventure,3,True,Gonzalezview,PW,2024-03-22
+1610,John Vaughn,74.0,115000,budget,0,True,Burtonborough,KY,2021-09-30
+1669,Anthony Scott,26.0,373000,cultural,3,False,Cooperland,WA,2024-08-05
+1928,Sarah Harris,51.0,360000,nature,2,True,Shelbyside,OH,2022-04-26
+1869,Diana Jones,60.0,469000,adventure,2,True,Lynchport,GA,2021-09-28
+1953,Katherine Martin,38.0,394000,budget,3,True,Mooreport,LA,2022-11-20
+1816,Victor Miller,48.0,248000,budget,3,True,West Darrell,OH,2023-01-10
+1127,Travis Butler,77.0,177000,beach,2,True,West Michael,VI,2024-08-03
+1888,Sandra Lopez,22.0,859000,nature,1,True,North Jasmineview,LA,2021-12-23
+1001,Michael Burke,56.0,853000,adventure,0,True,Sarachester,NV,2022-02-08
+1853,Edwin Peterson,64.0,369000,nature,0,False,Chavezbury,NV,2025-06-06
+1539,Melvin Velazquez,48.0,359000,beach,3,True,Moniquefurt,DE,2023-12-18
+1601,Walter Rivas,29.0,456000,beach,1,True,New Jeremy,VI,2021-08-31
+1308,Rickey Mann,48.0,597000,budget,3,True,North Wendyville,VA,2024-03-17
+1585,Anna Jordan,30.0,649000,adventure,1,True,Craigmouth,MA,2022-11-11
+1410,Justin Murphy,50.0,572000,beach,3,True,Lynchborough,MN,2021-07-09
+1171,Debra Jackson,28.0,655000,luxury,2,False,North Jeffrey,AR,2024-01-02
+1417,James Wood,50.0,580000,budget,1,True,New Brad,KY,2022-01-27
+1768,Margaret Bowen,43.0,804000,adventure,0,True,South Collin,OR,2022-05-27
+1692,Kathryn Moore,40.0,628000,budget,2,True,Port Timothyhaven,NM,2022-07-10
+1603,Paula Lin,58.0,568000,nature,0,True,Laurastad,SD,2022-07-15
+1460,Jessica Hunter,58.0,368000,nature,1,True,North Danielborough,MN,2024-04-30
+1871,Sarah Harmon,48.0,494000,beach,2,False,New Sharonburgh,KY,2024-05-25
+1637,Roy Vega,40.0,274000,nature,1,True,East Danielle,NY,2021-10-06
+1423,Kristen Smith,54.0,487000,cultural,0,False,Lake William,MD,2022-07-15
+1315,Stephen Hebert,50.0,372000,beach,2,True,Lake Victoria,NH,2023-12-21
+1376,Michele Horn,51.0,688000,adventure,1,True,Lake Melanieport,NC,2024-11-16
+1524,Tiffany Avila,57.0,858000,beach,3,True,West Stevenborough,MD,2021-11-14
+1872,Ralph Irwin,43.0,870000,adventure,3,True,North Christopher,OH,2024-10-23
+1438,Jennifer Perry,65.0,882000,beach,1,False,Butlerburgh,LA,2024-01-14
+1744,Kathleen Gutierrez,30.0,648000,nature,0,False,New Michelle,DE,2021-12-15
+1150,Audrey Snow,73.0,844000,beach,2,True,Davidside,MP,2023-01-10
+1556,Zachary Huang,24.0,429000,beach,1,True,Lake Mary,WV,2022-12-28
+1824,Mr. Richard Thompson,23.0,358000,luxury,2,False,North Robert,CA,2022-02-02
+1812,Thomas Abbott,69.0,415000,nature,0,True,South Brian,IL,2024-07-13
+1409,Tracy Banks,61.0,565000,nature,2,True,Morganville,TX,2023-09-18
+1143,Melissa Long,67.0,384000,nature,3,True,Cherylport,DC,2023-02-23
+1526,Tracey Warren,69.0,271000,nature,1,True,North Johnnybury,NH,2023-12-02
+1863,Stephanie Wallace,76.0,448000,adventure,1,True,West Jenniferview,MT,2024-12-04
+1991,Patrick Reyes,48.0,224000,cultural,3,True,East Nicole,FM,2024-10-01
+1832,Zachary Herrera,73.0,522000,adventure,2,True,Jamesview,WA,2025-01-07
+1208,Dr. Miranda Smith,35.0,677000,cultural,0,True,West Raymond,LA,2024-05-23
+1440,Hannah Parsons,62.0,609000,budget,1,True,Port Jamesburgh,TX,2021-11-29
+1131,Gregory Barnes,48.5,446000,cultural,2,True,New Johnnymouth,UT,2022-08-04
+1380,Bailey Delgado,51.0,736000,beach,0,False,Robertsview,ND,2024-10-23
+1174,Kyle Jimenez,63.0,484000,cultural,1,True,Jenniferbury,ME,2023-07-30
+1533,Nathan Mccall,48.0,467000,luxury,3,True,Port Emilyhaven,HI,2022-06-22
+1270,Claudia Yates,48.5,111000,adventure,2,True,Jessicaburgh,MA,2023-01-18
+1407,Terry Walker,61.0,258000,beach,2,True,Krauseberg,SC,2025-06-25
+1805,Brenda West,62.0,406000,beach,3,True,South Sandra,GA,2024-01-05
+1123,Sabrina Clark,60.0,507000,adventure,3,True,Hectorberg,SD,2022-07-05
+1138,Mrs. Crystal Harvey,20.0,474000,adventure,0,True,North Denisechester,DC,2022-08-28
+1051,Rodney Pitts,69.0,144000,luxury,0,True,Walkerhaven,OH,2023-08-22
+1624,Elizabeth Thompson,71.0,848000,beach,2,False,Valerieberg,PR,2023-04-03
+1275,Jeffrey Woods Md,70.0,662000,budget,2,True,Port Calvinberg,VI,2023-01-11
+1970,Scott Martinez,76.0,280000,cultural,0,True,South Courtney,ME,2024-04-04
+1342,Danielle Watkins,44.0,118000,beach,1,True,Timothyfurt,CO,2021-11-06
+1256,Katherine Perry,50.0,836000,beach,3,True,Michaelfurt,WA,2022-11-08
+1182,Rachel Ryan,32.0,255000,budget,0,False,Port Samuel,RI,2021-12-03
+1617,Brandon Franklin,23.0,303000,luxury,2,False,Alejandraport,OR,2024-06-15
+1300,Jacob Brown,73.0,420000,cultural,3,True,East Michaelborough,PW,2022-08-12
+1690,Amanda Orr,70.0,179000,adventure,1,True,North Jennifer,AR,2022-06-10
+1770,Kyle Ortiz,67.0,487000,budget,3,True,East Dwayne,VT,2023-12-15
+1240,Deborah Cuevas,29.0,607000,nature,2,True,South Matthew,IL,2025-06-17
+1230,Molly Jackson,48.0,507000,budget,1,True,Lake Kenneth,NC,2024-01-06
+1920,Ronnie Dixon,30.0,660000,adventure,1,True,South Patricia,HI,2023-10-04
+1326,Lauren Buckley,32.0,629000,adventure,1,True,Lake Melissa,IA,2024-02-27
+1458,Amanda Castillo,51.5,700000,nature,3,True,Williamtown,FL,2023-05-08
+1681,Sean Vazquez,62.0,724000,luxury,2,True,Huntfort,WV,2023-08-23
+1662,Justin Herrera,18.0,285000,adventure,0,True,Williamsbury,MS,2022-11-20
+1465,Larry Sharp,49.0,875000,cultural,1,True,Kellyfort,NC,2025-06-07
+1163,Jason Krause,20.0,690000,beach,0,True,North Jessica,MS,2024-02-13
+1167,Melody Wilson,24.0,531000,luxury,1,False,Donaldberg,FL,2021-08-27
+1145,Aimee Tran,26.0,298000,adventure,1,True,Isaacport,WI,2022-06-20
+1206,Claudia Green,38.0,367000,budget,2,True,Theodoreport,TN,2021-11-09
+1500,Omar Smith,48.5,117000,adventure,0,True,West Joybury,PR,2021-10-07
+1188,Robert Peters,69.0,884000,cultural,3,True,East Dominic,CA,2023-01-15
+1324,Deborah Roberts,45.0,888000,luxury,1,True,South Amy,CT,2022-08-05
+1657,Alexandra Farrell,80.0,297000,nature,2,True,Marthaton,RI,2024-08-01
+1745,Rhonda Lin,73.0,624000,beach,2,True,Jerryberg,MH,2024-08-07
+1835,Howard Johnson,48.5,247000,adventure,0,True,East Jessicamouth,WA,2023-03-28
+1855,Scott Suarez,42.0,553000,budget,1,True,Johnton,NY,2022-12-24
+1852,James Baker,39.0,838000,nature,0,True,Jessicatown,UT,2023-02-05
+1900,Joseph Porter,31.0,644000,luxury,0,True,South Keith,WV,2022-02-03
+1575,Robert Ramos,43.0,755000,cultural,1,True,Allisontown,VI,2024-04-28
+1079,Charles Robles,37.0,393000,adventure,2,True,Lake Kellyburgh,MA,2022-01-05
+1814,Wendy Garcia,45.0,184000,luxury,3,True,Port Justinburgh,LA,2023-10-04
+1687,Tina Carpenter Dds,79.0,313000,adventure,1,True,Leeshire,IA,2025-05-07
+1857,Valerie Martin,50.0,883000,adventure,2,True,Hickmanmouth,AK,2023-09-29
+1229,Richard Rowland,55.0,314000,adventure,2,True,Port Ashley,TN,2025-04-10
+1723,Vincent Cobb,39.0,820000,budget,3,True,Georgeside,UT,2025-01-31
+1782,William Roman,48.0,636000,beach,2,True,Karenbury,AZ,2023-09-03
+1100,Christina Reed,65.0,513000,cultural,3,False,East Natalieborough,ID,2024-09-21
+1290,Adrienne Soto,35.0,639000,luxury,0,True,New Joshua,FM,2021-10-03
+1444,Mario Stephens,64.0,804000,nature,3,False,Bellmouth,WV,2023-11-06
+1951,Mark Reynolds,48.5,260000,adventure,0,True,New Dalton,MD,2023-07-10
+1053,Robert Cunningham,58.0,316000,nature,1,True,Lindashire,NH,2021-09-03
+1391,Susan Cunningham,79.0,800000,adventure,0,True,East Lindsey,IA,2025-05-26
+1967,Albert Potter,51.0,147000,adventure,1,False,Meganfort,GU,2022-01-22
+1666,Laurie Carpenter,39.0,559000,luxury,3,True,Margaretborough,AZ,2025-02-28
+1251,John Rose Md,80.0,772000,luxury,3,True,South Jacqueline,AR,2023-03-07
+1499,Tammie Allen,65.0,358000,cultural,1,True,West Alexandraberg,GA,2024-06-23
+1475,Veronica Lee,48.0,447000,luxury,1,True,Lake Meganview,CO,2023-09-29
+1670,Robert Mosley,57.0,516000,cultural,2,True,Ralphmouth,FL,2024-05-27
+1271,Robert Jordan,18.0,559000,nature,1,True,Trevorhaven,OK,2024-11-18
+1044,Steven Garcia,50.0,395000,nature,3,True,West Matthew,NM,2022-10-31
+1113,Luis Todd,37.0,831000,nature,3,True,Anthonymouth,NV,2021-10-13
+1024,Rachel Harris,70.0,813000,adventure,1,False,East Johnmouth,NV,2023-01-25
+1211,Christopher Scott,64.0,378000,cultural,0,True,Ramseyberg,WI,2025-03-10
+1620,Kayla Webster,57.0,276000,nature,2,True,West Ashley,TX,2022-05-25
+1169,Cory Jones,40.0,258000,luxury,3,True,Melissaland,WY,2023-11-08
+1591,Joe Vance,61.0,422000,budget,1,True,North Jessica,PA,2023-07-19
+1974,Jason Palmer,27.0,886000,adventure,1,True,South Kelli,NY,2021-11-02
+1596,Kevin Murillo,53.0,623000,luxury,0,True,Port James,WY,2023-06-04
+1520,Phillip Davis,48.0,460000,budget,2,False,Joseshire,OK,2025-05-18
+1032,Melissa Thomas,33.0,717000,budget,2,True,South Vincentton,IN,2025-02-12
+1611,Samantha Adams,37.0,245000,adventure,2,True,North Michaelland,IL,2022-09-30
+1109,Anne Scott,47.0,755000,adventure,2,False,Jamesborough,AR,2022-03-15
+1136,Joseph Watson,51.5,290000,nature,2,True,Wilsonport,PA,2021-08-13
+1330,Monica Franco,32.0,805000,beach,0,True,Rodneystad,NE,2023-04-07
+1222,Mrs. Pamela Ross,48.5,640000,adventure,1,True,Francishaven,CT,2022-07-10
+1028,John Mitchell,57.0,608000,luxury,0,True,Burnsfort,SD,2023-03-11
+1287,Melissa Cummings,48.5,813000,cultural,2,True,Shannonfurt,GU,2022-07-11
+1722,James Sims,26.0,754000,cultural,0,True,Port Johnview,AR,2024-03-01
+1055,Carol Avila,57.0,400000,beach,3,True,East Paul,WI,2023-10-27
+1977,Jenny Rodriguez,55.0,627000,budget,2,True,East Angela,NY,2025-03-15
+1886,Donald Crawford,36.0,806000,adventure,3,True,Pricechester,MH,2023-02-27
+1906,Christopher Thompson,48.5,502000,adventure,3,True,Simmonsborough,UT,2025-03-28
+1048,William Hayes,77.0,735000,beach,3,True,South Natalie,MD,2023-06-03
+1909,Michael Stafford,22.0,601000,adventure,0,True,South Kathy,KY,2022-12-13
+1981,Adam Cortez,51.0,629000,adventure,3,True,Davidton,AK,2023-11-22
+1642,Elizabeth Peters,53.0,193000,cultural,1,True,Lisashire,PA,2024-08-02
+1545,Mr. Brandon Farrell,56.0,827000,cultural,0,False,South Natalie,FL,2024-01-02
+1477,Gregory Mccall,45.0,483000,adventure,2,True,Randyton,WV,2023-09-06
+1547,Jason Harrison,54.0,648000,nature,3,True,Gomezport,DE,2021-12-03
+1063,Gabriela Henry,19.0,773000,budget,0,True,Andrewsfurt,MI,2024-05-05
+1413,Brian Petersen,26.0,673000,nature,3,True,Timothyfurt,ID,2024-12-12
+1384,Ronald Lowe,20.0,120000,adventure,2,False,Robertside,GA,2023-08-30
+1894,Michael Mann,25.0,175000,cultural,2,True,South Shelleymouth,CT,2021-10-27
+1322,Amanda Cruz,72.0,818000,nature,3,False,North Brentstad,MA,2022-11-11
+1451,Stephen Holland,21.0,456000,adventure,1,True,Averytown,DC,2024-03-01
+1786,Robert Johnson,50.0,462000,beach,2,True,Anthonystad,KS,2024-12-20
+1234,Brian Daniel,61.0,120000,nature,3,True,Anthonystad,AK,2024-07-13
+1656,Kimberly Walters,76.0,528000,adventure,1,False,Kimberlyfurt,NV,2023-04-01
+1557,Chris Johnson,36.0,402000,nature,2,True,Pittmanmouth,FL,2024-03-19
+1462,Gene Medina,48.0,636000,luxury,0,True,Port Edwin,OK,2022-12-13
+1424,Kathleen Hale,52.0,539000,cultural,1,True,Port Emilyville,CT,2023-04-05
+1885,Alicia Moses,76.0,341000,budget,3,True,North Ryan,WY,2023-01-24
+1303,Carol Perez,46.0,674000,beach,3,False,Christinaberg,NC,2022-07-04
+1889,Joseph Zuniga,78.0,125000,nature,1,True,Raymondland,MI,2022-01-18
+1689,Amber Nichols,55.0,530000,beach,1,True,East Christina,NV,2024-05-21
+1219,Sean Dudley,48.0,792000,cultural,1,False,North Jacquelineville,TN,2025-03-28
+1875,Taylor Simpson,78.0,406000,adventure,0,True,West Scott,TN,2021-11-24
+1296,Adam Berger,26.0,474000,budget,3,True,Lake Stephanie,CO,2023-12-07
+1021,Aaron Singh,78.0,355000,luxury,0,True,Nancyfort,WY,2023-10-16
+1760,Joseph Jackson,66.0,859000,beach,3,False,Frytown,WA,2025-01-29
+1420,Ryan Thomas,72.0,668000,luxury,3,True,Amyfurt,TX,2024-01-19
+1325,Taylor Wallace,58.0,556000,luxury,2,True,Alexanderview,DC,2022-05-01
+1199,Lisa Romero,36.0,619000,beach,1,True,New Donald,NE,2022-08-21
+1450,Annette Riddle,28.0,132000,nature,3,True,Bensonside,PW,2024-04-25
+1137,Michelle Ross,18.0,417000,cultural,2,True,Lake Kimberlyland,DC,2024-04-13
+1536,Clayton Patton,25.0,513000,nature,3,True,Debraview,MH,2024-08-27
+1696,Lisa Rodriguez,50.0,458000,luxury,3,True,Clarkchester,MP,2024-11-09
+1717,Cameron Cruz,54.0,647000,beach,3,False,East Triciamouth,HI,2024-07-21
+1646,Kristin Bishop,31.0,899000,adventure,2,False,North Tony,AS,2024-01-28
+1628,Heidi Smith,52.0,399000,adventure,2,False,North Jessica,WV,2023-01-29
+1212,Barbara Nichols,77.0,324000,cultural,1,True,Port Dennismouth,UT,2024-12-30
+1966,Kevin Garcia,23.0,579000,beach,0,True,Lake Gregoryport,TX,2025-03-11
+1939,Thomas Pierce,36.0,434000,adventure,3,False,North Lisa,NJ,2023-04-21
+1926,Scott Richardson Dds,61.0,433000,nature,0,True,Lake Chad,MT,2024-08-05
+1505,Shelly Townsend,59.0,123000,beach,3,True,Jenkinsstad,MH,2025-02-16
+1935,Amber Houston,78.0,700000,luxury,0,False,New Jenniferborough,GA,2021-07-05
+1231,Anthony Grant,68.0,252000,luxury,0,True,Wattsfort,KS,2023-04-05
+1405,Michelle Campbell,50.0,610000,luxury,0,False,Jenniferbury,FM,2025-05-25
+1729,Rebecca Smith,28.0,212000,beach,3,True,New Jacqueline,GA,2023-04-13
+1568,David Hernandez,38.0,536000,beach,1,True,Santosview,NM,2022-03-08
+1317,Wayne Thompson,64.0,707000,luxury,3,False,Lake Annaborough,IL,2024-09-11
+1183,Melvin Evans,52.0,381000,beach,0,True,South Heather,AS,2024-08-22
+1861,David Andrews,76.0,625000,beach,2,True,Leonardborough,CT,2023-03-18
+1859,Tiffany Willis,75.0,170000,beach,0,True,New Davidbury,AS,2022-09-09
+1693,Maria Norris,18.0,344000,luxury,0,False,Mackenzieborough,MA,2023-02-24
+1609,Sharon Russell,37.0,411000,beach,3,False,Port Charlesmouth,MD,2022-05-11
+1626,Samuel Leblanc,39.0,216000,nature,2,True,Lisaside,WV,2024-06-05
+1485,Tracey Mills,46.0,577000,beach,2,False,Jenniferland,RI,2023-06-28
+1278,Jason Kelly,39.0,345000,adventure,3,False,Jenniferburgh,MT,2024-03-10
+1630,Victoria Choi,73.0,324000,beach,1,True,Patrickport,FM,2025-04-20
+1020,Francisco Jones,78.0,765000,luxury,0,True,West Timothyville,AK,2021-12-21
+1170,Jessica Thomas,76.0,227000,luxury,2,True,East Nicholas,DE,2021-11-09
+1401,Jasmine Ritter,74.0,309000,nature,3,True,Port Dawnton,TN,2023-07-09
+1929,Cristina Bradshaw,48.0,795000,luxury,3,False,West Breannaborough,WV,2024-05-15
+1566,Michael Vasquez,51.5,875000,nature,3,True,Villashire,FL,2024-12-06
+1176,Catherine Welch,57.0,738000,luxury,0,False,Fisherburgh,AZ,2023-08-02
+1327,Jared Horn,26.0,477000,adventure,0,True,Michaelport,PR,2025-05-10
+1706,Mary Williams,29.0,249000,beach,1,True,North Jennifer,GU,2022-07-08
+1198,Tanya Alvarez,60.0,840000,beach,1,True,Daltonstad,MS,2021-08-28
+1470,David Hernandez,30.0,232000,adventure,1,True,Jasonfort,KS,2024-09-28
+1996,Katherine Lopez,66.0,142000,budget,2,False,Chaseport,NJ,2021-09-29
+1694,Vicki Davis,24.0,772000,nature,3,True,Gonzalezborough,DC,2023-12-11
+1266,Patricia Gonzalez,45.0,393000,beach,3,True,Lopezchester,VI,2023-06-11
+1615,Ashlee Guzman,50.0,364000,adventure,2,True,West Stevenside,DC,2024-05-23
+1732,Nicole Simmons,51.5,889000,nature,3,True,Johnville,NH,2021-08-17
+1492,Heather Estrada,43.0,733000,nature,2,True,Port Jacob,WV,2022-03-10
+1130,Christina Bishop,80.0,335000,nature,0,True,Donnaview,VI,2023-06-19
+1338,Jessica Patel,76.0,115000,cultural,1,True,Kaylashire,IN,2021-07-23
+1856,Amber Henson,43.0,282000,adventure,2,True,Joycefurt,FM,2021-07-01
+1489,Ashley Dennis,47.0,296000,nature,0,False,Port Johnview,AS,2023-01-14
+1572,Hannah Edwards,48.0,141000,luxury,3,True,North Amberhaven,AZ,2024-03-03
+1606,Corey Frost,50.0,356000,beach,0,True,Hamptonmouth,MS,2023-03-05
+1193,Christian Erickson,20.0,333000,luxury,2,True,Lake Kristenview,CO,2024-06-06
+1140,Thomas Simmons,20.0,235000,luxury,3,False,Youngmouth,MH,2025-04-01
+1416,Keith Robinson,53.0,165000,luxury,3,True,Toddshire,MT,2024-05-22
+1660,Jennifer Castillo,48.0,594000,nature,2,True,North Samanthaside,AR,2024-12-03
+1476,Joseph Jackson,65.0,480000,adventure,0,True,Port Carl,MN,2022-07-30
+1714,Wendy Mahoney,74.0,896000,nature,1,True,Burgessberg,NE,2023-03-18
+1152,Denise Porter,50.0,292000,beach,1,True,Jamesburgh,OR,2025-05-19
+1849,Vicki Keller,74.0,649000,nature,1,True,Port Elizabethside,KY,2021-10-05
+1922,Jeffrey Moran,51.0,797000,luxury,2,True,Paulport,WA,2024-11-10
+1010,Kimberly Phillips,62.0,465000,beach,0,True,North Heather,NE,2023-12-16
+1269,Evelyn Johnson,18.0,681000,cultural,1,True,Georgemouth,AZ,2024-04-24
+1096,Michael Campbell,56.0,303000,budget,0,True,North Hollyton,NY,2025-02-04
+1210,Elizabeth Leonard,48.5,507000,adventure,2,True,Brettfurt,MO,2023-07-18
+1989,Lynn Rodriguez,45.0,748000,budget,0,True,New Jeromeberg,NV,2021-07-31
+1752,Mr. David Jones Jr.,72.0,732000,beach,3,True,Christianberg,TN,2022-06-24
+1569,Tiffany Palmer,20.0,878000,luxury,3,True,Vanessaside,WY,2022-08-28
+1813,Alice Adams,31.0,791000,beach,3,True,West Gracechester,CA,2024-12-30
+1775,John Snow,45.0,277000,luxury,3,True,Hollyside,NY,2025-06-05
+1548,John Guzman,19.0,820000,nature,3,True,West Justinborough,WI,2021-09-28
+1948,Bryan Taylor,48.0,472000,luxury,2,True,Lake Theresaport,WV,2024-05-26
+1532,Cheyenne Murphy,59.0,451000,adventure,3,True,North Caroline,LA,2023-09-05
+1938,Taylor Jennings,30.0,602000,beach,2,True,South Matthew,AR,2025-01-18
+1332,Lisa Blankenship,32.0,105000,adventure,0,False,West Katherine,AK,2024-06-05
+1075,Harry Glenn,48.0,738000,luxury,0,False,Woodshaven,PW,2025-03-27
+1712,Meredith Fuller,68.0,115000,beach,2,True,Michellestad,WI,2024-06-07
+1077,John Fisher,47.0,572000,adventure,3,True,Briannaburgh,FL,2023-02-11
+1263,Jodi Williams,48.0,894000,budget,3,False,New Nicholas,WI,2023-02-05
+1998,Joseph Donovan,76.0,132000,beach,0,True,East Heather,PA,2024-07-23
+1149,Sarah Jones,30.0,655000,beach,0,True,Phillipston,IL,2023-10-14
+1937,Kathleen Olson,65.0,566000,nature,1,True,South Charles,OH,2024-06-12
+1514,Nicholas Rasmussen,64.0,581000,beach,3,True,Ericaland,NH,2024-04-12
+1945,Jennifer Holder,56.0,475000,luxury,3,True,Harrisfurt,CT,2023-04-14
+1469,Sharon Alvarez,61.0,652000,cultural,3,True,Jasonberg,CO,2024-05-21
+1564,Regina White,39.0,655000,budget,0,True,East Kennethfurt,NH,2023-10-12
+1774,Jacob Love,48.0,571000,luxury,1,True,South Patrick,MH,2025-06-16
+1461,Rhonda Vazquez,63.0,584000,adventure,0,False,Vancefort,AS,2021-12-21
+1253,Cody Burns,32.0,799000,adventure,2,True,Nguyenport,LA,2023-11-06
+1771,Margaret Carr,23.0,385000,cultural,2,True,West Danielle,WV,2022-07-15
+1845,Robert Alexander,23.0,490000,beach,2,True,North Brianna,PA,2025-03-07
+1369,John Rice,48.0,695000,luxury,0,True,New Ralphbury,ND,2021-10-30
+1321,Melissa Ingram,64.0,430000,cultural,0,False,West Kimberlyfort,NM,2023-07-24
+1695,Heidi Davidson,34.0,639000,nature,0,True,North Jackchester,HI,2022-05-19
+1151,Patrick Johnson,20.0,249000,cultural,3,True,West Bethany,MO,2025-03-30
+1954,Jon Dixon,21.0,699000,adventure,3,True,Pattersonchester,VI,2023-04-24
+1302,Philip Campbell,55.0,180000,beach,3,False,New Jameschester,OK,2024-08-09
+1190,David Caldwell,57.0,375000,luxury,2,True,North Kevinborough,WY,2025-06-11
+1586,Barbara Sampson,51.0,648000,adventure,2,True,Cynthiamouth,LA,2023-02-10
+1348,James Forbes,75.0,178000,budget,1,True,Tuckershire,PW,2024-09-17
+1243,Ricky Martinez,20.0,414000,nature,0,False,East Nicholasland,MN,2022-07-05
+1793,Taylor Rojas,51.5,440000,nature,2,True,South Shawnburgh,MN,2025-04-27
+1087,Adrian Warren,72.0,792000,adventure,2,True,New Robertton,WV,2022-03-10
+1751,Vanessa Gibson,45.0,536000,luxury,1,True,Micheleview,WV,2024-09-27
+1655,Megan Moran,77.0,592000,cultural,3,True,Smithstad,TX,2022-06-12
+1982,Heather Perkins,42.0,224000,beach,3,False,West Amyland,OK,2023-07-04
+1778,Christopher Simon,48.0,443000,budget,1,True,Port Tonya,DC,2025-02-24
+1418,David Evans,74.0,422000,cultural,3,True,East Stephaniemouth,NM,2025-05-04
+1288,Kimberly Yoder,22.0,363000,adventure,3,True,Markfort,KS,2023-06-06
+1648,Anthony Peterson,59.0,785000,beach,2,True,Port Josephhaven,MA,2022-07-30
+1166,Corey Conrad,68.0,816000,luxury,2,True,North Shannon,KS,2021-11-06
+1595,Jennifer Schmitt,78.0,277000,nature,3,True,Marcusland,LA,2023-02-21
+1942,Amber Pruitt,46.0,433000,adventure,0,True,Judyhaven,PW,2024-05-01
+1155,Monique Price,79.0,297000,cultural,1,True,South Victoriaside,PA,2024-01-24
+1356,Sean Salinas,18.0,194000,luxury,0,True,East Jasminville,IN,2022-04-04
+1381,Rebecca Hanson,28.0,559000,nature,2,False,Lake Andrea,CA,2025-03-19
+1279,Barbara Williams,48.0,238000,beach,1,True,New Brianstad,MS,2025-03-24
+1126,Christopher Duncan,57.0,547000,beach,0,True,Davisland,NM,2021-12-23
+1707,Thomas Cunningham,28.0,893000,adventure,3,True,Lake Davidberg,VT,2021-12-20
+1777,John Prince,60.0,515000,cultural,0,True,North Rachelport,OK,2022-06-10
+1022,Joshua Clements,69.0,639000,beach,1,False,South John,TX,2023-11-28
+1616,Joseph Harris,70.0,716000,budget,0,True,Michaelview,AK,2025-01-31
+1665,Daniel Young,57.0,381000,beach,1,True,West Eric,DE,2024-11-26
+1282,Gary Wilkerson,42.0,798000,beach,2,True,Scottbury,AL,2022-05-22
+1903,Michael Moore,18.0,420000,adventure,0,True,Richardsstad,MA,2022-08-06
+1471,Jordan Ochoa,61.0,664000,nature,3,True,East Rebeccamouth,AZ,2021-11-15
+1738,Matthew Herrera Phd,77.0,542000,adventure,2,True,East Mark,ME,2024-10-11
+1367,Brandon Rodriguez,48.5,792000,adventure,3,True,East Beverly,MS,2021-07-20
+1025,Christopher Bowers,77.0,898000,beach,1,True,West Heathermouth,GA,2024-08-30
+1196,Michelle Richardson,75.0,367000,nature,3,True,Santoschester,SD,2023-11-07
+1064,William Rush,66.0,417000,beach,0,True,Oliviaside,NY,2024-08-24
+1015,Debbie Sanford,79.0,717000,nature,1,True,West Vickie,GU,2024-02-14
+1466,Susan Young,46.0,351000,budget,3,True,Scotthaven,GA,2021-07-20
+1297,Brian Lucas,30.0,237000,cultural,1,True,Port Crystal,NJ,2024-10-29
+1883,Andrew Williams,74.0,593000,beach,3,True,Deckerside,KY,2022-09-04
+1621,Ethan English Dds,54.0,788000,nature,0,True,East Alejandra,WY,2022-12-14
+1336,Albert Boone,18.0,294000,beach,3,True,Kanemouth,NC,2022-05-06
+1820,Amy Miller,68.0,775000,adventure,2,True,East Lori,GA,2023-04-21
+1026,Chad Banks,33.0,661000,adventure,2,True,Deleonland,AK,2023-09-12
+1588,Shawn Villa,23.0,115000,beach,2,True,Shellyburgh,NC,2023-01-19
+1043,Anthony Harrell,28.0,350000,beach,3,True,Tonimouth,WI,2023-12-01
+1497,Kimberly Rios,66.0,468000,adventure,2,True,Johnsonchester,TN,2025-03-18
+1792,David Lara,39.0,833000,nature,0,True,West Johnmouth,CA,2023-02-11
+1515,Cheryl Johnson,46.0,401000,beach,0,True,New Anthonyshire,NJ,2022-07-18
+1995,Joseph Vega,39.0,481000,budget,2,True,Hoffmantown,MN,2024-09-22
+1561,Candace Wallace,37.0,196000,cultural,3,True,New Amy,OH,2022-09-03
+1917,Anita Hess,67.0,714000,cultural,3,True,West Mark,OK,2022-06-15
+1454,David Mcintyre,19.0,269000,adventure,2,True,South Emmamouth,MP,2022-01-01
+1387,Christopher Burke,49.0,829000,adventure,2,True,New Christopher,CT,2021-11-24
+1071,Michael Mcpherson,76.0,214000,adventure,1,True,South Erikaview,DE,2022-10-07
+1542,Justin Smith,79.0,767000,adventure,2,True,Lawrenceton,LA,2022-08-13
+1456,Brian Smith,78.0,499000,beach,1,True,Newtonside,MP,2021-12-11
+1633,Carolyn Davis,65.0,328000,beach,3,True,New Monica,FM,2021-12-03
+1431,David Morales,48.5,743000,adventure,1,True,Jonesmouth,OH,2024-02-27
+1627,Kayla Benitez,48.5,260000,adventure,3,True,Lake Ivan,AZ,2022-03-01
+1653,Christopher Galvan,61.0,491000,beach,0,True,Sparksview,MP,2023-05-04
+1728,Jessica Dillon,50.0,726000,beach,1,True,Laurafort,MT,2024-07-27
+1264,Jimmy Campbell,73.0,763000,nature,2,True,Vegaport,CA,2022-10-20
+1209,Ms. Ann Robinson,47.0,641000,luxury,2,False,Michaelfort,MI,2023-02-27
+1316,William Miller,45.0,533000,luxury,2,True,New Tara,CA,2023-01-15
+1896,Lucas Phillips,48.0,548000,luxury,3,True,New Christopher,MH,2023-04-27
+1513,Dana Strickland,44.0,823000,adventure,1,True,Shelbyburgh,ID,2022-10-23
+1313,Andrew Villarreal,50.0,474000,adventure,0,True,Lake Amandamouth,CT,2022-12-24
+1534,Nicholas Shah,53.0,785000,budget,3,True,Adamsburgh,NV,2023-09-22
+1829,Barbara Gregory,74.0,240000,adventure,3,True,Matthewtown,TN,2021-09-28
+1319,Anthony Harrison,68.0,572000,luxury,0,True,Brownington,MN,2021-10-06
+1007,Charles Adams,21.0,670000,beach,1,True,South Shaneside,SD,2021-07-02
+1393,Scott Stone,20.0,805000,nature,2,False,New Thomasberg,WY,2025-04-22
+1141,Debra Johnson,69.0,715000,cultural,1,True,North Laurieport,OH,2024-02-19
+1086,Mr. Joseph Skinner,72.0,502000,nature,1,True,Jordanchester,CT,2023-05-23
+1864,Wanda Morales,48.0,688000,luxury,0,True,Kyleborough,FL,2023-03-31
+1478,Tammy Durham,46.0,139000,luxury,1,True,South Catherine,MS,2022-01-22
+1503,Amanda Young,26.0,796000,nature,2,True,North Julie,NE,2023-05-20
+1753,Jeremy Martinez,65.0,605000,adventure,1,False,Williamsfort,ME,2025-04-23
+1215,Phyllis Gonzalez,68.0,350000,beach,3,True,Lake Rickeymouth,CO,2023-09-07
+1580,Michelle Hodge,46.0,742000,luxury,2,True,Port Thomasstad,WV,2022-07-02
+1562,Shelley Bowen,48.5,326000,adventure,3,True,Kramerview,WA,2022-07-05
+1398,Allison Decker,32.0,597000,nature,1,True,South Eileentown,DC,2024-12-29
+1925,Ronnie Petty,27.0,220000,budget,0,True,Mooremouth,WV,2024-09-29
+1668,Patrick Tucker,76.0,180000,cultural,1,False,Walkerfurt,DE,2023-10-28
+1490,Krista Hughes,48.0,158000,luxury,2,True,Elizabethberg,ID,2022-12-22
+1252,Michael Jones,34.0,706000,cultural,3,True,Paulfurt,TX,2022-09-08
+1907,Jamie Gonzalez,28.0,733000,luxury,0,True,South Stephanieborough,VA,2024-06-02
+1468,Sarah Rivera Md,53.0,821000,adventure,0,True,West Taylorville,NV,2025-05-06
+1914,Blake Cross,59.0,731000,beach,1,False,Port Jasonport,IA,2023-01-15
+1357,Derek Ramos,54.0,247000,nature,1,True,South Anthonyfurt,FM,2021-07-26
+1254,Eric Nichols,63.0,668000,beach,0,True,West Rebeccaberg,HI,2024-11-03
+1276,Jordan Sparks,64.0,566000,cultural,0,True,Brendaport,GA,2024-12-29
+1178,Robin Rodriguez,40.0,287000,beach,1,True,Yangfort,CO,2023-02-08
+1281,Adrienne Marks,37.0,307000,luxury,3,False,North Lisa,AK,2023-07-23
+1390,Diana Franco,64.0,757000,cultural,2,False,East Joel,LA,2023-06-06
+1508,Joshua Fox,64.0,717000,nature,1,True,Obrienfort,LA,2024-08-15
+1749,Brenda Jones,43.0,360000,adventure,3,True,Leahside,ID,2023-02-15
+1583,Corey Duke,39.0,878000,budget,2,True,Jasonside,MT,2025-03-21
+1972,Christopher Ruiz,57.0,877000,adventure,0,True,Chambersmouth,WI,2021-10-25
+1129,Julie Barry Md,38.0,784000,cultural,2,True,Joanntown,CA,2024-05-25
+1144,Danielle Strickland,71.0,495000,nature,2,True,New Troy,KY,2024-12-25
+1960,Brett Benson,38.0,639000,adventure,2,True,Jenniferville,LA,2023-03-12
+1847,Kelly Lee,35.0,508000,luxury,0,True,Port Natalie,PA,2023-04-30
+1645,Amy Burton,66.0,270000,adventure,2,True,South Nicole,PR,2023-08-04
+1715,Adam Black,51.5,220000,nature,3,False,Lake Robertton,NH,2024-11-30
+1905,Janet Brooks,63.0,388000,adventure,1,True,Washingtonton,PW,2024-02-16
+1767,Lori Kidd,76.0,569000,luxury,2,True,East Emilyshire,VA,2024-04-24
+1072,Jesse Sanchez,40.0,603000,adventure,2,True,New Christinemouth,MH,2023-03-30
+1908,Steven Smith,30.0,806000,luxury,3,False,Turnermouth,AL,2022-03-01
+1235,Jay Smith,48.0,297000,cultural,0,True,Lake Amanda,WV,2022-11-28
+1037,Jennifer Kemp,29.0,819000,cultural,1,True,Joyhaven,TN,2023-01-03

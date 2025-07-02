@@ -1,0 +1,16 @@
+# Ignore virtual environment
+venv/
+
+# Ignore credential files
+trip-recommendation-project-*.json
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+
+# Ignore Streamlit secrets (if using)
+.streamlit/secrets.toml
+
+# Ignore system files
+.DS_Store
+.env
