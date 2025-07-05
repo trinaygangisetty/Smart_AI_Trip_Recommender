@@ -1,0 +1,3012 @@
+trip_id,member_id,destination,duration_days,cost_usd,activities,start_date_clean
+T1000,1685,Cape Town,5,286000,"['wine tasting', 'shopping']",2023-04-12
+T1001,1685,Banff,10,259000,"['shopping', 'wine tasting']",2025-01-15
+T1002,1685,Banff,8,268000,"['shopping', 'wine tasting', 'spa']",2024-11-18
+T1003,1685,Barcelona,9,176000,"['wine tasting', 'shopping', 'spa']",2025-04-18
+T1004,1685,Rome,6,232000,"['shopping', 'wine tasting']",2025-01-29
+T1005,1614,Bali,7,120000,"['kayaking', 'hiking']",2022-06-06
+T1006,1614,Bali,4,117000,"['hiking', 'safari', 'kayaking']",2023-05-19
+T1007,1614,Tokyo,6,95000,"['kayaking', 'hiking', 'safari']",2021-12-05
+T1008,1614,Tokyo,3,108000,"['kayaking', 'hiking', 'safari']",2024-05-01
+T1009,1614,Cancun,4,71000,"['hiking', 'safari']",2023-03-26
+T1010,1602,Bali,6,117000,"['beach', 'snorkeling', 'spa']",2022-11-16
+T1011,1602,Bali,5,113000,"['snorkeling', 'beach']",2022-09-19
+T1012,1602,Cancun,8,91000,"['snorkeling', 'beach']",2023-03-28
+T1013,1502,Cancun,7,92000,['beach'],2022-05-08
+T1014,1502,Denver,5,186000,"['snorkeling', 'spa', 'beach']",2021-11-19
+T1015,1502,Banff,6,336000,"['spa', 'beach', 'snorkeling']",2021-08-01
+T1016,1502,Cape Town,8,253000,"['snorkeling', 'spa', 'beach']",2024-06-09
+T1017,1341,Rome,5,253000,"['cultural show', 'food tour', 'museum tour']",2023-11-29
+T1018,1248,Tokyo,10,104000,"['snorkeling', 'spa']",2025-05-17
+T1019,1716,Phuket,3,541000,['safari'],2024-11-17
+T1020,1716,Phuket,10,540000,['safari'],2023-05-26
+T1021,1716,Cancun,8,91000,"['hiking', 'safari', 'kayaking']",2024-06-14
+T1022,1716,Rome,10,260000,"['kayaking', 'hiking']",2022-12-31
+T1023,1904,Barcelona,8,169000,"['snorkeling', 'spa']",2024-10-31
+T1024,1904,Banff,3,313000,['spa'],2024-09-04
+T1025,1904,Tokyo,7,118000,"['spa', 'beach']",2022-02-05
+T1026,1827,Bali,3,97000,['hiking'],2021-10-17
+T1027,1827,Bali,6,106000,"['safari', 'kayaking']",2024-12-07
+T1028,1827,Cape Town,8,282000,"['hiking', 'safari']",2022-03-31
+T1029,1049,Denver,8,139000,"['kayaking', 'hiking', 'safari']",2021-10-08
+T1030,1049,Rome,8,269000,['hiking'],2023-07-29
+T1031,1049,Barcelona,6,210000,"['safari', 'hiking']",2025-05-15
+T1032,1049,Bali,5,111000,['kayaking'],2022-08-10
+T1033,1049,Denver,8,171000,"['safari', 'hiking', 'kayaking']",2024-07-18
+T1034,1487,Banff,10,243000,"['spa', 'beach', 'snorkeling']",2024-02-14
+T1035,1487,Rome,6,233000,"['spa', 'snorkeling']",2021-09-02
+T1036,1487,Cape Town,6,303000,"['snorkeling', 'spa']",2024-06-22
+T1037,1487,Barcelona,9,179000,"['snorkeling', 'spa', 'beach']",2023-07-15
+T1038,1487,Rome,4,313000,"['beach', 'spa', 'snorkeling']",2022-10-14
+T1039,1142,Tokyo,8,119000,"['wine tasting', 'spa']",2022-02-28
+T1040,1432,Paris,8,418000,['hiking'],2025-06-05
+T1041,1432,Cape Town,9,275000,"['hiking', 'safari', 'kayaking']",2024-02-06
+T1042,1432,Cancun,3,93000,['hiking'],2023-10-14
+T1043,1432,Cancun,6,78000,"['kayaking', 'hiking', 'safari']",2023-03-12
+T1044,1432,Tokyo,4,93000,"['safari', 'hiking']",2024-03-17
+T1045,1250,Cape Town,3,258000,['hiking'],2023-05-22
+T1046,1250,Phuket,9,590000,"['hiking', 'safari', 'kayaking']",2025-06-24
+T1047,1806,Tokyo,7,112000,"['shopping', 'wine tasting', 'spa']",2024-05-19
+T1048,1806,Tokyo,5,103000,"['shopping', 'spa', 'wine tasting']",2024-01-23
+T1049,1806,Paris,4,419000,"['shopping', 'wine tasting']",2023-08-29
+T1050,1806,Denver,9,183000,"['shopping', 'wine tasting']",2022-06-02
+T1051,1806,Rome,6,229000,"['shopping', 'wine tasting', 'spa']",2023-08-25
+T1052,1133,Rome,9,302000,"['hiking', 'museum tour']",2021-10-17
+T1053,1133,Denver,7,159000,['food tour'],2023-01-19
+T1054,1133,Cape Town,10,268000,"['hiking', 'museum tour', 'food tour']",2023-07-05
+T1055,1133,Rome,4,313000,['food tour'],2024-06-27
+T1056,1104,Tokyo,10,113000,['hiking'],2022-09-19
+T1057,1104,Bali,5,129000,"['hiking', 'safari', 'kayaking']",2023-05-22
+T1058,1104,Tokyo,10,116000,['hiking'],2022-04-24
+T1059,1006,Banff,9,286000,['hiking'],2025-06-18
+T1060,1006,Rome,4,265000,"['hiking', 'safari', 'kayaking']",2021-12-11
+T1061,1516,Banff,3,270000,"['kayaking', 'hiking', 'safari']",2022-12-11
+T1062,1516,Cape Town,4,272000,"['hiking', 'kayaking']",2024-08-30
+T1063,1504,Barcelona,6,156000,"['food tour', 'cultural show', 'museum tour']",2024-11-19
+T1064,1504,Tokyo,6,90000,"['food tour', 'cultural show']",2021-10-09
+T1065,1504,Rome,10,220000,"['museum tour', 'cultural show', 'food tour']",2021-10-12
+T1066,1504,Banff,4,329000,"['cultural show', 'food tour']",2023-10-12
+T1067,1992,Tokyo,9,109000,"['shopping', 'wine tasting']",2025-06-06
+T1068,1480,Cancun,6,65000,"['safari', 'hiking']",2024-03-08
+T1069,1429,Cancun,4,71000,"['snorkeling', 'beach', 'spa']",2022-07-19
+T1070,1553,Cape Town,6,287000,['snorkeling'],2024-09-17
+T1071,1553,Rome,8,245000,['beach'],2023-08-30
+T1072,1553,Cape Town,9,246000,['snorkeling'],2021-11-11
+T1073,1553,Bali,7,92000,"['beach', 'snorkeling', 'spa']",2023-07-14
+T1074,1553,Denver,3,133000,"['beach', 'spa']",2023-08-22
+T1075,1347,Cape Town,10,241000,['snorkeling'],2022-02-21
+T1076,1347,Tokyo,3,83000,"['beach', 'spa']",2022-09-05
+T1077,1119,Rome,10,257000,"['spa', 'beach', 'snorkeling']",2023-06-17
+T1078,1119,Banff,5,239000,['snorkeling'],2023-08-23
+T1079,1119,Denver,8,166000,"['beach', 'snorkeling']",2022-04-29
+T1080,1119,Banff,7,273000,"['spa', 'snorkeling']",2022-09-13
+T1081,1108,Cancun,4,68000,"['hiking', 'food tour', 'museum tour']",2024-06-20
+T1082,1108,Barcelona,9,198000,"['food tour', 'museum tour']",2024-09-14
+T1083,1108,Tokyo,9,86000,"['food tour', 'museum tour']",2022-07-17
+T1084,1108,Denver,6,152000,"['hiking', 'food tour']",2023-04-13
+T1085,1762,Tokyo,8,119000,['kayaking'],2023-04-28
+T1086,1962,Denver,9,160000,['spa'],2023-10-15
+T1087,1659,Cape Town,8,226000,['kayaking'],2022-07-14
+T1088,1659,Rome,6,275000,"['safari', 'hiking']",2023-01-14
+T1089,1659,Rome,9,317000,"['hiking', 'kayaking']",2024-08-31
+T1090,1915,Barcelona,8,159000,['spa'],2024-04-21
+T1091,1915,Bali,5,116000,"['spa', 'wine tasting']",2023-12-28
+T1092,1915,Barcelona,5,181000,['wine tasting'],2025-05-25
+T1093,1731,Cancun,5,73000,"['hiking', 'museum tour']",2023-10-26
+T1094,1731,Denver,10,151000,"['hiking', 'museum tour', 'food tour']",2025-01-08
+T1095,1731,Tokyo,9,118000,"['food tour', 'museum tour']",2024-04-23
+T1096,1731,Denver,5,137000,['hiking'],2024-05-23
+T1097,1731,Bali,6,125000,"['food tour', 'museum tour']",2023-09-06
+T1098,1990,Bali,4,101000,['beach'],2023-11-08
+T1099,1990,Rome,4,274000,"['spa', 'snorkeling']",2024-10-28
+T1100,1574,Bali,3,121000,"['safari', 'hiking', 'kayaking']",2024-11-30
+T1101,1830,Denver,9,142000,['snorkeling'],2023-01-18
+T1102,1830,Bali,4,128000,['snorkeling'],2022-06-19
+T1103,1830,Barcelona,3,189000,"['beach', 'spa']",2024-02-28
+T1104,1830,Banff,9,231000,['spa'],2021-10-28
+T1105,1830,Cancun,4,85000,['snorkeling'],2024-12-12
+T1106,1200,Bali,3,120000,['kayaking'],2024-06-17
+T1107,1200,Denver,9,136000,['hiking'],2023-04-13
+T1108,1200,Denver,7,180000,['safari'],2023-06-12
+T1109,1200,Bali,4,89000,['safari'],2022-03-11
+T1110,1078,Banff,4,232000,"['shopping', 'spa', 'wine tasting']",2024-02-09
+T1111,1078,Bali,7,89000,"['wine tasting', 'spa', 'shopping']",2022-06-29
+T1112,1581,Cancun,8,96000,"['hiking', 'kayaking', 'safari']",2022-05-09
+T1113,1581,Cancun,7,65000,"['hiking', 'safari', 'kayaking']",2022-11-10
+T1114,1581,Cancun,8,65000,['hiking'],2025-05-23
+T1115,1581,Cancun,7,70000,"['hiking', 'kayaking', 'safari']",2024-01-15
+T1116,1581,Cancun,10,76000,"['kayaking', 'safari']",2024-01-03
+T1117,1262,Tokyo,7,81000,"['kayaking', 'safari']",2025-02-20
+T1118,1262,Barcelona,4,210000,['kayaking'],2024-04-23
+T1119,1262,Tokyo,10,100000,"['kayaking', 'hiking']",2024-06-01
+T1120,1619,Banff,4,318000,"['hiking', 'kayaking', 'safari']",2023-09-20
+T1121,1619,Banff,10,238000,"['kayaking', 'hiking', 'safari']",2022-01-23
+T1122,1619,Cape Town,8,228000,['hiking'],2024-02-17
+T1123,1619,Banff,3,324000,['hiking'],2022-10-16
+T1124,1619,Rome,9,255000,"['hiking', 'safari', 'kayaking']",2025-06-01
+T1125,1957,Cancun,8,66000,"['snorkeling', 'beach']",2021-08-30
+T1126,1957,Barcelona,4,181000,['beach'],2024-04-11
+T1127,1957,Tokyo,4,104000,"['snorkeling', 'spa', 'beach']",2021-11-17
+T1128,1156,Banff,6,282000,"['snorkeling', 'beach']",2023-05-16
+T1129,1156,Banff,7,337000,"['beach', 'spa']",2025-02-15
+T1130,1156,Cape Town,9,269000,"['spa', 'snorkeling']",2023-03-19
+T1131,1090,Cape Town,10,231000,"['shopping', 'wine tasting']",2024-06-02
+T1132,1090,Rome,7,283000,"['wine tasting', 'spa']",2021-07-18
+T1133,1090,Cape Town,10,232000,"['wine tasting', 'spa']",2023-01-31
+T1134,1090,Banff,4,286000,"['shopping', 'spa', 'wine tasting']",2022-02-28
+T1135,1090,Tokyo,10,111000,['wine tasting'],2023-07-24
+T1136,1101,Denver,4,172000,['cultural show'],2022-05-10
+T1137,1101,Cape Town,5,282000,"['food tour', 'museum tour', 'cultural show']",2023-04-19
+T1138,1101,Cancun,9,71000,['cultural show'],2021-11-05
+T1139,1101,Rome,4,255000,"['cultural show', 'food tour']",2022-05-22
+T1140,1101,Cancun,3,80000,"['food tour', 'cultural show']",2021-08-26
+T1141,1094,Cape Town,3,238000,"['beach', 'snorkeling']",2023-06-12
+T1142,1496,Barcelona,3,187000,['kayaking'],2021-11-02
+T1143,1943,Banff,6,244000,"['spa', 'beach']",2025-01-24
+T1144,1943,Bali,10,107000,"['snorkeling', 'beach']",2022-02-26
+T1145,1943,Denver,5,148000,"['beach', 'snorkeling', 'spa']",2023-08-01
+T1146,1943,Paris,4,600000,"['snorkeling', 'beach', 'spa']",2023-06-27
+T1147,1041,Tokyo,7,92000,"['shopping', 'spa']",2023-09-22
+T1148,1041,Tokyo,10,119000,"['wine tasting', 'spa', 'shopping']",2021-10-28
+T1149,1661,Cancun,10,85000,['hiking'],2023-12-29
+T1150,1661,Rome,9,223000,"['safari', 'hiking', 'kayaking']",2022-12-07
+T1151,1661,Cancun,8,68000,"['kayaking', 'hiking']",2025-01-30
+T1152,1862,Barcelona,5,150000,"['food tour', 'cultural show']",2024-03-17
+T1153,1736,Barcelona,9,147000,['food tour'],2024-01-21
+T1154,1736,Bali,9,121000,"['food tour', 'museum tour']",2022-11-12
+T1155,1736,Tokyo,10,83000,"['museum tour', 'cultural show', 'food tour']",2023-04-28
+T1156,1034,Cancun,8,71000,['kayaking'],2024-12-29
+T1157,1034,Rome,8,301000,"['safari', 'kayaking', 'hiking']",2025-05-14
+T1158,1034,Banff,5,262000,['safari'],2024-02-07
+T1159,1034,Cape Town,4,252000,"['kayaking', 'hiking']",2022-12-14
+T1160,1175,Bali,6,115000,"['beach', 'snorkeling', 'spa']",2022-09-18
+T1161,1175,Tokyo,4,110000,"['spa', 'beach']",2021-09-23
+T1162,1035,Barcelona,9,176000,"['spa', 'shopping']",2025-01-29
+T1163,1035,Denver,4,146000,"['shopping', 'wine tasting', 'spa']",2023-11-15
+T1164,1035,Barcelona,6,189000,"['wine tasting', 'spa']",2024-05-27
+T1165,1035,Cape Town,10,239000,"['wine tasting', 'spa']",2024-03-28
+T1166,1148,Tokyo,3,108000,"['safari', 'hiking', 'kayaking']",2024-07-12
+T1167,1148,Paris,10,555000,"['kayaking', 'hiking', 'safari']",2023-05-19
+T1168,1463,Denver,9,152000,['shopping'],2021-07-02
+T1169,1599,Cancun,5,77000,['safari'],2025-03-31
+T1170,1599,Denver,6,181000,['safari'],2022-06-13
+T1171,1682,Bali,5,103000,"['kayaking', 'hiking']",2021-10-03
+T1172,1987,Cancun,8,83000,"['kayaking', 'safari', 'hiking']",2022-09-30
+T1173,1987,Cancun,4,83000,"['safari', 'kayaking', 'hiking']",2024-07-06
+T1174,1987,Cancun,4,90000,"['hiking', 'kayaking', 'safari']",2022-06-25
+T1175,1987,Cancun,6,74000,"['safari', 'hiking', 'kayaking']",2023-12-25
+T1176,1700,Bali,10,112000,"['wine tasting', 'shopping']",2021-12-11
+T1177,1700,Bali,4,117000,['wine tasting'],2023-04-18
+T1178,1700,Bali,6,103000,"['spa', 'shopping']",2023-03-01
+T1179,1700,Tokyo,9,81000,"['wine tasting', 'shopping', 'spa']",2023-02-18
+T1180,1700,Cancun,6,94000,['shopping'],2024-09-05
+T1181,1877,Bali,8,121000,"['kayaking', 'safari', 'hiking']",2022-10-23
+T1182,1877,Cancun,5,81000,"['hiking', 'kayaking']",2023-02-23
+T1183,1877,Bali,8,109000,"['hiking', 'kayaking', 'safari']",2021-08-29
+T1184,1697,Tokyo,7,98000,"['wine tasting', 'shopping', 'spa']",2022-11-03
+T1185,1374,Denver,7,146000,"['hiking', 'safari']",2025-03-19
+T1186,1739,Cape Town,7,246000,"['hiking', 'safari']",2021-11-29
+T1187,1739,Cape Town,7,234000,"['hiking', 'kayaking', 'safari']",2022-10-19
+T1188,1739,Cape Town,6,333000,"['safari', 'hiking']",2022-01-17
+T1189,1635,Rome,7,321000,['wine tasting'],2024-03-25
+T1190,1635,Tokyo,7,100000,"['spa', 'shopping']",2022-12-29
+T1191,1573,Tokyo,10,101000,"['spa', 'wine tasting']",2022-12-03
+T1192,1472,Denver,5,177000,['museum tour'],2022-03-27
+T1193,1472,Denver,7,144000,"['food tour', 'cultural show', 'museum tour']",2024-04-18
+T1194,1472,Barcelona,10,146000,"['cultural show', 'food tour']",2022-01-06
+T1195,1472,Bali,10,92000,"['museum tour', 'cultural show']",2024-03-02
+T1196,1821,Cancun,4,89000,['safari'],2024-05-18
+T1197,1821,Cancun,5,95000,['safari'],2023-05-23
+T1198,1821,Cancun,5,71000,"['hiking', 'kayaking']",2022-04-22
+T1199,1976,Phuket,4,501000,"['wine tasting', 'shopping']",2022-06-10
+T1200,1017,Barcelona,3,169000,"['museum tour', 'cultural show', 'food tour']",2025-02-20
+T1201,1017,Cancun,5,95000,['museum tour'],2024-03-07
+T1202,1207,Barcelona,3,144000,"['food tour', 'museum tour', 'hiking']",2023-06-29
+T1203,1207,Tokyo,5,114000,['museum tour'],2021-11-07
+T1204,1207,Tokyo,5,85000,"['museum tour', 'hiking', 'food tour']",2023-10-09
+T1205,1207,Denver,4,168000,"['museum tour', 'food tour']",2021-12-03
+T1206,1207,Tokyo,10,99000,"['museum tour', 'food tour']",2023-12-18
+T1207,1758,Cape Town,3,315000,['spa'],2022-03-17
+T1208,1758,Denver,8,143000,"['wine tasting', 'shopping']",2025-06-05
+T1209,1244,Barcelona,8,175000,"['beach', 'snorkeling', 'spa']",2022-05-24
+T1210,1244,Tokyo,6,84000,['spa'],2021-08-18
+T1211,1244,Barcelona,4,164000,"['beach', 'snorkeling', 'spa']",2021-08-15
+T1212,1244,Cancun,9,90000,['snorkeling'],2022-12-25
+T1213,1244,Tokyo,6,110000,"['spa', 'snorkeling']",2022-12-23
+T1214,1822,Banff,6,304000,['hiking'],2022-04-29
+T1215,1822,Barcelona,9,197000,"['safari', 'hiking', 'kayaking']",2022-11-10
+T1216,1822,Cape Town,6,231000,"['safari', 'hiking', 'kayaking']",2021-12-01
+T1217,1822,Denver,4,155000,['kayaking'],2024-01-20
+T1218,1241,Bali,3,111000,"['snorkeling', 'spa']",2022-02-16
+T1219,1241,Barcelona,3,180000,"['beach', 'spa']",2021-09-08
+T1220,1065,Bali,5,101000,"['safari', 'kayaking', 'hiking']",2024-05-19
+T1221,1065,Cancun,7,82000,"['kayaking', 'hiking']",2024-02-01
+T1222,1065,Cancun,6,87000,"['kayaking', 'hiking', 'safari']",2023-03-12
+T1223,1065,Denver,5,138000,"['hiking', 'safari', 'kayaking']",2024-06-06
+T1224,1065,Bali,6,90000,"['hiking', 'kayaking', 'safari']",2025-03-10
+T1225,1799,Cancun,6,93000,['spa'],2025-04-22
+T1226,1799,Tokyo,8,112000,['beach'],2021-07-09
+T1227,1799,Tokyo,5,118000,"['spa', 'beach']",2021-10-03
+T1228,1799,Cancun,5,94000,"['spa', 'beach']",2024-08-11
+T1229,1910,Cancun,8,96000,['wine tasting'],2024-05-17
+T1230,1910,Cancun,3,68000,['shopping'],2022-04-17
+T1231,1910,Cancun,5,81000,"['wine tasting', 'spa', 'shopping']",2024-09-28
+T1232,1910,Cancun,3,79000,"['spa', 'wine tasting', 'shopping']",2023-09-18
+T1233,1563,Barcelona,9,160000,"['museum tour', 'food tour', 'hiking']",2024-07-18
+T1234,1563,Barcelona,10,196000,['museum tour'],2021-10-02
+T1235,1191,Tokyo,5,83000,"['spa', 'beach']",2022-11-01
+T1236,1191,Tokyo,5,109000,"['beach', 'spa']",2023-06-05
+T1237,1191,Cancun,7,80000,"['beach', 'spa', 'snorkeling']",2024-10-26
+T1238,1191,Bali,7,119000,"['beach', 'spa']",2024-07-28
+T1239,1191,Bali,8,107000,['snorkeling'],2021-09-07
+T1240,1364,Rome,3,239000,"['wine tasting', 'shopping', 'spa']",2024-07-10
+T1241,1364,Cape Town,5,322000,"['shopping', 'wine tasting']",2021-08-11
+T1242,1364,Cancun,4,72000,['wine tasting'],2023-01-22
+T1243,1364,Paris,4,596000,['shopping'],2021-09-27
+T1244,1364,Rome,3,263000,"['wine tasting', 'shopping']",2023-01-31
+T1245,1747,Barcelona,8,164000,"['spa', 'wine tasting']",2022-07-08
+T1246,1335,Cancun,5,72000,['safari'],2025-01-26
+T1247,1335,Rome,4,256000,"['hiking', 'kayaking']",2023-12-25
+T1248,1335,Rome,3,266000,['hiking'],2025-01-27
+T1249,1335,Rome,4,252000,['safari'],2023-04-29
+T1250,1223,Barcelona,3,207000,"['hiking', 'food tour']",2021-12-29
+T1251,1223,Denver,7,160000,"['hiking', 'food tour', 'museum tour']",2021-10-30
+T1252,1223,Cancun,4,67000,"['hiking', 'museum tour']",2021-10-14
+T1253,1186,Barcelona,10,163000,['kayaking'],2022-11-04
+T1254,1180,Cancun,4,90000,"['hiking', 'safari', 'kayaking']",2022-08-11
+T1255,1180,Banff,7,331000,"['safari', 'kayaking', 'hiking']",2023-11-14
+T1256,1267,Tokyo,3,121000,"['snorkeling', 'beach', 'spa']",2022-03-14
+T1257,1267,Cancun,6,72000,['spa'],2025-01-14
+T1258,1267,Cancun,6,81000,"['beach', 'snorkeling', 'spa']",2025-06-01
+T1259,1267,Cancun,4,90000,"['spa', 'beach', 'snorkeling']",2023-09-24
+T1260,1267,Cancun,5,88000,"['beach', 'snorkeling']",2023-10-13
+T1261,1788,Banff,10,234000,"['spa', 'beach']",2022-05-30
+T1262,1788,Bali,3,96000,"['spa', 'beach', 'snorkeling']",2025-01-08
+T1263,1578,Phuket,9,495000,['spa'],2025-05-13
+T1264,1578,Cancun,3,75000,"['wine tasting', 'spa']",2024-04-03
+T1265,1578,Cancun,3,87000,['shopping'],2023-11-09
+T1266,1578,Bali,5,115000,"['shopping', 'wine tasting', 'spa']",2022-09-05
+T1267,1578,Bali,10,99000,['shopping'],2023-03-27
+T1268,1643,Bali,4,107000,"['kayaking', 'hiking', 'safari']",2021-10-14
+T1269,1643,Denver,10,134000,['safari'],2025-06-03
+T1270,1643,Banff,3,263000,['hiking'],2024-02-14
+T1271,1643,Denver,5,131000,['kayaking'],2023-03-11
+T1272,1643,Banff,4,310000,['hiking'],2021-11-22
+T1273,1419,Cancun,4,83000,['safari'],2022-01-18
+T1274,1419,Cancun,9,96000,"['safari', 'kayaking']",2022-01-25
+T1275,1419,Tokyo,9,110000,"['hiking', 'safari']",2023-11-12
+T1276,1419,Tokyo,10,110000,"['hiking', 'safari']",2021-07-23
+T1277,1494,Tokyo,7,120000,['safari'],2022-09-17
+T1278,1494,Tokyo,3,95000,['kayaking'],2022-05-28
+T1279,1494,Cancun,7,70000,"['safari', 'kayaking']",2024-03-19
+T1280,1494,Bali,6,97000,"['hiking', 'kayaking', 'safari']",2024-05-15
+T1281,1274,Rome,10,284000,"['food tour', 'hiking']",2023-04-06
+T1282,1274,Cancun,9,94000,"['food tour', 'hiking', 'museum tour']",2023-09-04
+T1283,1783,Paris,7,425000,"['beach', 'snorkeling', 'spa']",2021-09-10
+T1284,1783,Paris,6,438000,['spa'],2022-10-05
+T1285,1679,Cancun,4,72000,['food tour'],2024-03-12
+T1286,1531,Rome,6,291000,"['snorkeling', 'beach']",2024-11-24
+T1287,1320,Cape Town,3,298000,"['hiking', 'kayaking', 'safari']",2025-03-14
+T1288,1331,Denver,8,143000,"['food tour', 'hiking', 'museum tour']",2023-11-28
+T1289,1331,Barcelona,4,157000,['hiking'],2022-01-28
+T1290,1331,Cape Town,6,316000,['hiking'],2023-03-15
+T1291,1403,Bali,10,117000,"['spa', 'snorkeling', 'beach']",2022-03-16
+T1292,1403,Barcelona,5,203000,"['snorkeling', 'beach', 'spa']",2023-07-19
+T1293,1403,Bali,10,94000,['spa'],2024-11-23
+T1294,1403,Cancun,4,90000,"['beach', 'spa', 'snorkeling']",2022-08-14
+T1295,1154,Cancun,8,84000,['shopping'],2021-08-22
+T1296,1154,Tokyo,9,96000,['spa'],2024-05-07
+T1297,1154,Cancun,3,64000,"['spa', 'shopping']",2022-10-21
+T1298,1154,Cancun,8,87000,['spa'],2024-12-30
+T1299,1340,Cape Town,6,295000,['safari'],2023-11-16
+T1300,1340,Bali,9,130000,"['hiking', 'safari']",2025-04-02
+T1301,1340,Bali,8,116000,"['hiking', 'safari', 'kayaking']",2024-06-22
+T1302,1340,Bali,8,114000,"['hiking', 'safari', 'kayaking']",2024-02-04
+T1303,1013,Cape Town,6,330000,"['cultural show', 'food tour', 'museum tour']",2022-07-15
+T1304,1013,Phuket,8,557000,"['cultural show', 'museum tour', 'food tour']",2025-01-22
+T1305,1013,Denver,4,171000,['cultural show'],2025-05-10
+T1306,1013,Tokyo,3,94000,"['cultural show', 'museum tour']",2021-07-28
+T1307,1404,Bali,7,108000,"['safari', 'kayaking']",2024-01-08
+T1308,1404,Denver,4,156000,"['hiking', 'kayaking']",2023-10-14
+T1309,1404,Rome,4,234000,"['hiking', 'kayaking', 'safari']",2023-03-08
+T1310,1486,Tokyo,8,113000,['beach'],2022-06-05
+T1311,1486,Bali,5,108000,"['beach', 'spa']",2022-05-13
+T1312,1486,Bali,4,117000,"['snorkeling', 'spa', 'beach']",2024-04-26
+T1313,1486,Bali,8,95000,"['spa', 'beach']",2022-06-02
+T1314,1436,Denver,5,145000,"['snorkeling', 'beach']",2023-07-18
+T1315,1436,Barcelona,6,154000,"['spa', 'beach']",2025-05-13
+T1316,1436,Cancun,3,68000,['beach'],2023-07-04
+T1317,1436,Banff,4,340000,"['spa', 'beach', 'snorkeling']",2022-05-27
+T1318,1921,Tokyo,4,95000,['spa'],2022-01-25
+T1319,1897,Cancun,4,76000,['kayaking'],2024-09-03
+T1320,1897,Cancun,5,70000,"['safari', 'hiking']",2022-10-13
+T1321,1897,Bali,5,93000,"['hiking', 'safari', 'kayaking']",2024-07-07
+T1322,1529,Barcelona,10,153000,"['hiking', 'museum tour']",2024-07-09
+T1323,1529,Cancun,3,93000,"['food tour', 'hiking', 'museum tour']",2023-11-25
+T1324,1529,Cancun,5,85000,"['museum tour', 'hiking']",2022-09-22
+T1325,1785,Cancun,7,95000,"['beach', 'spa']",2022-09-16
+T1326,1464,Cape Town,5,265000,['museum tour'],2024-07-21
+T1327,1464,Cancun,5,79000,['hiking'],2024-05-21
+T1328,1464,Rome,7,289000,"['museum tour', 'hiking', 'food tour']",2024-04-10
+T1329,1464,Phuket,8,431000,"['food tour', 'hiking']",2021-08-22
+T1330,1959,Cancun,5,84000,"['safari', 'hiking', 'kayaking']",2022-12-07
+T1331,1434,Denver,6,167000,"['beach', 'spa']",2024-07-31
+T1332,1434,Barcelona,10,181000,['snorkeling'],2022-09-16
+T1333,1434,Barcelona,3,173000,"['spa', 'beach', 'snorkeling']",2022-02-11
+T1334,1434,Bali,8,106000,['spa'],2022-12-05
+T1335,1434,Tokyo,8,88000,"['beach', 'spa', 'snorkeling']",2025-03-07
+T1336,1840,Rome,6,304000,['beach'],2024-04-03
+T1337,1059,Banff,7,316000,"['spa', 'snorkeling', 'beach']",2021-11-29
+T1338,1059,Cancun,9,89000,"['snorkeling', 'beach']",2021-11-07
+T1339,1059,Banff,7,256000,"['spa', 'snorkeling']",2024-04-19
+T1340,1059,Rome,4,237000,['spa'],2023-09-08
+T1341,1873,Denver,7,136000,"['safari', 'kayaking', 'hiking']",2021-10-30
+T1342,1873,Bali,7,110000,"['kayaking', 'hiking']",2023-04-13
+T1343,1873,Barcelona,3,190000,"['hiking', 'kayaking', 'safari']",2023-10-21
+T1344,1382,Paris,3,490000,['museum tour'],2022-03-13
+T1345,1189,Denver,5,178000,"['kayaking', 'safari']",2023-06-26
+T1346,1189,Bali,6,101000,"['safari', 'hiking', 'kayaking']",2022-03-09
+T1347,1189,Denver,6,162000,"['kayaking', 'safari']",2021-09-20
+T1348,1189,Barcelona,7,179000,"['hiking', 'kayaking']",2024-05-27
+T1349,1491,Denver,7,146000,['spa'],2021-12-18
+T1350,1491,Paris,6,559000,"['shopping', 'spa', 'wine tasting']",2024-03-22
+T1351,1491,Cancun,9,86000,"['shopping', 'spa']",2021-12-17
+T1352,1491,Banff,8,281000,['spa'],2021-07-01
+T1353,1120,Tokyo,8,111000,['museum tour'],2023-09-26
+T1354,1120,Tokyo,7,108000,"['museum tour', 'food tour', 'hiking']",2024-03-31
+T1355,1120,Banff,9,273000,"['museum tour', 'food tour', 'hiking']",2021-10-01
+T1356,1120,Bali,10,122000,['museum tour'],2023-10-23
+T1357,1120,Denver,7,165000,['food tour'],2021-10-22
+T1358,1443,Barcelona,9,154000,['safari'],2021-09-09
+T1359,1443,Cancun,9,67000,"['safari', 'kayaking']",2024-02-25
+T1360,1443,Cape Town,7,298000,['safari'],2022-10-26
+T1361,1884,Denver,4,181000,"['kayaking', 'safari']",2024-01-06
+T1362,1884,Cancun,3,79000,"['hiking', 'kayaking', 'safari']",2022-01-16
+T1363,1884,Tokyo,8,112000,['kayaking'],2025-06-19
+T1364,1884,Bali,8,95000,"['hiking', 'safari', 'kayaking']",2022-02-02
+T1365,1884,Cancun,6,65000,"['safari', 'hiking']",2023-03-05
+T1366,1314,Cancun,7,80000,['snorkeling'],2023-12-20
+T1367,1003,Cape Town,8,303000,"['snorkeling', 'spa']",2021-11-13
+T1368,1003,Banff,5,303000,"['spa', 'beach']",2024-08-03
+T1369,1195,Denver,9,134000,"['cultural show', 'museum tour']",2024-09-07
+T1370,1195,Banff,8,289000,"['cultural show', 'food tour']",2024-10-10
+T1371,1195,Barcelona,9,184000,['food tour'],2022-10-02
+T1372,1205,Denver,8,158000,"['hiking', 'kayaking', 'safari']",2023-04-27
+T1373,1644,Cancun,6,68000,"['snorkeling', 'beach', 'spa']",2022-11-10
+T1374,1644,Tokyo,6,90000,"['spa', 'snorkeling', 'beach']",2023-01-16
+T1375,1644,Tokyo,4,121000,"['beach', 'spa']",2023-01-24
+T1376,1701,Tokyo,6,104000,"['kayaking', 'safari', 'hiking']",2024-06-06
+T1377,1455,Rome,8,315000,"['beach', 'spa', 'snorkeling']",2023-10-24
+T1378,1455,Tokyo,8,108000,"['beach', 'spa', 'snorkeling']",2023-02-19
+T1379,1874,Tokyo,7,86000,['wine tasting'],2022-06-29
+T1380,1874,Tokyo,10,120000,"['wine tasting', 'shopping', 'spa']",2024-04-16
+T1381,1874,Tokyo,10,96000,['spa'],2025-06-25
+T1382,1874,Banff,4,291000,"['shopping', 'wine tasting']",2021-12-04
+T1383,1874,Cancun,3,91000,"['shopping', 'wine tasting']",2022-11-17
+T1384,1923,Cancun,9,90000,"['hiking', 'safari']",2023-06-02
+T1385,1923,Bali,4,130000,['hiking'],2021-11-03
+T1386,1923,Phuket,10,440000,['kayaking'],2022-01-30
+T1387,1923,Cape Town,9,229000,"['safari', 'hiking']",2022-07-06
+T1388,1720,Barcelona,7,200000,"['kayaking', 'hiking', 'safari']",2023-05-23
+T1389,1720,Tokyo,6,91000,"['hiking', 'safari', 'kayaking']",2021-09-04
+T1390,1306,Denver,10,182000,"['safari', 'kayaking', 'hiking']",2025-06-20
+T1391,1306,Tokyo,3,113000,['safari'],2021-12-21
+T1392,1306,Banff,10,253000,"['kayaking', 'hiking', 'safari']",2023-10-10
+T1393,1482,Tokyo,6,106000,"['cultural show', 'museum tour']",2021-09-07
+T1394,1482,Bali,6,108000,['cultural show'],2023-05-27
+T1395,1482,Rome,9,315000,"['food tour', 'museum tour']",2025-05-24
+T1396,1482,Cancun,9,92000,"['food tour', 'museum tour']",2024-01-16
+T1397,1002,Bali,5,97000,"['kayaking', 'safari']",2022-07-26
+T1398,1946,Tokyo,10,112000,"['cultural show', 'food tour', 'museum tour']",2025-01-03
+T1399,1946,Bali,9,120000,['museum tour'],2022-08-25
+T1400,1946,Cancun,10,86000,"['museum tour', 'cultural show']",2025-05-01
+T1401,1946,Cancun,9,88000,"['museum tour', 'food tour']",2025-03-29
+T1402,1946,Cancun,4,78000,['food tour'],2022-03-30
+T1403,1818,Tokyo,8,101000,['spa'],2023-12-13
+T1404,1818,Tokyo,8,119000,"['snorkeling', 'spa', 'beach']",2021-12-05
+T1405,1818,Cancun,10,68000,"['snorkeling', 'beach', 'spa']",2025-05-19
+T1406,1999,Cape Town,8,312000,"['wine tasting', 'shopping']",2021-11-19
+T1407,1956,Cancun,8,65000,"['safari', 'kayaking', 'hiking']",2022-11-09
+T1408,1711,Tokyo,7,120000,['hiking'],2025-06-04
+T1409,1711,Tokyo,3,83000,"['kayaking', 'safari', 'hiking']",2023-01-19
+T1410,1711,Cancun,10,86000,"['kayaking', 'hiking']",2022-02-02
+T1411,1711,Cancun,7,70000,"['safari', 'hiking']",2023-07-02
+T1412,1663,Barcelona,10,211000,"['spa', 'beach']",2023-07-03
+T1413,1663,Denver,8,180000,['spa'],2024-05-01
+T1414,1663,Tokyo,10,86000,"['beach', 'spa', 'snorkeling']",2023-12-12
+T1415,1663,Denver,3,174000,"['snorkeling', 'beach']",2022-01-11
+T1416,1073,Tokyo,8,120000,['spa'],2025-03-17
+T1417,1117,Denver,7,163000,['spa'],2024-07-22
+T1418,1117,Bali,8,104000,"['snorkeling', 'beach']",2021-11-02
+T1419,1117,Denver,9,140000,"['beach', 'snorkeling']",2023-12-25
+T1420,1604,Tokyo,3,91000,"['food tour', 'hiking', 'museum tour']",2023-03-23
+T1421,1604,Bali,6,109000,"['museum tour', 'food tour']",2023-05-05
+T1422,1604,Tokyo,9,118000,['hiking'],2024-04-26
+T1423,1604,Barcelona,8,153000,"['hiking', 'food tour', 'museum tour']",2025-05-01
+T1424,1604,Barcelona,5,145000,"['food tour', 'hiking']",2022-10-26
+T1425,1890,Bali,10,88000,"['wine tasting', 'shopping', 'spa']",2024-02-18
+T1426,1890,Tokyo,3,102000,['spa'],2021-11-14
+T1427,1890,Tokyo,4,95000,"['shopping', 'spa']",2024-06-21
+T1428,1111,Barcelona,5,186000,"['safari', 'hiking']",2022-07-20
+T1429,1111,Banff,3,319000,"['hiking', 'safari']",2025-06-26
+T1430,1005,Denver,4,167000,['kayaking'],2024-09-20
+T1431,1649,Banff,8,282000,"['food tour', 'cultural show', 'museum tour']",2022-04-01
+T1432,1649,Paris,3,429000,"['cultural show', 'museum tour', 'food tour']",2023-04-08
+T1433,1649,Paris,4,471000,"['museum tour', 'food tour', 'cultural show']",2024-11-02
+T1434,1649,Denver,5,138000,"['food tour', 'museum tour', 'cultural show']",2024-12-30
+T1435,1649,Paris,7,504000,"['museum tour', 'cultural show']",2024-03-28
+T1436,1474,Phuket,6,478000,['safari'],2024-02-08
+T1437,1474,Phuket,6,475000,['hiking'],2023-12-12
+T1438,1474,Tokyo,6,111000,"['hiking', 'kayaking', 'safari']",2021-11-05
+T1439,1560,Cancun,3,78000,['safari'],2022-10-21
+T1440,1560,Cancun,3,77000,['kayaking'],2022-04-24
+T1441,1560,Denver,5,172000,"['hiking', 'safari']",2022-12-20
+T1442,1415,Banff,5,256000,"['shopping', 'wine tasting']",2024-10-23
+T1443,1415,Cape Town,8,300000,"['shopping', 'wine tasting', 'spa']",2023-12-28
+T1444,1415,Banff,7,315000,['shopping'],2022-09-29
+T1445,1415,Cape Town,9,225000,"['shopping', 'spa', 'wine tasting']",2024-08-14
+T1446,1415,Cape Town,4,326000,"['shopping', 'spa', 'wine tasting']",2024-09-11
+T1447,1817,Bali,5,92000,['hiking'],2024-01-22
+T1448,1817,Tokyo,5,92000,['hiking'],2024-01-03
+T1449,1817,Rome,7,245000,"['hiking', 'kayaking']",2023-12-30
+T1450,1446,Denver,6,141000,"['beach', 'spa']",2021-09-23
+T1451,1446,Cancun,8,68000,"['beach', 'snorkeling']",2024-11-25
+T1452,1446,Bali,3,98000,"['spa', 'beach']",2022-01-21
+T1453,1446,Rome,4,227000,['beach'],2023-10-23
+T1454,1446,Cancun,3,68000,"['beach', 'spa', 'snorkeling']",2023-11-16
+T1455,1008,Cancun,9,66000,"['snorkeling', 'beach']",2024-01-08
+T1456,1008,Bali,8,129000,['beach'],2025-03-19
+T1457,1355,Tokyo,7,99000,"['kayaking', 'safari']",2023-03-19
+T1458,1056,Tokyo,3,105000,"['safari', 'kayaking', 'hiking']",2023-01-14
+T1459,1056,Bali,6,97000,"['hiking', 'safari', 'kayaking']",2023-12-27
+T1460,1056,Denver,4,172000,"['kayaking', 'hiking']",2022-02-05
+T1461,1056,Rome,9,303000,"['kayaking', 'hiking']",2021-12-10
+T1462,1258,Phuket,9,539000,"['snorkeling', 'beach', 'spa']",2024-03-24
+T1463,1258,Cape Town,5,334000,['spa'],2024-09-05
+T1464,1258,Cancun,6,75000,"['beach', 'spa', 'snorkeling']",2023-06-24
+T1465,1258,Rome,6,260000,['snorkeling'],2024-10-03
+T1466,1258,Barcelona,5,163000,"['beach', 'spa', 'snorkeling']",2023-10-19
+T1467,1726,Cancun,8,86000,"['cultural show', 'museum tour', 'food tour']",2022-05-16
+T1468,1726,Barcelona,6,164000,"['food tour', 'cultural show', 'museum tour']",2022-02-17
+T1469,1473,Rome,4,238000,"['safari', 'hiking']",2025-03-19
+T1470,1473,Banff,3,271000,['kayaking'],2022-03-04
+T1471,1804,Denver,4,135000,"['hiking', 'kayaking', 'safari']",2023-08-17
+T1472,1804,Bali,5,119000,"['safari', 'hiking']",2022-07-17
+T1473,1804,Cancun,4,73000,"['hiking', 'kayaking', 'safari']",2023-08-11
+T1474,1084,Bali,7,121000,"['kayaking', 'safari']",2024-07-08
+T1475,1084,Cancun,6,85000,"['hiking', 'kayaking', 'safari']",2022-01-08
+T1476,1975,Cape Town,6,305000,['wine tasting'],2024-04-04
+T1477,1975,Barcelona,6,214000,"['spa', 'wine tasting', 'shopping']",2025-01-05
+T1478,1159,Cancun,4,65000,"['food tour', 'museum tour']",2025-04-21
+T1479,1159,Tokyo,6,101000,"['food tour', 'museum tour']",2024-08-07
+T1480,1721,Banff,5,271000,"['safari', 'kayaking', 'hiking']",2021-08-15
+T1481,1721,Rome,9,219000,"['hiking', 'kayaking']",2022-09-03
+T1482,1721,Cancun,4,77000,"['hiking', 'kayaking']",2025-05-27
+T1483,1721,Tokyo,5,93000,"['kayaking', 'hiking', 'safari']",2021-12-31
+T1484,1721,Tokyo,8,111000,"['kayaking', 'safari', 'hiking']",2024-04-15
+T1485,1125,Bali,5,96000,"['shopping', 'spa']",2023-11-21
+T1486,1781,Cancun,9,81000,"['kayaking', 'safari']",2025-03-29
+T1487,1781,Cancun,10,87000,['kayaking'],2024-12-30
+T1488,1892,Rome,10,265000,"['spa', 'shopping', 'wine tasting']",2024-11-16
+T1489,1892,Rome,5,267000,['wine tasting'],2024-08-15
+T1490,1892,Banff,3,280000,"['wine tasting', 'spa', 'shopping']",2025-01-05
+T1491,1892,Denver,7,129000,"['spa', 'wine tasting', 'shopping']",2023-01-17
+T1492,1892,Cancun,3,68000,"['spa', 'wine tasting']",2022-09-26
+T1493,1481,Cancun,10,86000,['kayaking'],2023-03-28
+T1494,1389,Paris,7,544000,['food tour'],2024-07-03
+T1495,1550,Cancun,7,82000,['museum tour'],2022-11-30
+T1496,1550,Tokyo,3,86000,['museum tour'],2024-03-14
+T1497,1802,Tokyo,5,90000,['snorkeling'],2023-07-12
+T1498,1383,Cape Town,5,302000,"['cultural show', 'museum tour', 'food tour']",2025-05-12
+T1499,1383,Rome,6,218000,"['museum tour', 'cultural show']",2024-01-10
+T1500,1383,Cape Town,10,252000,['museum tour'],2022-08-26
+T1501,1383,Bali,9,115000,"['food tour', 'cultural show', 'museum tour']",2024-06-12
+T1502,1383,Tokyo,8,119000,"['museum tour', 'food tour']",2022-07-15
+T1503,1934,Banff,5,273000,"['snorkeling', 'spa', 'beach']",2023-04-07
+T1504,1934,Barcelona,5,186000,"['spa', 'snorkeling', 'beach']",2024-06-11
+T1505,1081,Cancun,4,71000,"['shopping', 'spa']",2024-09-25
+T1506,1238,Tokyo,9,107000,"['wine tasting', 'spa']",2024-12-13
+T1507,1238,Banff,8,276000,['shopping'],2022-09-16
+T1508,1238,Tokyo,8,86000,"['shopping', 'spa', 'wine tasting']",2024-01-01
+T1509,1973,Bali,7,93000,"['hiking', 'safari']",2024-03-17
+T1510,1329,Tokyo,3,89000,['museum tour'],2021-10-09
+T1511,1329,Bali,8,114000,['museum tour'],2023-03-23
+T1512,1329,Rome,5,267000,"['cultural show', 'museum tour']",2023-09-07
+T1513,1329,Bali,8,105000,"['museum tour', 'food tour']",2025-04-16
+T1514,1329,Barcelona,3,160000,"['museum tour', 'food tour', 'cultural show']",2022-11-09
+T1515,1202,Denver,10,188000,['safari'],2025-03-10
+T1516,1202,Denver,9,158000,"['safari', 'hiking']",2023-09-30
+T1517,1955,Banff,4,248000,['kayaking'],2024-06-22
+T1518,1955,Banff,7,247000,"['kayaking', 'hiking']",2025-03-09
+T1519,1228,Denver,7,189000,['beach'],2023-12-25
+T1520,1354,Cancun,10,70000,"['spa', 'shopping', 'wine tasting']",2022-09-11
+T1521,1354,Cancun,5,77000,['spa'],2021-09-03
+T1522,1354,Cancun,8,64000,"['spa', 'shopping']",2023-12-17
+T1523,1354,Cancun,8,89000,"['wine tasting', 'shopping', 'spa']",2023-01-21
+T1524,1354,Cancun,6,93000,"['wine tasting', 'shopping']",2023-09-06
+T1525,1216,Barcelona,9,205000,['safari'],2023-05-27
+T1526,1216,Cancun,9,71000,['hiking'],2022-11-22
+T1527,1216,Tokyo,5,106000,"['kayaking', 'safari', 'hiking']",2021-12-23
+T1528,1216,Rome,10,302000,"['safari', 'hiking', 'kayaking']",2024-05-04
+T1529,1594,Banff,9,287000,"['museum tour', 'food tour', 'hiking']",2023-04-02
+T1530,1594,Tokyo,10,111000,['museum tour'],2021-11-26
+T1531,1594,Cape Town,6,262000,['museum tour'],2022-03-15
+T1532,1594,Denver,9,186000,['food tour'],2023-09-19
+T1533,1050,Cancun,8,82000,"['hiking', 'kayaking']",2024-09-16
+T1534,1050,Cape Town,9,296000,['kayaking'],2024-05-01
+T1535,1050,Banff,8,325000,['kayaking'],2022-08-08
+T1536,1050,Bali,3,121000,"['hiking', 'safari', 'kayaking']",2021-09-25
+T1537,1941,Barcelona,4,181000,['snorkeling'],2025-04-18
+T1538,1941,Barcelona,5,210000,"['snorkeling', 'beach']",2023-08-25
+T1539,1941,Barcelona,3,190000,['spa'],2023-02-24
+T1540,1590,Phuket,6,424000,"['wine tasting', 'spa']",2024-09-22
+T1541,1590,Phuket,6,460000,"['spa', 'wine tasting']",2023-10-28
+T1542,1803,Cape Town,7,277000,['kayaking'],2023-01-15
+T1543,1605,Cape Town,9,287000,['beach'],2024-10-24
+T1544,1605,Denver,9,193000,['spa'],2021-09-17
+T1545,1605,Paris,7,438000,"['beach', 'spa', 'snorkeling']",2021-12-03
+T1546,1605,Barcelona,9,175000,"['snorkeling', 'beach', 'spa']",2024-02-10
+T1547,1201,Cancun,3,75000,['shopping'],2024-11-10
+T1548,1201,Cancun,3,95000,"['spa', 'shopping', 'wine tasting']",2025-02-24
+T1549,1201,Cancun,4,72000,['wine tasting'],2023-05-15
+T1550,1613,Denver,7,165000,['beach'],2023-09-10
+T1551,1194,Tokyo,7,94000,"['spa', 'beach', 'snorkeling']",2024-06-21
+T1552,1194,Cancun,7,74000,"['beach', 'snorkeling']",2024-07-14
+T1553,1789,Barcelona,5,178000,"['spa', 'beach']",2022-10-08
+T1554,1789,Bali,4,122000,"['snorkeling', 'beach', 'spa']",2021-11-07
+T1555,1719,Barcelona,6,149000,"['hiking', 'kayaking']",2023-10-14
+T1556,1719,Paris,8,472000,['safari'],2022-11-29
+T1557,1719,Cape Town,4,250000,"['safari', 'kayaking']",2024-02-25
+T1558,1719,Barcelona,4,194000,"['safari', 'kayaking']",2024-04-21
+T1559,1831,Barcelona,5,197000,"['hiking', 'kayaking']",2025-06-23
+T1560,1831,Rome,8,263000,['hiking'],2022-03-14
+T1561,1236,Cancun,5,88000,"['safari', 'hiking', 'kayaking']",2023-04-16
+T1562,1236,Barcelona,10,155000,"['hiking', 'safari']",2023-11-27
+T1563,1236,Tokyo,7,82000,"['kayaking', 'safari', 'hiking']",2023-09-10
+T1564,1589,Banff,10,327000,"['safari', 'kayaking']",2024-09-01
+T1565,1589,Cancun,6,95000,['safari'],2024-10-28
+T1566,1589,Barcelona,7,181000,['kayaking'],2022-01-18
+T1567,1589,Paris,6,514000,['safari'],2023-09-10
+T1568,1255,Banff,9,241000,"['safari', 'hiking']",2024-04-07
+T1569,1255,Rome,4,226000,['safari'],2022-07-20
+T1570,1667,Banff,8,302000,"['kayaking', 'safari', 'hiking']",2022-04-25
+T1571,1593,Banff,8,273000,"['kayaking', 'safari']",2023-04-02
+T1572,1593,Tokyo,10,112000,"['hiking', 'safari', 'kayaking']",2022-04-05
+T1573,1555,Bali,8,104000,['beach'],2023-05-13
+T1574,1345,Cancun,5,68000,"['kayaking', 'safari', 'hiking']",2024-04-03
+T1575,1345,Tokyo,6,85000,"['kayaking', 'safari']",2023-02-20
+T1576,1345,Rome,5,291000,"['safari', 'kayaking']",2021-08-04
+T1577,1298,Bali,7,119000,['museum tour'],2022-02-20
+T1578,1298,Tokyo,9,111000,"['food tour', 'hiking', 'museum tour']",2025-05-21
+T1579,1298,Cancun,8,76000,"['hiking', 'museum tour', 'food tour']",2022-02-17
+T1580,1298,Cancun,9,94000,"['hiking', 'museum tour']",2022-01-04
+T1581,1349,Rome,10,269000,"['food tour', 'museum tour']",2022-08-06
+T1582,1349,Bali,6,102000,['hiking'],2022-01-02
+T1583,1979,Tokyo,9,100000,"['safari', 'kayaking']",2022-12-02
+T1584,1979,Paris,4,469000,"['kayaking', 'hiking']",2024-07-24
+T1585,1979,Denver,10,188000,"['kayaking', 'hiking']",2023-12-19
+T1586,1422,Rome,4,274000,"['beach', 'snorkeling', 'spa']",2025-02-10
+T1587,1422,Cape Town,3,304000,"['snorkeling', 'beach', 'spa']",2024-10-15
+T1588,1047,Paris,8,597000,"['kayaking', 'hiking', 'safari']",2023-07-20
+T1589,1047,Paris,6,429000,"['safari', 'hiking', 'kayaking']",2025-05-29
+T1590,1676,Tokyo,3,91000,"['wine tasting', 'shopping']",2025-02-12
+T1591,1641,Cancun,5,85000,"['hiking', 'kayaking']",2023-06-01
+T1592,1641,Barcelona,6,193000,"['safari', 'hiking', 'kayaking']",2023-08-31
+T1593,1641,Cancun,9,65000,['safari'],2022-08-23
+T1594,1019,Rome,10,299000,"['spa', 'beach']",2021-07-09
+T1595,1372,Denver,5,177000,"['snorkeling', 'beach']",2021-09-01
+T1596,1865,Denver,8,138000,['kayaking'],2023-10-09
+T1597,1865,Denver,9,161000,['hiking'],2022-03-13
+T1598,1293,Paris,9,512000,['wine tasting'],2024-05-27
+T1599,1293,Banff,9,240000,"['spa', 'shopping']",2021-10-11
+T1600,1293,Barcelona,3,158000,"['wine tasting', 'shopping']",2021-12-14
+T1601,1293,Banff,5,326000,['shopping'],2022-07-17
+T1602,1680,Paris,9,453000,['museum tour'],2022-10-06
+T1603,1309,Barcelona,10,176000,"['safari', 'kayaking', 'hiking']",2024-08-24
+T1604,1309,Bali,10,129000,"['safari', 'hiking']",2025-05-29
+T1605,1309,Barcelona,5,150000,"['safari', 'hiking']",2022-01-27
+T1606,1309,Bali,7,91000,['hiking'],2023-01-25
+T1607,1309,Cape Town,5,249000,"['safari', 'hiking']",2022-09-23
+T1608,1268,Phuket,6,582000,"['food tour', 'cultural show']",2025-04-29
+T1609,1268,Cape Town,8,323000,"['cultural show', 'museum tour', 'food tour']",2025-05-12
+T1610,1437,Bali,7,112000,['safari'],2024-10-06
+T1611,1828,Tokyo,8,96000,"['hiking', 'kayaking', 'safari']",2021-09-20
+T1612,1828,Tokyo,5,115000,"['kayaking', 'hiking']",2024-04-15
+T1613,1828,Tokyo,9,103000,['safari'],2023-03-02
+T1614,1828,Cancun,6,70000,"['hiking', 'safari']",2025-03-15
+T1615,1358,Phuket,8,484000,"['cultural show', 'food tour']",2023-05-13
+T1616,1358,Rome,7,298000,"['food tour', 'museum tour']",2021-10-14
+T1617,1358,Cape Town,10,290000,"['food tour', 'cultural show', 'museum tour']",2023-09-21
+T1618,1754,Cancun,10,86000,"['spa', 'snorkeling', 'beach']",2025-05-31
+T1619,1754,Denver,5,191000,"['snorkeling', 'beach']",2021-10-20
+T1620,1754,Tokyo,7,86000,['spa'],2023-01-10
+T1621,1754,Barcelona,6,174000,"['beach', 'spa', 'snorkeling']",2023-02-09
+T1622,1754,Bali,5,129000,"['beach', 'spa', 'snorkeling']",2022-03-15
+T1623,1177,Denver,8,167000,"['hiking', 'safari']",2023-10-07
+T1624,1638,Rome,9,269000,['safari'],2022-03-01
+T1625,1638,Bali,3,92000,['kayaking'],2022-09-13
+T1626,1638,Denver,4,143000,"['safari', 'hiking', 'kayaking']",2025-04-01
+T1627,1638,Phuket,7,481000,"['kayaking', 'hiking']",2023-03-26
+T1628,1638,Paris,5,430000,"['kayaking', 'hiking', 'safari']",2021-10-20
+T1629,1060,Cape Town,4,269000,"['kayaking', 'safari']",2023-01-11
+T1630,1386,Bali,5,118000,"['kayaking', 'hiking']",2025-01-11
+T1631,1386,Paris,5,443000,"['hiking', 'kayaking', 'safari']",2022-08-10
+T1632,1724,Phuket,10,490000,"['cultural show', 'food tour']",2024-05-13
+T1633,1724,Cape Town,3,303000,"['museum tour', 'food tour']",2021-07-29
+T1634,1790,Barcelona,3,163000,"['food tour', 'museum tour']",2022-06-20
+T1635,1584,Denver,7,190000,"['hiking', 'safari']",2024-07-22
+T1636,1584,Barcelona,3,163000,"['hiking', 'safari', 'kayaking']",2025-03-24
+T1637,1584,Tokyo,9,95000,['hiking'],2023-11-25
+T1638,1584,Rome,9,279000,"['hiking', 'safari', 'kayaking']",2024-01-01
+T1639,1433,Cancun,3,72000,['safari'],2025-01-16
+T1640,1433,Tokyo,6,104000,['safari'],2024-05-12
+T1641,1433,Tokyo,9,91000,"['hiking', 'kayaking']",2022-12-18
+T1642,1433,Cancun,5,72000,"['kayaking', 'hiking']",2022-08-25
+T1643,1433,Barcelona,6,200000,"['safari', 'hiking', 'kayaking']",2025-05-16
+T1644,1766,Rome,4,231000,['safari'],2024-06-15
+T1645,1107,Cancun,8,94000,['kayaking'],2024-09-11
+T1646,1107,Cancun,10,86000,"['kayaking', 'safari']",2023-08-02
+T1647,1107,Cancun,10,86000,"['kayaking', 'safari']",2023-06-21
+T1648,1107,Barcelona,8,180000,['safari'],2022-06-09
+T1649,1968,Cancun,10,69000,"['kayaking', 'hiking', 'safari']",2022-10-12
+T1650,1993,Paris,7,518000,"['beach', 'snorkeling', 'spa']",2021-10-09
+T1651,1678,Tokyo,10,115000,"['beach', 'snorkeling', 'spa']",2023-02-10
+T1652,1811,Denver,5,186000,"['hiking', 'safari']",2023-03-09
+T1653,1811,Bali,10,101000,"['hiking', 'kayaking']",2022-02-02
+T1654,1811,Cancun,10,66000,"['safari', 'kayaking']",2023-11-05
+T1655,1811,Rome,7,314000,"['kayaking', 'hiking', 'safari']",2023-10-08
+T1656,1811,Barcelona,6,156000,"['safari', 'kayaking', 'hiking']",2022-04-21
+T1657,1099,Denver,6,178000,"['hiking', 'kayaking', 'safari']",2021-07-22
+T1658,1099,Cancun,4,78000,['safari'],2022-02-27
+T1659,1099,Cancun,9,92000,['kayaking'],2023-03-19
+T1660,1099,Tokyo,8,96000,['hiking'],2022-08-07
+T1661,1233,Cancun,3,93000,['spa'],2021-07-17
+T1662,1233,Bali,10,93000,['shopping'],2021-08-19
+T1663,1233,Cape Town,5,299000,"['wine tasting', 'spa', 'shopping']",2022-09-29
+T1664,1233,Barcelona,8,176000,['wine tasting'],2022-09-24
+T1665,1242,Cape Town,3,239000,"['spa', 'beach']",2023-03-05
+T1666,1810,Cancun,8,69000,"['spa', 'wine tasting']",2024-12-13
+T1667,1810,Cancun,10,69000,['spa'],2024-02-16
+T1668,1304,Bali,6,114000,"['spa', 'shopping']",2025-03-07
+T1669,1304,Rome,7,272000,"['shopping', 'wine tasting']",2022-08-18
+T1670,1304,Rome,5,224000,"['wine tasting', 'spa', 'shopping']",2025-05-03
+T1671,1304,Cape Town,4,237000,"['shopping', 'spa', 'wine tasting']",2022-04-29
+T1672,1414,Tokyo,9,98000,"['snorkeling', 'spa', 'beach']",2023-11-25
+T1673,1484,Cancun,6,70000,"['spa', 'snorkeling']",2022-10-23
+T1674,1484,Banff,6,317000,"['beach', 'spa', 'snorkeling']",2025-06-19
+T1675,1484,Cape Town,6,254000,"['snorkeling', 'beach']",2023-08-01
+T1676,1988,Bali,9,108000,"['safari', 'kayaking', 'hiking']",2024-05-12
+T1677,1988,Tokyo,4,117000,"['safari', 'hiking', 'kayaking']",2022-04-22
+T1678,1988,Tokyo,10,104000,"['safari', 'kayaking']",2023-04-17
+T1679,1988,Cancun,3,93000,"['hiking', 'safari', 'kayaking']",2022-11-11
+T1680,1930,Banff,10,340000,['safari'],2022-04-28
+T1681,1930,Rome,8,306000,"['kayaking', 'hiking', 'safari']",2023-04-09
+T1682,1930,Banff,3,266000,['hiking'],2024-03-08
+T1683,1930,Paris,7,445000,['kayaking'],2022-02-25
+T1684,1930,Barcelona,5,157000,['safari'],2025-03-02
+T1685,1181,Denver,4,160000,"['wine tasting', 'spa', 'shopping']",2025-03-11
+T1686,1181,Rome,3,278000,['shopping'],2021-10-28
+T1687,1012,Rome,10,264000,"['kayaking', 'hiking']",2025-01-26
+T1688,1012,Cancun,7,66000,"['kayaking', 'hiking', 'safari']",2022-08-24
+T1689,1012,Denver,9,168000,"['hiking', 'kayaking', 'safari']",2023-05-22
+T1690,1618,Barcelona,4,213000,"['cultural show', 'food tour']",2021-09-30
+T1691,1085,Cape Town,9,276000,"['food tour', 'museum tour']",2023-02-03
+T1692,1085,Tokyo,7,112000,['food tour'],2024-01-22
+T1693,1085,Denver,8,183000,"['cultural show', 'museum tour', 'food tour']",2022-12-12
+T1694,1085,Cape Town,4,253000,"['museum tour', 'food tour', 'cultural show']",2023-06-01
+T1695,1843,Barcelona,6,171000,"['snorkeling', 'spa']",2022-06-01
+T1696,1654,Rome,7,218000,"['kayaking', 'hiking', 'safari']",2022-04-24
+T1697,1654,Bali,3,119000,"['safari', 'kayaking']",2024-01-23
+T1698,1654,Cape Town,5,334000,['hiking'],2021-11-18
+T1699,1677,Rome,9,223000,"['beach', 'spa', 'snorkeling']",2022-07-04
+T1700,1677,Banff,5,323000,"['spa', 'beach']",2023-06-23
+T1701,1677,Rome,5,215000,"['snorkeling', 'spa', 'beach']",2021-09-27
+T1702,1517,Rome,7,301000,"['hiking', 'kayaking', 'safari']",2023-07-14
+T1703,1517,Rome,5,314000,"['safari', 'kayaking']",2024-11-06
+T1704,1517,Bali,10,128000,['hiking'],2022-03-30
+T1705,1517,Rome,10,215000,"['kayaking', 'safari']",2021-12-07
+T1706,1517,Banff,8,252000,"['hiking', 'safari', 'kayaking']",2022-01-03
+T1707,1895,Denver,9,180000,"['kayaking', 'hiking', 'safari']",2023-05-16
+T1708,1895,Tokyo,9,110000,"['kayaking', 'safari']",2025-02-04
+T1709,1826,Tokyo,6,92000,"['beach', 'snorkeling', 'spa']",2023-02-25
+T1710,1135,Bali,6,108000,['safari'],2024-05-20
+T1711,1848,Cancun,4,75000,['hiking'],2022-05-04
+T1712,1848,Barcelona,4,182000,"['kayaking', 'safari', 'hiking']",2023-02-20
+T1713,1848,Denver,8,166000,"['hiking', 'kayaking', 'safari']",2023-01-16
+T1714,1848,Barcelona,9,170000,"['hiking', 'kayaking']",2025-03-13
+T1715,1848,Barcelona,9,147000,['kayaking'],2023-07-05
+T1716,1870,Barcelona,7,163000,['spa'],2023-11-29
+T1717,1870,Barcelona,7,160000,"['spa', 'snorkeling']",2021-12-01
+T1718,1870,Rome,4,280000,['snorkeling'],2024-06-06
+T1719,1870,Banff,6,284000,"['beach', 'spa', 'snorkeling']",2025-04-20
+T1720,1870,Bali,6,110000,"['beach', 'spa']",2022-10-19
+T1721,1160,Cancun,5,73000,['spa'],2024-10-10
+T1722,1160,Tokyo,3,93000,"['shopping', 'spa']",2023-11-27
+T1723,1160,Bali,7,109000,"['shopping', 'spa', 'wine tasting']",2022-12-14
+T1724,1686,Rome,9,221000,['spa'],2021-09-16
+T1725,1686,Paris,8,435000,['spa'],2025-01-14
+T1726,1598,Cancun,8,81000,"['hiking', 'safari', 'kayaking']",2024-07-07
+T1727,1598,Barcelona,10,148000,"['hiking', 'safari']",2021-11-16
+T1728,1598,Paris,8,497000,['kayaking'],2023-08-25
+T1729,1577,Cape Town,3,276000,['safari'],2021-08-10
+T1730,1577,Bali,5,119000,"['kayaking', 'safari', 'hiking']",2021-12-08
+T1731,1911,Barcelona,4,147000,"['snorkeling', 'spa', 'beach']",2024-12-28
+T1732,1911,Rome,6,270000,"['beach', 'snorkeling', 'spa']",2024-08-04
+T1733,1911,Bali,10,125000,['snorkeling'],2021-11-24
+T1734,1911,Tokyo,3,92000,"['snorkeling', 'beach']",2022-05-22
+T1735,1673,Tokyo,8,84000,['beach'],2022-01-24
+T1736,1898,Rome,9,232000,"['beach', 'snorkeling']",2023-08-02
+T1737,1898,Paris,9,427000,['beach'],2022-01-02
+T1738,1898,Banff,10,300000,['beach'],2021-11-02
+T1739,1898,Barcelona,4,151000,['spa'],2023-07-09
+T1740,1710,Bali,7,116000,"['wine tasting', 'shopping', 'spa']",2024-07-02
+T1741,1710,Bali,5,123000,['spa'],2023-12-13
+T1742,1710,Tokyo,10,91000,"['wine tasting', 'spa', 'shopping']",2024-08-18
+T1743,1710,Bali,3,120000,"['shopping', 'spa', 'wine tasting']",2023-05-14
+T1744,1710,Bali,6,107000,['spa'],2022-03-11
+T1745,1121,Cape Town,3,324000,"['hiking', 'safari', 'kayaking']",2022-09-21
+T1746,1121,Banff,7,245000,"['kayaking', 'safari']",2023-01-08
+T1747,1121,Barcelona,9,199000,['hiking'],2023-03-11
+T1748,1737,Tokyo,8,88000,"['food tour', 'hiking', 'museum tour']",2023-04-29
+T1749,1737,Barcelona,9,195000,['museum tour'],2024-05-29
+T1750,1737,Tokyo,7,110000,"['museum tour', 'hiking', 'food tour']",2024-12-11
+T1751,1737,Barcelona,5,205000,"['museum tour', 'hiking', 'food tour']",2024-06-28
+T1752,1737,Tokyo,5,107000,['hiking'],2022-11-29
+T1753,1187,Bali,5,106000,"['spa', 'wine tasting', 'shopping']",2022-09-23
+T1754,1187,Tokyo,10,100000,"['wine tasting', 'shopping', 'spa']",2025-02-07
+T1755,1187,Cancun,9,72000,"['wine tasting', 'spa', 'shopping']",2022-03-17
+T1756,1187,Cancun,9,91000,"['spa', 'wine tasting', 'shopping']",2023-01-28
+T1757,1187,Bali,8,128000,['spa'],2023-06-07
+T1758,1016,Tokyo,6,121000,"['snorkeling', 'beach', 'spa']",2025-03-30
+T1759,1301,Barcelona,10,205000,['beach'],2023-05-13
+T1760,1301,Cancun,4,88000,"['snorkeling', 'spa', 'beach']",2022-09-23
+T1761,1301,Barcelona,9,212000,['beach'],2023-06-06
+T1762,1301,Barcelona,4,144000,"['beach', 'spa']",2023-11-14
+T1763,1459,Cancun,9,74000,"['hiking', 'safari']",2024-03-31
+T1764,1459,Banff,8,250000,['hiking'],2024-09-23
+T1765,1459,Cancun,4,75000,"['hiking', 'safari']",2023-12-25
+T1766,1623,Cape Town,3,245000,['kayaking'],2024-07-22
+T1767,1623,Cancun,7,69000,"['kayaking', 'safari', 'hiking']",2025-05-06
+T1768,1623,Cape Town,4,329000,['hiking'],2022-07-24
+T1769,1651,Phuket,8,602000,"['hiking', 'museum tour', 'food tour']",2021-09-01
+T1770,1651,Denver,6,175000,"['hiking', 'museum tour']",2024-12-12
+T1771,1651,Cancun,9,67000,"['hiking', 'museum tour', 'food tour']",2022-04-29
+T1772,1651,Phuket,4,472000,"['hiking', 'museum tour', 'food tour']",2025-01-12
+T1773,1651,Banff,3,286000,"['museum tour', 'hiking']",2021-09-09
+T1774,1709,Barcelona,6,163000,"['beach', 'snorkeling']",2024-08-07
+T1775,1709,Tokyo,4,84000,"['snorkeling', 'spa', 'beach']",2023-01-08
+T1776,1709,Barcelona,3,170000,"['snorkeling', 'spa', 'beach']",2024-04-20
+T1777,1709,Denver,6,139000,"['spa', 'snorkeling']",2024-02-03
+T1778,1106,Cancun,8,90000,['snorkeling'],2022-02-28
+T1779,1106,Barcelona,7,154000,['spa'],2023-08-08
+T1780,1106,Banff,6,330000,"['snorkeling', 'spa', 'beach']",2021-07-28
+T1781,1106,Tokyo,10,104000,"['beach', 'spa', 'snorkeling']",2024-03-16
+T1782,1106,Banff,9,269000,"['snorkeling', 'spa']",2024-06-08
+T1783,1457,Cancun,10,77000,['hiking'],2025-03-08
+T1784,1457,Cancun,10,67000,"['safari', 'kayaking', 'hiking']",2024-06-27
+T1785,1023,Cancun,4,76000,['spa'],2025-05-19
+T1786,1023,Cape Town,9,266000,"['spa', 'shopping']",2022-04-04
+T1787,1836,Denver,3,189000,['food tour'],2022-11-12
+T1788,1069,Cancun,3,72000,['shopping'],2023-04-08
+T1789,1069,Bali,7,99000,['wine tasting'],2022-12-22
+T1790,1426,Bali,4,109000,['museum tour'],2025-04-23
+T1791,1426,Tokyo,9,113000,"['cultural show', 'food tour']",2025-06-26
+T1792,1426,Bali,10,126000,['food tour'],2025-03-17
+T1793,1426,Bali,8,92000,"['cultural show', 'food tour']",2022-08-02
+T1794,1493,Cancun,7,85000,['hiking'],2024-07-24
+T1795,1493,Tokyo,7,93000,['hiking'],2021-09-15
+T1796,1493,Bali,6,122000,['safari'],2025-01-11
+T1797,1493,Denver,4,161000,['hiking'],2022-04-16
+T1798,1311,Tokyo,9,90000,"['safari', 'hiking', 'kayaking']",2025-05-07
+T1799,1311,Banff,9,338000,"['kayaking', 'safari']",2023-09-20
+T1800,1311,Banff,4,325000,['kayaking'],2024-04-15
+T1801,1815,Rome,6,253000,['museum tour'],2022-03-17
+T1802,1815,Cancun,8,88000,"['food tour', 'museum tour']",2021-08-16
+T1803,1815,Bali,3,105000,"['cultural show', 'museum tour']",2024-02-27
+T1804,1980,Cancun,8,84000,"['hiking', 'safari', 'kayaking']",2022-03-07
+T1805,1980,Tokyo,5,100000,"['safari', 'kayaking', 'hiking']",2022-05-21
+T1806,1980,Bali,3,114000,['hiking'],2021-06-30
+T1807,1980,Tokyo,7,100000,"['hiking', 'safari']",2023-01-08
+T1808,1980,Tokyo,3,86000,"['hiking', 'safari']",2022-02-25
+T1809,1388,Bali,8,120000,"['hiking', 'kayaking']",2022-09-06
+T1810,1388,Barcelona,4,193000,"['safari', 'hiking']",2025-04-19
+T1811,1388,Banff,3,343000,['safari'],2023-02-12
+T1812,1388,Phuket,9,543000,"['hiking', 'safari', 'kayaking']",2023-07-27
+T1813,1368,Cape Town,10,284000,"['snorkeling', 'beach']",2023-10-09
+T1814,1368,Denver,10,145000,"['beach', 'spa', 'snorkeling']",2025-03-11
+T1815,1368,Cape Town,7,276000,"['spa', 'snorkeling', 'beach']",2023-05-29
+T1816,1368,Rome,7,232000,['beach'],2023-12-11
+T1817,1878,Banff,8,229000,"['shopping', 'wine tasting']",2025-04-28
+T1818,1878,Cape Town,6,225000,"['spa', 'shopping', 'wine tasting']",2025-02-17
+T1819,1074,Tokyo,3,103000,"['spa', 'beach']",2023-07-11
+T1820,1074,Tokyo,7,104000,['beach'],2024-09-08
+T1821,1074,Denver,9,129000,"['snorkeling', 'spa']",2024-10-21
+T1822,1074,Cancun,9,67000,"['beach', 'spa']",2023-06-17
+T1823,1218,Cape Town,5,316000,['hiking'],2022-09-24
+T1824,1218,Cancun,4,71000,"['safari', 'hiking', 'kayaking']",2021-09-05
+T1825,1530,Barcelona,3,154000,"['spa', 'beach', 'snorkeling']",2024-02-05
+T1826,1530,Cancun,8,75000,['beach'],2023-04-30
+T1827,1530,Rome,9,263000,"['spa', 'snorkeling', 'beach']",2021-11-11
+T1828,1530,Tokyo,8,83000,"['beach', 'snorkeling', 'spa']",2021-12-11
+T1829,1530,Tokyo,10,99000,['snorkeling'],2022-06-27
+T1830,1265,Barcelona,3,153000,"['beach', 'spa', 'snorkeling']",2021-07-09
+T1831,1622,Phuket,4,437000,"['safari', 'kayaking']",2025-02-07
+T1832,1622,Cape Town,10,263000,"['hiking', 'kayaking', 'safari']",2024-08-04
+T1833,1622,Barcelona,5,183000,"['kayaking', 'safari']",2022-06-22
+T1834,1110,Barcelona,3,198000,"['museum tour', 'hiking']",2025-06-27
+T1835,1110,Barcelona,10,198000,['hiking'],2023-07-12
+T1836,1110,Cancun,9,88000,"['museum tour', 'food tour']",2021-10-02
+T1837,1110,Bali,7,113000,"['food tour', 'hiking', 'museum tour']",2023-03-15
+T1838,1110,Bali,3,113000,"['museum tour', 'food tour']",2022-07-30
+T1839,1408,Bali,4,121000,"['spa', 'wine tasting', 'shopping']",2022-11-25
+T1840,1408,Banff,4,319000,"['shopping', 'spa']",2024-07-20
+T1841,1408,Cape Town,4,279000,"['wine tasting', 'spa', 'shopping']",2024-09-16
+T1842,1408,Barcelona,6,194000,"['spa', 'shopping']",2022-06-17
+T1843,1985,Rome,3,300000,"['snorkeling', 'spa', 'beach']",2022-08-23
+T1844,1985,Banff,7,332000,"['snorkeling', 'beach']",2021-07-07
+T1845,1985,Denver,8,181000,['snorkeling'],2023-04-01
+T1846,1985,Tokyo,6,102000,"['beach', 'snorkeling', 'spa']",2022-03-18
+T1847,1688,Rome,4,272000,['hiking'],2023-11-03
+T1848,1185,Tokyo,7,120000,['food tour'],2023-10-23
+T1849,1185,Tokyo,4,85000,['food tour'],2023-06-27
+T1850,1185,Rome,8,223000,"['hiking', 'museum tour', 'food tour']",2023-04-21
+T1851,1286,Bali,3,124000,"['safari', 'kayaking', 'hiking']",2021-11-24
+T1852,1286,Banff,8,240000,['safari'],2022-04-24
+T1853,1286,Paris,3,592000,['safari'],2022-06-23
+T1854,1286,Phuket,5,436000,"['hiking', 'safari', 'kayaking']",2021-07-29
+T1855,1286,Barcelona,5,204000,"['hiking', 'kayaking']",2023-02-10
+T1856,1587,Cancun,5,75000,"['food tour', 'hiking']",2023-06-21
+T1857,1587,Cape Town,5,265000,['museum tour'],2024-01-22
+T1858,1587,Cape Town,7,310000,"['museum tour', 'hiking']",2024-05-14
+T1859,1587,Phuket,3,561000,"['museum tour', 'food tour', 'hiking']",2023-09-03
+T1860,1587,Tokyo,4,95000,"['food tour', 'museum tour']",2022-02-20
+T1861,1366,Denver,3,185000,"['shopping', 'spa']",2023-02-19
+T1862,1366,Cape Town,10,320000,['spa'],2025-06-06
+T1863,1366,Tokyo,6,105000,"['spa', 'shopping']",2022-02-20
+T1864,1452,Cancun,5,90000,"['food tour', 'museum tour']",2025-02-07
+T1865,1452,Cancun,6,89000,"['museum tour', 'food tour']",2024-03-01
+T1866,1708,Cancun,3,70000,['safari'],2021-09-20
+T1867,1061,Bali,3,88000,"['wine tasting', 'shopping', 'spa']",2023-04-18
+T1868,1061,Banff,8,292000,"['spa', 'wine tasting']",2022-05-11
+T1869,1061,Denver,3,131000,['spa'],2023-11-23
+T1870,1061,Tokyo,6,83000,"['shopping', 'spa', 'wine tasting']",2022-10-16
+T1871,1061,Denver,8,186000,"['spa', 'shopping', 'wine tasting']",2024-03-16
+T1872,1971,Cancun,4,68000,"['kayaking', 'hiking', 'safari']",2023-03-08
+T1873,1664,Rome,3,264000,"['snorkeling', 'spa']",2024-11-23
+T1874,1664,Barcelona,10,159000,"['spa', 'snorkeling']",2022-01-10
+T1875,1664,Tokyo,3,88000,"['spa', 'beach', 'snorkeling']",2022-06-03
+T1876,1664,Tokyo,10,98000,"['snorkeling', 'spa', 'beach']",2022-06-10
+T1877,1664,Denver,10,151000,['snorkeling'],2023-04-05
+T1878,1439,Cancun,6,91000,"['spa', 'snorkeling', 'beach']",2024-08-24
+T1879,1439,Bali,10,108000,"['snorkeling', 'beach', 'spa']",2022-09-09
+T1880,1675,Tokyo,3,107000,"['beach', 'spa']",2022-08-12
+T1881,1675,Cancun,3,74000,"['beach', 'spa']",2024-12-31
+T1882,1675,Banff,3,231000,['beach'],2023-05-17
+T1883,1675,Barcelona,4,210000,"['beach', 'snorkeling']",2022-06-08
+T1884,1675,Cape Town,9,247000,['snorkeling'],2025-06-28
+T1885,1997,Cancun,8,70000,['kayaking'],2025-01-09
+T1886,1997,Barcelona,7,160000,"['kayaking', 'safari']",2021-10-20
+T1887,1997,Denver,4,153000,"['kayaking', 'hiking', 'safari']",2023-06-02
+T1888,1997,Barcelona,8,193000,"['hiking', 'safari']",2022-03-07
+T1889,1809,Bali,4,96000,['safari'],2025-05-03
+T1890,1809,Tokyo,3,92000,"['safari', 'kayaking']",2024-04-16
+T1891,1809,Denver,8,146000,['hiking'],2022-06-27
+T1892,1809,Denver,3,171000,['safari'],2024-09-19
+T1893,1809,Tokyo,9,108000,['hiking'],2022-08-04
+T1894,1742,Cancun,10,69000,"['kayaking', 'safari', 'hiking']",2024-02-04
+T1895,1742,Bali,6,105000,"['safari', 'kayaking', 'hiking']",2022-05-22
+T1896,1838,Bali,8,111000,"['beach', 'snorkeling', 'spa']",2023-11-08
+T1897,1838,Cancun,7,90000,"['beach', 'snorkeling']",2022-01-09
+T1898,1838,Bali,9,120000,['spa'],2022-12-21
+T1899,1838,Tokyo,6,110000,"['spa', 'beach', 'snorkeling']",2022-11-13
+T1900,1307,Denver,3,151000,['spa'],2021-09-25
+T1901,1307,Rome,3,297000,['spa'],2023-02-25
+T1902,1307,Barcelona,6,152000,['wine tasting'],2025-04-26
+T1903,1850,Cancun,5,84000,['food tour'],2022-01-08
+T1904,1850,Bali,3,119000,['cultural show'],2021-10-25
+T1905,1134,Bali,8,110000,"['hiking', 'kayaking']",2023-03-25
+T1906,1592,Denver,7,159000,"['beach', 'snorkeling']",2024-10-21
+T1907,1592,Barcelona,9,203000,"['snorkeling', 'beach']",2021-07-28
+T1908,1769,Banff,5,308000,"['snorkeling', 'spa', 'beach']",2022-12-10
+T1909,1769,Cancun,4,80000,"['snorkeling', 'spa']",2023-10-14
+T1910,1769,Cape Town,5,314000,"['spa', 'snorkeling']",2025-02-19
+T1911,1769,Cape Town,3,283000,['snorkeling'],2025-05-07
+T1912,1718,Banff,9,263000,['kayaking'],2024-05-25
+T1913,1718,Rome,9,260000,"['safari', 'hiking', 'kayaking']",2022-09-27
+T1914,1057,Tokyo,3,85000,['safari'],2023-11-23
+T1915,1674,Barcelona,7,203000,['safari'],2023-04-21
+T1916,1672,Cape Town,3,312000,"['shopping', 'wine tasting', 'spa']",2024-02-20
+T1917,1757,Cancun,5,64000,"['food tour', 'museum tour', 'cultural show']",2022-04-06
+T1918,1757,Bali,7,112000,['cultural show'],2024-07-14
+T1919,1757,Bali,4,103000,"['museum tour', 'food tour', 'cultural show']",2023-07-22
+T1920,1965,Barcelona,7,196000,"['museum tour', 'hiking', 'food tour']",2022-12-23
+T1921,1318,Tokyo,10,111000,"['spa', 'snorkeling']",2023-10-29
+T1922,1318,Denver,8,171000,"['spa', 'snorkeling', 'beach']",2024-03-17
+T1923,1291,Cancun,5,85000,['safari'],2023-06-05
+T1924,1046,Banff,4,262000,"['hiking', 'safari']",2022-04-23
+T1925,1046,Tokyo,3,100000,['hiking'],2023-03-13
+T1926,1277,Barcelona,9,191000,"['beach', 'snorkeling', 'spa']",2022-08-14
+T1927,1277,Banff,4,314000,"['snorkeling', 'beach', 'spa']",2024-09-14
+T1928,1277,Cape Town,9,271000,"['spa', 'beach']",2025-04-11
+T1929,1277,Cape Town,4,276000,"['beach', 'snorkeling', 'spa']",2024-01-09
+T1930,1846,Cancun,7,95000,['cultural show'],2024-10-26
+T1931,1931,Rome,9,293000,['cultural show'],2023-06-14
+T1932,1931,Cape Town,7,262000,"['museum tour', 'cultural show', 'food tour']",2023-05-13
+T1933,1224,Banff,8,330000,"['spa', 'beach']",2022-08-07
+T1934,1224,Cape Town,7,298000,"['beach', 'snorkeling']",2022-10-09
+T1935,1535,Cancun,7,93000,"['safari', 'hiking', 'kayaking']",2022-08-30
+T1936,1280,Cancun,6,86000,['kayaking'],2024-10-04
+T1937,1280,Tokyo,7,81000,"['hiking', 'safari']",2024-06-24
+T1938,1280,Cancun,9,87000,['hiking'],2023-03-06
+T1939,1000,Banff,5,311000,['hiking'],2022-12-10
+T1940,1000,Cancun,10,92000,"['hiking', 'kayaking', 'safari']",2023-05-10
+T1941,1000,Phuket,5,424000,['safari'],2024-08-06
+T1942,1000,Banff,9,276000,['hiking'],2024-07-21
+T1943,1000,Cancun,3,90000,"['kayaking', 'safari', 'hiking']",2025-05-30
+T1944,1449,Cancun,4,71000,['museum tour'],2025-04-01
+T1945,1449,Denver,4,139000,"['food tour', 'cultural show']",2025-01-12
+T1946,1761,Rome,6,295000,['hiking'],2025-02-18
+T1947,1761,Cape Town,3,251000,"['museum tour', 'hiking']",2023-01-24
+T1948,1761,Bali,10,108000,"['hiking', 'food tour']",2022-12-13
+T1949,1761,Denver,4,164000,"['food tour', 'hiking', 'museum tour']",2024-02-12
+T1950,1839,Phuket,9,604000,"['hiking', 'safari']",2022-12-04
+T1951,1066,Paris,10,481000,['safari'],2023-06-20
+T1952,1066,Paris,3,596000,['hiking'],2023-08-29
+T1953,1066,Paris,8,452000,['hiking'],2024-09-23
+T1954,1066,Rome,9,222000,['hiking'],2024-04-27
+T1955,1066,Banff,4,292000,"['hiking', 'safari', 'kayaking']",2021-12-27
+T1956,1772,Barcelona,7,158000,"['snorkeling', 'beach', 'spa']",2023-07-09
+T1957,1435,Bali,10,124000,['spa'],2024-01-09
+T1958,1339,Tokyo,6,94000,"['spa', 'shopping']",2023-06-05
+T1959,1339,Bali,9,101000,['wine tasting'],2025-04-08
+T1960,1339,Tokyo,7,83000,"['wine tasting', 'shopping', 'spa']",2023-09-14
+T1961,1339,Cancun,6,96000,['spa'],2023-03-08
+T1962,1576,Cape Town,9,260000,['kayaking'],2021-12-09
+T1963,1552,Barcelona,10,202000,"['kayaking', 'safari', 'hiking']",2024-09-05
+T1964,1294,Tokyo,7,88000,['kayaking'],2025-04-13
+T1965,1294,Tokyo,3,81000,['safari'],2024-01-28
+T1966,1294,Cancun,3,82000,"['safari', 'hiking', 'kayaking']",2024-07-06
+T1967,1538,Barcelona,8,189000,"['beach', 'spa']",2023-05-23
+T1968,1538,Barcelona,5,197000,"['snorkeling', 'spa', 'beach']",2024-12-08
+T1969,1538,Barcelona,8,151000,['snorkeling'],2025-03-10
+T1970,1538,Bali,7,106000,"['beach', 'snorkeling']",2021-11-29
+T1971,1748,Rome,9,292000,['safari'],2022-10-03
+T1972,1748,Barcelona,6,159000,"['safari', 'hiking', 'kayaking']",2023-10-09
+T1973,1748,Cancun,3,71000,['hiking'],2022-03-13
+T1974,1748,Cancun,3,94000,"['kayaking', 'hiking', 'safari']",2023-07-22
+T1975,1245,Barcelona,9,148000,"['hiking', 'kayaking']",2022-07-15
+T1976,1257,Cape Town,7,322000,['hiking'],2022-08-20
+T1977,1257,Cancun,7,82000,"['hiking', 'kayaking']",2024-11-12
+T1978,1257,Denver,6,137000,"['kayaking', 'safari']",2023-05-14
+T1979,1257,Tokyo,5,83000,"['hiking', 'safari', 'kayaking']",2023-07-20
+T1980,1257,Barcelona,7,192000,"['safari', 'hiking']",2024-03-11
+T1981,1161,Cancun,4,80000,"['beach', 'spa']",2025-01-12
+T1982,1161,Cancun,5,92000,"['beach', 'snorkeling', 'spa']",2023-01-08
+T1983,1161,Cancun,6,72000,"['spa', 'snorkeling']",2024-09-16
+T1984,1161,Cancun,8,92000,"['snorkeling', 'spa']",2022-02-19
+T1985,1161,Cancun,7,73000,"['snorkeling', 'beach']",2023-09-24
+T1986,1893,Rome,10,321000,['hiking'],2024-06-20
+T1987,1893,Banff,7,338000,"['hiking', 'kayaking']",2024-09-02
+T1988,1893,Tokyo,10,86000,['hiking'],2025-06-28
+T1989,1639,Cape Town,4,333000,"['food tour', 'cultural show', 'museum tour']",2022-09-23
+T1990,1639,Cancun,4,72000,"['cultural show', 'food tour']",2022-12-15
+T1991,1525,Tokyo,10,97000,"['shopping', 'spa']",2022-07-25
+T1992,1525,Barcelona,9,180000,['spa'],2023-05-07
+T1993,1525,Banff,9,335000,['wine tasting'],2021-12-18
+T1994,1525,Tokyo,4,98000,"['wine tasting', 'spa']",2024-10-20
+T1995,1467,Denver,4,184000,"['wine tasting', 'shopping']",2022-05-24
+T1996,1467,Banff,3,242000,"['spa', 'shopping', 'wine tasting']",2025-02-07
+T1997,1467,Cancun,7,65000,"['shopping', 'wine tasting', 'spa']",2024-03-27
+T1998,1467,Tokyo,10,86000,"['spa', 'shopping']",2024-06-06
+T1999,1860,Denver,3,186000,"['spa', 'snorkeling']",2023-11-16
+T2000,1860,Tokyo,9,111000,"['snorkeling', 'spa', 'beach']",2021-10-13
+T2001,1860,Banff,3,263000,['spa'],2022-10-09
+T2002,1647,Cancun,5,84000,['beach'],2024-02-02
+T2003,1647,Cape Town,9,224000,"['spa', 'snorkeling', 'beach']",2021-07-13
+T2004,1247,Cape Town,7,260000,"['shopping', 'wine tasting', 'spa']",2024-08-04
+T2005,1247,Tokyo,7,113000,"['spa', 'wine tasting']",2022-01-08
+T2006,1247,Cancun,6,78000,['shopping'],2023-05-01
+T2007,1247,Denver,5,171000,"['spa', 'wine tasting']",2023-07-29
+T2008,1546,Rome,10,220000,"['beach', 'snorkeling', 'spa']",2023-06-27
+T2009,1239,Tokyo,4,81000,['hiking'],2023-01-13
+T2010,1239,Cape Town,10,248000,"['food tour', 'hiking', 'museum tour']",2024-10-06
+T2011,1239,Phuket,3,612000,['hiking'],2025-05-16
+T2012,1220,Tokyo,10,100000,"['snorkeling', 'beach', 'spa']",2025-05-01
+T2013,1220,Cape Town,4,323000,"['beach', 'snorkeling', 'spa']",2022-06-03
+T2014,1220,Phuket,4,418000,"['spa', 'snorkeling', 'beach']",2022-02-27
+T2015,1834,Cancun,5,76000,['museum tour'],2025-01-03
+T2016,1834,Cancun,6,77000,"['museum tour', 'food tour', 'cultural show']",2023-10-15
+T2017,1834,Cancun,8,95000,"['food tour', 'museum tour', 'cultural show']",2023-06-26
+T2018,1834,Cancun,6,82000,"['food tour', 'museum tour']",2021-12-07
+T2019,1834,Cancun,9,71000,['museum tour'],2022-05-27
+T2020,1092,Tokyo,5,119000,"['snorkeling', 'spa', 'beach']",2023-08-02
+T2021,1092,Cape Town,8,304000,['beach'],2022-09-02
+T2022,1092,Barcelona,5,173000,['snorkeling'],2024-04-23
+T2023,1092,Banff,4,299000,"['beach', 'snorkeling', 'spa']",2022-12-18
+T2024,1092,Tokyo,3,106000,['beach'],2023-09-25
+T2025,1114,Bali,10,107000,['kayaking'],2021-09-29
+T2026,1114,Cancun,10,82000,['safari'],2025-01-07
+T2027,1114,Banff,10,255000,"['safari', 'kayaking']",2023-06-19
+T2028,1114,Barcelona,8,177000,"['hiking', 'kayaking']",2023-09-30
+T2029,1541,Denver,10,180000,"['snorkeling', 'beach']",2022-08-07
+T2030,1541,Denver,10,193000,"['beach', 'spa', 'snorkeling']",2022-07-17
+T2031,1984,Tokyo,7,103000,"['shopping', 'wine tasting', 'spa']",2024-07-19
+T2032,1984,Phuket,10,416000,['shopping'],2023-06-29
+T2033,1984,Barcelona,4,173000,"['spa', 'wine tasting', 'shopping']",2025-06-03
+T2034,1984,Tokyo,6,90000,"['shopping', 'wine tasting']",2023-01-14
+T2035,1076,Denver,9,143000,"['safari', 'kayaking', 'hiking']",2022-05-01
+T2036,1986,Banff,3,297000,"['shopping', 'wine tasting']",2022-05-19
+T2037,1986,Rome,10,293000,"['shopping', 'spa']",2024-01-29
+T2038,1986,Banff,5,268000,['shopping'],2021-12-28
+T2039,1837,Barcelona,7,154000,"['spa', 'snorkeling']",2022-03-09
+T2040,1837,Tokyo,3,112000,"['beach', 'snorkeling', 'spa']",2023-02-21
+T2041,1837,Denver,4,150000,['spa'],2025-02-26
+T2042,1837,Bali,7,121000,['snorkeling'],2024-10-20
+T2043,1837,Denver,9,146000,"['snorkeling', 'beach', 'spa']",2022-04-13
+T2044,1913,Paris,5,543000,"['hiking', 'museum tour', 'food tour']",2024-01-01
+T2045,1913,Bali,5,93000,"['hiking', 'museum tour']",2022-01-25
+T2046,1132,Denver,5,145000,['food tour'],2022-12-01
+T2047,1132,Cancun,4,92000,"['cultural show', 'museum tour', 'food tour']",2022-11-04
+T2048,1527,Cancun,3,84000,['beach'],2023-11-20
+T2049,1791,Banff,7,333000,"['safari', 'hiking', 'kayaking']",2024-05-25
+T2050,1791,Cancun,9,81000,"['kayaking', 'safari']",2021-12-11
+T2051,1791,Bali,4,110000,"['safari', 'kayaking']",2025-01-10
+T2052,1791,Denver,4,155000,['kayaking'],2025-02-20
+T2053,1058,Tokyo,9,105000,['hiking'],2022-06-16
+T2054,1058,Denver,9,160000,"['kayaking', 'safari', 'hiking']",2023-07-15
+T2055,1058,Cancun,3,95000,['safari'],2024-11-15
+T2056,1289,Banff,5,296000,"['hiking', 'museum tour', 'food tour']",2023-10-15
+T2057,1289,Denver,8,167000,"['food tour', 'hiking', 'museum tour']",2023-02-06
+T2058,1289,Cancun,10,69000,['museum tour'],2021-09-07
+T2059,1246,Barcelona,6,151000,"['safari', 'kayaking']",2025-06-09
+T2060,1246,Paris,9,423000,"['safari', 'kayaking']",2022-06-09
+T2061,1370,Cape Town,4,276000,"['shopping', 'wine tasting', 'spa']",2022-09-03
+T2062,1370,Banff,10,318000,['spa'],2023-10-16
+T2063,1876,Bali,9,115000,"['food tour', 'museum tour']",2023-12-31
+T2064,1876,Cancun,9,81000,['cultural show'],2022-04-16
+T2065,1040,Bali,5,90000,['beach'],2023-11-09
+T2066,1040,Rome,4,281000,"['beach', 'snorkeling']",2023-10-04
+T2067,1040,Rome,4,300000,['beach'],2024-04-14
+T2068,1040,Cape Town,4,308000,"['spa', 'snorkeling']",2022-03-27
+T2069,1089,Cancun,5,67000,"['food tour', 'museum tour', 'cultural show']",2023-12-07
+T2070,1089,Rome,10,298000,"['food tour', 'museum tour', 'cultural show']",2025-06-19
+T2071,1089,Bali,6,88000,"['museum tour', 'food tour']",2021-08-01
+T2072,1089,Tokyo,5,86000,['food tour'],2023-06-05
+T2073,1192,Banff,5,272000,['spa'],2022-06-18
+T2074,1192,Cancun,8,69000,['spa'],2022-10-13
+T2075,1430,Cancun,3,84000,['hiking'],2023-12-11
+T2076,1430,Denver,6,156000,"['kayaking', 'safari', 'hiking']",2021-11-17
+T2077,1430,Denver,4,177000,"['kayaking', 'safari', 'hiking']",2025-02-14
+T2078,1430,Cancun,9,73000,"['kayaking', 'safari']",2024-02-08
+T2079,1068,Cancun,6,88000,['spa'],2023-01-02
+T2080,1068,Bali,4,117000,['snorkeling'],2025-05-21
+T2081,1068,Bali,3,107000,['snorkeling'],2022-10-23
+T2082,1741,Rome,4,228000,['food tour'],2023-04-06
+T2083,1741,Paris,10,481000,"['museum tour', 'hiking', 'food tour']",2022-04-02
+T2084,1543,Phuket,5,438000,"['safari', 'hiking']",2022-10-22
+T2085,1139,Tokyo,6,98000,['wine tasting'],2024-11-20
+T2086,1139,Cancun,7,87000,"['shopping', 'wine tasting', 'spa']",2023-10-31
+T2087,1139,Cape Town,9,302000,['shopping'],2024-11-26
+T2088,1139,Denver,8,153000,"['wine tasting', 'spa', 'shopping']",2023-03-07
+T2089,1395,Banff,9,281000,"['kayaking', 'safari']",2021-08-01
+T2090,1969,Barcelona,10,178000,"['snorkeling', 'beach', 'spa']",2025-02-26
+T2091,1969,Barcelona,5,212000,"['spa', 'snorkeling']",2024-12-09
+T2092,1969,Rome,9,282000,['beach'],2022-07-31
+T2093,1969,Bali,9,98000,"['beach', 'spa', 'snorkeling']",2021-11-02
+T2094,1118,Cape Town,7,299000,"['spa', 'snorkeling']",2024-10-02
+T2095,1118,Denver,5,145000,"['beach', 'spa', 'snorkeling']",2021-10-29
+T2096,1118,Tokyo,4,83000,"['spa', 'snorkeling']",2023-03-11
+T2097,1118,Barcelona,9,156000,"['beach', 'spa', 'snorkeling']",2024-06-13
+T2098,1658,Denver,10,161000,['beach'],2024-03-25
+T2099,1658,Bali,4,103000,['spa'],2024-04-23
+T2100,1658,Barcelona,6,213000,"['spa', 'beach']",2022-09-04
+T2101,1927,Tokyo,4,106000,['shopping'],2025-04-10
+T2102,1796,Cape Town,6,236000,['kayaking'],2023-12-15
+T2103,1796,Denver,7,184000,"['safari', 'hiking', 'kayaking']",2022-01-27
+T2104,1796,Denver,5,131000,['safari'],2022-07-08
+T2105,1796,Phuket,4,596000,"['hiking', 'kayaking', 'safari']",2024-05-30
+T2106,1350,Cancun,10,87000,"['beach', 'spa', 'snorkeling']",2025-05-22
+T2107,1734,Rome,7,222000,"['spa', 'snorkeling']",2022-02-16
+T2108,1734,Cancun,8,92000,"['snorkeling', 'spa']",2021-06-30
+T2109,1734,Tokyo,9,117000,"['snorkeling', 'spa', 'beach']",2022-11-03
+T2110,1734,Rome,10,321000,"['snorkeling', 'spa']",2025-06-07
+T2111,1879,Denver,5,168000,"['safari', 'kayaking', 'hiking']",2025-05-20
+T2112,1879,Bali,7,88000,['safari'],2024-05-25
+T2113,1879,Cape Town,3,228000,"['hiking', 'safari', 'kayaking']",2022-11-19
+T2114,1879,Banff,10,323000,"['kayaking', 'safari']",2025-06-28
+T2115,1554,Cape Town,7,240000,['wine tasting'],2024-02-28
+T2116,1554,Rome,9,281000,"['shopping', 'wine tasting', 'spa']",2024-08-11
+T2117,1385,Rome,4,275000,['snorkeling'],2022-04-30
+T2118,1385,Phuket,3,535000,"['spa', 'snorkeling']",2023-03-18
+T2119,1936,Cancun,6,83000,"['safari', 'hiking']",2023-11-05
+T2120,1936,Cancun,4,87000,['safari'],2024-06-27
+T2121,1936,Cancun,9,78000,"['kayaking', 'safari', 'hiking']",2022-09-10
+T2122,1936,Cancun,3,87000,['kayaking'],2021-11-18
+T2123,1936,Cancun,10,70000,"['hiking', 'safari', 'kayaking']",2023-05-08
+T2124,1608,Barcelona,3,179000,"['snorkeling', 'beach', 'spa']",2022-06-15
+T2125,1608,Bali,9,104000,"['spa', 'snorkeling']",2022-08-12
+T2126,1608,Rome,9,221000,"['beach', 'spa', 'snorkeling']",2022-12-05
+T2127,1014,Tokyo,9,96000,['food tour'],2024-12-13
+T2128,1375,Tokyo,4,112000,"['cultural show', 'food tour', 'museum tour']",2022-11-26
+T2129,1375,Cape Town,9,232000,['food tour'],2024-12-09
+T2130,1375,Bali,4,96000,"['museum tour', 'food tour', 'cultural show']",2022-01-04
+T2131,1082,Cancun,5,78000,"['hiking', 'safari', 'kayaking']",2024-03-23
+T2132,1082,Cancun,8,85000,"['kayaking', 'hiking']",2025-01-15
+T2133,1082,Cancun,8,86000,['hiking'],2025-03-30
+T2134,1082,Cancun,10,95000,['kayaking'],2021-09-19
+T2135,1597,Bali,6,114000,['hiking'],2021-11-24
+T2136,1597,Tokyo,9,111000,['safari'],2022-10-16
+T2137,1702,Bali,10,121000,['safari'],2024-02-08
+T2138,1779,Barcelona,9,173000,"['snorkeling', 'beach', 'spa']",2024-09-19
+T2139,1779,Rome,10,279000,"['snorkeling', 'spa']",2022-01-09
+T2140,1756,Banff,7,324000,"['safari', 'hiking', 'kayaking']",2025-06-27
+T2141,1756,Bali,5,131000,"['safari', 'hiking', 'kayaking']",2023-10-15
+T2142,1756,Barcelona,10,158000,['hiking'],2023-01-02
+T2143,1756,Tokyo,9,117000,"['safari', 'kayaking', 'hiking']",2022-04-02
+T2144,1088,Cancun,7,83000,['beach'],2025-03-11
+T2145,1363,Barcelona,10,184000,['hiking'],2024-07-09
+T2146,1363,Cape Town,4,312000,"['kayaking', 'hiking']",2022-04-12
+T2147,1273,Cancun,8,78000,['hiking'],2022-10-29
+T2148,1273,Cancun,8,95000,"['hiking', 'food tour']",2024-08-11
+T2149,1652,Barcelona,5,167000,['spa'],2022-08-28
+T2150,1652,Barcelona,4,179000,['beach'],2022-10-08
+T2151,1652,Bali,4,110000,"['spa', 'snorkeling', 'beach']",2024-04-28
+T2152,1652,Bali,10,95000,"['spa', 'snorkeling', 'beach']",2021-12-23
+T2153,1652,Cancun,8,66000,"['spa', 'beach', 'snorkeling']",2024-01-30
+T2154,1172,Banff,3,258000,"['kayaking', 'safari']",2021-12-06
+T2155,1172,Denver,4,162000,"['hiking', 'safari', 'kayaking']",2022-10-18
+T2156,1172,Rome,9,293000,"['hiking', 'safari']",2023-12-17
+T2157,1559,Banff,7,297000,['hiking'],2023-06-15
+T2158,1559,Cancun,7,73000,"['kayaking', 'hiking']",2023-05-11
+T2159,1559,Cape Town,8,333000,"['hiking', 'kayaking', 'safari']",2021-07-14
+T2160,1559,Banff,9,331000,"['kayaking', 'safari']",2023-06-08
+T2161,1103,Cancun,3,77000,['hiking'],2022-05-28
+T2162,1103,Bali,7,104000,"['hiking', 'safari']",2023-10-05
+T2163,1759,Barcelona,7,186000,"['kayaking', 'hiking']",2021-10-07
+T2164,1759,Cape Town,8,291000,"['hiking', 'kayaking', 'safari']",2023-08-21
+T2165,1759,Banff,3,327000,['kayaking'],2023-02-10
+T2166,1759,Banff,10,269000,['kayaking'],2023-07-20
+T2167,1759,Cancun,3,79000,"['hiking', 'safari']",2024-03-01
+T2168,1671,Bali,8,124000,"['shopping', 'wine tasting']",2025-02-05
+T2169,1671,Cancun,10,69000,"['spa', 'shopping']",2021-07-23
+T2170,1671,Bali,8,108000,"['shopping', 'spa', 'wine tasting']",2025-06-22
+T2171,1671,Bali,5,92000,"['spa', 'wine tasting']",2022-01-16
+T2172,1371,Cancun,10,77000,"['safari', 'kayaking', 'hiking']",2022-02-19
+T2173,1371,Rome,6,228000,['safari'],2024-01-31
+T2174,1371,Denver,5,186000,['safari'],2022-07-28
+T2175,1371,Cape Town,9,241000,"['kayaking', 'safari', 'hiking']",2023-05-16
+T2176,1371,Barcelona,4,200000,"['safari', 'kayaking', 'hiking']",2024-02-21
+T2177,1045,Barcelona,9,178000,['museum tour'],2025-04-09
+T2178,1045,Rome,8,260000,['food tour'],2024-01-18
+T2179,1045,Barcelona,10,193000,['cultural show'],2023-05-31
+T2180,1045,Cape Town,5,329000,"['cultural show', 'museum tour', 'food tour']",2022-11-17
+T2181,1428,Cancun,6,69000,['museum tour'],2025-01-05
+T2182,1428,Cancun,6,94000,"['museum tour', 'cultural show', 'food tour']",2021-07-05
+T2183,1428,Denver,10,141000,"['museum tour', 'food tour']",2024-04-11
+T2184,1428,Tokyo,5,89000,['cultural show'],2022-05-30
+T2185,1453,Cape Town,6,323000,"['safari', 'kayaking']",2024-11-04
+T2186,1453,Banff,7,249000,"['safari', 'kayaking', 'hiking']",2021-09-26
+T2187,1521,Cancun,6,74000,"['hiking', 'kayaking']",2025-01-20
+T2188,1521,Cancun,4,78000,['safari'],2025-03-11
+T2189,1521,Cancun,9,68000,['kayaking'],2023-01-17
+T2190,1521,Cancun,3,71000,['hiking'],2022-08-03
+T2191,1521,Cancun,4,89000,"['safari', 'kayaking']",2024-03-08
+T2192,1823,Paris,10,487000,['hiking'],2025-03-21
+T2193,1823,Paris,5,459000,"['hiking', 'kayaking']",2024-09-13
+T2194,1823,Cape Town,3,272000,"['safari', 'hiking', 'kayaking']",2022-04-02
+T2195,1730,Rome,4,259000,"['spa', 'beach', 'snorkeling']",2023-11-20
+T2196,1011,Denver,4,162000,"['cultural show', 'food tour', 'museum tour']",2023-09-23
+T2197,1011,Tokyo,8,97000,"['cultural show', 'food tour', 'museum tour']",2022-05-01
+T2198,1011,Bali,5,104000,"['museum tour', 'food tour', 'cultural show']",2022-05-11
+T2199,1011,Cancun,10,76000,"['food tour', 'museum tour', 'cultural show']",2024-01-14
+T2200,1214,Paris,9,510000,"['hiking', 'kayaking', 'safari']",2024-04-27
+T2201,1214,Cape Town,5,275000,"['hiking', 'kayaking', 'safari']",2023-10-20
+T2202,1214,Tokyo,10,118000,"['kayaking', 'hiking', 'safari']",2023-04-23
+T2203,1344,Cape Town,3,324000,"['safari', 'hiking', 'kayaking']",2023-05-22
+T2204,1705,Barcelona,7,166000,['museum tour'],2022-03-06
+T2205,1705,Cancun,8,87000,"['cultural show', 'food tour']",2023-05-17
+T2206,1705,Bali,9,127000,"['cultural show', 'museum tour', 'food tour']",2022-09-01
+T2207,1705,Denver,9,152000,"['museum tour', 'cultural show']",2024-04-29
+T2208,1725,Rome,5,291000,"['shopping', 'wine tasting', 'spa']",2022-03-02
+T2209,1725,Paris,6,557000,"['spa', 'shopping', 'wine tasting']",2024-12-13
+T2210,1725,Phuket,10,481000,['wine tasting'],2024-05-19
+T2211,1725,Tokyo,3,108000,"['shopping', 'spa', 'wine tasting']",2022-11-19
+T2212,1725,Cape Town,8,316000,"['wine tasting', 'spa']",2023-05-14
+T2213,1147,Denver,9,130000,['wine tasting'],2023-01-13
+T2214,1299,Banff,10,311000,['safari'],2024-11-12
+T2215,1283,Bali,3,99000,['cultural show'],2022-12-10
+T2216,1283,Cancun,6,68000,['cultural show'],2021-10-18
+T2217,1283,Barcelona,4,147000,"['cultural show', 'food tour', 'museum tour']",2023-02-03
+T2218,1750,Tokyo,10,104000,"['kayaking', 'safari', 'hiking']",2025-01-17
+T2219,1412,Tokyo,10,111000,['hiking'],2024-12-19
+T2220,1634,Tokyo,5,112000,['kayaking'],2022-02-16
+T2221,1634,Tokyo,6,86000,"['hiking', 'safari', 'kayaking']",2025-02-17
+T2222,1634,Denver,9,177000,['kayaking'],2022-07-03
+T2223,1634,Cancun,8,81000,"['safari', 'hiking']",2024-12-08
+T2224,1634,Rome,6,315000,['safari'],2025-04-07
+T2225,1800,Cancun,6,68000,"['kayaking', 'safari']",2022-06-20
+T2226,1800,Bali,5,117000,"['safari', 'hiking', 'kayaking']",2023-01-08
+T2227,1800,Denver,10,190000,"['safari', 'hiking']",2024-08-18
+T2228,1800,Tokyo,10,118000,['safari'],2023-12-06
+T2229,1800,Bali,7,107000,['hiking'],2025-05-28
+T2230,1746,Rome,3,237000,"['museum tour', 'cultural show']",2024-03-20
+T2231,1746,Cape Town,7,321000,['cultural show'],2025-06-02
+T2232,1746,Cancun,4,83000,['cultural show'],2024-02-29
+T2233,1746,Cape Town,9,315000,"['museum tour', 'cultural show', 'food tour']",2021-09-26
+T2234,1891,Cancun,8,72000,"['kayaking', 'safari']",2022-04-25
+T2235,1891,Cancun,5,78000,"['kayaking', 'hiking', 'safari']",2022-02-20
+T2236,1740,Tokyo,8,103000,"['safari', 'kayaking', 'hiking']",2024-06-12
+T2237,1173,Bali,3,125000,"['spa', 'beach']",2023-10-10
+T2238,1916,Bali,5,117000,"['kayaking', 'safari', 'hiking']",2021-12-26
+T2239,1916,Barcelona,3,178000,"['hiking', 'kayaking', 'safari']",2025-06-09
+T2240,1916,Barcelona,5,169000,['hiking'],2023-09-23
+T2241,1916,Barcelona,5,197000,['kayaking'],2024-06-29
+T2242,1916,Cancun,10,89000,"['hiking', 'kayaking']",2025-05-06
+T2243,1567,Tokyo,5,91000,['food tour'],2022-10-03
+T2244,1567,Bali,7,119000,"['food tour', 'museum tour', 'cultural show']",2022-12-20
+T2245,1567,Denver,10,185000,"['food tour', 'cultural show']",2022-12-20
+T2246,1567,Rome,4,254000,"['food tour', 'cultural show', 'museum tour']",2025-03-20
+T2247,1226,Bali,6,101000,['food tour'],2024-10-17
+T2248,1226,Denver,9,162000,"['food tour', 'museum tour']",2024-07-25
+T2249,1226,Tokyo,6,113000,['food tour'],2023-04-01
+T2250,1305,Bali,5,91000,"['kayaking', 'hiking']",2023-12-25
+T2251,1031,Barcelona,10,167000,"['hiking', 'museum tour', 'food tour']",2025-04-30
+T2252,1523,Cancun,3,81000,"['museum tour', 'cultural show']",2022-11-21
+T2253,1523,Bali,3,102000,"['food tour', 'museum tour', 'cultural show']",2024-04-23
+T2254,1523,Tokyo,9,86000,['cultural show'],2025-06-25
+T2255,1523,Cancun,5,85000,"['food tour', 'cultural show']",2022-04-27
+T2256,1523,Bali,5,110000,"['food tour', 'museum tour', 'cultural show']",2022-06-19
+T2257,1958,Tokyo,10,81000,['wine tasting'],2024-05-12
+T2258,1958,Cancun,10,89000,"['shopping', 'wine tasting']",2024-05-10
+T2259,1958,Bali,9,88000,"['spa', 'shopping', 'wine tasting']",2021-09-01
+T2260,1958,Bali,7,112000,"['shopping', 'wine tasting']",2022-02-15
+T2261,1958,Tokyo,6,83000,['shopping'],2022-03-18
+T2262,1600,Bali,7,102000,"['museum tour', 'food tour', 'hiking']",2022-01-03
+T2263,1285,Tokyo,6,81000,"['spa', 'snorkeling', 'beach']",2021-10-28
+T2264,1285,Rome,8,215000,['spa'],2022-06-01
+T2265,1285,Cape Town,5,238000,"['spa', 'beach']",2023-05-04
+T2266,1285,Cancun,9,68000,"['beach', 'spa', 'snorkeling']",2023-08-12
+T2267,1479,Denver,9,190000,"['hiking', 'safari', 'kayaking']",2023-12-12
+T2268,1625,Bali,8,127000,['food tour'],2022-06-04
+T2269,1625,Barcelona,8,204000,"['food tour', 'museum tour']",2024-02-22
+T2270,1918,Rome,4,283000,"['snorkeling', 'spa']",2021-08-30
+T2271,1918,Tokyo,7,114000,"['beach', 'spa']",2022-12-04
+T2272,1918,Tokyo,6,115000,"['beach', 'snorkeling']",2024-01-27
+T2273,1918,Bali,4,111000,"['spa', 'beach']",2023-05-02
+T2274,1933,Denver,3,170000,"['wine tasting', 'spa']",2021-12-04
+T2275,1933,Banff,4,271000,"['shopping', 'spa', 'wine tasting']",2022-10-01
+T2276,1933,Bali,10,102000,['spa'],2023-09-25
+T2277,1933,Rome,9,268000,['shopping'],2023-02-21
+T2278,1116,Tokyo,8,118000,"['hiking', 'kayaking']",2022-12-29
+T2279,1949,Bali,10,96000,['safari'],2022-09-14
+T2280,1949,Barcelona,4,203000,"['safari', 'kayaking']",2025-01-08
+T2281,1949,Barcelona,4,176000,['kayaking'],2022-08-30
+T2282,1949,Tokyo,10,98000,['safari'],2025-01-14
+T2283,1949,Denver,8,149000,"['kayaking', 'hiking']",2022-01-17
+T2284,1629,Rome,6,224000,"['snorkeling', 'spa', 'beach']",2023-12-01
+T2285,1629,Denver,6,158000,"['beach', 'snorkeling']",2024-01-28
+T2286,1361,Cancun,7,88000,"['kayaking', 'hiking']",2021-10-14
+T2287,1361,Tokyo,8,96000,"['safari', 'kayaking', 'hiking']",2023-06-11
+T2288,1361,Bali,5,112000,"['safari', 'hiking', 'kayaking']",2024-12-07
+T2289,1361,Bali,8,103000,['kayaking'],2023-09-30
+T2290,1361,Bali,6,102000,['safari'],2023-04-16
+T2291,1095,Denver,7,187000,"['snorkeling', 'spa']",2022-02-27
+T2292,1095,Tokyo,6,91000,"['beach', 'snorkeling']",2023-04-28
+T2293,1261,Bali,7,118000,"['safari', 'hiking']",2024-05-19
+T2294,1261,Barcelona,4,150000,"['kayaking', 'safari', 'hiking']",2023-01-31
+T2295,1261,Rome,9,284000,"['safari', 'hiking']",2022-03-16
+T2296,1261,Rome,9,318000,['kayaking'],2024-02-13
+T2297,1261,Barcelona,4,151000,"['safari', 'hiking']",2024-08-08
+T2298,1640,Bali,3,108000,"['hiking', 'kayaking', 'safari']",2023-06-23
+T2299,1640,Bali,7,117000,"['safari', 'kayaking']",2024-11-01
+T2300,1640,Bali,10,92000,"['hiking', 'safari', 'kayaking']",2024-12-04
+T2301,1640,Bali,9,89000,"['kayaking', 'safari']",2022-06-06
+T2302,1640,Bali,7,91000,"['safari', 'hiking']",2022-04-04
+T2303,1507,Denver,5,157000,"['spa', 'beach', 'snorkeling']",2024-01-02
+T2304,1507,Tokyo,8,89000,"['spa', 'snorkeling', 'beach']",2023-08-25
+T2305,1507,Denver,10,163000,"['spa', 'snorkeling']",2024-07-13
+T2306,1579,Phuket,4,532000,['hiking'],2022-10-31
+T2307,1579,Barcelona,5,211000,"['food tour', 'hiking', 'museum tour']",2025-04-02
+T2308,1579,Banff,3,278000,"['hiking', 'museum tour']",2024-02-22
+T2309,1509,Cancun,6,66000,"['safari', 'kayaking']",2022-08-27
+T2310,1102,Rome,5,282000,"['safari', 'hiking', 'kayaking']",2024-09-23
+T2311,1102,Bali,3,99000,"['hiking', 'kayaking']",2021-12-20
+T2312,1102,Cancun,5,83000,"['hiking', 'safari', 'kayaking']",2023-06-14
+T2313,1102,Tokyo,10,104000,"['safari', 'hiking', 'kayaking']",2021-12-26
+T2314,1102,Rome,7,252000,"['hiking', 'safari', 'kayaking']",2024-03-14
+T2315,1062,Rome,5,224000,"['kayaking', 'hiking', 'safari']",2025-06-10
+T2316,1062,Bali,9,128000,"['kayaking', 'hiking', 'safari']",2022-02-09
+T2317,1062,Denver,7,174000,"['hiking', 'kayaking', 'safari']",2022-05-24
+T2318,1062,Rome,3,286000,['kayaking'],2022-12-16
+T2319,1204,Rome,8,216000,"['kayaking', 'safari']",2023-05-06
+T2320,1204,Banff,10,316000,['hiking'],2022-04-15
+T2321,1204,Banff,6,296000,"['safari', 'hiking']",2023-08-03
+T2322,1204,Denver,5,193000,['kayaking'],2022-08-02
+T2323,1483,Cancun,9,89000,['safari'],2025-05-05
+T2324,1483,Paris,7,528000,['kayaking'],2022-07-31
+T2325,1483,Banff,10,295000,"['kayaking', 'safari']",2023-10-27
+T2326,1483,Rome,8,269000,"['kayaking', 'safari']",2021-12-29
+T2327,1691,Rome,10,228000,"['wine tasting', 'shopping', 'spa']",2022-02-04
+T2328,1691,Denver,10,139000,"['wine tasting', 'spa', 'shopping']",2025-02-21
+T2329,1184,Tokyo,9,115000,['cultural show'],2025-02-22
+T2330,1683,Phuket,8,527000,"['spa', 'wine tasting']",2022-03-04
+T2331,1683,Banff,3,299000,"['spa', 'wine tasting', 'shopping']",2021-09-01
+T2332,1683,Banff,9,231000,"['wine tasting', 'spa', 'shopping']",2023-12-04
+T2333,1683,Barcelona,7,149000,"['wine tasting', 'shopping']",2024-12-15
+T2334,1924,Denver,5,172000,['safari'],2025-03-31
+T2335,1924,Tokyo,10,103000,['hiking'],2023-08-10
+T2336,1924,Paris,3,452000,['hiking'],2025-03-28
+T2337,1924,Bali,8,96000,"['kayaking', 'safari', 'hiking']",2023-08-03
+T2338,1091,Bali,4,107000,"['cultural show', 'museum tour', 'food tour']",2024-04-17
+T2339,1091,Phuket,3,476000,"['food tour', 'museum tour']",2022-11-25
+T2340,1091,Cancun,6,83000,"['cultural show', 'museum tour', 'food tour']",2021-12-21
+T2341,1091,Rome,8,276000,"['museum tour', 'food tour', 'cultural show']",2024-01-06
+T2342,1947,Barcelona,4,146000,"['kayaking', 'hiking']",2022-02-09
+T2343,1947,Cape Town,9,242000,"['kayaking', 'safari', 'hiking']",2024-10-04
+T2344,1947,Bali,9,126000,"['safari', 'hiking', 'kayaking']",2023-06-27
+T2345,1947,Banff,4,305000,"['kayaking', 'hiking', 'safari']",2023-03-08
+T2346,1947,Cancun,3,90000,"['hiking', 'kayaking']",2024-10-08
+T2347,1713,Cancun,5,93000,"['spa', 'wine tasting', 'shopping']",2024-10-20
+T2348,1713,Cancun,10,94000,"['shopping', 'wine tasting', 'spa']",2023-11-05
+T2349,1776,Barcelona,9,204000,"['food tour', 'museum tour', 'hiking']",2025-06-07
+T2350,1776,Banff,7,253000,['food tour'],2025-05-24
+T2351,1776,Bali,8,116000,['food tour'],2023-09-14
+T2352,1901,Tokyo,8,90000,['safari'],2023-04-03
+T2353,1735,Cape Town,8,240000,['beach'],2022-01-09
+T2354,1735,Banff,4,332000,['spa'],2024-06-15
+T2355,1735,Rome,7,305000,['beach'],2025-03-25
+T2356,1735,Bali,6,126000,"['beach', 'spa', 'snorkeling']",2023-06-22
+T2357,1411,Banff,9,276000,"['hiking', 'kayaking']",2024-11-15
+T2358,1411,Rome,8,225000,"['safari', 'kayaking', 'hiking']",2022-04-14
+T2359,1411,Barcelona,9,159000,['kayaking'],2023-08-22
+T2360,1411,Tokyo,9,116000,"['kayaking', 'hiking', 'safari']",2023-11-08
+T2361,1411,Rome,8,289000,['safari'],2025-05-13
+T2362,1346,Denver,5,147000,"['food tour', 'museum tour', 'cultural show']",2023-07-25
+T2363,1346,Cancun,6,94000,"['museum tour', 'cultural show']",2024-07-12
+T2364,1346,Barcelona,9,148000,['food tour'],2021-07-02
+T2365,1582,Cancun,10,83000,"['spa', 'beach', 'snorkeling']",2025-04-05
+T2366,1582,Denver,5,146000,['snorkeling'],2023-10-11
+T2367,1582,Tokyo,3,90000,"['snorkeling', 'beach', 'spa']",2023-10-25
+T2368,1582,Tokyo,5,86000,"['spa', 'beach', 'snorkeling']",2022-03-31
+T2369,1582,Tokyo,7,108000,"['snorkeling', 'beach', 'spa']",2023-09-11
+T2370,1819,Cape Town,10,289000,"['spa', 'shopping']",2022-05-08
+T2371,1819,Bali,4,130000,['spa'],2021-11-29
+T2372,1819,Banff,7,297000,['wine tasting'],2023-05-20
+T2373,1029,Cancun,10,91000,"['kayaking', 'safari', 'hiking']",2024-07-15
+T2374,1029,Paris,7,475000,"['safari', 'hiking']",2024-01-02
+T2375,1029,Denver,7,136000,"['kayaking', 'hiking']",2022-02-20
+T2376,1054,Cancun,7,86000,"['beach', 'spa']",2022-07-16
+T2377,1054,Tokyo,10,87000,"['spa', 'beach', 'snorkeling']",2022-08-30
+T2378,1054,Barcelona,6,189000,['snorkeling'],2024-07-08
+T2379,1054,Denver,5,146000,"['beach', 'spa', 'snorkeling']",2023-08-10
+T2380,1495,Tokyo,9,100000,"['hiking', 'food tour']",2022-07-14
+T2381,1495,Cape Town,8,312000,['food tour'],2022-06-08
+T2382,1039,Bali,9,118000,"['kayaking', 'safari', 'hiking']",2023-01-16
+T2383,1039,Cancun,9,85000,"['safari', 'hiking', 'kayaking']",2022-07-19
+T2384,1039,Bali,7,93000,['safari'],2025-03-31
+T2385,1039,Barcelona,8,184000,"['hiking', 'safari', 'kayaking']",2023-09-21
+T2386,1039,Denver,9,183000,"['hiking', 'safari']",2024-11-21
+T2387,1157,Bali,4,109000,"['hiking', 'kayaking', 'safari']",2021-08-18
+T2388,1157,Cancun,9,75000,"['kayaking', 'hiking']",2024-09-07
+T2389,1798,Barcelona,4,161000,"['shopping', 'spa', 'wine tasting']",2024-02-05
+T2390,1798,Denver,3,156000,"['shopping', 'spa']",2023-12-01
+T2391,1798,Cancun,9,69000,"['spa', 'shopping']",2023-08-09
+T2392,1798,Barcelona,8,148000,['spa'],2022-05-16
+T2393,1146,Cancun,9,96000,"['safari', 'hiking']",2023-04-03
+T2394,1146,Cancun,8,81000,"['safari', 'hiking']",2021-08-08
+T2395,1221,Paris,6,561000,"['hiking', 'kayaking']",2023-12-15
+T2396,1221,Tokyo,4,83000,"['kayaking', 'hiking']",2022-01-05
+T2397,1221,Bali,10,104000,"['hiking', 'kayaking', 'safari']",2023-09-03
+T2398,1221,Cancun,5,69000,['kayaking'],2023-11-26
+T2399,1221,Barcelona,6,155000,"['hiking', 'kayaking']",2022-02-15
+T2400,1940,Cancun,4,88000,"['spa', 'wine tasting']",2023-05-01
+T2401,1940,Tokyo,5,118000,"['wine tasting', 'shopping']",2025-05-02
+T2402,1940,Denver,10,192000,"['wine tasting', 'spa', 'shopping']",2023-08-07
+T2403,1940,Denver,3,176000,"['wine tasting', 'shopping']",2025-02-23
+T2404,1944,Cancun,6,81000,['cultural show'],2025-01-08
+T2405,1944,Tokyo,8,94000,"['museum tour', 'food tour', 'cultural show']",2023-11-06
+T2406,1607,Cancun,5,94000,"['food tour', 'museum tour', 'hiking']",2025-05-24
+T2407,1607,Denver,7,189000,['food tour'],2023-07-29
+T2408,1765,Paris,3,596000,"['hiking', 'safari', 'kayaking']",2023-10-27
+T2409,1394,Barcelona,6,188000,['safari'],2021-11-28
+T2410,1052,Rome,10,253000,['snorkeling'],2024-03-31
+T2411,1052,Rome,4,301000,"['spa', 'beach', 'snorkeling']",2022-03-27
+T2412,1052,Phuket,3,578000,"['snorkeling', 'beach', 'spa']",2023-12-31
+T2413,1052,Barcelona,10,146000,"['beach', 'snorkeling']",2022-07-24
+T2414,1052,Bali,3,95000,"['spa', 'beach', 'snorkeling']",2023-02-26
+T2415,1952,Cancun,8,76000,"['spa', 'beach']",2023-07-27
+T2416,1952,Cancun,7,88000,"['spa', 'beach']",2022-07-08
+T2417,1952,Tokyo,6,115000,['spa'],2025-02-19
+T2418,1571,Bali,8,109000,"['kayaking', 'hiking', 'safari']",2025-06-09
+T2419,1571,Cancun,6,87000,"['kayaking', 'safari']",2021-12-21
+T2420,1571,Cancun,7,80000,"['safari', 'hiking', 'kayaking']",2025-02-13
+T2421,1571,Bali,6,104000,"['hiking', 'safari', 'kayaking']",2022-02-24
+T2422,1571,Tokyo,8,118000,"['hiking', 'kayaking', 'safari']",2023-06-20
+T2423,1359,Tokyo,10,114000,['cultural show'],2022-11-08
+T2424,1359,Cancun,10,75000,['food tour'],2025-03-30
+T2425,1512,Cancun,5,87000,"['museum tour', 'food tour', 'hiking']",2025-02-26
+T2426,1512,Denver,9,147000,['museum tour'],2024-06-21
+T2427,1402,Barcelona,4,166000,"['kayaking', 'safari', 'hiking']",2022-03-31
+T2428,1402,Rome,3,223000,['safari'],2023-04-20
+T2429,1867,Rome,8,247000,"['hiking', 'museum tour']",2024-04-11
+T2430,1421,Barcelona,7,212000,"['spa', 'snorkeling', 'beach']",2022-07-12
+T2431,1421,Cape Town,4,249000,['spa'],2021-10-19
+T2432,1421,Barcelona,7,212000,"['beach', 'snorkeling']",2023-12-21
+T2433,1421,Denver,9,192000,['beach'],2024-11-02
+T2434,1448,Cancun,8,74000,['spa'],2025-02-02
+T2435,1448,Tokyo,10,101000,['wine tasting'],2021-11-29
+T2436,1448,Bali,3,123000,"['wine tasting', 'spa']",2021-10-31
+T2437,1448,Barcelona,7,146000,"['shopping', 'spa', 'wine tasting']",2022-08-09
+T2438,1448,Tokyo,10,116000,"['wine tasting', 'shopping']",2025-04-20
+T2439,1165,Bali,8,106000,['safari'],2023-01-30
+T2440,1165,Tokyo,8,102000,"['safari', 'kayaking', 'hiking']",2021-11-15
+T2441,1284,Banff,10,293000,"['safari', 'kayaking', 'hiking']",2022-01-03
+T2442,1284,Cape Town,8,225000,"['hiking', 'kayaking']",2021-08-18
+T2443,1284,Phuket,7,612000,['hiking'],2024-11-04
+T2444,1080,Bali,5,123000,['safari'],2022-01-22
+T2445,1080,Banff,3,319000,"['hiking', 'kayaking']",2022-10-10
+T2446,1227,Bali,9,94000,"['kayaking', 'safari']",2023-06-21
+T2447,1227,Bali,7,98000,"['kayaking', 'safari', 'hiking']",2024-01-28
+T2448,1227,Tokyo,5,112000,"['kayaking', 'hiking', 'safari']",2025-05-17
+T2449,1227,Cancun,6,70000,['kayaking'],2024-11-11
+T2450,1447,Tokyo,5,93000,"['museum tour', 'cultural show']",2024-02-17
+T2451,1447,Cancun,6,83000,['cultural show'],2023-03-16
+T2452,1447,Tokyo,9,116000,['cultural show'],2023-09-09
+T2453,1447,Phuket,8,458000,['cultural show'],2021-09-11
+T2454,1353,Barcelona,10,203000,"['safari', 'hiking', 'kayaking']",2024-10-26
+T2455,1353,Bali,3,87000,"['kayaking', 'hiking']",2024-08-15
+T2456,1353,Barcelona,3,160000,['kayaking'],2024-09-22
+T2457,1353,Rome,8,219000,['hiking'],2022-03-17
+T2458,1353,Banff,5,232000,"['safari', 'hiking', 'kayaking']",2025-06-27
+T2459,1310,Tokyo,10,86000,['spa'],2021-12-04
+T2460,1310,Tokyo,8,82000,['snorkeling'],2024-07-21
+T2461,1842,Cape Town,9,267000,['wine tasting'],2021-07-01
+T2462,1259,Bali,4,94000,['snorkeling'],2023-07-11
+T2463,1259,Barcelona,10,205000,"['beach', 'snorkeling', 'spa']",2021-07-11
+T2464,1259,Banff,3,248000,"['beach', 'snorkeling']",2025-04-20
+T2465,1259,Denver,9,160000,['spa'],2025-02-04
+T2466,1323,Rome,10,215000,"['kayaking', 'hiking']",2025-02-02
+T2467,1323,Cancun,5,67000,['safari'],2021-09-09
+T2468,1323,Bali,6,97000,['safari'],2023-11-18
+T2469,1009,Banff,9,241000,['kayaking'],2023-10-31
+T2470,1684,Barcelona,3,170000,['spa'],2025-02-23
+T2471,1961,Barcelona,5,174000,"['spa', 'beach']",2023-10-31
+T2472,1961,Tokyo,5,103000,"['snorkeling', 'spa', 'beach']",2023-05-22
+T2473,1961,Cancun,6,78000,"['beach', 'snorkeling']",2022-01-16
+T2474,1961,Bali,4,88000,"['snorkeling', 'spa', 'beach']",2022-05-20
+T2475,1030,Tokyo,3,108000,['wine tasting'],2024-02-21
+T2476,1030,Cancun,10,87000,['spa'],2021-07-22
+T2477,1030,Banff,3,296000,['wine tasting'],2023-05-20
+T2478,1794,Bali,3,114000,"['snorkeling', 'spa', 'beach']",2021-10-08
+T2479,1794,Cancun,6,95000,"['snorkeling', 'spa', 'beach']",2022-06-29
+T2480,1794,Barcelona,10,211000,"['snorkeling', 'beach']",2023-01-30
+T2481,1794,Tokyo,7,105000,['snorkeling'],2025-03-04
+T2482,1794,Cape Town,7,249000,"['snorkeling', 'spa', 'beach']",2025-04-23
+T2483,1179,Denver,6,157000,"['snorkeling', 'beach']",2024-07-15
+T2484,1027,Cancun,5,88000,"['kayaking', 'hiking', 'safari']",2023-05-10
+T2485,1027,Banff,6,311000,"['kayaking', 'safari']",2024-04-18
+T2486,1027,Barcelona,5,212000,['hiking'],2021-09-27
+T2487,1027,Phuket,8,515000,"['kayaking', 'hiking']",2023-03-01
+T2488,1027,Paris,7,494000,"['hiking', 'kayaking', 'safari']",2022-12-21
+T2489,1033,Denver,9,134000,['beach'],2022-01-15
+T2490,1033,Cape Town,3,289000,"['spa', 'snorkeling', 'beach']",2022-09-22
+T2491,1033,Paris,6,511000,"['spa', 'snorkeling', 'beach']",2024-12-21
+T2492,1033,Cancun,7,88000,"['snorkeling', 'spa']",2021-11-28
+T2493,1033,Barcelona,10,192000,"['beach', 'spa', 'snorkeling']",2023-09-20
+T2494,1334,Paris,4,578000,['spa'],2023-07-13
+T2495,1334,Phuket,5,435000,"['spa', 'shopping', 'wine tasting']",2025-01-16
+T2496,1334,Cape Town,8,305000,"['shopping', 'spa', 'wine tasting']",2022-11-12
+T2497,1334,Cancun,9,67000,['shopping'],2024-08-31
+T2498,1334,Rome,3,256000,"['spa', 'shopping', 'wine tasting']",2022-03-31
+T2499,1787,Tokyo,8,84000,['food tour'],2024-02-28
+T2500,1787,Rome,8,278000,['hiking'],2025-02-09
+T2501,1787,Bali,8,98000,['food tour'],2022-03-04
+T2502,1787,Rome,9,279000,"['museum tour', 'hiking', 'food tour']",2024-08-29
+T2503,1787,Cape Town,4,253000,"['food tour', 'museum tour']",2022-09-11
+T2504,1964,Denver,8,170000,"['spa', 'shopping']",2022-10-21
+T2505,1964,Cancun,7,89000,"['shopping', 'wine tasting', 'spa']",2022-04-06
+T2506,1964,Tokyo,8,115000,"['wine tasting', 'shopping']",2021-07-02
+T2507,1197,Tokyo,5,109000,"['food tour', 'cultural show', 'museum tour']",2024-08-24
+T2508,1197,Cape Town,6,323000,"['cultural show', 'food tour']",2025-01-21
+T2509,1795,Banff,10,247000,"['beach', 'spa']",2023-07-18
+T2510,1795,Cape Town,5,249000,"['beach', 'spa']",2021-09-14
+T2511,1795,Tokyo,10,110000,"['spa', 'snorkeling', 'beach']",2021-12-11
+T2512,1392,Cancun,10,67000,"['safari', 'kayaking', 'hiking']",2021-07-08
+T2513,1392,Banff,4,261000,['safari'],2024-12-24
+T2514,1392,Banff,3,240000,['kayaking'],2024-10-21
+T2515,1392,Banff,6,288000,['kayaking'],2023-07-17
+T2516,1868,Bali,3,119000,['kayaking'],2025-03-04
+T2517,1868,Cancun,5,73000,"['safari', 'hiking', 'kayaking']",2023-10-02
+T2518,1899,Barcelona,8,180000,['hiking'],2023-03-30
+T2519,1899,Rome,6,274000,"['hiking', 'safari']",2025-06-16
+T2520,1899,Tokyo,5,98000,['kayaking'],2024-04-21
+T2521,1636,Tokyo,5,96000,"['hiking', 'kayaking']",2024-07-26
+T2522,1636,Barcelona,5,188000,"['kayaking', 'hiking', 'safari']",2025-03-05
+T2523,1537,Bali,4,115000,"['safari', 'hiking']",2022-11-02
+T2524,1537,Tokyo,9,112000,"['kayaking', 'hiking']",2024-12-27
+T2525,1537,Paris,7,438000,['safari'],2024-01-29
+T2526,1537,Denver,9,145000,"['kayaking', 'hiking']",2022-05-26
+T2527,1510,Cancun,3,83000,"['hiking', 'safari']",2021-09-22
+T2528,1510,Tokyo,7,84000,['safari'],2022-12-24
+T2529,1510,Tokyo,4,111000,"['hiking', 'kayaking']",2023-02-09
+T2530,1510,Cancun,8,71000,"['hiking', 'kayaking', 'safari']",2023-11-08
+T2531,1510,Tokyo,10,109000,"['hiking', 'kayaking', 'safari']",2022-03-21
+T2532,1122,Tokyo,6,103000,['wine tasting'],2024-10-03
+T2533,1378,Cancun,3,85000,['spa'],2024-10-29
+T2534,1378,Tokyo,9,119000,"['beach', 'snorkeling']",2022-10-17
+T2535,1038,Tokyo,5,115000,"['beach', 'spa']",2025-04-13
+T2536,1038,Cape Town,10,299000,"['spa', 'snorkeling']",2024-10-27
+T2537,1038,Denver,5,160000,"['spa', 'beach', 'snorkeling']",2023-08-13
+T2538,1038,Paris,5,556000,"['beach', 'snorkeling']",2024-08-21
+T2539,1038,Denver,10,166000,"['snorkeling', 'spa']",2023-06-06
+T2540,1551,Cancun,10,75000,"['spa', 'wine tasting', 'shopping']",2024-09-29
+T2541,1551,Paris,3,540000,"['spa', 'shopping', 'wine tasting']",2025-02-23
+T2542,1528,Rome,9,253000,"['safari', 'kayaking']",2023-02-19
+T2543,1528,Denver,7,131000,"['kayaking', 'safari', 'hiking']",2021-11-18
+T2544,1528,Bali,4,119000,"['safari', 'hiking', 'kayaking']",2024-02-08
+T2545,1162,Cancun,8,82000,['beach'],2024-11-12
+T2546,1162,Tokyo,7,96000,"['beach', 'snorkeling']",2022-02-26
+T2547,1162,Bali,9,94000,"['snorkeling', 'spa']",2023-11-15
+T2548,1162,Bali,5,117000,"['spa', 'beach', 'snorkeling']",2025-01-22
+T2549,1162,Bali,5,118000,"['spa', 'snorkeling', 'beach']",2022-04-10
+T2550,1067,Cancun,4,75000,"['food tour', 'hiking', 'museum tour']",2022-11-17
+T2551,1067,Denver,10,177000,"['hiking', 'food tour']",2024-05-31
+T2552,1067,Bali,9,119000,"['museum tour', 'food tour']",2022-10-22
+T2553,1067,Denver,9,181000,"['museum tour', 'food tour', 'hiking']",2021-10-29
+T2554,1124,Tokyo,7,119000,"['wine tasting', 'spa', 'shopping']",2023-08-14
+T2555,1004,Cancun,9,71000,"['hiking', 'kayaking']",2022-10-27
+T2556,1699,Phuket,10,603000,['beach'],2025-02-06
+T2557,1699,Bali,7,123000,"['spa', 'snorkeling']",2021-12-05
+T2558,1699,Bali,3,124000,"['spa', 'beach']",2021-11-08
+T2559,1699,Cape Town,5,288000,"['spa', 'snorkeling', 'beach']",2024-07-09
+T2560,1764,Bali,10,96000,"['shopping', 'wine tasting']",2024-05-06
+T2561,1427,Bali,3,131000,"['food tour', 'museum tour']",2025-03-02
+T2562,1427,Cancun,6,89000,"['cultural show', 'museum tour', 'food tour']",2021-10-19
+T2563,1919,Denver,9,138000,"['beach', 'snorkeling']",2021-07-07
+T2564,1919,Rome,4,292000,"['snorkeling', 'spa']",2022-11-15
+T2565,1919,Tokyo,4,91000,"['spa', 'snorkeling', 'beach']",2025-05-25
+T2566,1919,Rome,4,321000,"['spa', 'beach']",2023-02-01
+T2567,1755,Denver,8,147000,"['spa', 'shopping', 'wine tasting']",2022-12-22
+T2568,1755,Banff,8,251000,['spa'],2021-09-01
+T2569,1755,Paris,9,543000,"['shopping', 'spa']",2023-01-18
+T2570,1506,Cape Town,4,311000,"['shopping', 'wine tasting', 'spa']",2025-02-06
+T2571,1506,Denver,5,188000,"['shopping', 'spa', 'wine tasting']",2022-06-15
+T2572,1506,Cape Town,9,234000,"['shopping', 'spa']",2023-04-10
+T2573,1506,Cancun,7,73000,['shopping'],2022-10-23
+T2574,1912,Rome,5,294000,"['museum tour', 'hiking']",2024-09-28
+T2575,1912,Rome,3,264000,"['food tour', 'hiking', 'museum tour']",2025-01-26
+T2576,1912,Barcelona,8,156000,['hiking'],2023-03-15
+T2577,1912,Cape Town,5,303000,"['food tour', 'hiking']",2023-04-25
+T2578,1912,Denver,3,167000,['hiking'],2024-01-19
+T2579,1399,Barcelona,8,212000,"['food tour', 'hiking', 'museum tour']",2022-11-13
+T2580,1399,Barcelona,4,207000,"['museum tour', 'food tour', 'hiking']",2023-06-04
+T2581,1399,Tokyo,4,84000,"['food tour', 'museum tour']",2023-10-15
+T2582,1950,Bali,9,113000,['food tour'],2022-01-31
+T2583,1950,Phuket,3,610000,"['cultural show', 'food tour']",2025-01-23
+T2584,1352,Bali,7,104000,['food tour'],2024-04-17
+T2585,1352,Tokyo,5,105000,['museum tour'],2022-05-11
+T2586,1352,Denver,8,130000,['food tour'],2022-03-18
+T2587,1844,Tokyo,9,114000,"['snorkeling', 'beach', 'spa']",2023-11-02
+T2588,1844,Tokyo,9,111000,['beach'],2024-10-01
+T2589,1844,Denver,10,138000,"['snorkeling', 'beach', 'spa']",2023-01-09
+T2590,1704,Bali,3,105000,"['safari', 'hiking', 'kayaking']",2023-03-26
+T2591,1704,Bali,10,103000,"['hiking', 'kayaking']",2022-06-09
+T2592,1704,Cancun,8,90000,"['safari', 'kayaking']",2024-12-15
+T2593,1704,Cancun,10,73000,"['kayaking', 'safari', 'hiking']",2023-05-16
+T2594,1260,Denver,10,152000,['snorkeling'],2023-03-30
+T2595,1260,Tokyo,7,100000,"['snorkeling', 'beach', 'spa']",2023-04-29
+T2596,1260,Banff,5,324000,['spa'],2024-12-17
+T2597,1260,Cape Town,6,232000,"['spa', 'beach']",2025-03-28
+T2598,1333,Phuket,5,516000,"['beach', 'snorkeling']",2023-03-20
+T2599,1333,Paris,6,437000,['spa'],2025-03-28
+T2600,1153,Cancun,5,82000,"['beach', 'spa', 'snorkeling']",2023-12-30
+T2601,1396,Tokyo,8,109000,['safari'],2022-04-25
+T2602,1396,Bali,9,115000,"['kayaking', 'safari']",2022-11-22
+T2603,1396,Denver,7,132000,['kayaking'],2021-09-12
+T2604,1501,Cancun,9,79000,['hiking'],2023-02-18
+T2605,1501,Banff,8,281000,['hiking'],2021-06-30
+T2606,1373,Banff,8,290000,"['food tour', 'hiking', 'museum tour']",2024-06-20
+T2607,1312,Bali,6,119000,['cultural show'],2025-02-07
+T2608,1312,Cape Town,9,284000,"['cultural show', 'museum tour', 'food tour']",2022-08-03
+T2609,1312,Phuket,6,542000,"['museum tour', 'food tour', 'cultural show']",2023-07-07
+T2610,1312,Phuket,7,433000,"['museum tour', 'cultural show']",2022-09-29
+T2611,1042,Bali,8,116000,['kayaking'],2025-01-08
+T2612,1042,Rome,6,241000,"['hiking', 'kayaking']",2024-10-18
+T2613,1763,Rome,6,248000,['food tour'],2024-09-28
+T2614,1763,Denver,4,191000,"['museum tour', 'food tour']",2023-09-19
+T2615,1763,Cancun,4,89000,['hiking'],2023-10-05
+T2616,1763,Banff,7,260000,"['food tour', 'hiking']",2022-10-22
+T2617,1522,Barcelona,6,203000,['shopping'],2023-04-16
+T2618,1522,Banff,10,324000,['shopping'],2021-09-04
+T2619,1522,Tokyo,9,98000,"['wine tasting', 'spa', 'shopping']",2024-07-22
+T2620,1522,Tokyo,6,112000,"['spa', 'wine tasting', 'shopping']",2022-10-14
+T2621,1522,Bali,3,108000,"['shopping', 'spa']",2024-09-08
+T2622,1902,Cape Town,5,320000,"['shopping', 'spa', 'wine tasting']",2022-04-23
+T2623,1902,Denver,5,157000,['spa'],2023-03-19
+T2624,1902,Tokyo,4,90000,"['shopping', 'wine tasting', 'spa']",2022-05-13
+T2625,1851,Barcelona,8,199000,"['spa', 'beach']",2023-08-11
+T2626,1851,Bali,4,123000,"['spa', 'beach', 'snorkeling']",2023-07-14
+T2627,1851,Paris,7,435000,"['beach', 'spa']",2024-03-19
+T2628,1851,Banff,7,342000,"['snorkeling', 'spa', 'beach']",2022-06-15
+T2629,1807,Cape Town,7,245000,"['museum tour', 'food tour']",2023-05-25
+T2630,1807,Paris,5,586000,['food tour'],2022-01-08
+T2631,1807,Denver,6,135000,['hiking'],2023-08-22
+T2632,1807,Bali,8,130000,"['food tour', 'hiking', 'museum tour']",2023-03-02
+T2633,1727,Cape Town,10,309000,"['snorkeling', 'spa', 'beach']",2025-05-28
+T2634,1727,Cancun,8,89000,"['snorkeling', 'beach', 'spa']",2023-03-11
+T2635,1727,Cancun,5,89000,"['beach', 'snorkeling', 'spa']",2025-06-02
+T2636,1727,Bali,10,90000,"['beach', 'snorkeling']",2021-12-09
+T2637,1727,Bali,4,128000,"['spa', 'beach', 'snorkeling']",2024-07-15
+T2638,1841,Barcelona,4,187000,['museum tour'],2025-04-19
+T2639,1841,Cancun,8,92000,['museum tour'],2023-05-09
+T2640,1650,Bali,9,97000,"['beach', 'snorkeling']",2022-07-12
+T2641,1650,Banff,3,322000,['beach'],2024-02-18
+T2642,1650,Tokyo,9,95000,"['spa', 'beach', 'snorkeling']",2025-06-01
+T2643,1650,Cape Town,3,294000,"['snorkeling', 'beach', 'spa']",2024-12-07
+T2644,1797,Bali,4,119000,['safari'],2024-02-21
+T2645,1797,Barcelona,5,155000,['kayaking'],2022-10-06
+T2646,1797,Banff,7,286000,"['hiking', 'kayaking', 'safari']",2022-03-31
+T2647,1773,Bali,6,128000,"['spa', 'beach', 'snorkeling']",2024-11-21
+T2648,1773,Denver,4,178000,"['snorkeling', 'spa', 'beach']",2023-09-09
+T2649,1887,Tokyo,7,86000,"['wine tasting', 'spa']",2023-12-26
+T2650,1887,Denver,9,172000,['spa'],2023-08-18
+T2651,1887,Rome,6,307000,"['spa', 'wine tasting', 'shopping']",2024-02-07
+T2652,1887,Rome,5,266000,"['shopping', 'spa']",2023-06-04
+T2653,1887,Banff,6,263000,"['wine tasting', 'shopping', 'spa']",2021-09-10
+T2654,1445,Denver,6,170000,['beach'],2022-05-20
+T2655,1272,Barcelona,7,202000,"['kayaking', 'safari']",2022-04-07
+T2656,1272,Denver,9,155000,"['hiking', 'kayaking']",2024-12-09
+T2657,1272,Rome,5,316000,"['hiking', 'safari', 'kayaking']",2023-11-28
+T2658,1272,Cape Town,4,333000,"['kayaking', 'safari', 'hiking']",2022-09-19
+T2659,1272,Bali,9,127000,['kayaking'],2024-04-22
+T2660,1882,Paris,5,543000,"['safari', 'kayaking']",2024-05-23
+T2661,1519,Denver,9,162000,"['hiking', 'safari', 'kayaking']",2022-02-25
+T2662,1519,Denver,9,175000,['safari'],2025-01-04
+T2663,1519,Cancun,7,82000,['hiking'],2025-06-24
+T2664,1377,Bali,7,103000,"['kayaking', 'hiking']",2024-10-01
+T2665,1377,Cancun,9,91000,"['kayaking', 'safari']",2024-04-04
+T2666,1377,Tokyo,6,103000,"['hiking', 'safari', 'kayaking']",2023-02-11
+T2667,1377,Cancun,10,89000,['safari'],2023-10-03
+T2668,1498,Rome,5,271000,"['safari', 'hiking', 'kayaking']",2025-04-17
+T2669,1498,Tokyo,5,98000,"['hiking', 'safari', 'kayaking']",2021-09-25
+T2670,1498,Tokyo,4,90000,"['hiking', 'safari', 'kayaking']",2025-05-23
+T2671,1498,Banff,5,285000,"['kayaking', 'hiking', 'safari']",2021-12-02
+T2672,1498,Rome,8,293000,"['kayaking', 'safari', 'hiking']",2022-09-18
+T2673,1932,Denver,10,159000,"['kayaking', 'safari']",2025-04-03
+T2674,1932,Denver,10,140000,['kayaking'],2023-09-19
+T2675,1932,Denver,6,176000,"['hiking', 'safari']",2025-01-10
+T2676,1825,Phuket,5,510000,"['snorkeling', 'spa', 'beach']",2025-06-17
+T2677,1825,Bali,5,124000,"['snorkeling', 'spa']",2022-03-03
+T2678,1825,Denver,8,152000,['snorkeling'],2025-03-31
+T2679,1632,Paris,5,419000,['museum tour'],2025-06-16
+T2680,1632,Rome,5,296000,['cultural show'],2023-06-28
+T2681,1097,Barcelona,5,192000,['kayaking'],2023-06-13
+T2682,1097,Tokyo,10,103000,['hiking'],2022-04-08
+T2683,1097,Denver,4,173000,['kayaking'],2022-06-05
+T2684,1097,Denver,4,141000,['hiking'],2022-11-21
+T2685,1128,Bali,10,88000,"['cultural show', 'food tour']",2022-06-23
+T2686,1544,Tokyo,10,92000,"['spa', 'shopping']",2025-02-25
+T2687,1544,Bali,6,107000,"['wine tasting', 'spa', 'shopping']",2023-04-20
+T2688,1544,Bali,10,130000,['spa'],2023-08-11
+T2689,1379,Cape Town,8,289000,"['safari', 'hiking', 'kayaking']",2022-04-18
+T2690,1379,Tokyo,8,90000,"['safari', 'kayaking']",2023-04-18
+T2691,1379,Cancun,3,72000,"['hiking', 'safari', 'kayaking']",2021-10-21
+T2692,1379,Rome,8,317000,"['hiking', 'kayaking', 'safari']",2022-05-16
+T2693,1379,Phuket,8,611000,"['safari', 'hiking', 'kayaking']",2025-04-17
+T2694,1203,Cancun,10,78000,['shopping'],2022-10-04
+T2695,1203,Denver,7,162000,"['shopping', 'wine tasting']",2021-11-16
+T2696,1343,Cancun,10,92000,"['beach', 'spa']",2023-09-08
+T2697,1343,Rome,8,292000,"['beach', 'snorkeling']",2023-06-29
+T2698,1343,Tokyo,10,98000,"['snorkeling', 'beach']",2022-07-11
+T2699,1343,Cancun,5,72000,"['spa', 'snorkeling']",2021-10-20
+T2700,1733,Cancun,3,70000,"['safari', 'kayaking']",2023-11-03
+T2701,1733,Banff,8,296000,['safari'],2025-06-13
+T2702,1733,Barcelona,10,144000,['hiking'],2023-12-14
+T2703,1866,Cancun,4,74000,['safari'],2023-12-27
+T2704,1866,Tokyo,3,92000,['safari'],2024-12-31
+T2705,1866,Tokyo,5,95000,['kayaking'],2023-12-25
+T2706,1866,Bali,3,129000,"['kayaking', 'hiking', 'safari']",2025-04-09
+T2707,1866,Bali,7,121000,['hiking'],2022-06-16
+T2708,1518,Barcelona,10,195000,['snorkeling'],2024-08-06
+T2709,1518,Bali,5,91000,['beach'],2022-12-04
+T2710,1518,Tokyo,3,101000,"['snorkeling', 'beach']",2022-07-15
+T2711,1784,Bali,6,127000,"['food tour', 'cultural show', 'museum tour']",2023-02-06
+T2712,1784,Bali,8,114000,['cultural show'],2021-09-09
+T2713,1784,Tokyo,4,100000,"['cultural show', 'food tour']",2022-04-13
+T2714,1488,Denver,9,144000,"['snorkeling', 'beach', 'spa']",2023-02-25
+T2715,1488,Tokyo,8,105000,"['snorkeling', 'beach', 'spa']",2023-01-10
+T2716,1488,Bali,6,106000,"['spa', 'beach', 'snorkeling']",2023-11-07
+T2717,1237,Cape Town,3,253000,['shopping'],2024-10-03
+T2718,1237,Cape Town,8,310000,['spa'],2023-08-15
+T2719,1549,Bali,6,96000,['hiking'],2021-09-04
+T2720,1549,Barcelona,5,176000,"['hiking', 'kayaking', 'safari']",2024-03-25
+T2721,1549,Rome,6,224000,['hiking'],2023-05-29
+T2722,1400,Denver,8,160000,['museum tour'],2024-03-15
+T2723,1400,Barcelona,9,186000,['museum tour'],2023-04-06
+T2724,1400,Denver,9,143000,['hiking'],2024-05-05
+T2725,1570,Denver,8,166000,"['kayaking', 'safari', 'hiking']",2024-07-17
+T2726,1570,Tokyo,4,105000,"['safari', 'kayaking']",2021-10-16
+T2727,1232,Tokyo,3,85000,"['snorkeling', 'beach', 'spa']",2024-08-29
+T2728,1442,Cape Town,6,324000,"['kayaking', 'hiking', 'safari']",2023-09-03
+T2729,1442,Denver,3,155000,"['kayaking', 'safari', 'hiking']",2021-10-03
+T2730,1098,Bali,3,124000,['safari'],2022-11-14
+T2731,1098,Barcelona,9,185000,['safari'],2025-01-18
+T2732,1098,Barcelona,10,164000,"['hiking', 'safari']",2022-09-30
+T2733,1098,Tokyo,10,100000,"['kayaking', 'hiking']",2023-05-11
+T2734,1098,Bali,6,89000,['kayaking'],2022-07-27
+T2735,1880,Barcelona,7,209000,"['kayaking', 'safari', 'hiking']",2025-03-07
+T2736,1983,Rome,10,252000,['wine tasting'],2021-10-29
+T2737,1983,Rome,5,270000,"['spa', 'wine tasting', 'shopping']",2025-03-20
+T2738,1983,Cape Town,10,304000,"['wine tasting', 'spa', 'shopping']",2023-07-01
+T2739,1983,Rome,5,215000,['spa'],2023-04-16
+T2740,1511,Denver,3,129000,['wine tasting'],2022-04-22
+T2741,1511,Rome,5,276000,"['spa', 'shopping', 'wine tasting']",2022-08-29
+T2742,1698,Cape Town,8,258000,"['food tour', 'cultural show']",2021-07-13
+T2743,1698,Cape Town,7,276000,"['cultural show', 'museum tour', 'food tour']",2024-11-20
+T2744,1698,Rome,4,247000,"['food tour', 'museum tour']",2023-03-24
+T2745,1698,Barcelona,10,175000,"['museum tour', 'cultural show']",2023-10-06
+T2746,1698,Phuket,5,582000,"['museum tour', 'cultural show', 'food tour']",2023-08-14
+T2747,1217,Barcelona,4,178000,['safari'],2023-08-01
+T2748,1217,Cape Town,7,253000,"['safari', 'kayaking', 'hiking']",2022-04-11
+T2749,1217,Rome,8,241000,"['kayaking', 'safari']",2022-02-27
+T2750,1217,Denver,4,151000,"['kayaking', 'hiking', 'safari']",2024-03-25
+T2751,1360,Denver,6,168000,"['food tour', 'museum tour', 'hiking']",2022-06-16
+T2752,1360,Banff,5,325000,"['museum tour', 'hiking', 'food tour']",2025-01-27
+T2753,1360,Paris,9,464000,['museum tour'],2023-06-10
+T2754,1360,Cape Town,5,313000,"['museum tour', 'food tour', 'hiking']",2025-04-18
+T2755,1360,Tokyo,7,114000,['hiking'],2024-08-26
+T2756,1558,Tokyo,8,112000,['food tour'],2024-05-11
+T2757,1558,Bali,8,130000,['museum tour'],2025-02-07
+T2758,1743,Barcelona,9,195000,"['beach', 'spa']",2025-06-27
+T2759,1743,Cancun,3,70000,"['spa', 'snorkeling']",2023-04-04
+T2760,1743,Paris,7,446000,['beach'],2021-12-06
+T2761,1743,Denver,10,150000,"['snorkeling', 'spa', 'beach']",2024-05-07
+T2762,1963,Cancun,7,86000,['museum tour'],2024-02-23
+T2763,1963,Cancun,3,95000,"['museum tour', 'food tour']",2024-06-19
+T2764,1963,Cancun,4,67000,"['food tour', 'museum tour']",2024-01-24
+T2765,1963,Cancun,10,82000,"['museum tour', 'cultural show']",2021-12-06
+T2766,1963,Cancun,4,94000,"['cultural show', 'museum tour', 'food tour']",2022-07-02
+T2767,1225,Cape Town,4,322000,"['museum tour', 'food tour']",2025-01-09
+T2768,1018,Tokyo,7,89000,"['food tour', 'cultural show']",2023-09-15
+T2769,1018,Barcelona,4,202000,"['food tour', 'cultural show', 'museum tour']",2022-05-10
+T2770,1018,Bali,7,101000,['cultural show'],2023-12-24
+T2771,1018,Cancun,8,94000,"['museum tour', 'cultural show', 'food tour']",2023-09-19
+T2772,1018,Denver,4,152000,['cultural show'],2022-01-28
+T2773,1168,Cancun,6,88000,"['hiking', 'kayaking', 'safari']",2023-01-17
+T2774,1292,Tokyo,8,103000,"['hiking', 'safari', 'kayaking']",2023-11-29
+T2775,1612,Phuket,4,481000,['kayaking'],2023-05-14
+T2776,1612,Banff,10,328000,"['kayaking', 'hiking', 'safari']",2023-08-11
+T2777,1612,Tokyo,10,105000,"['hiking', 'safari']",2024-03-28
+T2778,1612,Barcelona,4,192000,['hiking'],2023-04-23
+T2779,1397,Cape Town,5,234000,"['safari', 'hiking', 'kayaking']",2021-09-24
+T2780,1397,Denver,9,185000,"['kayaking', 'hiking', 'safari']",2023-07-02
+T2781,1397,Barcelona,7,202000,"['kayaking', 'hiking']",2022-12-18
+T2782,1397,Cape Town,8,243000,"['hiking', 'kayaking']",2023-12-15
+T2783,1397,Cape Town,6,233000,"['kayaking', 'safari']",2025-01-09
+T2784,1540,Paris,3,555000,"['safari', 'kayaking', 'hiking']",2024-09-20
+T2785,1540,Barcelona,3,203000,['safari'],2024-11-17
+T2786,1540,Banff,9,239000,"['kayaking', 'hiking', 'safari']",2024-12-10
+T2787,1540,Phuket,9,436000,"['safari', 'hiking']",2022-07-03
+T2788,1540,Banff,3,285000,"['kayaking', 'hiking', 'safari']",2025-02-25
+T2789,1328,Cancun,7,65000,['spa'],2023-02-20
+T2790,1328,Cancun,10,79000,"['spa', 'beach']",2024-06-05
+T2791,1328,Bali,8,101000,"['spa', 'beach']",2022-09-20
+T2792,1780,Cancun,7,65000,['beach'],2021-11-11
+T2793,1780,Cancun,3,67000,"['beach', 'spa', 'snorkeling']",2022-11-13
+T2794,1780,Cancun,8,66000,['snorkeling'],2025-03-22
+T2795,1780,Cancun,4,88000,"['spa', 'snorkeling', 'beach']",2022-04-29
+T2796,1631,Cancun,10,95000,"['kayaking', 'hiking', 'safari']",2021-12-30
+T2797,1631,Phuket,8,482000,"['kayaking', 'hiking', 'safari']",2021-07-06
+T2798,1631,Paris,8,514000,"['hiking', 'kayaking', 'safari']",2025-05-28
+T2799,1093,Denver,7,152000,"['safari', 'hiking', 'kayaking']",2023-06-09
+T2800,1093,Denver,6,192000,"['hiking', 'kayaking', 'safari']",2023-03-26
+T2801,1093,Barcelona,8,169000,['kayaking'],2022-08-01
+T2802,1093,Denver,7,129000,"['safari', 'hiking', 'kayaking']",2024-07-13
+T2803,1093,Tokyo,9,83000,"['hiking', 'safari']",2024-04-14
+T2804,1213,Cancun,10,71000,['beach'],2021-12-08
+T2805,1213,Bali,7,101000,"['snorkeling', 'beach', 'spa']",2022-03-28
+T2806,1337,Cancun,8,75000,"['spa', 'beach']",2024-06-04
+T2807,1337,Cancun,10,75000,"['beach', 'spa']",2021-09-19
+T2808,1337,Cancun,5,78000,"['spa', 'beach', 'snorkeling']",2023-02-04
+T2809,1425,Rome,4,295000,"['hiking', 'kayaking']",2022-03-24
+T2810,1425,Cape Town,4,294000,"['hiking', 'safari']",2023-02-09
+T2811,1425,Rome,9,241000,"['safari', 'kayaking']",2022-09-03
+T2812,1808,Cancun,8,75000,['museum tour'],2023-05-11
+T2813,1808,Bali,5,116000,"['food tour', 'museum tour', 'hiking']",2021-09-15
+T2814,1808,Tokyo,9,108000,"['museum tour', 'food tour', 'hiking']",2021-10-26
+T2815,1115,Tokyo,9,85000,['beach'],2021-07-25
+T2816,1115,Cape Town,5,225000,['spa'],2021-09-03
+T2817,1158,Tokyo,10,120000,['snorkeling'],2025-02-28
+T2818,1158,Denver,3,189000,['beach'],2022-06-11
+T2819,1158,Bali,8,128000,"['snorkeling', 'spa', 'beach']",2023-07-31
+T2820,1158,Denver,3,186000,"['spa', 'beach']",2023-07-04
+T2821,1158,Tokyo,6,84000,"['spa', 'beach']",2024-09-24
+T2822,1994,Denver,7,178000,['kayaking'],2024-07-26
+T2823,1994,Tokyo,3,104000,"['safari', 'kayaking']",2025-01-19
+T2824,1112,Tokyo,4,93000,['safari'],2021-12-01
+T2825,1112,Cape Town,7,238000,['hiking'],2025-06-16
+T2826,1112,Rome,3,309000,"['kayaking', 'safari', 'hiking']",2023-10-20
+T2827,1112,Denver,4,173000,"['hiking', 'safari']",2021-07-10
+T2828,1036,Bali,10,120000,['hiking'],2021-08-08
+T2829,1036,Tokyo,3,93000,"['kayaking', 'safari']",2022-05-31
+T2830,1036,Cape Town,8,261000,['hiking'],2023-02-10
+T2831,1105,Tokyo,4,106000,['hiking'],2021-12-13
+T2832,1105,Tokyo,8,117000,"['kayaking', 'hiking', 'safari']",2025-03-10
+T2833,1362,Denver,10,183000,['spa'],2023-11-29
+T2834,1362,Denver,5,192000,"['wine tasting', 'shopping']",2021-09-25
+T2835,1362,Denver,10,186000,['spa'],2024-08-12
+T2836,1362,Cancun,3,73000,"['shopping', 'wine tasting', 'spa']",2022-06-26
+T2837,1362,Denver,6,178000,['wine tasting'],2024-04-23
+T2838,1365,Banff,4,333000,['museum tour'],2023-12-26
+T2839,1441,Denver,7,187000,['food tour'],2023-03-17
+T2840,1565,Denver,10,132000,['beach'],2023-07-09
+T2841,1565,Rome,5,282000,"['beach', 'snorkeling', 'spa']",2023-05-22
+T2842,1351,Cancun,7,67000,['food tour'],2024-06-18
+T2843,1351,Rome,3,276000,"['museum tour', 'food tour', 'cultural show']",2023-10-17
+T2844,1351,Phuket,7,474000,['food tour'],2022-07-16
+T2845,1351,Banff,7,268000,"['cultural show', 'museum tour']",2023-12-02
+T2846,1351,Denver,10,132000,['museum tour'],2021-09-06
+T2847,1978,Rome,5,241000,"['food tour', 'cultural show']",2022-05-18
+T2848,1978,Rome,8,300000,['food tour'],2023-02-23
+T2849,1249,Tokyo,9,108000,"['shopping', 'wine tasting']",2022-04-26
+T2850,1854,Tokyo,10,90000,"['hiking', 'safari']",2022-06-01
+T2851,1801,Cancun,7,95000,"['beach', 'snorkeling']",2023-08-03
+T2852,1801,Denver,10,174000,"['spa', 'snorkeling']",2023-02-20
+T2853,1801,Bali,7,116000,"['beach', 'spa']",2022-09-14
+T2854,1801,Rome,4,247000,['beach'],2023-01-12
+T2855,1406,Rome,6,296000,"['safari', 'hiking', 'kayaking']",2022-01-22
+T2856,1406,Denver,8,134000,"['kayaking', 'safari', 'hiking']",2022-06-06
+T2857,1858,Cancun,3,66000,['beach'],2025-05-18
+T2858,1164,Tokyo,3,81000,"['snorkeling', 'beach', 'spa']",2023-04-18
+T2859,1164,Tokyo,3,110000,"['beach', 'spa', 'snorkeling']",2025-03-02
+T2860,1881,Barcelona,8,177000,['kayaking'],2024-09-14
+T2861,1881,Cape Town,4,312000,['kayaking'],2022-11-08
+T2862,1881,Cancun,8,73000,"['kayaking', 'safari']",2022-06-04
+T2863,1881,Phuket,9,571000,"['kayaking', 'safari', 'hiking']",2022-05-16
+T2864,1881,Paris,5,495000,"['safari', 'hiking', 'kayaking']",2025-04-20
+T2865,1818,Cancun,9,65000,"['snorkeling', 'spa']",2023-04-05
+T2866,1818,Tokyo,9,82000,"['beach', 'spa']",2025-02-19
+T2867,1818,Cancun,5,95000,"['beach', 'spa']",2022-04-27
+T2868,1833,Rome,6,292000,"['beach', 'spa']",2022-01-11
+T2869,1833,Banff,5,232000,['beach'],2022-01-11
+T2870,1083,Denver,5,155000,"['hiking', 'safari']",2022-01-02
+T2871,1083,Bali,4,103000,"['kayaking', 'hiking']",2022-03-03
+T2872,1703,Cancun,7,92000,['beach'],2021-12-04
+T2873,1295,Rome,5,279000,['food tour'],2025-06-05
+T2874,1070,Bali,10,102000,"['safari', 'kayaking']",2022-09-18
+T2875,1070,Denver,9,181000,"['kayaking', 'hiking']",2022-02-02
+T2876,1070,Barcelona,8,182000,"['safari', 'kayaking', 'hiking']",2024-08-07
+T2877,1610,Cancun,7,86000,['food tour'],2023-06-03
+T2878,1669,Denver,5,143000,"['food tour', 'cultural show', 'museum tour']",2022-06-04
+T2879,1669,Barcelona,8,153000,"['food tour', 'museum tour', 'cultural show']",2023-09-23
+T2880,1669,Cancun,6,68000,"['cultural show', 'museum tour']",2024-06-28
+T2881,1928,Banff,3,311000,"['kayaking', 'safari']",2023-08-14
+T2882,1928,Tokyo,9,96000,['safari'],2021-12-15
+T2883,1928,Tokyo,7,95000,"['hiking', 'safari']",2024-12-04
+T2884,1928,Banff,9,308000,['kayaking'],2023-11-11
+T2885,1928,Barcelona,7,188000,['kayaking'],2022-08-29
+T2886,1869,Barcelona,10,185000,['safari'],2021-10-04
+T2887,1953,Tokyo,9,92000,"['hiking', 'food tour']",2022-02-24
+T2888,1816,Tokyo,6,119000,"['food tour', 'museum tour', 'hiking']",2023-11-15
+T2889,1816,Tokyo,10,103000,['museum tour'],2021-07-12
+T2890,1816,Cancun,4,72000,"['hiking', 'museum tour']",2022-04-12
+T2891,1816,Bali,10,96000,"['museum tour', 'food tour', 'hiking']",2025-01-06
+T2892,1127,Tokyo,3,97000,"['beach', 'spa']",2022-12-22
+T2893,1888,Cape Town,7,274000,"['kayaking', 'hiking']",2023-02-07
+T2894,1888,Phuket,9,499000,"['safari', 'hiking', 'kayaking']",2024-11-28
+T2895,1888,Barcelona,5,205000,"['safari', 'kayaking', 'hiking']",2022-12-17
+T2896,1888,Tokyo,9,95000,"['safari', 'hiking', 'kayaking']",2023-12-23
+T2897,1888,Bali,8,92000,"['hiking', 'safari', 'kayaking']",2025-02-08
+T2898,1001,Bali,8,120000,['safari'],2022-06-05
+T2899,1001,Cancun,8,77000,['safari'],2022-08-04
+T2900,1001,Paris,4,419000,['kayaking'],2022-03-05
+T2901,1001,Barcelona,4,178000,"['kayaking', 'safari']",2024-04-11
+T2902,1853,Tokyo,3,93000,['hiking'],2025-01-31
+T2903,1853,Tokyo,8,89000,"['kayaking', 'hiking']",2023-06-27
+T2904,1853,Cancun,4,67000,['hiking'],2024-08-13
+T2905,1539,Bali,9,93000,['beach'],2025-03-22
+T2906,1539,Tokyo,3,94000,"['spa', 'beach', 'snorkeling']",2025-03-27
+T2907,1539,Rome,9,252000,"['beach', 'spa']",2023-03-06
+T2908,1539,Bali,7,113000,"['beach', 'snorkeling', 'spa']",2024-11-24
+T2909,1539,Barcelona,7,160000,"['snorkeling', 'spa', 'beach']",2025-04-21
+T2910,1601,Denver,3,160000,"['spa', 'beach']",2021-10-27
+T2911,1601,Tokyo,5,99000,['snorkeling'],2024-11-03
+T2912,1308,Cancun,3,92000,"['food tour', 'museum tour', 'hiking']",2022-05-24
+T2913,1308,Cancun,5,95000,"['museum tour', 'hiking', 'food tour']",2022-07-01
+T2914,1308,Tokyo,5,98000,"['hiking', 'food tour', 'museum tour']",2022-03-27
+T2915,1585,Bali,5,97000,"['safari', 'hiking']",2021-10-06
+T2916,1585,Tokyo,9,119000,"['safari', 'hiking', 'kayaking']",2024-09-05
+T2917,1585,Tokyo,7,113000,['safari'],2021-07-18
+T2918,1585,Tokyo,6,86000,"['kayaking', 'hiking', 'safari']",2021-08-03
+T2919,1585,Banff,5,322000,"['safari', 'kayaking', 'hiking']",2022-12-21
+T2920,1410,Banff,6,265000,"['spa', 'beach', 'snorkeling']",2023-01-08
+T2921,1410,Rome,5,318000,"['spa', 'beach']",2024-02-24
+T2922,1410,Banff,3,290000,['beach'],2023-01-04
+T2923,1171,Cape Town,10,256000,"['wine tasting', 'shopping']",2021-09-12
+T2924,1171,Rome,5,309000,['wine tasting'],2023-07-10
+T2925,1171,Barcelona,9,194000,['shopping'],2023-02-02
+T2926,1171,Banff,7,317000,"['wine tasting', 'spa']",2023-03-01
+T2927,1417,Barcelona,6,158000,"['museum tour', 'food tour', 'hiking']",2025-05-08
+T2928,1417,Cape Town,4,256000,"['museum tour', 'hiking', 'food tour']",2023-07-13
+T2929,1417,Cape Town,6,333000,"['food tour', 'hiking', 'museum tour']",2021-12-26
+T2930,1768,Cancun,4,89000,"['safari', 'hiking', 'kayaking']",2025-01-07
+T2931,1768,Rome,3,302000,"['safari', 'hiking']",2024-12-01
+T2932,1768,Denver,3,192000,['safari'],2025-04-21
+T2933,1692,Banff,8,331000,"['hiking', 'museum tour', 'food tour']",2024-06-13
+T2934,1692,Phuket,7,509000,['food tour'],2024-08-02
+T2935,1603,Rome,5,216000,"['kayaking', 'hiking', 'safari']",2024-01-25
+T2936,1460,Banff,6,297000,"['safari', 'kayaking', 'hiking']",2023-05-09
+T2937,1460,Rome,10,295000,"['kayaking', 'hiking', 'safari']",2023-06-03
+T2938,1460,Banff,5,302000,['kayaking'],2023-05-01
+T2939,1460,Banff,10,324000,"['kayaking', 'hiking', 'safari']",2022-12-13
+T2940,1460,Banff,6,319000,"['kayaking', 'hiking']",2021-11-18
+T2941,1871,Cancun,4,87000,"['spa', 'snorkeling']",2022-03-08
+T2942,1871,Denver,6,146000,"['spa', 'snorkeling']",2023-07-31
+T2943,1871,Denver,10,149000,['spa'],2021-12-23
+T2944,1637,Bali,6,87000,['hiking'],2025-06-24
+T2945,1637,Cancun,6,91000,"['hiking', 'safari']",2021-07-29
+T2946,1637,Bali,6,120000,"['safari', 'kayaking', 'hiking']",2023-01-12
+T2947,1637,Tokyo,10,82000,"['safari', 'hiking']",2024-03-09
+T2948,1423,Banff,5,243000,"['museum tour', 'food tour', 'cultural show']",2022-08-05
+T2949,1423,Cancun,9,81000,"['cultural show', 'food tour', 'museum tour']",2023-12-20
+T2950,1423,Bali,7,92000,"['food tour', 'cultural show', 'museum tour']",2024-04-21
+T2951,1423,Barcelona,5,175000,['museum tour'],2024-11-24
+T2952,1315,Denver,3,140000,"['beach', 'spa']",2022-12-28
+T2953,1315,Cape Town,8,281000,"['spa', 'snorkeling', 'beach']",2023-05-25
+T2954,1315,Bali,7,91000,['snorkeling'],2023-01-19
+T2955,1376,Paris,6,479000,"['hiking', 'kayaking']",2023-05-11
+T2956,1376,Banff,5,231000,['kayaking'],2025-05-07
+T2957,1524,Paris,4,419000,"['spa', 'beach']",2024-11-02
+T2958,1524,Bali,7,118000,['spa'],2023-10-28
+T2959,1524,Cancun,5,65000,"['spa', 'beach', 'snorkeling']",2021-07-05
+T2960,1524,Barcelona,6,168000,"['spa', 'snorkeling']",2025-01-31
+T2961,1524,Cape Town,5,230000,['spa'],2023-12-15
+T2962,1872,Tokyo,3,119000,['kayaking'],2022-12-27
+T2963,1872,Tokyo,8,97000,"['safari', 'hiking', 'kayaking']",2023-02-16
+T2964,1438,Barcelona,3,168000,"['spa', 'beach', 'snorkeling']",2023-11-16
+T2965,1744,Banff,5,292000,['safari'],2022-09-19
+T2966,1744,Cape Town,8,265000,['hiking'],2024-01-05
+T2967,1744,Paris,6,493000,"['safari', 'hiking', 'kayaking']",2022-06-04
+T2968,1744,Barcelona,7,202000,"['kayaking', 'safari', 'hiking']",2023-05-29
+T2969,1744,Barcelona,6,210000,"['safari', 'kayaking']",2024-02-10
+T2970,1150,Bali,6,128000,"['spa', 'snorkeling', 'beach']",2022-01-17
+T2971,1150,Denver,6,160000,"['beach', 'snorkeling']",2023-12-24
+T2972,1242,Banff,10,251000,"['spa', 'snorkeling']",2023-03-30
+T2973,1556,Tokyo,4,91000,"['snorkeling', 'beach', 'spa']",2024-08-25
+T2974,1824,Barcelona,8,197000,['wine tasting'],2024-08-31
+T2975,1824,Tokyo,6,98000,"['wine tasting', 'shopping']",2024-03-31
+T2976,1824,Cancun,7,76000,"['shopping', 'wine tasting']",2021-11-03
+T2977,1812,Rome,7,310000,['safari'],2022-01-25
+T2978,1812,Cancun,8,85000,['kayaking'],2023-01-27
+T2979,1812,Banff,4,261000,['hiking'],2023-11-10
+T2980,1812,Banff,6,267000,"['kayaking', 'hiking', 'safari']",2023-08-25
+T2981,1812,Barcelona,7,200000,"['kayaking', 'safari']",2021-11-10
+T2982,1409,Barcelona,3,145000,"['kayaking', 'safari', 'hiking']",2024-08-11
+T2983,1409,Banff,5,280000,['hiking'],2022-06-24
+T2984,1409,Rome,9,299000,['hiking'],2024-08-25
+T2985,1143,Tokyo,9,103000,"['hiking', 'kayaking', 'safari']",2021-11-22
+T2986,1526,Denver,5,178000,"['safari', 'hiking', 'kayaking']",2024-11-29
+T2987,1526,Bali,8,113000,"['kayaking', 'safari', 'hiking']",2021-12-24
+T2988,1526,Barcelona,8,160000,"['kayaking', 'safari']",2024-11-16
+T2989,1863,Rome,9,313000,['kayaking'],2023-07-08
+T2990,1863,Cancun,10,67000,['safari'],2021-11-12
+T2991,1991,Tokyo,3,106000,['museum tour'],2024-01-30
+T2992,1991,Bali,9,128000,"['food tour', 'museum tour', 'cultural show']",2024-09-24
+T2993,1832,Cape Town,4,313000,['safari'],2024-09-09
+T2994,1832,Cape Town,5,288000,['safari'],2023-02-21
+T2995,1832,Barcelona,6,152000,"['kayaking', 'hiking', 'safari']",2022-03-14
+T2996,1208,Bali,7,108000,"['museum tour', 'food tour', 'cultural show']",2022-08-19
+T2997,1208,Phuket,6,423000,['food tour'],2024-01-18
+T2998,1208,Cape Town,10,224000,"['food tour', 'cultural show']",2022-10-10
+T2999,1440,Cape Town,8,331000,"['museum tour', 'food tour', 'hiking']",2021-11-23
+T3000,1440,Banff,4,250000,"['food tour', 'museum tour']",2022-02-17
+T3001,1131,Cape Town,4,288000,"['food tour', 'museum tour', 'cultural show']",2022-01-15
+T3002,1131,Barcelona,8,213000,"['cultural show', 'food tour', 'museum tour']",2023-01-09
+T3003,1131,Bali,7,112000,"['cultural show', 'food tour', 'museum tour']",2025-01-04
+T3004,1131,Tokyo,5,96000,['museum tour'],2025-04-05
+T3005,1380,Bali,9,117000,"['snorkeling', 'spa', 'beach']",2024-11-16
+T3006,1174,Cape Town,5,285000,"['food tour', 'cultural show']",2023-04-25
+T3007,1174,Barcelona,9,174000,['cultural show'],2023-09-28
+T3008,1533,Tokyo,9,83000,"['shopping', 'wine tasting']",2024-06-12
+T3009,1533,Banff,3,334000,['spa'],2025-01-10
+T3010,1270,Cancun,7,72000,"['hiking', 'kayaking', 'safari']",2024-02-26
+T3011,1270,Cancun,6,82000,"['hiking', 'kayaking']",2021-12-06
+T3012,1270,Cancun,9,74000,"['kayaking', 'hiking']",2022-08-22
+T3013,1270,Cancun,5,94000,"['hiking', 'kayaking']",2023-10-10
+T3014,1407,Cancun,6,89000,"['spa', 'snorkeling', 'beach']",2024-09-15
+T3015,1407,Barcelona,10,203000,['snorkeling'],2022-12-29
+T3016,1407,Denver,4,162000,['beach'],2023-11-01
+T3017,1407,Barcelona,8,149000,['beach'],2023-04-25
+T3018,1805,Barcelona,10,159000,"['spa', 'snorkeling']",2023-01-05
+T3019,1805,Tokyo,8,82000,['spa'],2023-10-21
+T3020,1805,Denver,5,187000,"['beach', 'spa']",2022-06-10
+T3021,1123,Banff,6,315000,['hiking'],2025-02-18
+T3022,1123,Cape Town,9,327000,['hiking'],2022-05-24
+T3023,1138,Tokyo,8,115000,['kayaking'],2023-04-11
+T3024,1138,Bali,9,91000,"['safari', 'hiking', 'kayaking']",2021-07-04
+T3025,1138,Barcelona,8,145000,"['kayaking', 'hiking']",2024-01-20
+T3026,1138,Tokyo,6,81000,['kayaking'],2024-01-11
+T3027,1051,Cancun,6,70000,"['wine tasting', 'shopping']",2024-10-09
+T3028,1051,Tokyo,10,121000,"['shopping', 'spa']",2024-12-16
+T3029,1051,Cancun,5,96000,"['wine tasting', 'shopping', 'spa']",2021-10-01
+T3030,1624,Rome,9,262000,"['beach', 'snorkeling', 'spa']",2024-10-18
+T3031,1624,Cape Town,9,267000,"['snorkeling', 'beach']",2025-05-08
+T3032,1275,Paris,4,589000,['food tour'],2022-06-10
+T3033,1275,Rome,3,247000,['hiking'],2021-08-23
+T3034,1275,Barcelona,4,207000,"['food tour', 'museum tour', 'hiking']",2021-11-29
+T3035,1970,Cancun,7,69000,"['cultural show', 'museum tour']",2022-11-05
+T3036,1342,Cancun,6,72000,['beach'],2024-03-04
+T3037,1342,Cancun,4,79000,['spa'],2022-12-01
+T3038,1342,Cancun,8,81000,"['beach', 'spa', 'snorkeling']",2021-11-11
+T3039,1342,Cancun,4,82000,['beach'],2022-05-24
+T3040,1256,Bali,3,102000,"['spa', 'beach']",2024-11-29
+T3041,1256,Paris,5,521000,['beach'],2023-03-15
+T3042,1256,Paris,3,410000,['beach'],2025-04-10
+T3043,1256,Banff,6,269000,"['snorkeling', 'beach']",2025-01-20
+T3044,1256,Banff,6,233000,"['spa', 'snorkeling', 'beach']",2025-05-30
+T3045,1182,Tokyo,5,115000,"['food tour', 'hiking']",2023-01-16
+T3046,1182,Bali,5,102000,"['food tour', 'museum tour']",2021-11-22
+T3047,1182,Tokyo,4,103000,"['museum tour', 'food tour', 'hiking']",2024-06-20
+T3048,1617,Denver,3,187000,"['spa', 'shopping', 'wine tasting']",2022-11-18
+T3049,1617,Bali,10,123000,['wine tasting'],2023-07-26
+T3050,1617,Bali,3,110000,"['shopping', 'spa']",2025-06-11
+T3051,1300,Cape Town,4,271000,['food tour'],2025-03-29
+T3052,1300,Barcelona,8,169000,['museum tour'],2023-03-29
+T3053,1300,Bali,7,124000,"['cultural show', 'food tour', 'museum tour']",2023-01-20
+T3054,1300,Rome,9,310000,"['museum tour', 'food tour']",2022-06-21
+T3055,1300,Barcelona,6,195000,"['food tour', 'cultural show']",2023-09-14
+T3056,1690,Tokyo,4,112000,['safari'],2021-10-04
+T3057,1690,Bali,10,107000,"['safari', 'hiking']",2022-08-22
+T3058,1690,Bali,7,130000,"['hiking', 'kayaking']",2024-07-07
+T3059,1690,Bali,5,114000,"['safari', 'hiking']",2022-05-20
+T3060,1770,Barcelona,9,212000,"['food tour', 'museum tour', 'hiking']",2021-08-10
+T3061,1770,Rome,3,283000,"['museum tour', 'food tour']",2022-03-09
+T3062,1770,Tokyo,7,105000,"['museum tour', 'hiking', 'food tour']",2022-12-07
+T3063,1770,Tokyo,3,113000,"['museum tour', 'hiking', 'food tour']",2023-08-30
+T3064,1770,Banff,10,251000,"['museum tour', 'hiking', 'food tour']",2025-06-03
+T3065,1240,Bali,3,110000,"['kayaking', 'safari']",2021-11-15
+T3066,1240,Rome,4,320000,"['safari', 'hiking']",2022-01-21
+T3067,1240,Bali,10,108000,"['hiking', 'safari', 'kayaking']",2022-11-16
+T3068,1240,Paris,9,403000,"['safari', 'kayaking']",2022-07-31
+T3069,1240,Barcelona,10,200000,['safari'],2023-04-05
+T3070,1230,Cape Town,6,252000,"['food tour', 'museum tour', 'hiking']",2023-11-18
+T3071,1230,Cape Town,7,319000,"['museum tour', 'food tour', 'hiking']",2025-06-14
+T3072,1920,Paris,9,575000,"['hiking', 'kayaking']",2022-06-19
+T3073,1920,Banff,7,261000,['safari'],2022-05-22
+T3074,1920,Denver,5,132000,"['hiking', 'safari', 'kayaking']",2025-06-28
+T3075,1920,Bali,10,96000,"['kayaking', 'hiking']",2022-10-20
+T3076,1326,Barcelona,10,179000,"['kayaking', 'safari']",2024-01-01
+T3077,1326,Paris,3,511000,"['safari', 'hiking', 'kayaking']",2025-06-07
+T3078,1326,Denver,3,160000,"['hiking', 'safari']",2021-09-17
+T3079,1326,Barcelona,8,200000,['hiking'],2025-05-10
+T3080,1458,Rome,9,318000,"['kayaking', 'hiking']",2023-09-22
+T3081,1458,Tokyo,10,99000,"['hiking', 'safari']",2023-03-19
+T3082,1458,Cape Town,5,320000,"['safari', 'hiking']",2023-03-06
+T3083,1458,Cape Town,5,331000,"['hiking', 'safari', 'kayaking']",2023-05-17
+T3084,1681,Tokyo,4,117000,"['spa', 'shopping']",2022-12-09
+T3085,1681,Phuket,5,615000,['shopping'],2021-08-17
+T3086,1681,Bali,9,94000,"['shopping', 'wine tasting']",2023-08-03
+T3087,1681,Phuket,4,474000,"['spa', 'wine tasting']",2023-07-29
+T3088,1662,Denver,3,152000,['safari'],2024-08-08
+T3089,1662,Bali,6,121000,"['hiking', 'kayaking', 'safari']",2022-10-03
+T3090,1662,Barcelona,5,207000,['kayaking'],2023-12-29
+T3091,1662,Tokyo,7,112000,"['hiking', 'safari']",2022-05-27
+T3092,1662,Cancun,6,91000,"['hiking', 'kayaking']",2023-08-20
+T3093,1507,Rome,9,217000,"['beach', 'snorkeling', 'spa']",2023-01-24
+T3094,1507,Barcelona,8,170000,['snorkeling'],2023-12-10
+T3095,1465,Tokyo,6,118000,['museum tour'],2023-06-18
+T3096,1465,Cape Town,3,260000,"['cultural show', 'food tour']",2025-02-06
+T3097,1465,Denver,3,181000,['museum tour'],2022-05-17
+T3098,1163,Denver,9,157000,"['snorkeling', 'spa', 'beach']",2021-09-09
+T3099,1163,Cancun,4,72000,['spa'],2025-06-06
+T3100,1163,Phuket,5,510000,"['beach', 'spa', 'snorkeling']",2022-07-03
+T3101,1163,Paris,8,446000,"['spa', 'beach', 'snorkeling']",2023-01-17
+T3102,1163,Banff,5,320000,['beach'],2024-04-25
+T3103,1167,Barcelona,6,167000,"['shopping', 'wine tasting']",2022-05-29
+T3104,1167,Bali,4,111000,['wine tasting'],2023-12-29
+T3105,1167,Cancun,8,87000,['spa'],2022-04-02
+T3106,1167,Rome,7,316000,"['spa', 'wine tasting', 'shopping']",2025-03-04
+T3107,1145,Tokyo,5,96000,"['safari', 'hiking']",2025-06-13
+T3108,1145,Barcelona,8,155000,"['safari', 'hiking', 'kayaking']",2022-11-17
+T3109,1145,Denver,10,178000,['kayaking'],2024-10-05
+T3110,1206,Bali,8,92000,"['hiking', 'museum tour']",2023-04-19
+T3111,1206,Bali,3,125000,"['hiking', 'museum tour', 'food tour']",2021-12-27
+T3112,1206,Cancun,7,75000,"['hiking', 'food tour']",2022-03-13
+T3113,1500,Cancun,3,93000,"['safari', 'hiking']",2022-08-19
+T3114,1500,Cancun,5,87000,"['kayaking', 'hiking', 'safari']",2023-09-30
+T3115,1500,Cancun,5,92000,"['hiking', 'safari', 'kayaking']",2023-10-03
+T3116,1500,Cancun,5,95000,"['safari', 'hiking', 'kayaking']",2022-12-06
+T3117,1500,Cancun,8,83000,['kayaking'],2025-02-05
+T3118,1188,Denver,4,144000,['cultural show'],2023-08-17
+T3119,1324,Bali,4,88000,"['spa', 'wine tasting', 'shopping']",2022-02-20
+T3120,1324,Bali,6,119000,"['shopping', 'wine tasting']",2022-11-03
+T3121,1324,Phuket,7,560000,['spa'],2021-12-28
+T3122,1324,Barcelona,10,187000,"['spa', 'wine tasting']",2023-10-25
+T3123,1324,Cancun,9,93000,"['spa', 'shopping']",2022-03-23
+T3124,1657,Denver,3,178000,"['hiking', 'safari', 'kayaking']",2023-09-09
+T3125,1657,Barcelona,6,191000,"['safari', 'kayaking', 'hiking']",2025-01-16
+T3126,1657,Bali,6,102000,"['kayaking', 'hiking', 'safari']",2021-07-30
+T3127,1657,Barcelona,6,213000,"['kayaking', 'hiking']",2022-09-05
+T3128,1657,Barcelona,3,147000,"['safari', 'kayaking', 'hiking']",2022-07-30
+T3129,1745,Cancun,9,71000,"['snorkeling', 'spa', 'beach']",2022-03-22
+T3130,1745,Denver,8,154000,"['beach', 'spa']",2023-11-15
+T3131,1745,Rome,10,242000,"['spa', 'beach', 'snorkeling']",2023-03-30
+T3132,1745,Banff,4,313000,"['beach', 'spa', 'snorkeling']",2024-11-16
+T3133,1835,Barcelona,5,185000,['kayaking'],2023-01-09
+T3134,1835,Bali,8,130000,"['hiking', 'safari', 'kayaking']",2025-03-11
+T3135,1835,Tokyo,5,119000,['kayaking'],2021-11-11
+T3136,1855,Banff,3,270000,['food tour'],2023-04-02
+T3137,1855,Cape Town,4,281000,"['museum tour', 'food tour']",2024-03-29
+T3138,1855,Barcelona,4,181000,"['hiking', 'food tour', 'museum tour']",2023-05-04
+T3139,1852,Banff,10,315000,"['safari', 'kayaking']",2022-12-15
+T3140,1852,Denver,6,146000,"['safari', 'kayaking', 'hiking']",2024-04-17
+T3141,1852,Phuket,10,586000,"['kayaking', 'hiking', 'safari']",2024-05-25
+T3142,1852,Barcelona,6,156000,['safari'],2023-08-01
+T3143,1900,Barcelona,7,189000,['wine tasting'],2025-04-06
+T3144,1900,Banff,3,250000,['wine tasting'],2024-10-07
+T3145,1900,Banff,3,252000,['spa'],2023-09-20
+T3146,1900,Phuket,10,545000,"['shopping', 'spa', 'wine tasting']",2024-06-03
+T3147,1575,Barcelona,6,154000,"['food tour', 'museum tour']",2024-04-28
+T3148,1079,Rome,5,285000,"['safari', 'kayaking', 'hiking']",2023-06-04
+T3149,1079,Banff,5,282000,"['hiking', 'safari', 'kayaking']",2025-06-21
+T3150,1814,Cancun,10,94000,"['wine tasting', 'shopping', 'spa']",2024-02-21
+T3151,1814,Bali,5,95000,['wine tasting'],2021-08-18
+T3152,1687,Tokyo,9,115000,['kayaking'],2024-12-11
+T3153,1687,Barcelona,4,169000,['safari'],2024-09-17
+T3154,1687,Denver,7,185000,"['hiking', 'safari', 'kayaking']",2023-06-16
+T3155,1687,Cancun,4,76000,"['safari', 'kayaking']",2024-12-29
+T3156,1452,Cancun,4,74000,['museum tour'],2025-06-06
+T3157,1452,Cancun,3,81000,['museum tour'],2022-09-06
+T3158,1452,Cancun,6,69000,"['food tour', 'cultural show', 'museum tour']",2022-12-17
+T3159,1857,Denver,10,166000,"['kayaking', 'hiking']",2022-05-16
+T3160,1857,Barcelona,7,183000,"['hiking', 'safari']",2025-05-14
+T3161,1229,Barcelona,8,213000,['hiking'],2023-04-25
+T3162,1229,Denver,6,166000,"['kayaking', 'hiking']",2024-12-01
+T3163,1229,Denver,8,136000,"['kayaking', 'safari', 'hiking']",2024-06-09
+T3164,1229,Tokyo,9,119000,['safari'],2023-03-14
+T3165,1723,Bali,10,121000,"['hiking', 'food tour']",2022-09-17
+T3166,1723,Cape Town,5,232000,"['hiking', 'food tour', 'museum tour']",2023-01-12
+T3167,1782,Tokyo,5,86000,"['snorkeling', 'beach']",2023-10-24
+T3168,1100,Denver,7,172000,['food tour'],2024-10-13
+T3169,1290,Cape Town,8,334000,"['spa', 'wine tasting']",2025-02-15
+T3170,1290,Banff,5,299000,"['spa', 'wine tasting']",2023-03-25
+T3171,1290,Rome,6,275000,['shopping'],2021-11-05
+T3172,1290,Denver,7,172000,"['shopping', 'wine tasting']",2024-04-12
+T3173,1444,Tokyo,7,121000,['safari'],2023-04-14
+T3174,1444,Rome,3,278000,"['safari', 'kayaking']",2022-01-12
+T3175,1444,Paris,6,473000,['hiking'],2024-12-16
+T3176,1444,Banff,7,235000,"['hiking', 'kayaking']",2023-10-27
+T3177,1951,Tokyo,6,98000,"['safari', 'kayaking']",2022-03-11
+T3178,1053,Tokyo,10,104000,"['hiking', 'safari', 'kayaking']",2022-10-05
+T3179,1053,Denver,10,141000,['safari'],2022-06-01
+T3180,1391,Tokyo,10,117000,['kayaking'],2021-08-10
+T3181,1391,Rome,10,216000,"['kayaking', 'hiking', 'safari']",2023-08-29
+T3182,1391,Banff,5,335000,['kayaking'],2022-12-01
+T3183,1391,Paris,6,503000,['safari'],2025-03-16
+T3184,1391,Banff,9,314000,['kayaking'],2025-06-08
+T3185,1967,Bali,6,117000,['hiking'],2024-08-01
+T3186,1967,Tokyo,9,95000,"['kayaking', 'hiking', 'safari']",2024-06-04
+T3187,1967,Tokyo,4,100000,"['hiking', 'kayaking', 'safari']",2025-04-16
+T3188,1368,Rome,3,220000,"['beach', 'snorkeling', 'spa']",2022-06-06
+T3189,1666,Banff,6,233000,['wine tasting'],2025-01-06
+T3190,1666,Banff,8,288000,['wine tasting'],2023-04-10
+T3191,1666,Rome,5,258000,"['wine tasting', 'spa']",2022-08-11
+T3192,1666,Denver,7,135000,['wine tasting'],2024-05-17
+T3193,1251,Cape Town,10,231000,['wine tasting'],2023-11-30
+T3194,1251,Paris,9,538000,"['shopping', 'wine tasting', 'spa']",2024-03-24
+T3195,1251,Cancun,4,89000,"['shopping', 'wine tasting', 'spa']",2023-02-22
+T3196,1251,Paris,7,540000,['shopping'],2024-04-13
+T3197,1251,Banff,9,292000,"['shopping', 'wine tasting']",2022-07-21
+T3198,1499,Bali,8,125000,"['museum tour', 'food tour']",2025-02-22
+T3199,1499,Denver,5,136000,"['food tour', 'cultural show', 'museum tour']",2022-03-29
+T3200,1499,Bali,3,106000,"['museum tour', 'food tour', 'cultural show']",2022-10-26
+T3201,1499,Bali,7,95000,"['food tour', 'cultural show', 'museum tour']",2024-09-05
+T3202,1475,Denver,9,174000,['spa'],2024-03-14
+T3203,1670,Denver,5,180000,['cultural show'],2021-12-21
+T3204,1271,Cancun,6,93000,['kayaking'],2024-08-05
+T3205,1044,Rome,5,291000,"['hiking', 'safari', 'kayaking']",2024-01-01
+T3206,1044,Cancun,3,69000,['kayaking'],2021-11-12
+T3207,1113,Phuket,9,589000,"['safari', 'kayaking']",2022-04-10
+T3208,1113,Denver,5,156000,"['safari', 'hiking', 'kayaking']",2023-06-16
+T3209,1113,Cancun,9,83000,['safari'],2025-03-27
+T3210,1113,Banff,9,327000,"['safari', 'hiking', 'kayaking']",2024-03-25
+T3211,1024,Rome,7,270000,"['safari', 'kayaking', 'hiking']",2024-11-04
+T3212,1211,Bali,8,129000,"['museum tour', 'cultural show', 'food tour']",2023-04-23
+T3213,1620,Denver,9,160000,"['kayaking', 'hiking']",2023-11-07
+T3214,1620,Cancun,10,75000,"['kayaking', 'hiking', 'safari']",2023-06-10
+T3215,1169,Cancun,5,74000,"['shopping', 'wine tasting', 'spa']",2021-11-26
+T3216,1169,Bali,7,102000,"['shopping', 'spa', 'wine tasting']",2022-04-07
+T3217,1169,Cancun,4,92000,"['shopping', 'spa']",2024-11-20
+T3218,1591,Bali,3,128000,"['food tour', 'hiking']",2022-12-20
+T3219,1591,Cape Town,7,237000,"['food tour', 'museum tour']",2024-02-05
+T3220,1591,Bali,3,131000,['hiking'],2022-02-16
+T3221,1591,Rome,8,277000,"['food tour', 'museum tour']",2023-11-08
+T3222,1591,Cape Town,7,263000,['food tour'],2021-12-04
+T3223,1974,Phuket,6,582000,['kayaking'],2025-05-28
+T3224,1974,Cape Town,5,231000,"['hiking', 'safari']",2023-10-29
+T3225,1974,Banff,9,322000,"['safari', 'kayaking']",2024-09-30
+T3226,1596,Paris,8,436000,"['spa', 'wine tasting']",2025-06-26
+T3227,1596,Phuket,10,491000,"['shopping', 'wine tasting', 'spa']",2024-04-20
+T3228,1596,Cape Town,5,278000,['spa'],2021-07-06
+T3229,1520,Rome,4,278000,"['food tour', 'hiking', 'museum tour']",2024-05-22
+T3230,1520,Barcelona,3,163000,"['food tour', 'hiking']",2022-03-28
+T3231,1520,Bali,10,87000,['museum tour'],2024-04-26
+T3232,1032,Banff,3,298000,"['food tour', 'hiking', 'museum tour']",2024-12-22
+T3233,1032,Banff,10,323000,"['museum tour', 'hiking', 'food tour']",2024-02-15
+T3234,1611,Denver,8,168000,['kayaking'],2023-12-14
+T3235,1611,Cancun,9,90000,"['safari', 'kayaking', 'hiking']",2021-11-23
+T3236,1611,Barcelona,9,210000,"['kayaking', 'safari', 'hiking']",2023-07-21
+T3237,1109,Banff,5,273000,"['kayaking', 'hiking']",2023-03-10
+T3238,1109,Cape Town,5,249000,"['hiking', 'safari']",2023-11-08
+T3239,1136,Bali,3,87000,['kayaking'],2022-10-16
+T3240,1330,Banff,7,320000,['beach'],2022-05-10
+T3241,1330,Phuket,9,603000,"['beach', 'spa']",2024-11-21
+T3242,1330,Barcelona,3,199000,"['snorkeling', 'spa']",2023-03-17
+T3243,1330,Bali,3,113000,['snorkeling'],2022-09-27
+T3244,1330,Denver,4,170000,"['snorkeling', 'spa']",2021-06-30
+T3245,1222,Barcelona,8,161000,['hiking'],2021-09-06
+T3246,1222,Rome,7,250000,"['safari', 'hiking', 'kayaking']",2024-04-11
+T3247,1222,Barcelona,10,150000,['hiking'],2024-01-17
+T3248,1222,Bali,5,117000,"['safari', 'kayaking']",2022-02-12
+T3249,1028,Barcelona,7,176000,"['spa', 'wine tasting', 'shopping']",2025-06-13
+T3250,1028,Cape Town,6,261000,"['wine tasting', 'spa', 'shopping']",2024-08-04
+T3251,1028,Rome,6,240000,['wine tasting'],2021-12-03
+T3252,1028,Rome,3,250000,"['spa', 'shopping']",2022-07-15
+T3253,1287,Phuket,9,514000,"['food tour', 'cultural show']",2025-01-13
+T3254,1287,Rome,10,230000,"['food tour', 'cultural show', 'museum tour']",2021-06-29
+T3255,1287,Barcelona,4,171000,['museum tour'],2021-10-01
+T3256,1287,Cape Town,7,247000,"['food tour', 'museum tour']",2023-01-25
+T3257,1287,Phuket,9,489000,"['food tour', 'cultural show']",2024-02-22
+T3258,1722,Rome,3,250000,"['food tour', 'museum tour', 'cultural show']",2024-09-30
+T3259,1722,Phuket,5,538000,"['cultural show', 'museum tour', 'food tour']",2025-03-17
+T3260,1722,Rome,5,310000,['cultural show'],2024-03-05
+T3261,1722,Paris,5,504000,['food tour'],2023-06-23
+T3262,1722,Bali,5,125000,"['museum tour', 'cultural show']",2024-03-26
+T3263,1055,Cancun,8,87000,"['spa', 'snorkeling']",2025-01-02
+T3264,1055,Cape Town,9,226000,"['beach', 'snorkeling', 'spa']",2024-03-09
+T3265,1055,Barcelona,10,188000,['snorkeling'],2021-08-31
+T3266,1055,Banff,5,253000,['snorkeling'],2025-06-13
+T3267,1055,Rome,10,230000,"['beach', 'snorkeling', 'spa']",2024-01-05
+T3268,1977,Paris,8,535000,['food tour'],2023-06-15
+T3269,1977,Tokyo,8,110000,"['museum tour', 'hiking', 'food tour']",2022-09-13
+T3270,1977,Cancun,7,75000,"['hiking', 'food tour', 'museum tour']",2022-11-10
+T3271,1977,Rome,8,233000,['food tour'],2024-01-13
+T3272,1977,Banff,9,331000,['museum tour'],2023-03-18
+T3273,1886,Phuket,7,452000,['safari'],2024-04-26
+T3274,1886,Barcelona,4,180000,['safari'],2024-04-14
+T3275,1886,Paris,6,497000,"['safari', 'hiking']",2023-11-03
+T3276,1886,Tokyo,5,113000,"['kayaking', 'hiking', 'safari']",2024-02-19
+T3277,1906,Banff,9,275000,"['hiking', 'safari']",2025-04-10
+T3278,1906,Barcelona,3,198000,"['hiking', 'kayaking', 'safari']",2024-04-28
+T3279,1048,Cancun,3,65000,"['spa', 'beach']",2024-08-13
+T3280,1909,Banff,8,256000,"['hiking', 'kayaking']",2023-10-21
+T3281,1909,Cancun,7,88000,"['kayaking', 'hiking']",2024-09-26
+T3282,1909,Banff,10,240000,"['safari', 'kayaking', 'hiking']",2024-03-26
+T3283,1909,Denver,9,130000,"['kayaking', 'safari', 'hiking']",2025-02-26
+T3284,1981,Denver,10,167000,['kayaking'],2023-01-15
+T3285,1981,Paris,6,547000,['kayaking'],2021-07-31
+T3286,1642,Tokyo,10,105000,"['cultural show', 'museum tour', 'food tour']",2022-10-03
+T3287,1642,Tokyo,8,113000,"['cultural show', 'food tour']",2023-03-05
+T3288,1642,Bali,6,127000,"['cultural show', 'food tour']",2024-03-27
+T3289,1642,Tokyo,6,112000,"['food tour', 'museum tour', 'cultural show']",2024-08-24
+T3290,1642,Bali,4,89000,"['museum tour', 'cultural show', 'food tour']",2023-01-30
+T3291,1545,Cape Town,6,268000,"['museum tour', 'food tour']",2021-12-18
+T3292,1545,Cape Town,3,335000,"['food tour', 'cultural show', 'museum tour']",2024-05-11
+T3293,1545,Cancun,5,72000,"['museum tour', 'food tour']",2025-06-11
+T3294,1545,Paris,10,523000,['museum tour'],2025-05-03
+T3295,1477,Banff,7,231000,['safari'],2022-08-22
+T3296,1477,Tokyo,5,118000,"['safari', 'kayaking']",2021-09-10
+T3297,1477,Cancun,3,77000,"['safari', 'kayaking']",2024-05-01
+T3298,1547,Paris,5,427000,"['safari', 'hiking', 'kayaking']",2021-12-07
+T3299,1547,Banff,8,313000,"['kayaking', 'hiking', 'safari']",2021-10-04
+T3300,1547,Paris,6,599000,"['safari', 'hiking']",2024-03-25
+T3301,1547,Banff,6,326000,"['safari', 'hiking']",2023-05-07
+T3302,1547,Phuket,3,606000,"['hiking', 'safari']",2021-08-21
+T3303,1063,Bali,3,123000,['museum tour'],2025-01-05
+T3304,1063,Phuket,10,542000,"['museum tour', 'food tour']",2024-10-17
+T3305,1063,Paris,3,524000,"['food tour', 'hiking']",2021-11-19
+T3306,1063,Cape Town,5,325000,"['food tour', 'hiking']",2025-03-03
+T3307,1063,Barcelona,9,149000,['museum tour'],2021-11-04
+T3308,1413,Phuket,8,527000,"['kayaking', 'safari', 'hiking']",2024-05-26
+T3309,1413,Tokyo,5,86000,"['kayaking', 'safari']",2023-05-01
+T3310,1413,Cape Town,3,262000,['safari'],2024-08-31
+T3311,1413,Cancun,10,94000,['kayaking'],2022-01-31
+T3312,1384,Cancun,5,94000,"['kayaking', 'safari']",2024-08-23
+T3313,1384,Cancun,4,78000,"['hiking', 'safari', 'kayaking']",2024-12-28
+T3314,1384,Cancun,10,86000,"['kayaking', 'hiking']",2021-09-06
+T3315,1384,Cancun,7,93000,"['kayaking', 'safari', 'hiking']",2025-03-31
+T3316,1384,Cancun,10,95000,"['hiking', 'safari']",2023-08-04
+T3317,1894,Cancun,10,82000,['museum tour'],2025-06-15
+T3318,1894,Bali,10,94000,['food tour'],2025-05-29
+T3319,1894,Tokyo,7,83000,"['cultural show', 'food tour']",2022-04-09
+T3320,1894,Cancun,9,91000,['food tour'],2023-01-20
+T3321,1894,Bali,4,107000,['cultural show'],2024-11-15
+T3322,1322,Phuket,3,563000,"['kayaking', 'hiking']",2025-02-05
+T3323,1322,Barcelona,5,212000,"['safari', 'hiking', 'kayaking']",2024-09-21
+T3324,1322,Cancun,7,95000,['kayaking'],2022-09-15
+T3325,1322,Denver,4,164000,"['hiking', 'safari']",2024-04-06
+T3326,1322,Paris,4,447000,"['kayaking', 'hiking']",2022-08-26
+T3327,1451,Bali,3,125000,['hiking'],2021-12-08
+T3328,1786,Bali,8,127000,"['spa', 'snorkeling']",2022-08-13
+T3329,1786,Barcelona,6,162000,"['snorkeling', 'spa', 'beach']",2023-03-16
+T3330,1786,Banff,3,319000,"['snorkeling', 'beach']",2024-01-21
+T3331,1786,Rome,8,302000,"['snorkeling', 'beach', 'spa']",2023-12-11
+T3332,1234,Cancun,10,83000,"['safari', 'kayaking', 'hiking']",2024-03-30
+T3333,1234,Cancun,10,87000,"['kayaking', 'hiking', 'safari']",2024-11-05
+T3334,1656,Bali,7,95000,['safari'],2021-09-05
+T3335,1656,Banff,5,303000,['kayaking'],2024-12-28
+T3336,1557,Rome,7,227000,['safari'],2021-11-25
+T3337,1557,Banff,5,281000,"['safari', 'kayaking', 'hiking']",2024-10-17
+T3338,1557,Tokyo,4,108000,['hiking'],2022-01-25
+T3339,1557,Tokyo,6,106000,"['kayaking', 'hiking', 'safari']",2022-12-23
+T3340,1462,Bali,4,98000,"['shopping', 'wine tasting']",2023-10-28
+T3341,1462,Barcelona,9,182000,"['wine tasting', 'spa']",2024-05-31
+T3342,1462,Paris,6,587000,['spa'],2025-02-03
+T3343,1424,Rome,8,273000,"['food tour', 'museum tour']",2024-09-25
+T3344,1424,Rome,6,316000,"['food tour', 'cultural show', 'museum tour']",2022-10-21
+T3345,1424,Barcelona,6,185000,"['museum tour', 'cultural show', 'food tour']",2024-11-23
+T3346,1424,Denver,5,138000,['museum tour'],2023-06-27
+T3347,1424,Barcelona,8,174000,"['museum tour', 'cultural show']",2022-09-23
+T3348,1885,Rome,4,267000,"['hiking', 'museum tour', 'food tour']",2023-04-18
+T3349,1885,Denver,3,171000,['hiking'],2022-02-19
+T3350,1885,Cancun,4,93000,['museum tour'],2024-11-18
+T3351,1885,Denver,3,178000,['museum tour'],2023-11-20
+T3352,1885,Bali,6,103000,"['food tour', 'hiking', 'museum tour']",2022-07-25
+T3353,1303,Bali,3,130000,['beach'],2024-03-06
+T3354,1303,Cancun,3,78000,"['spa', 'snorkeling']",2022-04-15
+T3355,1889,Cancun,4,88000,['safari'],2021-08-16
+T3356,1689,Rome,3,221000,"['beach', 'spa']",2022-05-22
+T3357,1689,Bali,6,98000,['spa'],2024-12-03
+T3358,1689,Tokyo,3,84000,['snorkeling'],2023-10-01
+T3359,1219,Denver,3,164000,"['food tour', 'cultural show', 'museum tour']",2021-11-01
+T3360,1219,Paris,9,536000,['cultural show'],2022-11-01
+T3361,1219,Cancun,8,90000,['museum tour'],2022-07-12
+T3362,1875,Rome,8,274000,['safari'],2023-11-05
+T3363,1875,Cancun,6,80000,"['hiking', 'kayaking']",2023-04-14
+T3364,1875,Barcelona,9,186000,"['safari', 'hiking', 'kayaking']",2022-02-11
+T3365,1875,Cape Town,9,260000,['safari'],2024-05-22
+T3366,1875,Barcelona,6,212000,['safari'],2023-03-13
+T3367,1296,Denver,7,133000,"['food tour', 'hiking']",2021-08-09
+T3368,1296,Denver,5,130000,"['food tour', 'museum tour']",2021-11-16
+T3369,1021,Banff,4,279000,"['wine tasting', 'spa']",2024-03-25
+T3370,1021,Tokyo,6,105000,['shopping'],2022-06-06
+T3371,1021,Bali,8,89000,['shopping'],2024-03-05
+T3372,1021,Denver,5,158000,['spa'],2023-05-18
+T3373,1760,Banff,7,322000,"['spa', 'snorkeling']",2022-04-03
+T3374,1760,Barcelona,3,212000,"['spa', 'snorkeling']",2021-11-26
+T3375,1760,Barcelona,9,200000,"['spa', 'snorkeling', 'beach']",2023-10-17
+T3376,1760,Denver,6,168000,"['spa', 'snorkeling', 'beach']",2022-06-27
+T3377,1760,Tokyo,6,84000,"['snorkeling', 'beach']",2021-08-20
+T3378,1420,Tokyo,10,90000,['spa'],2024-08-15
+T3379,1420,Phuket,3,462000,"['shopping', 'spa', 'wine tasting']",2025-02-08
+T3380,1420,Cancun,10,82000,['spa'],2022-08-12
+T3381,1420,Cape Town,8,268000,"['spa', 'shopping']",2024-07-15
+T3382,1325,Bali,4,120000,"['shopping', 'spa', 'wine tasting']",2022-01-17
+T3383,1325,Barcelona,3,167000,"['wine tasting', 'shopping', 'spa']",2023-12-13
+T3384,1325,Cape Town,3,320000,"['shopping', 'spa']",2025-02-27
+T3385,1325,Rome,3,309000,['spa'],2024-03-17
+T3386,1199,Banff,9,288000,"['snorkeling', 'beach', 'spa']",2024-09-06
+T3387,1199,Phuket,4,549000,"['beach', 'spa', 'snorkeling']",2022-06-19
+T3388,1450,Cancun,7,85000,"['hiking', 'kayaking', 'safari']",2024-02-02
+T3389,1450,Tokyo,7,87000,['safari'],2023-06-24
+T3390,1450,Cancun,9,71000,"['hiking', 'safari', 'kayaking']",2025-04-21
+T3391,1450,Cancun,6,77000,['hiking'],2022-01-07
+T3392,1450,Cancun,7,64000,"['kayaking', 'hiking', 'safari']",2025-03-23
+T3393,1137,Tokyo,6,120000,"['museum tour', 'cultural show']",2023-12-17
+T3394,1137,Cape Town,9,262000,"['museum tour', 'cultural show', 'food tour']",2024-09-09
+T3395,1536,Cape Town,10,250000,"['hiking', 'safari', 'kayaking']",2023-04-01
+T3396,1536,Cancun,5,88000,['safari'],2022-06-08
+T3397,1536,Barcelona,6,158000,['kayaking'],2022-12-28
+T3398,1696,Rome,7,254000,"['shopping', 'spa']",2022-05-21
+T3399,1696,Denver,10,153000,"['wine tasting', 'spa', 'shopping']",2023-09-13
+T3400,1696,Cape Town,3,285000,['shopping'],2023-07-01
+T3401,1717,Denver,3,169000,"['spa', 'beach', 'snorkeling']",2024-11-20
+T3402,1646,Cape Town,9,238000,"['hiking', 'safari']",2024-03-24
+T3403,1646,Tokyo,7,118000,"['safari', 'hiking', 'kayaking']",2023-03-08
+T3404,1628,Bali,10,99000,"['safari', 'hiking', 'kayaking']",2021-10-30
+T3405,1628,Cape Town,9,308000,"['hiking', 'safari', 'kayaking']",2023-01-13
+T3406,1628,Tokyo,7,95000,['kayaking'],2022-10-05
+T3407,1628,Rome,5,308000,"['hiking', 'kayaking']",2021-07-28
+T3408,1628,Rome,8,293000,"['kayaking', 'safari', 'hiking']",2024-07-06
+T3409,1212,Tokyo,4,118000,"['museum tour', 'food tour', 'cultural show']",2022-10-01
+T3410,1212,Cancun,6,79000,['museum tour'],2023-05-06
+T3411,1212,Cancun,10,70000,"['museum tour', 'food tour']",2024-05-08
+T3412,1212,Tokyo,6,96000,"['museum tour', 'cultural show', 'food tour']",2023-03-08
+T3413,1966,Tokyo,10,83000,"['snorkeling', 'spa']",2023-12-13
+T3414,1966,Cancun,8,83000,['spa'],2021-09-08
+T3415,1939,Rome,6,256000,"['kayaking', 'safari']",2023-09-15
+T3416,1939,Denver,10,140000,"['kayaking', 'hiking']",2022-04-27
+T3417,1939,Rome,6,222000,"['kayaking', 'hiking']",2024-09-05
+T3418,1939,Banff,10,275000,"['safari', 'hiking', 'kayaking']",2022-11-01
+T3419,1939,Cape Town,6,298000,"['safari', 'hiking', 'kayaking']",2021-09-04
+T3420,1926,Cape Town,5,322000,"['kayaking', 'safari']",2025-03-12
+T3421,1926,Tokyo,8,119000,['safari'],2022-12-26
+T3422,1926,Tokyo,6,106000,"['safari', 'kayaking', 'hiking']",2023-05-21
+T3423,1505,Tokyo,3,87000,"['beach', 'snorkeling']",2022-05-14
+T3424,1505,Tokyo,8,95000,"['spa', 'snorkeling']",2025-04-24
+T3425,1505,Cancun,3,90000,"['spa', 'snorkeling', 'beach']",2023-04-30
+T3426,1505,Tokyo,3,95000,['snorkeling'],2021-11-09
+T3427,1505,Cancun,8,71000,['spa'],2021-11-09
+T3428,1935,Denver,6,153000,"['wine tasting', 'spa']",2022-05-08
+T3429,1231,Denver,9,149000,"['spa', 'shopping']",2025-04-20
+T3430,1231,Tokyo,7,108000,['spa'],2024-04-29
+T3431,1231,Denver,5,144000,"['wine tasting', 'shopping', 'spa']",2022-10-25
+T3432,1231,Denver,5,188000,"['wine tasting', 'spa']",2022-10-11
+T3433,1405,Bali,4,95000,"['wine tasting', 'spa', 'shopping']",2025-06-04
+T3434,1405,Cancun,7,77000,['spa'],2024-01-25
+T3435,1405,Paris,8,488000,['shopping'],2022-10-15
+T3436,1729,Tokyo,10,93000,"['snorkeling', 'spa', 'beach']",2025-03-23
+T3437,1729,Cancun,7,86000,"['beach', 'spa', 'snorkeling']",2023-01-14
+T3438,1729,Bali,10,93000,"['spa', 'snorkeling']",2022-07-08
+T3439,1729,Denver,7,166000,"['beach', 'spa', 'snorkeling']",2023-12-29
+T3440,1729,Bali,10,91000,['spa'],2021-07-08
+T3441,1568,Banff,10,234000,"['beach', 'spa', 'snorkeling']",2023-02-16
+T3442,1568,Tokyo,3,113000,"['snorkeling', 'spa', 'beach']",2024-09-28
+T3443,1568,Banff,3,252000,"['snorkeling', 'beach', 'spa']",2023-12-28
+T3444,1568,Denver,5,174000,['spa'],2023-09-03
+T3445,1568,Cape Town,5,233000,"['beach', 'spa', 'snorkeling']",2023-06-12
+T3446,1317,Rome,5,316000,['spa'],2023-01-06
+T3447,1183,Rome,8,291000,"['beach', 'snorkeling']",2025-05-19
+T3448,1183,Denver,3,192000,"['snorkeling', 'spa', 'beach']",2022-12-06
+T3449,1183,Cape Town,3,277000,['beach'],2024-04-24
+T3450,1183,Bali,6,107000,"['snorkeling', 'beach']",2025-03-30
+T3451,1183,Denver,3,179000,['snorkeling'],2024-08-12
+T3452,1861,Cape Town,5,285000,['beach'],2022-05-04
+T3453,1861,Banff,10,273000,"['snorkeling', 'spa']",2024-02-24
+T3454,1861,Barcelona,9,191000,['spa'],2025-05-05
+T3455,1859,Bali,4,110000,['snorkeling'],2022-10-28
+T3456,1693,Cape Town,3,240000,['spa'],2022-01-31
+T3457,1693,Barcelona,9,209000,['wine tasting'],2021-07-05
+T3458,1693,Barcelona,6,155000,"['spa', 'wine tasting']",2025-02-27
+T3459,1609,Tokyo,3,81000,['beach'],2024-10-13
+T3460,1609,Cape Town,9,277000,['beach'],2022-08-14
+T3461,1609,Bali,10,91000,['snorkeling'],2025-03-20
+T3462,1609,Cape Town,10,324000,"['snorkeling', 'spa', 'beach']",2021-07-09
+T3463,1609,Cancun,10,71000,['beach'],2023-08-10
+T3464,1626,Cancun,8,80000,"['kayaking', 'safari']",2023-02-26
+T3465,1485,Tokyo,10,120000,"['snorkeling', 'spa', 'beach']",2023-01-09
+T3466,1485,Barcelona,6,199000,"['beach', 'spa']",2024-06-25
+T3467,1485,Tokyo,8,101000,"['beach', 'spa']",2023-11-11
+T3468,1278,Cancun,6,85000,['hiking'],2025-06-07
+T3469,1278,Cape Town,7,334000,"['safari', 'hiking', 'kayaking']",2021-12-26
+T3470,1278,Denver,6,184000,['kayaking'],2021-12-17
+T3471,1630,Barcelona,7,165000,"['beach', 'spa', 'snorkeling']",2022-06-14
+T3472,1630,Bali,8,122000,"['spa', 'beach', 'snorkeling']",2022-07-15
+T3473,1630,Tokyo,9,99000,"['snorkeling', 'spa']",2023-01-04
+T3474,1630,Barcelona,5,182000,"['snorkeling', 'beach']",2024-02-08
+T3475,1630,Denver,7,167000,"['beach', 'snorkeling']",2024-08-14
+T3476,1020,Paris,7,519000,['shopping'],2022-07-07
+T3477,1020,Rome,3,307000,"['shopping', 'wine tasting', 'spa']",2023-07-17
+T3478,1020,Phuket,10,460000,['wine tasting'],2022-09-19
+T3479,1020,Tokyo,8,98000,['wine tasting'],2023-05-19
+T3480,1170,Tokyo,6,99000,"['shopping', 'spa']",2021-08-03
+T3481,1170,Denver,10,168000,"['wine tasting', 'spa', 'shopping']",2022-11-07
+T3482,1170,Denver,3,144000,['wine tasting'],2023-07-12
+T3483,1401,Cancun,4,81000,"['hiking', 'kayaking', 'safari']",2022-07-05
+T3484,1929,Barcelona,6,178000,"['wine tasting', 'shopping', 'spa']",2022-05-18
+T3485,1929,Bali,4,114000,['wine tasting'],2023-08-24
+T3486,1929,Banff,4,289000,"['shopping', 'spa', 'wine tasting']",2023-01-01
+T3487,1929,Tokyo,3,93000,"['shopping', 'spa', 'wine tasting']",2024-10-21
+T3488,1929,Banff,8,276000,"['shopping', 'spa']",2022-04-22
+T3489,1566,Cancun,8,65000,"['safari', 'hiking', 'kayaking']",2021-10-26
+T3490,1566,Barcelona,8,145000,['hiking'],2022-03-31
+T3491,1566,Barcelona,9,191000,"['kayaking', 'hiking', 'safari']",2023-11-04
+T3492,1176,Cancun,8,86000,"['wine tasting', 'shopping']",2022-09-12
+T3493,1176,Phuket,8,537000,['spa'],2022-08-27
+T3494,1176,Banff,10,263000,['shopping'],2022-08-21
+T3495,1327,Cancun,6,82000,"['safari', 'hiking', 'kayaking']",2022-12-25
+T3496,1327,Banff,3,310000,['hiking'],2022-12-11
+T3497,1327,Rome,10,306000,"['kayaking', 'hiking']",2021-10-28
+T3498,1706,Cancun,10,91000,"['snorkeling', 'beach']",2023-10-20
+T3499,1706,Cancun,6,79000,['spa'],2025-02-26
+T3500,1198,Cape Town,4,297000,['snorkeling'],2023-06-11
+T3501,1198,Cancun,8,68000,"['snorkeling', 'beach']",2024-05-26
+T3502,1198,Paris,4,558000,"['beach', 'spa', 'snorkeling']",2023-07-23
+T3503,1198,Barcelona,8,174000,"['spa', 'snorkeling', 'beach']",2025-04-14
+T3504,1198,Banff,9,291000,['beach'],2023-09-15
+T3505,1470,Denver,9,170000,"['safari', 'hiking', 'kayaking']",2024-02-29
+T3506,1470,Bali,4,125000,"['safari', 'hiking']",2024-10-12
+T3507,1470,Cancun,6,69000,['kayaking'],2025-06-15
+T3508,1996,Cancun,3,71000,"['hiking', 'museum tour']",2023-06-02
+T3509,1996,Bali,8,95000,"['food tour', 'museum tour', 'hiking']",2022-07-18
+T3510,1694,Tokyo,9,100000,"['hiking', 'safari', 'kayaking']",2023-12-24
+T3511,1266,Denver,3,139000,['snorkeling'],2022-07-08
+T3512,1266,Rome,8,298000,['spa'],2021-09-01
+T3513,1615,Banff,8,231000,"['kayaking', 'hiking', 'safari']",2025-02-21
+T3514,1615,Cape Town,9,266000,"['safari', 'hiking', 'kayaking']",2022-11-21
+T3515,1615,Denver,7,167000,"['hiking', 'safari']",2024-07-04
+T3516,1615,Banff,10,256000,['hiking'],2023-03-07
+T3517,1732,Rome,8,238000,"['kayaking', 'safari', 'hiking']",2022-03-07
+T3518,1732,Rome,7,216000,"['safari', 'kayaking', 'hiking']",2023-07-22
+T3519,1732,Tokyo,7,92000,"['safari', 'kayaking']",2024-11-06
+T3520,1732,Cape Town,5,281000,"['safari', 'hiking']",2023-01-04
+T3521,1492,Paris,9,545000,"['kayaking', 'safari', 'hiking']",2022-10-30
+T3522,1130,Rome,9,227000,['kayaking'],2025-01-09
+T3523,1338,Cancun,9,76000,"['museum tour', 'food tour']",2025-05-27
+T3524,1338,Cancun,4,67000,"['food tour', 'museum tour']",2024-04-05
+T3525,1856,Denver,9,149000,"['kayaking', 'hiking']",2024-12-03
+T3526,1856,Tokyo,4,95000,"['kayaking', 'safari', 'hiking']",2024-06-22
+T3527,1856,Cancun,7,77000,"['hiking', 'kayaking', 'safari']",2021-07-11
+T3528,1856,Bali,4,105000,['kayaking'],2021-09-05
+T3529,1856,Denver,8,150000,['safari'],2022-05-11
+T3530,1489,Denver,7,178000,['safari'],2022-10-25
+T3531,1489,Bali,3,108000,"['kayaking', 'safari']",2024-09-12
+T3532,1572,Cancun,3,90000,"['shopping', 'spa', 'wine tasting']",2023-01-06
+T3533,1606,Cape Town,8,281000,"['spa', 'beach', 'snorkeling']",2024-08-28
+T3534,1606,Banff,10,283000,"['snorkeling', 'spa', 'beach']",2023-02-25
+T3535,1606,Cancun,10,79000,"['beach', 'snorkeling']",2023-02-09
+T3536,1193,Cancun,4,91000,"['spa', 'shopping', 'wine tasting']",2022-12-01
+T3537,1193,Cancun,6,81000,['spa'],2024-10-17
+T3538,1193,Barcelona,8,171000,"['wine tasting', 'spa', 'shopping']",2025-01-30
+T3539,1193,Barcelona,7,207000,"['wine tasting', 'shopping']",2023-03-21
+T3540,1140,Tokyo,7,105000,['shopping'],2023-11-26
+T3541,1140,Denver,6,159000,['wine tasting'],2024-11-26
+T3542,1140,Denver,7,190000,"['wine tasting', 'shopping', 'spa']",2021-08-22
+T3543,1416,Tokyo,4,95000,['shopping'],2025-06-09
+T3544,1416,Tokyo,4,118000,['spa'],2024-01-12
+T3545,1416,Cancun,5,83000,['spa'],2025-03-30
+T3546,1660,Banff,10,290000,"['kayaking', 'hiking']",2023-06-28
+T3547,1660,Cape Town,6,310000,"['hiking', 'safari']",2024-10-10
+T3548,1476,Cape Town,5,297000,"['safari', 'kayaking']",2022-05-02
+T3549,1714,Cape Town,10,331000,['hiking'],2024-02-09
+T3550,1714,Denver,8,139000,"['safari', 'kayaking']",2024-05-07
+T3551,1714,Paris,9,460000,['kayaking'],2024-01-12
+T3552,1714,Rome,8,219000,"['kayaking', 'safari']",2023-10-24
+T3553,1714,Paris,3,423000,"['kayaking', 'safari', 'hiking']",2025-05-02
+T3554,1152,Barcelona,5,189000,"['spa', 'beach']",2022-10-08
+T3555,1849,Cape Town,7,253000,"['kayaking', 'hiking']",2022-12-17
+T3556,1849,Phuket,6,450000,"['hiking', 'kayaking']",2022-12-12
+T3557,1849,Phuket,9,431000,"['kayaking', 'hiking', 'safari']",2021-12-24
+T3558,1849,Cape Town,9,323000,['safari'],2021-10-04
+T3559,1849,Rome,6,219000,"['safari', 'hiking', 'kayaking']",2024-12-23
+T3560,1922,Cape Town,7,257000,"['wine tasting', 'shopping', 'spa']",2024-06-21
+T3561,1010,Barcelona,10,196000,"['beach', 'spa', 'snorkeling']",2022-12-19
+T3562,1010,Cape Town,4,258000,['spa'],2025-06-20
+T3563,1010,Denver,8,185000,"['spa', 'beach']",2022-08-07
+T3564,1269,Denver,7,142000,"['food tour', 'cultural show']",2024-11-17
+T3565,1269,Phuket,7,583000,"['museum tour', 'food tour']",2025-02-04
+T3566,1269,Banff,10,271000,"['museum tour', 'cultural show', 'food tour']",2022-10-10
+T3567,1269,Cancun,9,88000,"['food tour', 'museum tour']",2024-11-07
+T3568,1096,Denver,5,131000,"['food tour', 'hiking']",2021-12-07
+T3569,1096,Bali,7,109000,"['food tour', 'hiking']",2023-08-31
+T3570,1096,Barcelona,10,164000,"['museum tour', 'hiking']",2023-07-24
+T3571,1210,Barcelona,4,210000,['kayaking'],2022-09-18
+T3572,1210,Denver,9,172000,"['kayaking', 'hiking']",2024-07-19
+T3573,1210,Cancun,7,90000,"['kayaking', 'safari', 'hiking']",2023-08-25
+T3574,1210,Banff,8,266000,"['kayaking', 'safari', 'hiking']",2023-09-19
+T3575,1989,Rome,8,248000,['hiking'],2023-03-03
+T3576,1989,Banff,7,229000,"['food tour', 'museum tour']",2023-10-01
+T3577,1989,Tokyo,3,113000,"['food tour', 'hiking']",2024-11-12
+T3578,1989,Paris,5,528000,"['hiking', 'museum tour']",2023-11-28
+T3579,1752,Barcelona,5,167000,"['snorkeling', 'beach', 'spa']",2021-12-15
+T3580,1752,Barcelona,10,147000,"['snorkeling', 'spa']",2024-03-17
+T3581,1752,Paris,5,455000,"['spa', 'beach', 'snorkeling']",2023-11-18
+T3582,1569,Barcelona,5,180000,"['shopping', 'wine tasting']",2022-11-19
+T3583,1569,Banff,7,306000,"['spa', 'wine tasting', 'shopping']",2025-02-24
+T3584,1569,Phuket,5,607000,"['spa', 'wine tasting']",2021-07-31
+T3585,1569,Denver,10,129000,"['wine tasting', 'shopping']",2023-04-27
+T3586,1569,Phuket,4,615000,"['spa', 'wine tasting']",2023-09-19
+T3587,1813,Cape Town,5,276000,['snorkeling'],2024-11-24
+T3588,1813,Tokyo,4,89000,['snorkeling'],2024-04-12
+T3589,1813,Cape Town,8,240000,"['snorkeling', 'beach']",2022-04-16
+T3590,1813,Cape Town,5,262000,['beach'],2023-12-19
+T3591,1813,Phuket,9,489000,"['spa', 'beach', 'snorkeling']",2021-12-18
+T3592,1775,Tokyo,8,90000,['spa'],2025-05-15
+T3593,1775,Denver,6,183000,"['wine tasting', 'spa']",2021-10-31
+T3594,1775,Tokyo,3,115000,"['shopping', 'spa']",2022-05-18
+T3595,1775,Bali,7,97000,"['wine tasting', 'shopping']",2024-05-14
+T3596,1548,Denver,8,156000,['safari'],2022-07-21
+T3597,1548,Cancun,4,87000,"['safari', 'hiking']",2024-03-18
+T3598,1548,Tokyo,6,112000,"['safari', 'kayaking']",2023-10-04
+T3599,1548,Phuket,9,563000,['safari'],2022-01-13
+T3600,1548,Barcelona,7,170000,['safari'],2025-04-26
+T3601,1948,Cancun,9,74000,['shopping'],2025-01-18
+T3602,1948,Cape Town,9,255000,"['wine tasting', 'shopping']",2021-10-30
+T3603,1532,Bali,7,115000,"['kayaking', 'hiking', 'safari']",2024-07-13
+T3604,1532,Banff,10,274000,"['safari', 'hiking']",2024-11-03
+T3605,1532,Cape Town,10,280000,"['hiking', 'kayaking', 'safari']",2022-08-26
+T3606,1938,Barcelona,9,196000,"['beach', 'spa', 'snorkeling']",2023-01-13
+T3607,1938,Denver,6,172000,['snorkeling'],2023-06-17
+T3608,1938,Tokyo,6,102000,"['spa', 'beach']",2023-04-09
+T3609,1938,Bali,10,103000,['spa'],2022-05-22
+T3610,1332,Cancun,4,74000,"['kayaking', 'hiking']",2023-08-10
+T3611,1332,Cancun,4,69000,"['kayaking', 'safari']",2023-01-05
+T3612,1075,Cape Town,8,309000,"['spa', 'wine tasting', 'shopping']",2022-02-08
+T3613,1075,Cape Town,10,248000,"['shopping', 'wine tasting']",2025-04-08
+T3614,1075,Banff,3,339000,['shopping'],2024-01-07
+T3615,1075,Cancun,5,86000,"['shopping', 'wine tasting', 'spa']",2024-02-04
+T3616,1712,Cancun,6,72000,"['beach', 'spa']",2024-01-19
+T3617,1712,Cancun,7,64000,"['spa', 'beach']",2022-09-17
+T3618,1712,Cancun,4,80000,['spa'],2022-05-23
+T3619,1712,Cancun,4,65000,"['snorkeling', 'spa']",2022-11-26
+T3620,1077,Tokyo,4,82000,"['hiking', 'kayaking']",2021-09-14
+T3621,1077,Denver,8,145000,['safari'],2024-06-19
+T3622,1077,Tokyo,4,81000,"['hiking', 'kayaking']",2023-11-19
+T3623,1077,Tokyo,4,119000,['hiking'],2022-09-27
+T3624,1077,Bali,4,115000,"['safari', 'kayaking']",2023-02-09
+T3625,1263,Cape Town,8,241000,"['museum tour', 'food tour']",2022-12-16
+T3626,1263,Paris,5,559000,"['museum tour', 'food tour', 'hiking']",2023-03-05
+T3627,1263,Cancun,6,78000,"['food tour', 'hiking']",2023-03-02
+T3628,1263,Denver,3,191000,['food tour'],2025-05-22
+T3629,1998,Bali,8,124000,"['beach', 'snorkeling', 'spa']",2024-05-04
+T3630,1998,Cancun,7,83000,"['beach', 'snorkeling']",2025-01-12
+T3631,1998,Tokyo,5,95000,"['spa', 'snorkeling', 'beach']",2023-08-18
+T3632,1998,Tokyo,7,119000,"['snorkeling', 'beach']",2022-05-17
+T3633,1149,Paris,8,444000,"['spa', 'snorkeling', 'beach']",2023-03-27
+T3634,1937,Barcelona,5,158000,"['hiking', 'safari', 'kayaking']",2022-12-24
+T3635,1937,Cancun,3,77000,"['safari', 'kayaking', 'hiking']",2023-03-12
+T3636,1937,Tokyo,10,121000,"['safari', 'hiking']",2025-03-01
+T3637,1937,Denver,3,163000,"['hiking', 'safari']",2022-10-17
+T3638,1514,Banff,8,235000,['spa'],2023-02-24
+T3639,1514,Barcelona,7,182000,['beach'],2023-09-24
+T3640,1514,Cape Town,10,271000,['spa'],2022-07-05
+T3641,1945,Tokyo,9,100000,['shopping'],2024-12-26
+T3642,1945,Cancun,8,87000,"['shopping', 'spa']",2022-08-17
+T3643,1945,Tokyo,5,88000,"['spa', 'wine tasting', 'shopping']",2024-02-19
+T3644,1945,Cancun,10,75000,"['spa', 'wine tasting']",2022-05-17
+T3645,1945,Tokyo,9,92000,"['shopping', 'wine tasting']",2021-10-19
+T3646,1469,Paris,8,446000,['museum tour'],2025-04-16
+T3647,1469,Rome,3,259000,['food tour'],2024-08-05
+T3648,1469,Barcelona,6,193000,['cultural show'],2024-05-18
+T3649,1469,Barcelona,7,191000,"['cultural show', 'food tour']",2025-02-21
+T3650,1469,Tokyo,3,97000,"['cultural show', 'food tour', 'museum tour']",2024-08-07
+T3651,1564,Rome,10,272000,['hiking'],2024-11-25
+T3652,1564,Bali,10,122000,['museum tour'],2023-07-26
+T3653,1564,Barcelona,6,173000,"['museum tour', 'food tour']",2024-10-30
+T3654,1564,Phuket,5,587000,"['hiking', 'food tour', 'museum tour']",2022-07-01
+T3655,1564,Paris,5,519000,['food tour'],2022-12-29
+T3656,1774,Banff,4,266000,['shopping'],2023-08-08
+T3657,1461,Barcelona,7,165000,['safari'],2022-12-18
+T3658,1461,Banff,9,232000,"['kayaking', 'hiking', 'safari']",2025-05-25
+T3659,1461,Barcelona,7,211000,"['kayaking', 'hiking', 'safari']",2024-10-26
+T3660,1461,Tokyo,4,97000,"['kayaking', 'safari']",2024-06-28
+T3661,1253,Rome,5,280000,"['safari', 'kayaking']",2023-03-09
+T3662,1253,Bali,6,122000,['hiking'],2024-03-13
+T3663,1253,Barcelona,3,180000,"['kayaking', 'hiking', 'safari']",2022-01-26
+T3664,1771,Bali,3,98000,"['museum tour', 'cultural show']",2025-04-22
+T3665,1771,Banff,10,279000,['museum tour'],2024-09-21
+T3666,1771,Cancun,6,66000,"['museum tour', 'food tour', 'cultural show']",2022-08-05
+T3667,1771,Barcelona,8,201000,"['museum tour', 'cultural show', 'food tour']",2025-04-02
+T3668,1771,Tokyo,10,94000,"['food tour', 'museum tour', 'cultural show']",2024-07-23
+T3669,1845,Barcelona,6,171000,['beach'],2022-11-24
+T3670,1845,Banff,10,339000,"['beach', 'snorkeling']",2024-11-10
+T3671,1845,Rome,8,276000,['spa'],2022-10-13
+T3672,1845,Cancun,5,92000,"['snorkeling', 'spa']",2023-10-20
+T3673,1369,Banff,3,283000,"['wine tasting', 'shopping', 'spa']",2025-05-22
+T3674,1369,Rome,6,266000,"['shopping', 'wine tasting', 'spa']",2021-10-08
+T3675,1369,Bali,3,124000,['spa'],2023-04-24
+T3676,1369,Denver,4,129000,"['wine tasting', 'spa']",2022-07-07
+T3677,1369,Tokyo,3,98000,"['shopping', 'spa']",2021-10-31
+T3678,1321,Tokyo,7,87000,"['food tour', 'cultural show', 'museum tour']",2021-07-18
+T3679,1321,Tokyo,10,117000,"['food tour', 'museum tour', 'cultural show']",2025-01-19
+T3680,1321,Cape Town,8,260000,['food tour'],2023-06-07
+T3681,1695,Paris,6,452000,"['safari', 'kayaking', 'hiking']",2021-08-31
+T3682,1695,Tokyo,8,96000,['hiking'],2025-01-08
+T3683,1151,Cancun,5,84000,['food tour'],2023-04-04
+T3684,1151,Denver,9,178000,"['museum tour', 'cultural show', 'food tour']",2024-03-11
+T3685,1151,Cancun,8,72000,['food tour'],2022-04-04
+T3686,1151,Tokyo,6,91000,['cultural show'],2023-08-30
+T3687,1151,Bali,9,93000,"['cultural show', 'food tour']",2022-10-30
+T3688,1954,Paris,7,507000,"['hiking', 'kayaking']",2023-08-13
+T3689,1954,Cancun,9,89000,"['safari', 'hiking']",2023-03-02
+T3690,1302,Bali,9,89000,"['beach', 'snorkeling']",2022-01-01
+T3691,1302,Bali,5,98000,['spa'],2024-01-08
+T3692,1302,Bali,3,108000,"['snorkeling', 'beach', 'spa']",2023-06-07
+T3693,1302,Cancun,4,86000,['spa'],2024-05-05
+T3694,1190,Rome,8,304000,"['wine tasting', 'spa', 'shopping']",2024-11-24
+T3695,1190,Barcelona,10,151000,"['shopping', 'spa', 'wine tasting']",2022-12-24
+T3696,1586,Phuket,3,519000,"['kayaking', 'hiking', 'safari']",2022-03-25
+T3697,1586,Banff,7,233000,"['hiking', 'safari', 'kayaking']",2025-05-31
+T3698,1348,Tokyo,8,87000,['museum tour'],2024-09-06
+T3699,1348,Tokyo,4,81000,"['hiking', 'food tour']",2024-12-27
+T3700,1348,Tokyo,7,85000,"['food tour', 'museum tour']",2024-06-25
+T3701,1348,Bali,8,92000,"['museum tour', 'hiking', 'food tour']",2023-03-18
+T3702,1243,Denver,6,188000,"['kayaking', 'hiking', 'safari']",2022-07-23
+T3703,1243,Bali,4,126000,"['safari', 'kayaking']",2021-12-26
+T3704,1793,Tokyo,3,89000,['safari'],2024-09-17
+T3705,1793,Bali,7,92000,"['hiking', 'safari']",2021-11-12
+T3706,1087,Banff,6,248000,"['kayaking', 'hiking']",2023-07-12
+T3707,1751,Bali,9,94000,['wine tasting'],2024-12-20
+T3708,1751,Denver,10,136000,"['shopping', 'wine tasting']",2023-12-24
+T3709,1751,Denver,4,132000,['wine tasting'],2023-11-08
+T3710,1751,Banff,10,272000,"['wine tasting', 'shopping', 'spa']",2022-07-17
+T3711,1655,Rome,4,230000,['food tour'],2021-10-04
+T3712,1655,Cape Town,10,291000,"['food tour', 'museum tour', 'cultural show']",2024-04-13
+T3713,1982,Bali,4,99000,"['snorkeling', 'beach', 'spa']",2023-08-24
+T3714,1778,Barcelona,8,153000,"['hiking', 'food tour', 'museum tour']",2023-09-03
+T3715,1418,Rome,5,320000,['museum tour'],2022-12-03
+T3716,1418,Barcelona,3,149000,"['cultural show', 'food tour']",2024-05-08
+T3717,1418,Bali,3,115000,['museum tour'],2025-01-05
+T3718,1288,Cape Town,3,245000,['hiking'],2024-06-03
+T3719,1288,Cape Town,10,236000,['kayaking'],2022-01-05
+T3720,1288,Rome,3,311000,"['safari', 'kayaking', 'hiking']",2022-12-31
+T3721,1288,Denver,5,138000,"['safari', 'hiking']",2022-01-07
+T3722,1648,Rome,4,295000,"['beach', 'spa']",2022-12-25
+T3723,1648,Denver,3,160000,"['spa', 'snorkeling']",2024-10-22
+T3724,1648,Tokyo,5,95000,"['spa', 'beach', 'snorkeling']",2021-09-29
+T3725,1648,Rome,5,242000,"['snorkeling', 'beach', 'spa']",2022-09-29
+T3726,1648,Tokyo,10,104000,['beach'],2023-09-20
+T3727,1166,Banff,6,239000,"['spa', 'wine tasting']",2022-10-27
+T3728,1166,Denver,10,190000,"['spa', 'wine tasting', 'shopping']",2022-03-13
+T3729,1166,Phuket,3,600000,"['wine tasting', 'spa']",2025-04-04
+T3730,1166,Cancun,6,75000,"['spa', 'wine tasting']",2024-03-18
+T3731,1595,Denver,9,180000,"['safari', 'kayaking']",2024-09-27
+T3732,1595,Bali,3,92000,['safari'],2022-06-01
+T3733,1595,Bali,3,117000,['hiking'],2024-07-15
+T3734,1942,Denver,5,192000,"['safari', 'hiking']",2024-03-13
+T3735,1942,Bali,4,124000,"['safari', 'kayaking', 'hiking']",2021-07-24
+T3736,1942,Cancun,7,89000,"['kayaking', 'hiking']",2023-03-28
+T3737,1155,Barcelona,4,146000,"['museum tour', 'cultural show', 'food tour']",2025-05-17
+T3738,1155,Cancun,10,68000,"['museum tour', 'food tour']",2024-10-12
+T3739,1155,Barcelona,8,185000,['cultural show'],2023-09-11
+T3740,1155,Denver,9,164000,"['museum tour', 'cultural show']",2021-08-06
+T3741,1155,Denver,8,132000,"['food tour', 'cultural show']",2022-05-13
+T3742,1356,Bali,5,109000,"['shopping', 'spa', 'wine tasting']",2025-02-03
+T3743,1381,Cancun,6,71000,"['kayaking', 'safari']",2024-07-08
+T3744,1279,Bali,4,87000,"['snorkeling', 'beach']",2024-10-06
+T3745,1126,Tokyo,10,106000,['spa'],2023-08-28
+T3746,1126,Bali,7,125000,"['spa', 'beach', 'snorkeling']",2024-09-20
+T3747,1126,Tokyo,7,98000,"['spa', 'snorkeling']",2024-10-10
+T3748,1126,Tokyo,10,109000,"['beach', 'spa', 'snorkeling']",2023-03-06
+T3749,1707,Paris,8,570000,['safari'],2025-02-04
+T3750,1777,Denver,3,172000,"['food tour', 'museum tour']",2021-08-22
+T3751,1777,Banff,8,316000,"['museum tour', 'food tour', 'cultural show']",2021-11-15
+T3752,1777,Cape Town,7,316000,['cultural show'],2025-04-16
+T3753,1777,Cape Town,9,289000,"['cultural show', 'museum tour']",2024-12-27
+T3754,1022,Barcelona,4,159000,"['snorkeling', 'beach', 'spa']",2022-07-23
+T3755,1616,Phuket,3,417000,"['food tour', 'hiking']",2022-11-22
+T3756,1616,Barcelona,4,146000,"['food tour', 'museum tour', 'hiking']",2023-11-03
+T3757,1616,Barcelona,10,205000,['food tour'],2023-02-02
+T3758,1665,Rome,4,218000,"['beach', 'spa']",2022-07-22
+T3759,1665,Denver,8,191000,['spa'],2024-08-01
+T3760,1665,Cancun,10,65000,"['beach', 'spa']",2024-12-15
+T3761,1282,Bali,10,91000,"['snorkeling', 'beach']",2021-11-01
+T3762,1282,Phuket,3,584000,"['spa', 'snorkeling']",2023-10-01
+T3763,1282,Banff,8,260000,"['beach', 'spa']",2024-03-20
+T3764,1903,Tokyo,8,114000,"['safari', 'kayaking', 'hiking']",2023-03-30
+T3765,1903,Barcelona,10,143000,"['safari', 'hiking', 'kayaking']",2025-03-17
+T3766,1903,Denver,3,166000,"['hiking', 'kayaking']",2025-05-20
+T3767,1471,Cape Town,3,334000,"['hiking', 'kayaking']",2022-11-21
+T3768,1471,Tokyo,10,111000,"['kayaking', 'safari']",2025-05-13
+T3769,1471,Phuket,4,462000,['kayaking'],2023-05-18
+T3770,1471,Cape Town,8,302000,['kayaking'],2023-02-24
+T3771,1471,Paris,5,560000,"['hiking', 'kayaking']",2024-12-23
+T3772,1738,Tokyo,3,116000,"['kayaking', 'safari']",2021-10-26
+T3773,1738,Cancun,6,70000,['safari'],2025-05-04
+T3774,1367,Phuket,3,475000,"['safari', 'hiking']",2021-08-02
+T3775,1367,Cancun,8,69000,"['kayaking', 'safari']",2023-09-01
+T3776,1025,Paris,8,525000,['spa'],2024-12-08
+T3777,1025,Paris,6,485000,"['beach', 'snorkeling']",2021-09-07
+T3778,1025,Banff,10,319000,['spa'],2023-11-03
+T3779,1196,Banff,5,233000,"['kayaking', 'hiking', 'safari']",2023-06-05
+T3780,1064,Cape Town,8,239000,"['spa', 'snorkeling', 'beach']",2024-10-01
+T3781,1064,Cape Town,5,317000,"['beach', 'snorkeling', 'spa']",2022-07-27
+T3782,1064,Barcelona,4,183000,['snorkeling'],2023-09-25
+T3783,1064,Bali,5,93000,['beach'],2025-04-14
+T3784,1015,Paris,7,580000,"['safari', 'hiking', 'kayaking']",2023-08-15
+T3785,1015,Phuket,8,503000,['hiking'],2022-10-17
+T3786,1015,Banff,5,319000,"['kayaking', 'hiking']",2021-12-17
+T3787,1015,Cancun,10,69000,"['safari', 'kayaking', 'hiking']",2025-04-29
+T3788,1015,Rome,7,226000,['kayaking'],2021-11-03
+T3789,1466,Bali,4,114000,"['museum tour', 'food tour']",2022-06-15
+T3790,1466,Cancun,4,82000,"['food tour', 'museum tour', 'hiking']",2022-01-25
+T3791,1466,Banff,8,333000,"['hiking', 'museum tour']",2024-05-04
+T3792,1466,Barcelona,5,148000,"['hiking', 'food tour']",2021-07-20
+T3793,1297,Bali,8,130000,['museum tour'],2025-01-08
+T3794,1297,Denver,4,130000,"['museum tour', 'cultural show']",2024-09-23
+T3795,1883,Cancun,6,86000,"['snorkeling', 'spa']",2023-12-22
+T3796,1883,Rome,5,278000,"['snorkeling', 'beach']",2022-05-16
+T3797,1883,Rome,10,313000,"['beach', 'snorkeling', 'spa']",2022-09-09
+T3798,1883,Tokyo,10,108000,"['beach', 'spa', 'snorkeling']",2025-03-19
+T3799,1621,Rome,3,274000,['kayaking'],2023-08-07
+T3800,1621,Phuket,5,590000,['hiking'],2021-07-23
+T3801,1336,Cancun,5,69000,['spa'],2025-03-27
+T3802,1336,Denver,10,180000,['snorkeling'],2023-07-04
+T3803,1336,Cancun,9,85000,['snorkeling'],2024-05-24
+T3804,1336,Tokyo,9,91000,['spa'],2021-08-13
+T3805,1820,Cancun,3,80000,['safari'],2025-02-17
+T3806,1820,Phuket,4,538000,"['kayaking', 'hiking', 'safari']",2024-04-23
+T3807,1026,Denver,6,154000,['kayaking'],2025-04-16
+T3808,1026,Bali,4,89000,"['safari', 'kayaking']",2024-09-01
+T3809,1026,Tokyo,9,86000,"['safari', 'hiking']",2025-01-29
+T3810,1026,Denver,3,182000,"['kayaking', 'hiking']",2023-08-29
+T3811,1026,Bali,7,107000,"['kayaking', 'hiking']",2024-02-05
+T3812,1588,Cancun,9,86000,['beach'],2021-08-26
+T3813,1588,Cancun,3,68000,['beach'],2021-09-09
+T3814,1588,Cancun,8,84000,"['spa', 'snorkeling']",2021-09-05
+T3815,1043,Bali,9,89000,"['snorkeling', 'spa', 'beach']",2025-06-19
+T3816,1043,Cape Town,7,326000,"['beach', 'snorkeling']",2025-05-06
+T3817,1043,Banff,3,314000,"['spa', 'snorkeling']",2022-03-14
+T3818,1497,Bali,5,106000,"['hiking', 'kayaking', 'safari']",2023-03-15
+T3819,1497,Cape Town,4,279000,['hiking'],2021-10-02
+T3820,1792,Banff,10,331000,"['hiking', 'kayaking']",2023-02-08
+T3821,1792,Tokyo,4,87000,"['safari', 'hiking', 'kayaking']",2023-02-07
+T3822,1792,Denver,10,176000,['safari'],2022-01-24
+T3823,1515,Cancun,10,70000,['snorkeling'],2025-04-24
+T3824,1515,Bali,5,109000,"['snorkeling', 'spa', 'beach']",2024-03-15
+T3825,1995,Barcelona,10,204000,"['hiking', 'food tour', 'museum tour']",2025-04-17
+T3826,1995,Bali,5,123000,"['museum tour', 'food tour']",2022-06-11
+T3827,1995,Bali,8,105000,"['museum tour', 'food tour', 'hiking']",2022-10-16
+T3828,1995,Banff,10,275000,"['hiking', 'food tour']",2023-05-31
+T3829,1995,Cancun,4,88000,['museum tour'],2023-11-13
+T3830,1561,Tokyo,4,100000,['food tour'],2022-11-27
+T3831,1561,Tokyo,6,90000,"['cultural show', 'food tour']",2021-11-18
+T3832,1561,Cancun,8,89000,['cultural show'],2022-07-16
+T3833,1561,Tokyo,4,116000,['cultural show'],2023-06-17
+T3834,1917,Tokyo,10,117000,"['museum tour', 'food tour']",2023-10-30
+T3835,1917,Denver,7,150000,['museum tour'],2023-08-10
+T3836,1454,Cancun,6,85000,['safari'],2024-11-04
+T3837,1387,Rome,4,266000,['hiking'],2021-09-14
+T3838,1387,Banff,5,288000,['hiking'],2022-07-31
+T3839,1387,Denver,7,155000,['hiking'],2022-03-09
+T3840,1071,Tokyo,9,84000,"['kayaking', 'safari']",2022-12-05
+T3841,1071,Cancun,6,82000,"['hiking', 'safari']",2025-06-25
+T3842,1071,Tokyo,7,93000,"['hiking', 'kayaking', 'safari']",2022-10-31
+T3843,1542,Paris,10,462000,['safari'],2024-02-29
+T3844,1542,Barcelona,7,151000,['hiking'],2025-05-27
+T3845,1542,Phuket,9,544000,"['safari', 'kayaking']",2024-07-06
+T3846,1542,Rome,7,237000,"['safari', 'hiking']",2022-12-11
+T3847,1542,Rome,6,249000,"['hiking', 'safari']",2022-10-15
+T3848,1456,Cancun,5,83000,"['beach', 'snorkeling']",2023-03-20
+T3849,1456,Barcelona,7,181000,['beach'],2024-06-29
+T3850,1456,Tokyo,9,115000,"['beach', 'snorkeling']",2022-01-19
+T3851,1456,Barcelona,7,175000,"['beach', 'snorkeling', 'spa']",2025-06-19
+T3852,1633,Rome,9,288000,"['spa', 'snorkeling', 'beach']",2022-04-03
+T3853,1633,Cancun,7,78000,"['spa', 'beach', 'snorkeling']",2024-06-20
+T3854,1633,Cancun,6,79000,"['beach', 'snorkeling', 'spa']",2023-01-28
+T3855,1633,Tokyo,10,121000,"['snorkeling', 'beach', 'spa']",2022-03-28
+T3856,1633,Cancun,10,88000,"['spa', 'beach']",2022-07-02
+T3857,1431,Denver,10,139000,['safari'],2022-09-25
+T3858,1431,Bali,5,96000,"['kayaking', 'hiking']",2021-11-13
+T3859,1431,Bali,3,100000,['safari'],2024-09-02
+T3860,1431,Tokyo,8,113000,"['kayaking', 'hiking', 'safari']",2024-05-04
+T3861,1431,Cancun,9,73000,"['kayaking', 'hiking', 'safari']",2021-10-11
+T3862,1627,Barcelona,7,211000,['kayaking'],2023-01-25
+T3863,1627,Tokyo,6,94000,"['safari', 'kayaking', 'hiking']",2024-04-20
+T3864,1653,Rome,7,218000,"['spa', 'beach', 'snorkeling']",2021-07-14
+T3865,1653,Tokyo,6,95000,"['spa', 'beach']",2023-03-05
+T3866,1728,Tokyo,10,118000,['spa'],2024-10-04
+T3867,1264,Denver,4,135000,"['safari', 'kayaking', 'hiking']",2021-09-15
+T3868,1264,Rome,10,318000,"['safari', 'hiking', 'kayaking']",2024-12-06
+T3869,1264,Paris,5,496000,"['hiking', 'kayaking']",2023-07-27
+T3870,1264,Tokyo,4,108000,"['kayaking', 'safari', 'hiking']",2024-08-22
+T3871,1209,Barcelona,10,199000,"['spa', 'wine tasting']",2022-04-06
+T3872,1316,Bali,3,122000,"['wine tasting', 'shopping']",2025-01-23
+T3873,1316,Rome,9,256000,['shopping'],2022-01-18
+T3874,1316,Tokyo,8,120000,['shopping'],2022-09-11
+T3875,1316,Rome,5,244000,['shopping'],2022-10-26
+T3876,1896,Bali,10,114000,"['shopping', 'spa']",2022-08-28
+T3877,1896,Bali,5,129000,"['shopping', 'wine tasting', 'spa']",2024-03-17
+T3878,1896,Banff,10,299000,['spa'],2025-02-03
+T3879,1513,Phuket,10,483000,"['safari', 'hiking', 'kayaking']",2022-04-11
+T3880,1313,Bali,6,110000,"['kayaking', 'hiking', 'safari']",2023-07-09
+T3881,1313,Bali,7,94000,"['kayaking', 'hiking']",2025-05-13
+T3882,1313,Rome,6,311000,['kayaking'],2022-10-09
+T3883,1534,Paris,3,498000,['food tour'],2022-05-10
+T3884,1829,Cancun,3,84000,['safari'],2022-10-11
+T3885,1829,Denver,6,183000,"['hiking', 'kayaking']",2024-02-25
+T3886,1319,Cancun,6,86000,"['shopping', 'wine tasting', 'spa']",2024-08-04
+T3887,1007,Tokyo,4,102000,"['snorkeling', 'beach', 'spa']",2024-05-04
+T3888,1007,Denver,8,190000,"['beach', 'snorkeling']",2022-02-14
+T3889,1007,Barcelona,3,189000,['snorkeling'],2025-06-20
+T3890,1007,Tokyo,10,85000,['beach'],2024-08-25
+T3891,1393,Bali,10,122000,"['hiking', 'safari', 'kayaking']",2024-08-24
+T3892,1393,Cancun,7,77000,"['hiking', 'kayaking']",2024-08-04
+T3893,1393,Phuket,5,541000,"['hiking', 'safari']",2024-04-25
+T3894,1393,Tokyo,9,99000,"['safari', 'hiking', 'kayaking']",2023-07-06
+T3895,1393,Rome,5,310000,"['kayaking', 'hiking']",2024-01-18
+T3896,1141,Barcelona,9,159000,"['food tour', 'cultural show', 'museum tour']",2024-08-15
+T3897,1141,Banff,8,272000,"['cultural show', 'museum tour']",2022-06-26
+T3898,1086,Cancun,5,79000,"['hiking', 'safari']",2024-02-12
+T3899,1086,Bali,6,123000,"['safari', 'kayaking']",2025-02-08
+T3900,1086,Denver,3,139000,"['safari', 'hiking', 'kayaking']",2024-12-02
+T3901,1086,Bali,3,94000,"['kayaking', 'safari', 'hiking']",2025-02-22
+T3902,1086,Banff,6,329000,"['safari', 'hiking']",2023-10-25
+T3903,1864,Tokyo,7,108000,['shopping'],2022-05-15
+T3904,1864,Phuket,10,605000,['shopping'],2025-03-21
+T3905,1478,Tokyo,7,93000,"['spa', 'wine tasting', 'shopping']",2021-09-04
+T3906,1478,Cancun,4,80000,"['spa', 'shopping', 'wine tasting']",2024-07-27
+T3907,1478,Bali,5,101000,"['wine tasting', 'spa']",2022-08-07
+T3908,1478,Bali,6,120000,"['shopping', 'spa']",2025-03-23
+T3909,1503,Rome,4,316000,['safari'],2021-07-05
+T3910,1503,Cape Town,3,310000,['hiking'],2024-05-07
+T3911,1503,Cape Town,5,227000,"['kayaking', 'hiking', 'safari']",2023-01-23
+T3912,1503,Bali,9,117000,"['kayaking', 'safari']",2023-05-28
+T3913,1753,Paris,7,473000,"['safari', 'kayaking']",2022-07-10
+T3914,1753,Denver,4,146000,"['kayaking', 'hiking', 'safari']",2022-01-02
+T3915,1753,Denver,8,138000,"['kayaking', 'hiking', 'safari']",2022-01-25
+T3916,1753,Cancun,5,78000,['hiking'],2024-07-14
+T3917,1215,Barcelona,7,174000,['beach'],2023-08-23
+T3918,1215,Denver,10,168000,"['snorkeling', 'spa', 'beach']",2021-10-30
+T3919,1580,Bali,6,116000,"['wine tasting', 'spa', 'shopping']",2023-09-23
+T3920,1580,Phuket,5,484000,"['spa', 'wine tasting', 'shopping']",2023-04-15
+T3921,1580,Tokyo,9,110000,"['spa', 'wine tasting']",2023-04-17
+T3922,1562,Barcelona,5,184000,['safari'],2024-01-25
+T3923,1562,Tokyo,6,90000,"['kayaking', 'hiking']",2025-01-21
+T3924,1562,Bali,4,115000,"['safari', 'kayaking', 'hiking']",2024-12-20
+T3925,1398,Barcelona,8,204000,['hiking'],2024-03-09
+T3926,1398,Denver,5,189000,['hiking'],2024-10-21
+T3927,1398,Barcelona,8,194000,"['kayaking', 'hiking', 'safari']",2024-04-20
+T3928,1398,Bali,3,108000,"['safari', 'hiking']",2025-02-28
+T3929,1925,Cancun,4,92000,"['hiking', 'food tour', 'museum tour']",2024-01-26
+T3930,1925,Tokyo,8,99000,['museum tour'],2024-11-08
+T3931,1668,Bali,10,118000,['cultural show'],2022-01-04
+T3932,1668,Cancun,9,79000,"['cultural show', 'museum tour', 'food tour']",2025-02-28
+T3933,1668,Tokyo,9,113000,"['cultural show', 'museum tour']",2024-01-25
+T3934,1668,Bali,4,112000,['museum tour'],2023-04-17
+T3935,1490,Tokyo,7,87000,"['spa', 'shopping']",2023-09-05
+T3936,1490,Cancun,7,85000,['shopping'],2021-09-13
+T3937,1252,Cancun,7,92000,"['cultural show', 'food tour']",2022-01-13
+T3938,1252,Tokyo,6,112000,"['cultural show', 'food tour']",2023-09-22
+T3939,1907,Cancun,10,84000,['shopping'],2023-01-30
+T3940,1907,Tokyo,4,102000,"['spa', 'shopping']",2023-04-21
+T3941,1907,Banff,3,332000,"['shopping', 'wine tasting']",2022-12-21
+T3942,1468,Cape Town,8,290000,"['safari', 'hiking']",2022-07-22
+T3943,1468,Tokyo,4,112000,"['hiking', 'kayaking']",2021-11-07
+T3944,1468,Rome,10,266000,"['kayaking', 'safari', 'hiking']",2021-08-29
+T3945,1468,Banff,7,240000,"['kayaking', 'safari']",2021-09-22
+T3946,1914,Denver,4,177000,['beach'],2025-01-24
+T3947,1357,Barcelona,4,187000,"['hiking', 'kayaking', 'safari']",2024-02-13
+T3948,1357,Bali,8,117000,"['safari', 'hiking']",2021-11-19
+T3949,1357,Denver,4,167000,"['hiking', 'safari']",2022-09-22
+T3950,1254,Phuket,4,550000,['snorkeling'],2022-01-29
+T3951,1254,Barcelona,7,198000,"['snorkeling', 'beach', 'spa']",2024-12-29
+T3952,1254,Phuket,10,612000,"['snorkeling', 'beach', 'spa']",2023-07-26
+T3953,1254,Bali,10,87000,['beach'],2023-02-22
+T3954,1276,Tokyo,6,121000,"['cultural show', 'food tour']",2023-09-09
+T3955,1178,Tokyo,7,100000,"['snorkeling', 'beach', 'spa']",2023-06-16
+T3956,1178,Cancun,4,89000,"['snorkeling', 'beach', 'spa']",2023-01-03
+T3957,1178,Cancun,4,82000,"['snorkeling', 'beach']",2022-12-03
+T3958,1178,Barcelona,5,151000,['spa'],2024-11-15
+T3959,1178,Cancun,10,91000,"['beach', 'spa']",2023-08-07
+T3960,1281,Cancun,3,82000,"['spa', 'shopping', 'wine tasting']",2021-09-15
+T3961,1281,Tokyo,5,108000,['shopping'],2022-12-21
+T3962,1281,Denver,10,161000,"['spa', 'wine tasting', 'shopping']",2023-02-12
+T3963,1390,Phuket,3,555000,['museum tour'],2022-03-23
+T3964,1390,Banff,4,252000,"['museum tour', 'food tour', 'cultural show']",2022-04-14
+T3965,1508,Banff,9,288000,"['kayaking', 'safari']",2024-02-27
+T3966,1508,Cancun,10,71000,['safari'],2024-11-05
+T3967,1749,Rome,9,263000,"['kayaking', 'hiking']",2025-04-04
+T3968,1749,Bali,9,105000,['safari'],2023-04-09
+T3969,1749,Denver,3,163000,['safari'],2024-01-02
+T3970,1583,Rome,5,263000,"['hiking', 'museum tour', 'food tour']",2022-02-12
+T3971,1972,Tokyo,4,102000,['kayaking'],2024-10-04
+T3972,1972,Cape Town,8,313000,"['safari', 'hiking']",2022-09-21
+T3973,1129,Bali,3,102000,"['cultural show', 'food tour']",2023-03-29
+T3974,1129,Barcelona,6,181000,['food tour'],2023-09-13
+T3975,1129,Phuket,8,512000,"['food tour', 'museum tour']",2025-03-30
+T3976,1144,Denver,3,171000,"['hiking', 'safari', 'kayaking']",2023-02-20
+T3977,1144,Tokyo,9,86000,"['safari', 'kayaking', 'hiking']",2023-07-08
+T3978,1960,Denver,6,189000,"['kayaking', 'safari', 'hiking']",2024-04-16
+T3979,1960,Rome,6,319000,"['kayaking', 'safari', 'hiking']",2022-07-21
+T3980,1960,Cancun,5,88000,['kayaking'],2023-12-23
+T3981,1847,Banff,9,286000,"['shopping', 'wine tasting', 'spa']",2021-12-02
+T3982,1847,Bali,8,102000,['wine tasting'],2021-09-23
+T3983,1847,Denver,6,185000,"['shopping', 'wine tasting', 'spa']",2023-11-23
+T3984,1645,Denver,3,138000,"['hiking', 'safari', 'kayaking']",2024-05-21
+T3985,1715,Cancun,8,90000,"['kayaking', 'hiking', 'safari']",2025-01-01
+T3986,1715,Cancun,10,94000,"['hiking', 'safari']",2024-03-11
+T3987,1715,Cancun,4,77000,['kayaking'],2024-07-20
+T3988,1715,Tokyo,4,108000,['kayaking'],2023-06-28
+T3989,1715,Cancun,6,92000,['kayaking'],2024-09-22
+T3990,1905,Denver,10,149000,"['hiking', 'kayaking']",2024-10-26
+T3991,1905,Bali,5,106000,"['safari', 'hiking']",2022-08-12
+T3992,1905,Bali,3,91000,"['kayaking', 'hiking', 'safari']",2023-08-30
+T3993,1905,Bali,4,118000,['kayaking'],2022-03-02
+T3994,1905,Rome,6,301000,"['hiking', 'safari']",2023-10-18
+T3995,1767,Bali,5,130000,"['shopping', 'spa', 'wine tasting']",2022-08-27
+T3996,1767,Cape Town,7,290000,['shopping'],2022-03-05
+T3997,1767,Denver,8,174000,"['shopping', 'wine tasting', 'spa']",2022-01-28
+T3998,1767,Tokyo,8,90000,"['shopping', 'wine tasting', 'spa']",2023-04-04
+T3999,1072,Tokyo,6,88000,['kayaking'],2024-06-20
+T4000,1072,Rome,4,282000,"['kayaking', 'hiking']",2021-07-09
+T4001,1072,Barcelona,3,178000,"['kayaking', 'safari']",2022-05-30
+T4002,1072,Bali,6,97000,['safari'],2024-08-12
+T4003,1072,Tokyo,10,91000,"['kayaking', 'safari', 'hiking']",2025-06-25
+T4004,1908,Banff,4,247000,['wine tasting'],2023-01-28
+T4005,1908,Banff,5,320000,"['shopping', 'spa']",2024-08-31
+T4006,1908,Barcelona,10,158000,"['wine tasting', 'shopping']",2021-09-27
+T4007,1235,Denver,3,160000,['cultural show'],2021-10-12
+T4008,1037,Cape Town,7,227000,"['museum tour', 'food tour', 'cultural show']",2024-08-13
+T4009,1037,Rome,4,248000,"['museum tour', 'cultural show', 'food tour']",2024-10-26
+T4010,1037,Tokyo,7,108000,"['museum tour', 'cultural show']",2021-10-17

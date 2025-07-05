@@ -1,0 +1,3012 @@
+trip_id,member_id,destination,start_date,duration_days,cost_usd,activities
+T1000,1685,Cape Town,2023-04-12,5,286000,"wine tasting, shopping"
+T1001,1685,Banff,"January 15, 2025",10,259000,"shopping, wine tasting"
+T1002,1685,Banff,11/18/2024,8,268000,"shopping, wine tasting, spa"
+T1003,1685,Barcelona,04/18/2025,9,176000,"wine tasting, shopping, spa"
+T1004,1685,Rome,2025-01-29,6,232000,"shopping, wine tasting"
+T1005,1614,Bali,2022-06-06,7,120000,"kayaking, hiking"
+T1006,1614,Bali,05/19/2023,4,117000,"hiking, safari, kayaking"
+T1007,1614,Tokyo,12/05/2021,6,95000,"kayaking, hiking, safari"
+T1008,1614,Tokyo,05/01/2024,3,108000,"kayaking, hiking, safari"
+T1009,1614,Cancun,03/26/2023,4,71000,"hiking, safari"
+T1010,1602,Bali,11/16/2022,6,117000,"beach, snorkeling, spa"
+T1011,1602,Bali,"September 19, 2022",5,113000,"snorkeling, beach"
+T1012,1602,Cancun,"March 28, 2023",8,91000,"snorkeling, beach"
+T1013,1502,Cancun,"May 08, 2022",7,92000,beach
+T1014,1502,Denver,"November 19, 2021",5,186000,"snorkeling, spa, beach"
+T1015,1502,Banff,08/01/2021,6,336000,"spa, beach, snorkeling"
+T1016,1502,Cape Town,"June 09, 2024",8,253000,"snorkeling, spa, beach"
+T1017,1341,Rome,"November 29, 2023",5,253000,"cultural show, food tour, museum tour"
+T1018,1248,Tokyo,"May 17, 2025",10,104000,"snorkeling, spa"
+T1019,1716,Phuket,11/17/2024,3,541000,safari
+T1020,1716,Phuket,2023-05-26,10,540000,safari
+T1021,1716,Cancun,"June 14, 2024",8,91000,"hiking, safari, kayaking"
+T1022,1716,Rome,"December 31, 2022",10,260000,"kayaking, hiking"
+T1023,1904,Barcelona,2024-10-31,8,169000,"snorkeling, spa"
+T1024,1904,Banff,"September 04, 2024",3,313000,spa
+T1025,1904,Tokyo,"February 05, 2022",7,118000,"spa, beach"
+T1026,1827,Bali,2021-10-17,3,97000,hiking
+T1027,1827,Bali,2024-12-07,6,106000,"safari, kayaking"
+T1028,1827,Cape Town,03/31/2022,8,282000,"hiking, safari"
+T1029,1049,Denver,2021-10-08,8,139000,"kayaking, hiking, safari"
+T1030,1049,Rome,2023-07-29,8,269000,hiking
+T1031,1049,Barcelona,05/15/2025,6,210000,"safari, hiking"
+T1032,1049,Bali,08/10/2022,5,111000,kayaking
+T1033,1049,Denver,"July 18, 2024",8,171000,"safari, hiking, kayaking"
+T1034,1487,Banff,"February 14, 2024",10,243000,"spa, beach, snorkeling"
+T1035,1487,Rome,2021-09-02,6,233000,"spa, snorkeling"
+T1036,1487,Cape Town,"June 22, 2024",6,303000,"snorkeling, spa"
+T1037,1487,Barcelona,07/15/2023,9,179000,"snorkeling, spa, beach"
+T1038,1487,Rome,2022-10-14,4,313000,"beach, spa, snorkeling"
+T1039,1142,Tokyo,2022-02-28,8,119000,"wine tasting, spa"
+T1040,1432,Paris,2025-06-05,8,418000,hiking
+T1041,1432,Cape Town,02/06/2024,9,275000,"hiking, safari, kayaking"
+T1042,1432,Cancun,"October 14, 2023",3,93000,hiking
+T1043,1432,Cancun,03/12/2023,6,78000,"kayaking, hiking, safari"
+T1044,1432,Tokyo,"March 17, 2024",4,93000,"safari, hiking"
+T1045,1250,Cape Town,2023-05-22,3,258000,hiking
+T1046,1250,Phuket,06/24/2025,9,590000,"hiking, safari, kayaking"
+T1047,1806,Tokyo,"May 19, 2024",7,112000,"shopping, wine tasting, spa"
+T1048,1806,Tokyo,01/23/2024,5,103000,"shopping, spa, wine tasting"
+T1049,1806,Paris,2023-08-29,4,419000,"shopping, wine tasting"
+T1050,1806,Denver,06/02/2022,9,183000,"shopping, wine tasting"
+T1051,1806,Rome,08/25/2023,6,229000,"shopping, wine tasting, spa"
+T1052,1133,Rome,2021-10-17,9,302000,"hiking, museum tour"
+T1053,1133,Denver,01/19/2023,7,159000,food tour
+T1054,1133,Cape Town,"July 05, 2023",10,268000,"hiking, museum tour, food tour"
+T1055,1133,Rome,"June 27, 2024",4,313000,food tour
+T1056,1104,Tokyo,"September 19, 2022",10,113000,hiking
+T1057,1104,Bali,"May 22, 2023",5,129000,"hiking, safari, kayaking"
+T1058,1104,Tokyo,04/24/2022,10,116000,hiking
+T1059,1006,Banff,2025-06-18,9,286000,hiking
+T1060,1006,Rome,2021-12-11,4,265000,"hiking, safari, kayaking"
+T1061,1516,Banff,12/11/2022,3,270000,"kayaking, hiking, safari"
+T1062,1516,Cape Town,2024-08-30,4,272000,"hiking, kayaking"
+T1063,1504,Barcelona,"November 19, 2024",6,156000,"food tour, cultural show, museum tour"
+T1064,1504,Tokyo,10/09/2021,6,90000,"food tour, cultural show"
+T1065,1504,Rome,2021-10-12,10,220000,"museum tour, cultural show, food tour"
+T1066,1504,Banff,"October 12, 2023",4,329000,"cultural show, food tour"
+T1067,1992,Tokyo,2025-06-06,9,109000,"shopping, wine tasting"
+T1068,1480,Cancun,"March 08, 2024",6,65000,"safari, hiking"
+T1069,1429,Cancun,07/19/2022,4,71000,"snorkeling, beach, spa"
+T1070,1553,Cape Town,09/17/2024,6,287000,snorkeling
+T1071,1553,Rome,08/30/2023,8,245000,beach
+T1072,1553,Cape Town,2021-11-11,9,246000,snorkeling
+T1073,1553,Bali,2023-07-14,7,92000,"beach, snorkeling, spa"
+T1074,1553,Denver,"August 22, 2023",3,133000,"beach, spa"
+T1075,1347,Cape Town,2022-02-21,10,241000,snorkeling
+T1076,1347,Tokyo,2022-09-05,3,83000,"beach, spa"
+T1077,1119,Rome,06/17/2023,10,257000,"spa, beach, snorkeling"
+T1078,1119,Banff,08/23/2023,5,239000,snorkeling
+T1079,1119,Denver,"April 29, 2022",8,166000,"beach, snorkeling"
+T1080,1119,Banff,"September 13, 2022",7,273000,"spa, snorkeling"
+T1081,1108,Cancun,2024-06-20,4,68000,"hiking, food tour, museum tour"
+T1082,1108,Barcelona,2024-09-14,9,198000,"food tour, museum tour"
+T1083,1108,Tokyo,"July 17, 2022",9,86000,"food tour, museum tour"
+T1084,1108,Denver,2023-04-13,6,152000,"hiking, food tour"
+T1085,1762,Tokyo,04/28/2023,8,119000,kayaking
+T1086,1962,Denver,2023-10-15,9,160000,spa
+T1087,1659,Cape Town,07/14/2022,8,226000,kayaking
+T1088,1659,Rome,"January 14, 2023",6,275000,"safari, hiking"
+T1089,1659,Rome,08/31/2024,9,317000,"hiking, kayaking"
+T1090,1915,Barcelona,2024-04-21,8,159000,spa
+T1091,1915,Bali,12/28/2023,5,116000,"spa, wine tasting"
+T1092,1915,Barcelona,2025-05-25,5,181000,wine tasting
+T1093,1731,Cancun,"October 26, 2023",5,73000,"hiking, museum tour"
+T1094,1731,Denver,01/08/2025,10,151000,"hiking, museum tour, food tour"
+T1095,1731,Tokyo,2024-04-23,9,118000,"food tour, museum tour"
+T1096,1731,Denver,"May 23, 2024",5,137000,hiking
+T1097,1731,Bali,"September 06, 2023",6,125000,"food tour, museum tour"
+T1098,1990,Bali,"November 08, 2023",4,101000,beach
+T1099,1990,Rome,"October 28, 2024",4,274000,"spa, snorkeling"
+T1100,1574,Bali,11/30/2024,3,121000,"safari, hiking, kayaking"
+T1101,1830,Denver,"January 18, 2023",9,142000,snorkeling
+T1102,1830,Bali,06/19/2022,4,128000,snorkeling
+T1103,1830,Barcelona,"February 28, 2024",3,189000,"beach, spa"
+T1104,1830,Banff,10/28/2021,9,231000,spa
+T1105,1830,Cancun,2024-12-12,4,85000,snorkeling
+T1106,1200,Bali,06/17/2024,3,120000,kayaking
+T1107,1200,Denver,04/13/2023,9,136000,hiking
+T1108,1200,Denver,06/12/2023,7,180000,safari
+T1109,1200,Bali,03/11/2022,4,89000,safari
+T1110,1078,Banff,"February 09, 2024",4,232000,"shopping, spa, wine tasting"
+T1111,1078,Bali,2022-06-29,7,89000,"wine tasting, spa, shopping"
+T1112,1581,Cancun,05/09/2022,8,96000,"hiking, kayaking, safari"
+T1113,1581,Cancun,"November 10, 2022",7,65000,"hiking, safari, kayaking"
+T1114,1581,Cancun,2025-05-23,8,65000,hiking
+T1115,1581,Cancun,"January 15, 2024",7,70000,"hiking, kayaking, safari"
+T1116,1581,Cancun,"January 03, 2024",10,76000,"kayaking, safari"
+T1117,1262,Tokyo,"February 20, 2025",7,81000,"kayaking, safari"
+T1118,1262,Barcelona,"April 23, 2024",4,210000,kayaking
+T1119,1262,Tokyo,2024-06-01,10,100000,"kayaking, hiking"
+T1120,1619,Banff,09/20/2023,4,318000,"hiking, kayaking, safari"
+T1121,1619,Banff,"January 23, 2022",10,238000,"kayaking, hiking, safari"
+T1122,1619,Cape Town,02/17/2024,8,228000,hiking
+T1123,1619,Banff,10/16/2022,3,324000,hiking
+T1124,1619,Rome,06/01/2025,9,255000,"hiking, safari, kayaking"
+T1125,1957,Cancun,08/30/2021,8,66000,"snorkeling, beach"
+T1126,1957,Barcelona,"April 11, 2024",4,181000,beach
+T1127,1957,Tokyo,"November 17, 2021",4,104000,"snorkeling, spa, beach"
+T1128,1156,Banff,2023-05-16,6,282000,"snorkeling, beach"
+T1129,1156,Banff,"February 15, 2025",7,337000,"beach, spa"
+T1130,1156,Cape Town,03/19/2023,9,269000,"spa, snorkeling"
+T1131,1090,Cape Town,"June 02, 2024",10,231000,"shopping, wine tasting"
+T1132,1090,Rome,07/18/2021,7,283000,"wine tasting, spa"
+T1133,1090,Cape Town,"January 31, 2023",10,232000,"wine tasting, spa"
+T1134,1090,Banff,02/28/2022,4,286000,"shopping, spa, wine tasting"
+T1135,1090,Tokyo,"July 24, 2023",10,111000,wine tasting
+T1136,1101,Denver,2022-05-10,4,172000,cultural show
+T1137,1101,Cape Town,"April 19, 2023",5,282000,"food tour, museum tour, cultural show"
+T1138,1101,Cancun,11/05/2021,9,71000,cultural show
+T1139,1101,Rome,2022-05-22,4,255000,"cultural show, food tour"
+T1140,1101,Cancun,2021-08-26,3,80000,"food tour, cultural show"
+T1141,1094,Cape Town,06/12/2023,3,238000,"beach, snorkeling"
+T1142,1496,Barcelona,2021-11-02,3,187000,kayaking
+T1143,1943,Banff,2025-01-24,6,244000,"spa, beach"
+T1144,1943,Bali,02/26/2022,10,107000,"snorkeling, beach"
+T1145,1943,Denver,08/01/2023,5,148000,"beach, snorkeling, spa"
+T1146,1943,Paris,06/27/2023,4,600000,"snorkeling, beach, spa"
+T1147,1041,Tokyo,09/22/2023,7,92000,"shopping, spa"
+T1148,1041,Tokyo,"October 28, 2021",10,119000,"wine tasting, spa, shopping"
+T1149,1661,Cancun,"December 29, 2023",10,85000,hiking
+T1150,1661,Rome,"December 07, 2022",9,223000,"safari, hiking, kayaking"
+T1151,1661,Cancun,2025-01-30,8,68000,"kayaking, hiking"
+T1152,1862,Barcelona,03/17/2024,5,150000,"food tour, cultural show"
+T1153,1736,Barcelona,01/21/2024,9,147000,food tour
+T1154,1736,Bali,"November 12, 2022",9,121000,"food tour, museum tour"
+T1155,1736,Tokyo,2023-04-28,10,83000,"museum tour, cultural show, food tour"
+T1156,1034,Cancun,2024-12-29,8,71000,kayaking
+T1157,1034,Rome,"May 14, 2025",8,301000,"safari, kayaking, hiking"
+T1158,1034,Banff,"February 07, 2024",5,262000,safari
+T1159,1034,Cape Town,12/14/2022,4,252000,"kayaking, hiking"
+T1160,1175,Bali,"September 18, 2022",6,115000,"beach, snorkeling, spa"
+T1161,1175,Tokyo,09/23/2021,4,110000,"spa, beach"
+T1162,1035,Barcelona,2025-01-29,9,176000,"spa, shopping"
+T1163,1035,Denver,11/15/2023,4,146000,"shopping, wine tasting, spa"
+T1164,1035,Barcelona,05/27/2024,6,189000,"wine tasting, spa"
+T1165,1035,Cape Town,03/28/2024,10,239000,"wine tasting, spa"
+T1166,1148,Tokyo,"July 12, 2024",3,108000,"safari, hiking, kayaking"
+T1167,1148,Paris,2023-05-19,10,555000,"kayaking, hiking, safari"
+T1168,1463,Denver,07/02/2021,9,152000,shopping
+T1169,1599,Cancun,2025-03-31,5,77000,safari
+T1170,1599,Denver,2022-06-13,6,181000,safari
+T1171,1682,Bali,"October 03, 2021",5,103000,"kayaking, hiking"
+T1172,1987,Cancun,"September 30, 2022",8,83000,"kayaking, safari, hiking"
+T1173,1987,Cancun,07/06/2024,4,83000,"safari, kayaking, hiking"
+T1174,1987,Cancun,2022-06-25,4,90000,"hiking, kayaking, safari"
+T1175,1987,Cancun,"December 25, 2023",6,74000,"safari, hiking, kayaking"
+T1176,1700,Bali,12/11/2021,10,112000,"wine tasting, shopping"
+T1177,1700,Bali,2023-04-18,4,117000,wine tasting
+T1178,1700,Bali,03/01/2023,6,103000,"spa, shopping"
+T1179,1700,Tokyo,02/18/2023,9,81000,"wine tasting, shopping, spa"
+T1180,1700,Cancun,09/05/2024,6,94000,shopping
+T1181,1877,Bali,2022-10-23,8,121000,"kayaking, safari, hiking"
+T1182,1877,Cancun,2023-02-23,5,81000,"hiking, kayaking"
+T1183,1877,Bali,2021-08-29,8,109000,"hiking, kayaking, safari"
+T1184,1697,Tokyo,11/03/2022,7,98000,"wine tasting, shopping, spa"
+T1185,1374,Denver,"March 19, 2025",7,146000,"hiking, safari"
+T1186,1739,Cape Town,11/29/2021,7,246000,"hiking, safari"
+T1187,1739,Cape Town,2022-10-19,7,234000,"hiking, kayaking, safari"
+T1188,1739,Cape Town,01/17/2022,6,333000,"safari, hiking"
+T1189,1635,Rome,03/25/2024,7,321000,wine tasting
+T1190,1635,Tokyo,"December 29, 2022",7,100000,"spa, shopping"
+T1191,1573,Tokyo,12/03/2022,10,101000,"spa, wine tasting"
+T1192,1472,Denver,03/27/2022,5,177000,museum tour
+T1193,1472,Denver,"April 18, 2024",7,144000,"food tour, cultural show, museum tour"
+T1194,1472,Barcelona,01/06/2022,10,146000,"cultural show, food tour"
+T1195,1472,Bali,03/02/2024,10,92000,"museum tour, cultural show"
+T1196,1821,Cancun,"May 18, 2024",4,89000,safari
+T1197,1821,Cancun,05/23/2023,5,95000,safari
+T1198,1821,Cancun,04/22/2022,5,71000,"hiking, kayaking"
+T1199,1976,Phuket,06/10/2022,4,501000,"wine tasting, shopping"
+T1200,1017,Barcelona,"February 20, 2025",3,169000,"museum tour, cultural show, food tour"
+T1201,1017,Cancun,03/07/2024,5,95000,museum tour
+T1202,1207,Barcelona,2023-06-29,3,144000,"food tour, museum tour, hiking"
+T1203,1207,Tokyo,2021-11-07,5,114000,museum tour
+T1204,1207,Tokyo,"October 09, 2023",5,85000,"museum tour, hiking, food tour"
+T1205,1207,Denver,"December 03, 2021",4,168000,"museum tour, food tour"
+T1206,1207,Tokyo,2023-12-18,10,99000,"museum tour, food tour"
+T1207,1758,Cape Town,03/17/2022,3,315000,spa
+T1208,1758,Denver,06/05/2025,8,143000,"wine tasting, shopping"
+T1209,1244,Barcelona,2022-05-24,8,175000,"beach, snorkeling, spa"
+T1210,1244,Tokyo,08/18/2021,6,84000,spa
+T1211,1244,Barcelona,2021-08-15,4,164000,"beach, snorkeling, spa"
+T1212,1244,Cancun,"December 25, 2022",9,90000,snorkeling
+T1213,1244,Tokyo,2022-12-23,6,110000,"spa, snorkeling"
+T1214,1822,Banff,04/29/2022,6,304000,hiking
+T1215,1822,Barcelona,2022-11-10,9,197000,"safari, hiking, kayaking"
+T1216,1822,Cape Town,12/01/2021,6,231000,"safari, hiking, kayaking"
+T1217,1822,Denver,01/20/2024,4,155000,kayaking
+T1218,1241,Bali,"February 16, 2022",3,111000,"snorkeling, spa"
+T1219,1241,Barcelona,09/08/2021,3,180000,"beach, spa"
+T1220,1065,Bali,05/19/2024,5,101000,"safari, kayaking, hiking"
+T1221,1065,Cancun,02/01/2024,7,82000,"kayaking, hiking"
+T1222,1065,Cancun,"March 12, 2023",6,87000,"kayaking, hiking, safari"
+T1223,1065,Denver,06/06/2024,5,138000,"hiking, safari, kayaking"
+T1224,1065,Bali,2025-03-10,6,90000,"hiking, kayaking, safari"
+T1225,1799,Cancun,"April 22, 2025",6,93000,spa
+T1226,1799,Tokyo,2021-07-09,8,112000,beach
+T1227,1799,Tokyo,2021-10-03,5,118000,"spa, beach"
+T1228,1799,Cancun,"August 11, 2024",5,94000,"spa, beach"
+T1229,1910,Cancun,05/17/2024,8,96000,wine tasting
+T1230,1910,Cancun,2022-04-17,3,68000,shopping
+T1231,1910,Cancun,09/28/2024,5,81000,"wine tasting, spa, shopping"
+T1232,1910,Cancun,09/18/2023,3,79000,"spa, wine tasting, shopping"
+T1233,1563,Barcelona,07/18/2024,9,160000,"museum tour, food tour, hiking"
+T1234,1563,Barcelona,10/02/2021,10,196000,museum tour
+T1235,1191,Tokyo,2022-11-01,5,83000,"spa, beach"
+T1236,1191,Tokyo,2023-06-05,5,109000,"beach, spa"
+T1237,1191,Cancun,"October 26, 2024",7,80000,"beach, spa, snorkeling"
+T1238,1191,Bali,"July 28, 2024",7,119000,"beach, spa"
+T1239,1191,Bali,"September 07, 2021",8,107000,snorkeling
+T1240,1364,Rome,2024-07-10,3,239000,"wine tasting, shopping, spa"
+T1241,1364,Cape Town,"August 11, 2021",5,322000,"shopping, wine tasting"
+T1242,1364,Cancun,"January 22, 2023",4,72000,wine tasting
+T1243,1364,Paris,09/27/2021,4,596000,shopping
+T1244,1364,Rome,"January 31, 2023",3,263000,"wine tasting, shopping"
+T1245,1747,Barcelona,07/08/2022,8,164000,"spa, wine tasting"
+T1246,1335,Cancun,2025-01-26,5,72000,safari
+T1247,1335,Rome,2023-12-25,4,256000,"hiking, kayaking"
+T1248,1335,Rome,2025-01-27,3,266000,hiking
+T1249,1335,Rome,"April 29, 2023",4,252000,safari
+T1250,1223,Barcelona,2021-12-29,3,207000,"hiking, food tour"
+T1251,1223,Denver,"October 30, 2021",7,160000,"hiking, food tour, museum tour"
+T1252,1223,Cancun,"October 14, 2021",4,67000,"hiking, museum tour"
+T1253,1186,Barcelona,2022-11-04,10,163000,kayaking
+T1254,1180,Cancun,"August 11, 2022",4,90000,"hiking, safari, kayaking"
+T1255,1180,Banff,"November 14, 2023",7,331000,"safari, kayaking, hiking"
+T1256,1267,Tokyo,"March 14, 2022",3,121000,"snorkeling, beach, spa"
+T1257,1267,Cancun,"January 14, 2025",6,72000,spa
+T1258,1267,Cancun,2025-06-01,6,81000,"beach, snorkeling, spa"
+T1259,1267,Cancun,"September 24, 2023",4,90000,"spa, beach, snorkeling"
+T1260,1267,Cancun,10/13/2023,5,88000,"beach, snorkeling"
+T1261,1788,Banff,2022-05-30,10,234000,"spa, beach"
+T1262,1788,Bali,01/08/2025,3,96000,"spa, beach, snorkeling"
+T1263,1578,Phuket,"May 13, 2025",9,495000,spa
+T1264,1578,Cancun,04/03/2024,3,75000,"wine tasting, spa"
+T1265,1578,Cancun,"November 09, 2023",3,87000,shopping
+T1266,1578,Bali,2022-09-05,5,115000,"shopping, wine tasting, spa"
+T1267,1578,Bali,2023-03-27,10,99000,shopping
+T1268,1643,Bali,10/14/2021,4,107000,"kayaking, hiking, safari"
+T1269,1643,Denver,2025-06-03,10,134000,safari
+T1270,1643,Banff,"February 14, 2024",3,263000,hiking
+T1271,1643,Denver,2023-03-11,5,131000,kayaking
+T1272,1643,Banff,"November 22, 2021",4,310000,hiking
+T1273,1419,Cancun,"January 18, 2022",4,83000,safari
+T1274,1419,Cancun,"January 25, 2022",9,96000,"safari, kayaking"
+T1275,1419,Tokyo,2023-11-12,9,110000,"hiking, safari"
+T1276,1419,Tokyo,07/23/2021,10,110000,"hiking, safari"
+T1277,1494,Tokyo,2022-09-17,7,120000,safari
+T1278,1494,Tokyo,"May 28, 2022",3,95000,kayaking
+T1279,1494,Cancun,2024-03-19,7,70000,"safari, kayaking"
+T1280,1494,Bali,2024-05-15,6,97000,"hiking, kayaking, safari"
+T1281,1274,Rome,04/06/2023,10,284000,"food tour, hiking"
+T1282,1274,Cancun,"September 04, 2023",9,94000,"food tour, hiking, museum tour"
+T1283,1783,Paris,2021-09-10,7,425000,"beach, snorkeling, spa"
+T1284,1783,Paris,10/05/2022,6,438000,spa
+T1285,1679,Cancun,2024-03-12,4,72000,food tour
+T1286,1531,Rome,"November 24, 2024",6,291000,"snorkeling, beach"
+T1287,1320,Cape Town,"March 14, 2025",3,298000,"hiking, kayaking, safari"
+T1288,1331,Denver,2023-11-28,8,143000,"food tour, hiking, museum tour"
+T1289,1331,Barcelona,"January 28, 2022",4,157000,hiking
+T1290,1331,Cape Town,03/15/2023,6,316000,hiking
+T1291,1403,Bali,03/16/2022,10,117000,"spa, snorkeling, beach"
+T1292,1403,Barcelona,"July 19, 2023",5,203000,"snorkeling, beach, spa"
+T1293,1403,Bali,11/23/2024,10,94000,spa
+T1294,1403,Cancun,2022-08-14,4,90000,"beach, spa, snorkeling"
+T1295,1154,Cancun,"August 22, 2021",8,84000,shopping
+T1296,1154,Tokyo,2024-05-07,9,96000,spa
+T1297,1154,Cancun,10/21/2022,3,64000,"spa, shopping"
+T1298,1154,Cancun,12/30/2024,8,87000,spa
+T1299,1340,Cape Town,2023-11-16,6,295000,safari
+T1300,1340,Bali,2025-04-02,9,130000,"hiking, safari"
+T1301,1340,Bali,"June 22, 2024",8,116000,"hiking, safari, kayaking"
+T1302,1340,Bali,02/04/2024,8,114000,"hiking, safari, kayaking"
+T1303,1013,Cape Town,"July 15, 2022",6,330000,"cultural show, food tour, museum tour"
+T1304,1013,Phuket,01/22/2025,8,557000,"cultural show, museum tour, food tour"
+T1305,1013,Denver,2025-05-10,4,171000,cultural show
+T1306,1013,Tokyo,2021-07-28,3,94000,"cultural show, museum tour"
+T1307,1404,Bali,2024-01-08,7,108000,"safari, kayaking"
+T1308,1404,Denver,2023-10-14,4,156000,"hiking, kayaking"
+T1309,1404,Rome,03/08/2023,4,234000,"hiking, kayaking, safari"
+T1310,1486,Tokyo,06/05/2022,8,113000,beach
+T1311,1486,Bali,05/13/2022,5,108000,"beach, spa"
+T1312,1486,Bali,2024-04-26,4,117000,"snorkeling, spa, beach"
+T1313,1486,Bali,"June 02, 2022",8,95000,"spa, beach"
+T1314,1436,Denver,07/18/2023,5,145000,"snorkeling, beach"
+T1315,1436,Barcelona,05/13/2025,6,154000,"spa, beach"
+T1316,1436,Cancun,"July 04, 2023",3,68000,beach
+T1317,1436,Banff,"May 27, 2022",4,340000,"spa, beach, snorkeling"
+T1318,1921,Tokyo,2022-01-25,4,95000,spa
+T1319,1897,Cancun,09/03/2024,4,76000,kayaking
+T1320,1897,Cancun,"October 13, 2022",5,70000,"safari, hiking"
+T1321,1897,Bali,07/07/2024,5,93000,"hiking, safari, kayaking"
+T1322,1529,Barcelona,2024-07-09,10,153000,"hiking, museum tour"
+T1323,1529,Cancun,2023-11-25,3,93000,"food tour, hiking, museum tour"
+T1324,1529,Cancun,"September 22, 2022",5,85000,"museum tour, hiking"
+T1325,1785,Cancun,"September 16, 2022",7,95000,"beach, spa"
+T1326,1464,Cape Town,"July 21, 2024",5,265000,museum tour
+T1327,1464,Cancun,05/21/2024,5,79000,hiking
+T1328,1464,Rome,2024-04-10,7,289000,"museum tour, hiking, food tour"
+T1329,1464,Phuket,2021-08-22,8,431000,"food tour, hiking"
+T1330,1959,Cancun,12/07/2022,5,84000,"safari, hiking, kayaking"
+T1331,1434,Denver,"July 31, 2024",6,167000,"beach, spa"
+T1332,1434,Barcelona,"September 16, 2022",10,181000,snorkeling
+T1333,1434,Barcelona,02/11/2022,3,173000,"spa, beach, snorkeling"
+T1334,1434,Bali,2022-12-05,8,106000,spa
+T1335,1434,Tokyo,03/07/2025,8,88000,"beach, spa, snorkeling"
+T1336,1840,Rome,"April 03, 2024",6,304000,beach
+T1337,1059,Banff,11/29/2021,7,316000,"spa, snorkeling, beach"
+T1338,1059,Cancun,2021-11-07,9,89000,"snorkeling, beach"
+T1339,1059,Banff,2024-04-19,7,256000,"spa, snorkeling"
+T1340,1059,Rome,09/08/2023,4,237000,spa
+T1341,1873,Denver,10/30/2021,7,136000,"safari, kayaking, hiking"
+T1342,1873,Bali,2023-04-13,7,110000,"kayaking, hiking"
+T1343,1873,Barcelona,2023-10-21,3,190000,"hiking, kayaking, safari"
+T1344,1382,Paris,03/13/2022,3,490000,museum tour
+T1345,1189,Denver,06/26/2023,5,178000,"kayaking, safari"
+T1346,1189,Bali,2022-03-09,6,101000,"safari, hiking, kayaking"
+T1347,1189,Denver,09/20/2021,6,162000,"kayaking, safari"
+T1348,1189,Barcelona,2024-05-27,7,179000,"hiking, kayaking"
+T1349,1491,Denver,2021-12-18,7,146000,spa
+T1350,1491,Paris,03/22/2024,6,559000,"shopping, spa, wine tasting"
+T1351,1491,Cancun,2021-12-17,9,86000,"shopping, spa"
+T1352,1491,Banff,2021-07-01,8,281000,spa
+T1353,1120,Tokyo,"September 26, 2023",8,111000,museum tour
+T1354,1120,Tokyo,03/31/2024,7,108000,"museum tour, food tour, hiking"
+T1355,1120,Banff,"October 01, 2021",9,273000,"museum tour, food tour, hiking"
+T1356,1120,Bali,"October 23, 2023",10,122000,museum tour
+T1357,1120,Denver,"October 22, 2021",7,165000,food tour
+T1358,1443,Barcelona,09/09/2021,9,154000,safari
+T1359,1443,Cancun,02/25/2024,9,67000,"safari, kayaking"
+T1360,1443,Cape Town,2022-10-26,7,298000,safari
+T1361,1884,Denver,"January 06, 2024",4,181000,"kayaking, safari"
+T1362,1884,Cancun,2022-01-16,3,79000,"hiking, kayaking, safari"
+T1363,1884,Tokyo,"June 19, 2025",8,112000,kayaking
+T1364,1884,Bali,"February 02, 2022",8,95000,"hiking, safari, kayaking"
+T1365,1884,Cancun,03/05/2023,6,65000,"safari, hiking"
+T1366,1314,Cancun,2023-12-20,7,80000,snorkeling
+T1367,1003,Cape Town,2021-11-13,8,303000,"snorkeling, spa"
+T1368,1003,Banff,"August 03, 2024",5,303000,"spa, beach"
+T1369,1195,Denver,2024-09-07,9,134000,"cultural show, museum tour"
+T1370,1195,Banff,"October 10, 2024",8,289000,"cultural show, food tour"
+T1371,1195,Barcelona,"October 02, 2022",9,184000,food tour
+T1372,1205,Denver,04/27/2023,8,158000,"hiking, kayaking, safari"
+T1373,1644,Cancun,11/10/2022,6,68000,"snorkeling, beach, spa"
+T1374,1644,Tokyo,"January 16, 2023",6,90000,"spa, snorkeling, beach"
+T1375,1644,Tokyo,"January 24, 2023",4,121000,"beach, spa"
+T1376,1701,Tokyo,"June 06, 2024",6,104000,"kayaking, safari, hiking"
+T1377,1455,Rome,2023-10-24,8,315000,"beach, spa, snorkeling"
+T1378,1455,Tokyo,2023-02-19,8,108000,"beach, spa, snorkeling"
+T1379,1874,Tokyo,06/29/2022,7,86000,wine tasting
+T1380,1874,Tokyo,2024-04-16,10,120000,"wine tasting, shopping, spa"
+T1381,1874,Tokyo,"June 25, 2025",10,96000,spa
+T1382,1874,Banff,"December 04, 2021",4,291000,"shopping, wine tasting"
+T1383,1874,Cancun,2022-11-17,3,91000,"shopping, wine tasting"
+T1384,1923,Cancun,06/02/2023,9,90000,"hiking, safari"
+T1385,1923,Bali,2021-11-03,4,130000,hiking
+T1386,1923,Phuket,01/30/2022,10,440000,kayaking
+T1387,1923,Cape Town,2022-07-06,9,229000,"safari, hiking"
+T1388,1720,Barcelona,"May 23, 2023",7,200000,"kayaking, hiking, safari"
+T1389,1720,Tokyo,"September 04, 2021",6,91000,"hiking, safari, kayaking"
+T1390,1306,Denver,"June 20, 2025",10,182000,"safari, kayaking, hiking"
+T1391,1306,Tokyo,"December 21, 2021",3,113000,safari
+T1392,1306,Banff,10/10/2023,10,253000,"kayaking, hiking, safari"
+T1393,1482,Tokyo,09/07/2021,6,106000,"cultural show, museum tour"
+T1394,1482,Bali,2023-05-27,6,108000,cultural show
+T1395,1482,Rome,2025-05-24,9,315000,"food tour, museum tour"
+T1396,1482,Cancun,2024-01-16,9,92000,"food tour, museum tour"
+T1397,1002,Bali,2022-07-26,5,97000,"kayaking, safari"
+T1398,1946,Tokyo,2025-01-03,10,112000,"cultural show, food tour, museum tour"
+T1399,1946,Bali,"August 25, 2022",9,120000,museum tour
+T1400,1946,Cancun,"May 01, 2025",10,86000,"museum tour, cultural show"
+T1401,1946,Cancun,03/29/2025,9,88000,"museum tour, food tour"
+T1402,1946,Cancun,03/30/2022,4,78000,food tour
+T1403,1818,Tokyo,"December 13, 2023",8,101000,spa
+T1404,1818,Tokyo,2021-12-05,8,119000,"snorkeling, spa, beach"
+T1405,1818,Cancun,05/19/2025,10,68000,"snorkeling, beach, spa"
+T1406,1999,Cape Town,2021-11-19,8,312000,"wine tasting, shopping"
+T1407,1956,Cancun,2022-11-09,8,65000,"safari, kayaking, hiking"
+T1408,1711,Tokyo,06/04/2025,7,120000,hiking
+T1409,1711,Tokyo,01/19/2023,3,83000,"kayaking, safari, hiking"
+T1410,1711,Cancun,"February 02, 2022",10,86000,"kayaking, hiking"
+T1411,1711,Cancun,2023-07-02,7,70000,"safari, hiking"
+T1412,1663,Barcelona,2023-07-03,10,211000,"spa, beach"
+T1413,1663,Denver,05/01/2024,8,180000,spa
+T1414,1663,Tokyo,"December 12, 2023",10,86000,"beach, spa, snorkeling"
+T1415,1663,Denver,2022-01-11,3,174000,"snorkeling, beach"
+T1416,1073,Tokyo,2025-03-17,8,120000,spa
+T1417,1117,Denver,"July 22, 2024",7,163000,spa
+T1418,1117,Bali,11/02/2021,8,104000,"snorkeling, beach"
+T1419,1117,Denver,"December 25, 2023",9,140000,"beach, snorkeling"
+T1420,1604,Tokyo,2023-03-23,3,91000,"food tour, hiking, museum tour"
+T1421,1604,Bali,2023-05-05,6,109000,"museum tour, food tour"
+T1422,1604,Tokyo,"April 26, 2024",9,118000,hiking
+T1423,1604,Barcelona,"May 01, 2025",8,153000,"hiking, food tour, museum tour"
+T1424,1604,Barcelona,2022-10-26,5,145000,"food tour, hiking"
+T1425,1890,Bali,02/18/2024,10,88000,"wine tasting, shopping, spa"
+T1426,1890,Tokyo,"November 14, 2021",3,102000,spa
+T1427,1890,Tokyo,"June 21, 2024",4,95000,"shopping, spa"
+T1428,1111,Barcelona,07/20/2022,5,186000,"safari, hiking"
+T1429,1111,Banff,2025-06-26,3,319000,"hiking, safari"
+T1430,1005,Denver,09/20/2024,4,167000,kayaking
+T1431,1649,Banff,04/01/2022,8,282000,"food tour, cultural show, museum tour"
+T1432,1649,Paris,"April 08, 2023",3,429000,"cultural show, museum tour, food tour"
+T1433,1649,Paris,11/02/2024,4,471000,"museum tour, food tour, cultural show"
+T1434,1649,Denver,"December 30, 2024",5,138000,"food tour, museum tour, cultural show"
+T1435,1649,Paris,"March 28, 2024",7,504000,"museum tour, cultural show"
+T1436,1474,Phuket,02/08/2024,6,478000,safari
+T1437,1474,Phuket,12/12/2023,6,475000,hiking
+T1438,1474,Tokyo,"November 05, 2021",6,111000,"hiking, kayaking, safari"
+T1439,1560,Cancun,"October 21, 2022",3,78000,safari
+T1440,1560,Cancun,04/24/2022,3,77000,kayaking
+T1441,1560,Denver,12/20/2022,5,172000,"hiking, safari"
+T1442,1415,Banff,2024-10-23,5,256000,"shopping, wine tasting"
+T1443,1415,Cape Town,2023-12-28,8,300000,"shopping, wine tasting, spa"
+T1444,1415,Banff,"September 29, 2022",7,315000,shopping
+T1445,1415,Cape Town,"August 14, 2024",9,225000,"shopping, spa, wine tasting"
+T1446,1415,Cape Town,09/11/2024,4,326000,"shopping, spa, wine tasting"
+T1447,1817,Bali,2024-01-22,5,92000,hiking
+T1448,1817,Tokyo,01/03/2024,5,92000,hiking
+T1449,1817,Rome,2023-12-30,7,245000,"hiking, kayaking"
+T1450,1446,Denver,"September 23, 2021",6,141000,"beach, spa"
+T1451,1446,Cancun,"November 25, 2024",8,68000,"beach, snorkeling"
+T1452,1446,Bali,"January 21, 2022",3,98000,"spa, beach"
+T1453,1446,Rome,"October 23, 2023",4,227000,beach
+T1454,1446,Cancun,"November 16, 2023",3,68000,"beach, spa, snorkeling"
+T1455,1008,Cancun,"January 08, 2024",9,66000,"snorkeling, beach"
+T1456,1008,Bali,2025-03-19,8,129000,beach
+T1457,1355,Tokyo,03/19/2023,7,99000,"kayaking, safari"
+T1458,1056,Tokyo,"January 14, 2023",3,105000,"safari, kayaking, hiking"
+T1459,1056,Bali,12/27/2023,6,97000,"hiking, safari, kayaking"
+T1460,1056,Denver,2022-02-05,4,172000,"kayaking, hiking"
+T1461,1056,Rome,12/10/2021,9,303000,"kayaking, hiking"
+T1462,1258,Phuket,"March 24, 2024",9,539000,"snorkeling, beach, spa"
+T1463,1258,Cape Town,09/05/2024,5,334000,spa
+T1464,1258,Cancun,06/24/2023,6,75000,"beach, spa, snorkeling"
+T1465,1258,Rome,10/03/2024,6,260000,snorkeling
+T1466,1258,Barcelona,10/19/2023,5,163000,"beach, spa, snorkeling"
+T1467,1726,Cancun,"May 16, 2022",8,86000,"cultural show, museum tour, food tour"
+T1468,1726,Barcelona,"February 17, 2022",6,164000,"food tour, cultural show, museum tour"
+T1469,1473,Rome,"March 19, 2025",4,238000,"safari, hiking"
+T1470,1473,Banff,03/04/2022,3,271000,kayaking
+T1471,1804,Denver,08/17/2023,4,135000,"hiking, kayaking, safari"
+T1472,1804,Bali,2022-07-17,5,119000,"safari, hiking"
+T1473,1804,Cancun,08/11/2023,4,73000,"hiking, kayaking, safari"
+T1474,1084,Bali,07/08/2024,7,121000,"kayaking, safari"
+T1475,1084,Cancun,01/08/2022,6,85000,"hiking, kayaking, safari"
+T1476,1975,Cape Town,2024-04-04,6,305000,wine tasting
+T1477,1975,Barcelona,2025-01-05,6,214000,"spa, wine tasting, shopping"
+T1478,1159,Cancun,04/21/2025,4,65000,"food tour, museum tour"
+T1479,1159,Tokyo,08/07/2024,6,101000,"food tour, museum tour"
+T1480,1721,Banff,08/15/2021,5,271000,"safari, kayaking, hiking"
+T1481,1721,Rome,2022-09-03,9,219000,"hiking, kayaking"
+T1482,1721,Cancun,05/27/2025,4,77000,"hiking, kayaking"
+T1483,1721,Tokyo,2021-12-31,5,93000,"kayaking, hiking, safari"
+T1484,1721,Tokyo,2024-04-15,8,111000,"kayaking, safari, hiking"
+T1485,1125,Bali,"November 21, 2023",5,96000,"shopping, spa"
+T1486,1781,Cancun,03/29/2025,9,81000,"kayaking, safari"
+T1487,1781,Cancun,12/30/2024,10,87000,kayaking
+T1488,1892,Rome,2024-11-16,10,265000,"spa, shopping, wine tasting"
+T1489,1892,Rome,2024-08-15,5,267000,wine tasting
+T1490,1892,Banff,01/05/2025,3,280000,"wine tasting, spa, shopping"
+T1491,1892,Denver,"January 17, 2023",7,129000,"spa, wine tasting, shopping"
+T1492,1892,Cancun,09/26/2022,3,68000,"spa, wine tasting"
+T1493,1481,Cancun,03/28/2023,10,86000,kayaking
+T1494,1389,Paris,07/03/2024,7,544000,food tour
+T1495,1550,Cancun,"November 30, 2022",7,82000,museum tour
+T1496,1550,Tokyo,2024-03-14,3,86000,museum tour
+T1497,1802,Tokyo,07/12/2023,5,90000,snorkeling
+T1498,1383,Cape Town,2025-05-12,5,302000,"cultural show, museum tour, food tour"
+T1499,1383,Rome,"January 10, 2024",6,218000,"museum tour, cultural show"
+T1500,1383,Cape Town,08/26/2022,10,252000,museum tour
+T1501,1383,Bali,06/12/2024,9,115000,"food tour, cultural show, museum tour"
+T1502,1383,Tokyo,2022-07-15,8,119000,"museum tour, food tour"
+T1503,1934,Banff,2023-04-07,5,273000,"snorkeling, spa, beach"
+T1504,1934,Barcelona,06/11/2024,5,186000,"spa, snorkeling, beach"
+T1505,1081,Cancun,"September 25, 2024",4,71000,"shopping, spa"
+T1506,1238,Tokyo,"December 13, 2024",9,107000,"wine tasting, spa"
+T1507,1238,Banff,2022-09-16,8,276000,shopping
+T1508,1238,Tokyo,01/01/2024,8,86000,"shopping, spa, wine tasting"
+T1509,1973,Bali,2024-03-17,7,93000,"hiking, safari"
+T1510,1329,Tokyo,10/09/2021,3,89000,museum tour
+T1511,1329,Bali,2023-03-23,8,114000,museum tour
+T1512,1329,Rome,09/07/2023,5,267000,"cultural show, museum tour"
+T1513,1329,Bali,04/16/2025,8,105000,"museum tour, food tour"
+T1514,1329,Barcelona,11/09/2022,3,160000,"museum tour, food tour, cultural show"
+T1515,1202,Denver,"March 10, 2025",10,188000,safari
+T1516,1202,Denver,09/30/2023,9,158000,"safari, hiking"
+T1517,1955,Banff,"June 22, 2024",4,248000,kayaking
+T1518,1955,Banff,03/09/2025,7,247000,"kayaking, hiking"
+T1519,1228,Denver,12/25/2023,7,189000,beach
+T1520,1354,Cancun,2022-09-11,10,70000,"spa, shopping, wine tasting"
+T1521,1354,Cancun,2021-09-03,5,77000,spa
+T1522,1354,Cancun,2023-12-17,8,64000,"spa, shopping"
+T1523,1354,Cancun,2023-01-21,8,89000,"wine tasting, shopping, spa"
+T1524,1354,Cancun,2023-09-06,6,93000,"wine tasting, shopping"
+T1525,1216,Barcelona,2023-05-27,9,205000,safari
+T1526,1216,Cancun,11/22/2022,9,71000,hiking
+T1527,1216,Tokyo,12/23/2021,5,106000,"kayaking, safari, hiking"
+T1528,1216,Rome,"May 04, 2024",10,302000,"safari, hiking, kayaking"
+T1529,1594,Banff,04/02/2023,9,287000,"museum tour, food tour, hiking"
+T1530,1594,Tokyo,2021-11-26,10,111000,museum tour
+T1531,1594,Cape Town,03/15/2022,6,262000,museum tour
+T1532,1594,Denver,09/19/2023,9,186000,food tour
+T1533,1050,Cancun,09/16/2024,8,82000,"hiking, kayaking"
+T1534,1050,Cape Town,05/01/2024,9,296000,kayaking
+T1535,1050,Banff,08/08/2022,8,325000,kayaking
+T1536,1050,Bali,2021-09-25,3,121000,"hiking, safari, kayaking"
+T1537,1941,Barcelona,04/18/2025,4,181000,snorkeling
+T1538,1941,Barcelona,08/25/2023,5,210000,"snorkeling, beach"
+T1539,1941,Barcelona,02/24/2023,3,190000,spa
+T1540,1590,Phuket,09/22/2024,6,424000,"wine tasting, spa"
+T1541,1590,Phuket,10/28/2023,6,460000,"spa, wine tasting"
+T1542,1803,Cape Town,2023-01-15,7,277000,kayaking
+T1543,1605,Cape Town,2024-10-24,9,287000,beach
+T1544,1605,Denver,09/17/2021,9,193000,spa
+T1545,1605,Paris,"December 03, 2021",7,438000,"beach, spa, snorkeling"
+T1546,1605,Barcelona,02/10/2024,9,175000,"snorkeling, beach, spa"
+T1547,1201,Cancun,2024-11-10,3,75000,shopping
+T1548,1201,Cancun,02/24/2025,3,95000,"spa, shopping, wine tasting"
+T1549,1201,Cancun,05/15/2023,4,72000,wine tasting
+T1550,1613,Denver,2023-09-10,7,165000,beach
+T1551,1194,Tokyo,2024-06-21,7,94000,"spa, beach, snorkeling"
+T1552,1194,Cancun,"July 14, 2024",7,74000,"beach, snorkeling"
+T1553,1789,Barcelona,10/08/2022,5,178000,"spa, beach"
+T1554,1789,Bali,2021-11-07,4,122000,"snorkeling, beach, spa"
+T1555,1719,Barcelona,"October 14, 2023",6,149000,"hiking, kayaking"
+T1556,1719,Paris,"November 29, 2022",8,472000,safari
+T1557,1719,Cape Town,"February 25, 2024",4,250000,"safari, kayaking"
+T1558,1719,Barcelona,2024-04-21,4,194000,"safari, kayaking"
+T1559,1831,Barcelona,06/23/2025,5,197000,"hiking, kayaking"
+T1560,1831,Rome,2022-03-14,8,263000,hiking
+T1561,1236,Cancun,2023-04-16,5,88000,"safari, hiking, kayaking"
+T1562,1236,Barcelona,"November 27, 2023",10,155000,"hiking, safari"
+T1563,1236,Tokyo,2023-09-10,7,82000,"kayaking, safari, hiking"
+T1564,1589,Banff,"September 01, 2024",10,327000,"safari, kayaking"
+T1565,1589,Cancun,2024-10-28,6,95000,safari
+T1566,1589,Barcelona,"January 18, 2022",7,181000,kayaking
+T1567,1589,Paris,09/10/2023,6,514000,safari
+T1568,1255,Banff,04/07/2024,9,241000,"safari, hiking"
+T1569,1255,Rome,07/20/2022,4,226000,safari
+T1570,1667,Banff,2022-04-25,8,302000,"kayaking, safari, hiking"
+T1571,1593,Banff,04/02/2023,8,273000,"kayaking, safari"
+T1572,1593,Tokyo,"April 05, 2022",10,112000,"hiking, safari, kayaking"
+T1573,1555,Bali,05/13/2023,8,104000,beach
+T1574,1345,Cancun,"April 03, 2024",5,68000,"kayaking, safari, hiking"
+T1575,1345,Tokyo,02/20/2023,6,85000,"kayaking, safari"
+T1576,1345,Rome,08/04/2021,5,291000,"safari, kayaking"
+T1577,1298,Bali,"February 20, 2022",7,119000,museum tour
+T1578,1298,Tokyo,2025-05-21,9,111000,"food tour, hiking, museum tour"
+T1579,1298,Cancun,"February 17, 2022",8,76000,"hiking, museum tour, food tour"
+T1580,1298,Cancun,2022-01-04,9,94000,"hiking, museum tour"
+T1581,1349,Rome,08/06/2022,10,269000,"food tour, museum tour"
+T1582,1349,Bali,2022-01-02,6,102000,hiking
+T1583,1979,Tokyo,12/02/2022,9,100000,"safari, kayaking"
+T1584,1979,Paris,07/24/2024,4,469000,"kayaking, hiking"
+T1585,1979,Denver,2023-12-19,10,188000,"kayaking, hiking"
+T1586,1422,Rome,2025-02-10,4,274000,"beach, snorkeling, spa"
+T1587,1422,Cape Town,2024-10-15,3,304000,"snorkeling, beach, spa"
+T1588,1047,Paris,2023-07-20,8,597000,"kayaking, hiking, safari"
+T1589,1047,Paris,"May 29, 2025",6,429000,"safari, hiking, kayaking"
+T1590,1676,Tokyo,2025-02-12,3,91000,"wine tasting, shopping"
+T1591,1641,Cancun,06/01/2023,5,85000,"hiking, kayaking"
+T1592,1641,Barcelona,"August 31, 2023",6,193000,"safari, hiking, kayaking"
+T1593,1641,Cancun,"August 23, 2022",9,65000,safari
+T1594,1019,Rome,"July 09, 2021",10,299000,"spa, beach"
+T1595,1372,Denver,09/01/2021,5,177000,"snorkeling, beach"
+T1596,1865,Denver,"October 09, 2023",8,138000,kayaking
+T1597,1865,Denver,03/13/2022,9,161000,hiking
+T1598,1293,Paris,05/27/2024,9,512000,wine tasting
+T1599,1293,Banff,"October 11, 2021",9,240000,"spa, shopping"
+T1600,1293,Barcelona,"December 14, 2021",3,158000,"wine tasting, shopping"
+T1601,1293,Banff,"July 17, 2022",5,326000,shopping
+T1602,1680,Paris,2022-10-06,9,453000,museum tour
+T1603,1309,Barcelona,2024-08-24,10,176000,"safari, kayaking, hiking"
+T1604,1309,Bali,2025-05-29,10,129000,"safari, hiking"
+T1605,1309,Barcelona,01/27/2022,5,150000,"safari, hiking"
+T1606,1309,Bali,01/25/2023,7,91000,hiking
+T1607,1309,Cape Town,"September 23, 2022",5,249000,"safari, hiking"
+T1608,1268,Phuket,"April 29, 2025",6,582000,"food tour, cultural show"
+T1609,1268,Cape Town,"May 12, 2025",8,323000,"cultural show, museum tour, food tour"
+T1610,1437,Bali,2024-10-06,7,112000,safari
+T1611,1828,Tokyo,09/20/2021,8,96000,"hiking, kayaking, safari"
+T1612,1828,Tokyo,"April 15, 2024",5,115000,"kayaking, hiking"
+T1613,1828,Tokyo,03/02/2023,9,103000,safari
+T1614,1828,Cancun,03/15/2025,6,70000,"hiking, safari"
+T1615,1358,Phuket,2023-05-13,8,484000,"cultural show, food tour"
+T1616,1358,Rome,2021-10-14,7,298000,"food tour, museum tour"
+T1617,1358,Cape Town,"September 21, 2023",10,290000,"food tour, cultural show, museum tour"
+T1618,1754,Cancun,05/31/2025,10,86000,"spa, snorkeling, beach"
+T1619,1754,Denver,2021-10-20,5,191000,"snorkeling, beach"
+T1620,1754,Tokyo,"January 10, 2023",7,86000,spa
+T1621,1754,Barcelona,2023-02-09,6,174000,"beach, spa, snorkeling"
+T1622,1754,Bali,"March 15, 2022",5,129000,"beach, spa, snorkeling"
+T1623,1177,Denver,10/07/2023,8,167000,"hiking, safari"
+T1624,1638,Rome,"March 01, 2022",9,269000,safari
+T1625,1638,Bali,09/13/2022,3,92000,kayaking
+T1626,1638,Denver,2025-04-01,4,143000,"safari, hiking, kayaking"
+T1627,1638,Phuket,"March 26, 2023",7,481000,"kayaking, hiking"
+T1628,1638,Paris,2021-10-20,5,430000,"kayaking, hiking, safari"
+T1629,1060,Cape Town,01/11/2023,4,269000,"kayaking, safari"
+T1630,1386,Bali,01/11/2025,5,118000,"kayaking, hiking"
+T1631,1386,Paris,08/10/2022,5,443000,"hiking, kayaking, safari"
+T1632,1724,Phuket,05/13/2024,10,490000,"cultural show, food tour"
+T1633,1724,Cape Town,"July 29, 2021",3,303000,"museum tour, food tour"
+T1634,1790,Barcelona,06/20/2022,3,163000,"food tour, museum tour"
+T1635,1584,Denver,2024-07-22,7,190000,"hiking, safari"
+T1636,1584,Barcelona,2025-03-24,3,163000,"hiking, safari, kayaking"
+T1637,1584,Tokyo,"November 25, 2023",9,95000,hiking
+T1638,1584,Rome,"January 01, 2024",9,279000,"hiking, safari, kayaking"
+T1639,1433,Cancun,01/16/2025,3,72000,safari
+T1640,1433,Tokyo,2024-05-12,6,104000,safari
+T1641,1433,Tokyo,2022-12-18,9,91000,"hiking, kayaking"
+T1642,1433,Cancun,"August 25, 2022",5,72000,"kayaking, hiking"
+T1643,1433,Barcelona,"May 16, 2025",6,200000,"safari, hiking, kayaking"
+T1644,1766,Rome,2024-06-15,4,231000,safari
+T1645,1107,Cancun,09/11/2024,8,94000,kayaking
+T1646,1107,Cancun,2023-08-02,10,86000,"kayaking, safari"
+T1647,1107,Cancun,"June 21, 2023",10,86000,"kayaking, safari"
+T1648,1107,Barcelona,"June 09, 2022",8,180000,safari
+T1649,1968,Cancun,"October 12, 2022",10,69000,"kayaking, hiking, safari"
+T1650,1993,Paris,"October 09, 2021",7,518000,"beach, snorkeling, spa"
+T1651,1678,Tokyo,2023-02-10,10,115000,"beach, snorkeling, spa"
+T1652,1811,Denver,03/09/2023,5,186000,"hiking, safari"
+T1653,1811,Bali,"February 02, 2022",10,101000,"hiking, kayaking"
+T1654,1811,Cancun,11/05/2023,10,66000,"safari, kayaking"
+T1655,1811,Rome,2023-10-08,7,314000,"kayaking, hiking, safari"
+T1656,1811,Barcelona,"April 21, 2022",6,156000,"safari, kayaking, hiking"
+T1657,1099,Denver,"July 22, 2021",6,178000,"hiking, kayaking, safari"
+T1658,1099,Cancun,2022-02-27,4,78000,safari
+T1659,1099,Cancun,2023-03-19,9,92000,kayaking
+T1660,1099,Tokyo,2022-08-07,8,96000,hiking
+T1661,1233,Cancun,07/17/2021,3,93000,spa
+T1662,1233,Bali,08/19/2021,10,93000,shopping
+T1663,1233,Cape Town,2022-09-29,5,299000,"wine tasting, spa, shopping"
+T1664,1233,Barcelona,09/24/2022,8,176000,wine tasting
+T1665,1242,Cape Town,"March 05, 2023",3,239000,"spa, beach"
+T1666,1810,Cancun,12/13/2024,8,69000,"spa, wine tasting"
+T1667,1810,Cancun,02/16/2024,10,69000,spa
+T1668,1304,Bali,2025-03-07,6,114000,"spa, shopping"
+T1669,1304,Rome,08/18/2022,7,272000,"shopping, wine tasting"
+T1670,1304,Rome,05/03/2025,5,224000,"wine tasting, spa, shopping"
+T1671,1304,Cape Town,"April 29, 2022",4,237000,"shopping, spa, wine tasting"
+T1672,1414,Tokyo,2023-11-25,9,98000,"snorkeling, spa, beach"
+T1673,1484,Cancun,"October 23, 2022",6,70000,"spa, snorkeling"
+T1674,1484,Banff,2025-06-19,6,317000,"beach, spa, snorkeling"
+T1675,1484,Cape Town,2023-08-01,6,254000,"snorkeling, beach"
+T1676,1988,Bali,2024-05-12,9,108000,"safari, kayaking, hiking"
+T1677,1988,Tokyo,2022-04-22,4,117000,"safari, hiking, kayaking"
+T1678,1988,Tokyo,04/17/2023,10,104000,"safari, kayaking"
+T1679,1988,Cancun,11/11/2022,3,93000,"hiking, safari, kayaking"
+T1680,1930,Banff,2022-04-28,10,340000,safari
+T1681,1930,Rome,04/09/2023,8,306000,"kayaking, hiking, safari"
+T1682,1930,Banff,03/08/2024,3,266000,hiking
+T1683,1930,Paris,2022-02-25,7,445000,kayaking
+T1684,1930,Barcelona,2025-03-02,5,157000,safari
+T1685,1181,Denver,2025-03-11,4,160000,"wine tasting, spa, shopping"
+T1686,1181,Rome,2021-10-28,3,278000,shopping
+T1687,1012,Rome,2025-01-26,10,264000,"kayaking, hiking"
+T1688,1012,Cancun,08/24/2022,7,66000,"kayaking, hiking, safari"
+T1689,1012,Denver,2023-05-22,9,168000,"hiking, kayaking, safari"
+T1690,1618,Barcelona,09/30/2021,4,213000,"cultural show, food tour"
+T1691,1085,Cape Town,"February 03, 2023",9,276000,"food tour, museum tour"
+T1692,1085,Tokyo,2024-01-22,7,112000,food tour
+T1693,1085,Denver,2022-12-12,8,183000,"cultural show, museum tour, food tour"
+T1694,1085,Cape Town,"June 01, 2023",4,253000,"museum tour, food tour, cultural show"
+T1695,1843,Barcelona,"June 01, 2022",6,171000,"snorkeling, spa"
+T1696,1654,Rome,04/24/2022,7,218000,"kayaking, hiking, safari"
+T1697,1654,Bali,01/23/2024,3,119000,"safari, kayaking"
+T1698,1654,Cape Town,2021-11-18,5,334000,hiking
+T1699,1677,Rome,07/04/2022,9,223000,"beach, spa, snorkeling"
+T1700,1677,Banff,06/23/2023,5,323000,"spa, beach"
+T1701,1677,Rome,2021-09-27,5,215000,"snorkeling, spa, beach"
+T1702,1517,Rome,"July 14, 2023",7,301000,"hiking, kayaking, safari"
+T1703,1517,Rome,"November 06, 2024",5,314000,"safari, kayaking"
+T1704,1517,Bali,"March 30, 2022",10,128000,hiking
+T1705,1517,Rome,12/07/2021,10,215000,"kayaking, safari"
+T1706,1517,Banff,"January 03, 2022",8,252000,"hiking, safari, kayaking"
+T1707,1895,Denver,05/16/2023,9,180000,"kayaking, hiking, safari"
+T1708,1895,Tokyo,"February 04, 2025",9,110000,"kayaking, safari"
+T1709,1826,Tokyo,2023-02-25,6,92000,"beach, snorkeling, spa"
+T1710,1135,Bali,05/20/2024,6,108000,safari
+T1711,1848,Cancun,05/04/2022,4,75000,hiking
+T1712,1848,Barcelona,"February 20, 2023",4,182000,"kayaking, safari, hiking"
+T1713,1848,Denver,2023-01-16,8,166000,"hiking, kayaking, safari"
+T1714,1848,Barcelona,2025-03-13,9,170000,"hiking, kayaking"
+T1715,1848,Barcelona,07/05/2023,9,147000,kayaking
+T1716,1870,Barcelona,11/29/2023,7,163000,spa
+T1717,1870,Barcelona,2021-12-01,7,160000,"spa, snorkeling"
+T1718,1870,Rome,2024-06-06,4,280000,snorkeling
+T1719,1870,Banff,04/20/2025,6,284000,"beach, spa, snorkeling"
+T1720,1870,Bali,10/19/2022,6,110000,"beach, spa"
+T1721,1160,Cancun,10/10/2024,5,73000,spa
+T1722,1160,Tokyo,"November 27, 2023",3,93000,"shopping, spa"
+T1723,1160,Bali,2022-12-14,7,109000,"shopping, spa, wine tasting"
+T1724,1686,Rome,2021-09-16,9,221000,spa
+T1725,1686,Paris,2025-01-14,8,435000,spa
+T1726,1598,Cancun,"July 07, 2024",8,81000,"hiking, safari, kayaking"
+T1727,1598,Barcelona,11/16/2021,10,148000,"hiking, safari"
+T1728,1598,Paris,08/25/2023,8,497000,kayaking
+T1729,1577,Cape Town,08/10/2021,3,276000,safari
+T1730,1577,Bali,12/08/2021,5,119000,"kayaking, safari, hiking"
+T1731,1911,Barcelona,2024-12-28,4,147000,"snorkeling, spa, beach"
+T1732,1911,Rome,08/04/2024,6,270000,"beach, snorkeling, spa"
+T1733,1911,Bali,2021-11-24,10,125000,snorkeling
+T1734,1911,Tokyo,05/22/2022,3,92000,"snorkeling, beach"
+T1735,1673,Tokyo,01/24/2022,8,84000,beach
+T1736,1898,Rome,2023-08-02,9,232000,"beach, snorkeling"
+T1737,1898,Paris,2022-01-02,9,427000,beach
+T1738,1898,Banff,11/02/2021,10,300000,beach
+T1739,1898,Barcelona,2023-07-09,4,151000,spa
+T1740,1710,Bali,2024-07-02,7,116000,"wine tasting, shopping, spa"
+T1741,1710,Bali,"December 13, 2023",5,123000,spa
+T1742,1710,Tokyo,08/18/2024,10,91000,"wine tasting, spa, shopping"
+T1743,1710,Bali,05/14/2023,3,120000,"shopping, spa, wine tasting"
+T1744,1710,Bali,03/11/2022,6,107000,spa
+T1745,1121,Cape Town,2022-09-21,3,324000,"hiking, safari, kayaking"
+T1746,1121,Banff,01/08/2023,7,245000,"kayaking, safari"
+T1747,1121,Barcelona,"March 11, 2023",9,199000,hiking
+T1748,1737,Tokyo,2023-04-29,8,88000,"food tour, hiking, museum tour"
+T1749,1737,Barcelona,05/29/2024,9,195000,museum tour
+T1750,1737,Tokyo,12/11/2024,7,110000,"museum tour, hiking, food tour"
+T1751,1737,Barcelona,"June 28, 2024",5,205000,"museum tour, hiking, food tour"
+T1752,1737,Tokyo,"November 29, 2022",5,107000,hiking
+T1753,1187,Bali,09/23/2022,5,106000,"spa, wine tasting, shopping"
+T1754,1187,Tokyo,02/07/2025,10,100000,"wine tasting, shopping, spa"
+T1755,1187,Cancun,"March 17, 2022",9,72000,"wine tasting, spa, shopping"
+T1756,1187,Cancun,"January 28, 2023",9,91000,"spa, wine tasting, shopping"
+T1757,1187,Bali,06/07/2023,8,128000,spa
+T1758,1016,Tokyo,"March 30, 2025",6,121000,"snorkeling, beach, spa"
+T1759,1301,Barcelona,05/13/2023,10,205000,beach
+T1760,1301,Cancun,"September 23, 2022",4,88000,"snorkeling, spa, beach"
+T1761,1301,Barcelona,2023-06-06,9,212000,beach
+T1762,1301,Barcelona,"November 14, 2023",4,144000,"beach, spa"
+T1763,1459,Cancun,03/31/2024,9,74000,"hiking, safari"
+T1764,1459,Banff,2024-09-23,8,250000,hiking
+T1765,1459,Cancun,"December 25, 2023",4,75000,"hiking, safari"
+T1766,1623,Cape Town,2024-07-22,3,245000,kayaking
+T1767,1623,Cancun,05/06/2025,7,69000,"kayaking, safari, hiking"
+T1768,1623,Cape Town,2022-07-24,4,329000,hiking
+T1769,1651,Phuket,"September 01, 2021",8,602000,"hiking, museum tour, food tour"
+T1770,1651,Denver,"December 12, 2024",6,175000,"hiking, museum tour"
+T1771,1651,Cancun,04/29/2022,9,67000,"hiking, museum tour, food tour"
+T1772,1651,Phuket,"January 12, 2025",4,472000,"hiking, museum tour, food tour"
+T1773,1651,Banff,09/09/2021,3,286000,"museum tour, hiking"
+T1774,1709,Barcelona,08/07/2024,6,163000,"beach, snorkeling"
+T1775,1709,Tokyo,2023-01-08,4,84000,"snorkeling, spa, beach"
+T1776,1709,Barcelona,2024-04-20,3,170000,"snorkeling, spa, beach"
+T1777,1709,Denver,"February 03, 2024",6,139000,"spa, snorkeling"
+T1778,1106,Cancun,2022-02-28,8,90000,snorkeling
+T1779,1106,Barcelona,08/08/2023,7,154000,spa
+T1780,1106,Banff,07/28/2021,6,330000,"snorkeling, spa, beach"
+T1781,1106,Tokyo,03/16/2024,10,104000,"beach, spa, snorkeling"
+T1782,1106,Banff,2024-06-08,9,269000,"snorkeling, spa"
+T1783,1457,Cancun,2025-03-08,10,77000,hiking
+T1784,1457,Cancun,06/27/2024,10,67000,"safari, kayaking, hiking"
+T1785,1023,Cancun,05/19/2025,4,76000,spa
+T1786,1023,Cape Town,"April 04, 2022",9,266000,"spa, shopping"
+T1787,1836,Denver,2022-11-12,3,189000,food tour
+T1788,1069,Cancun,04/08/2023,3,72000,shopping
+T1789,1069,Bali,12/22/2022,7,99000,wine tasting
+T1790,1426,Bali,04/23/2025,4,109000,museum tour
+T1791,1426,Tokyo,"June 26, 2025",9,113000,"cultural show, food tour"
+T1792,1426,Bali,2025-03-17,10,126000,food tour
+T1793,1426,Bali,2022-08-02,8,92000,"cultural show, food tour"
+T1794,1493,Cancun,2024-07-24,7,85000,hiking
+T1795,1493,Tokyo,2021-09-15,7,93000,hiking
+T1796,1493,Bali,2025-01-11,6,122000,safari
+T1797,1493,Denver,04/16/2022,4,161000,hiking
+T1798,1311,Tokyo,05/07/2025,9,90000,"safari, hiking, kayaking"
+T1799,1311,Banff,09/20/2023,9,338000,"kayaking, safari"
+T1800,1311,Banff,2024-04-15,4,325000,kayaking
+T1801,1815,Rome,2022-03-17,6,253000,museum tour
+T1802,1815,Cancun,2021-08-16,8,88000,"food tour, museum tour"
+T1803,1815,Bali,2024-02-27,3,105000,"cultural show, museum tour"
+T1804,1980,Cancun,2022-03-07,8,84000,"hiking, safari, kayaking"
+T1805,1980,Tokyo,2022-05-21,5,100000,"safari, kayaking, hiking"
+T1806,1980,Bali,2021-06-30,3,114000,hiking
+T1807,1980,Tokyo,"January 08, 2023",7,100000,"hiking, safari"
+T1808,1980,Tokyo,02/25/2022,3,86000,"hiking, safari"
+T1809,1388,Bali,09/06/2022,8,120000,"hiking, kayaking"
+T1810,1388,Barcelona,"April 19, 2025",4,193000,"safari, hiking"
+T1811,1388,Banff,"February 12, 2023",3,343000,safari
+T1812,1388,Phuket,07/27/2023,9,543000,"hiking, safari, kayaking"
+T1813,1368,Cape Town,"October 09, 2023",10,284000,"snorkeling, beach"
+T1814,1368,Denver,2025-03-11,10,145000,"beach, spa, snorkeling"
+T1815,1368,Cape Town,2023-05-29,7,276000,"spa, snorkeling, beach"
+T1816,1368,Rome,2023-12-11,7,232000,beach
+T1817,1878,Banff,04/28/2025,8,229000,"shopping, wine tasting"
+T1818,1878,Cape Town,02/17/2025,6,225000,"spa, shopping, wine tasting"
+T1819,1074,Tokyo,2023-07-11,3,103000,"spa, beach"
+T1820,1074,Tokyo,2024-09-08,7,104000,beach
+T1821,1074,Denver,"October 21, 2024",9,129000,"snorkeling, spa"
+T1822,1074,Cancun,06/17/2023,9,67000,"beach, spa"
+T1823,1218,Cape Town,2022-09-24,5,316000,hiking
+T1824,1218,Cancun,09/05/2021,4,71000,"safari, hiking, kayaking"
+T1825,1530,Barcelona,"February 05, 2024",3,154000,"spa, beach, snorkeling"
+T1826,1530,Cancun,2023-04-30,8,75000,beach
+T1827,1530,Rome,"November 11, 2021",9,263000,"spa, snorkeling, beach"
+T1828,1530,Tokyo,2021-12-11,8,83000,"beach, snorkeling, spa"
+T1829,1530,Tokyo,"June 27, 2022",10,99000,snorkeling
+T1830,1265,Barcelona,"July 09, 2021",3,153000,"beach, spa, snorkeling"
+T1831,1622,Phuket,02/07/2025,4,437000,"safari, kayaking"
+T1832,1622,Cape Town,"August 04, 2024",10,263000,"hiking, kayaking, safari"
+T1833,1622,Barcelona,2022-06-22,5,183000,"kayaking, safari"
+T1834,1110,Barcelona,"June 27, 2025",3,198000,"museum tour, hiking"
+T1835,1110,Barcelona,"July 12, 2023",10,198000,hiking
+T1836,1110,Cancun,2021-10-02,9,88000,"museum tour, food tour"
+T1837,1110,Bali,03/15/2023,7,113000,"food tour, hiking, museum tour"
+T1838,1110,Bali,2022-07-30,3,113000,"museum tour, food tour"
+T1839,1408,Bali,2022-11-25,4,121000,"spa, wine tasting, shopping"
+T1840,1408,Banff,2024-07-20,4,319000,"shopping, spa"
+T1841,1408,Cape Town,"September 16, 2024",4,279000,"wine tasting, spa, shopping"
+T1842,1408,Barcelona,2022-06-17,6,194000,"spa, shopping"
+T1843,1985,Rome,08/23/2022,3,300000,"snorkeling, spa, beach"
+T1844,1985,Banff,07/07/2021,7,332000,"snorkeling, beach"
+T1845,1985,Denver,04/01/2023,8,181000,snorkeling
+T1846,1985,Tokyo,2022-03-18,6,102000,"beach, snorkeling, spa"
+T1847,1688,Rome,2023-11-03,4,272000,hiking
+T1848,1185,Tokyo,"October 23, 2023",7,120000,food tour
+T1849,1185,Tokyo,06/27/2023,4,85000,food tour
+T1850,1185,Rome,"April 21, 2023",8,223000,"hiking, museum tour, food tour"
+T1851,1286,Bali,2021-11-24,3,124000,"safari, kayaking, hiking"
+T1852,1286,Banff,"April 24, 2022",8,240000,safari
+T1853,1286,Paris,2022-06-23,3,592000,safari
+T1854,1286,Phuket,07/29/2021,5,436000,"hiking, safari, kayaking"
+T1855,1286,Barcelona,02/10/2023,5,204000,"hiking, kayaking"
+T1856,1587,Cancun,06/21/2023,5,75000,"food tour, hiking"
+T1857,1587,Cape Town,2024-01-22,5,265000,museum tour
+T1858,1587,Cape Town,05/14/2024,7,310000,"museum tour, hiking"
+T1859,1587,Phuket,09/03/2023,3,561000,"museum tour, food tour, hiking"
+T1860,1587,Tokyo,02/20/2022,4,95000,"food tour, museum tour"
+T1861,1366,Denver,02/19/2023,3,185000,"shopping, spa"
+T1862,1366,Cape Town,06/06/2025,10,320000,spa
+T1863,1366,Tokyo,02/20/2022,6,105000,"spa, shopping"
+T1864,1452,Cancun,02/07/2025,5,90000,"food tour, museum tour"
+T1865,1452,Cancun,2024-03-01,6,89000,"museum tour, food tour"
+T1866,1708,Cancun,09/20/2021,3,70000,safari
+T1867,1061,Bali,2023-04-18,3,88000,"wine tasting, shopping, spa"
+T1868,1061,Banff,05/11/2022,8,292000,"spa, wine tasting"
+T1869,1061,Denver,"November 23, 2023",3,131000,spa
+T1870,1061,Tokyo,2022-10-16,6,83000,"shopping, spa, wine tasting"
+T1871,1061,Denver,03/16/2024,8,186000,"spa, shopping, wine tasting"
+T1872,1971,Cancun,"March 08, 2023",4,68000,"kayaking, hiking, safari"
+T1873,1664,Rome,11/23/2024,3,264000,"snorkeling, spa"
+T1874,1664,Barcelona,01/10/2022,10,159000,"spa, snorkeling"
+T1875,1664,Tokyo,"June 03, 2022",3,88000,"spa, beach, snorkeling"
+T1876,1664,Tokyo,06/10/2022,10,98000,"snorkeling, spa, beach"
+T1877,1664,Denver,04/05/2023,10,151000,snorkeling
+T1878,1439,Cancun,"August 24, 2024",6,91000,"spa, snorkeling, beach"
+T1879,1439,Bali,"September 09, 2022",10,108000,"snorkeling, beach, spa"
+T1880,1675,Tokyo,"August 12, 2022",3,107000,"beach, spa"
+T1881,1675,Cancun,2024-12-31,3,74000,"beach, spa"
+T1882,1675,Banff,2023-05-17,3,231000,beach
+T1883,1675,Barcelona,"June 08, 2022",4,210000,"beach, snorkeling"
+T1884,1675,Cape Town,06/28/2025,9,247000,snorkeling
+T1885,1997,Cancun,2025-01-09,8,70000,kayaking
+T1886,1997,Barcelona,"October 20, 2021",7,160000,"kayaking, safari"
+T1887,1997,Denver,2023-06-02,4,153000,"kayaking, hiking, safari"
+T1888,1997,Barcelona,03/07/2022,8,193000,"hiking, safari"
+T1889,1809,Bali,05/03/2025,4,96000,safari
+T1890,1809,Tokyo,04/16/2024,3,92000,"safari, kayaking"
+T1891,1809,Denver,06/27/2022,8,146000,hiking
+T1892,1809,Denver,2024-09-19,3,171000,safari
+T1893,1809,Tokyo,"August 04, 2022",9,108000,hiking
+T1894,1742,Cancun,2024-02-04,10,69000,"kayaking, safari, hiking"
+T1895,1742,Bali,2022-05-22,6,105000,"safari, kayaking, hiking"
+T1896,1838,Bali,2023-11-08,8,111000,"beach, snorkeling, spa"
+T1897,1838,Cancun,"January 09, 2022",7,90000,"beach, snorkeling"
+T1898,1838,Bali,"December 21, 2022",9,120000,spa
+T1899,1838,Tokyo,2022-11-13,6,110000,"spa, beach, snorkeling"
+T1900,1307,Denver,09/25/2021,3,151000,spa
+T1901,1307,Rome,02/25/2023,3,297000,spa
+T1902,1307,Barcelona,04/26/2025,6,152000,wine tasting
+T1903,1850,Cancun,01/08/2022,5,84000,food tour
+T1904,1850,Bali,2021-10-25,3,119000,cultural show
+T1905,1134,Bali,03/25/2023,8,110000,"hiking, kayaking"
+T1906,1592,Denver,2024-10-21,7,159000,"beach, snorkeling"
+T1907,1592,Barcelona,2021-07-28,9,203000,"snorkeling, beach"
+T1908,1769,Banff,2022-12-10,5,308000,"snorkeling, spa, beach"
+T1909,1769,Cancun,2023-10-14,4,80000,"snorkeling, spa"
+T1910,1769,Cape Town,"February 19, 2025",5,314000,"spa, snorkeling"
+T1911,1769,Cape Town,"May 07, 2025",3,283000,snorkeling
+T1912,1718,Banff,05/25/2024,9,263000,kayaking
+T1913,1718,Rome,09/27/2022,9,260000,"safari, hiking, kayaking"
+T1914,1057,Tokyo,2023-11-23,3,85000,safari
+T1915,1674,Barcelona,"April 21, 2023",7,203000,safari
+T1916,1672,Cape Town,02/20/2024,3,312000,"shopping, wine tasting, spa"
+T1917,1757,Cancun,"April 06, 2022",5,64000,"food tour, museum tour, cultural show"
+T1918,1757,Bali,"July 14, 2024",7,112000,cultural show
+T1919,1757,Bali,07/22/2023,4,103000,"museum tour, food tour, cultural show"
+T1920,1965,Barcelona,"December 23, 2022",7,196000,"museum tour, hiking, food tour"
+T1921,1318,Tokyo,"October 29, 2023",10,111000,"spa, snorkeling"
+T1922,1318,Denver,2024-03-17,8,171000,"spa, snorkeling, beach"
+T1923,1291,Cancun,2023-06-05,5,85000,safari
+T1924,1046,Banff,2022-04-23,4,262000,"hiking, safari"
+T1925,1046,Tokyo,03/13/2023,3,100000,hiking
+T1926,1277,Barcelona,"August 14, 2022",9,191000,"beach, snorkeling, spa"
+T1927,1277,Banff,"September 14, 2024",4,314000,"snorkeling, beach, spa"
+T1928,1277,Cape Town,2025-04-11,9,271000,"spa, beach"
+T1929,1277,Cape Town,"January 09, 2024",4,276000,"beach, snorkeling, spa"
+T1930,1846,Cancun,"October 26, 2024",7,95000,cultural show
+T1931,1931,Rome,2023-06-14,9,293000,cultural show
+T1932,1931,Cape Town,05/13/2023,7,262000,"museum tour, cultural show, food tour"
+T1933,1224,Banff,2022-08-07,8,330000,"spa, beach"
+T1934,1224,Cape Town,10/09/2022,7,298000,"beach, snorkeling"
+T1935,1535,Cancun,08/30/2022,7,93000,"safari, hiking, kayaking"
+T1936,1280,Cancun,10/04/2024,6,86000,kayaking
+T1937,1280,Tokyo,06/24/2024,7,81000,"hiking, safari"
+T1938,1280,Cancun,2023-03-06,9,87000,hiking
+T1939,1000,Banff,2022-12-10,5,311000,hiking
+T1940,1000,Cancun,05/10/2023,10,92000,"hiking, kayaking, safari"
+T1941,1000,Phuket,"August 06, 2024",5,424000,safari
+T1942,1000,Banff,07/21/2024,9,276000,hiking
+T1943,1000,Cancun,"May 30, 2025",3,90000,"kayaking, safari, hiking"
+T1944,1449,Cancun,"April 01, 2025",4,71000,museum tour
+T1945,1449,Denver,01/12/2025,4,139000,"food tour, cultural show"
+T1946,1761,Rome,02/18/2025,6,295000,hiking
+T1947,1761,Cape Town,2023-01-24,3,251000,"museum tour, hiking"
+T1948,1761,Bali,12/13/2022,10,108000,"hiking, food tour"
+T1949,1761,Denver,02/12/2024,4,164000,"food tour, hiking, museum tour"
+T1950,1839,Phuket,"December 04, 2022",9,604000,"hiking, safari"
+T1951,1066,Paris,06/20/2023,10,481000,safari
+T1952,1066,Paris,2023-08-29,3,596000,hiking
+T1953,1066,Paris,2024-09-23,8,452000,hiking
+T1954,1066,Rome,"April 27, 2024",9,222000,hiking
+T1955,1066,Banff,12/27/2021,4,292000,"hiking, safari, kayaking"
+T1956,1772,Barcelona,07/09/2023,7,158000,"snorkeling, beach, spa"
+T1957,1435,Bali,01/09/2024,10,124000,spa
+T1958,1339,Tokyo,"June 05, 2023",6,94000,"spa, shopping"
+T1959,1339,Bali,2025-04-08,9,101000,wine tasting
+T1960,1339,Tokyo,"September 14, 2023",7,83000,"wine tasting, shopping, spa"
+T1961,1339,Cancun,03/08/2023,6,96000,spa
+T1962,1576,Cape Town,"December 09, 2021",9,260000,kayaking
+T1963,1552,Barcelona,2024-09-05,10,202000,"kayaking, safari, hiking"
+T1964,1294,Tokyo,2025-04-13,7,88000,kayaking
+T1965,1294,Tokyo,"January 28, 2024",3,81000,safari
+T1966,1294,Cancun,07/06/2024,3,82000,"safari, hiking, kayaking"
+T1967,1538,Barcelona,"May 23, 2023",8,189000,"beach, spa"
+T1968,1538,Barcelona,2024-12-08,5,197000,"snorkeling, spa, beach"
+T1969,1538,Barcelona,03/10/2025,8,151000,snorkeling
+T1970,1538,Bali,2021-11-29,7,106000,"beach, snorkeling"
+T1971,1748,Rome,"October 03, 2022",9,292000,safari
+T1972,1748,Barcelona,10/09/2023,6,159000,"safari, hiking, kayaking"
+T1973,1748,Cancun,03/13/2022,3,71000,hiking
+T1974,1748,Cancun,"July 22, 2023",3,94000,"kayaking, hiking, safari"
+T1975,1245,Barcelona,2022-07-15,9,148000,"hiking, kayaking"
+T1976,1257,Cape Town,2022-08-20,7,322000,hiking
+T1977,1257,Cancun,2024-11-12,7,82000,"hiking, kayaking"
+T1978,1257,Denver,05/14/2023,6,137000,"kayaking, safari"
+T1979,1257,Tokyo,"July 20, 2023",5,83000,"hiking, safari, kayaking"
+T1980,1257,Barcelona,2024-03-11,7,192000,"safari, hiking"
+T1981,1161,Cancun,01/12/2025,4,80000,"beach, spa"
+T1982,1161,Cancun,"January 08, 2023",5,92000,"beach, snorkeling, spa"
+T1983,1161,Cancun,2024-09-16,6,72000,"spa, snorkeling"
+T1984,1161,Cancun,"February 19, 2022",8,92000,"snorkeling, spa"
+T1985,1161,Cancun,"September 24, 2023",7,73000,"snorkeling, beach"
+T1986,1893,Rome,06/20/2024,10,321000,hiking
+T1987,1893,Banff,09/02/2024,7,338000,"hiking, kayaking"
+T1988,1893,Tokyo,"June 28, 2025",10,86000,hiking
+T1989,1639,Cape Town,09/23/2022,4,333000,"food tour, cultural show, museum tour"
+T1990,1639,Cancun,2022-12-15,4,72000,"cultural show, food tour"
+T1991,1525,Tokyo,2022-07-25,10,97000,"shopping, spa"
+T1992,1525,Barcelona,"May 07, 2023",9,180000,spa
+T1993,1525,Banff,2021-12-18,9,335000,wine tasting
+T1994,1525,Tokyo,"October 20, 2024",4,98000,"wine tasting, spa"
+T1995,1467,Denver,"May 24, 2022",4,184000,"wine tasting, shopping"
+T1996,1467,Banff,02/07/2025,3,242000,"spa, shopping, wine tasting"
+T1997,1467,Cancun,"March 27, 2024",7,65000,"shopping, wine tasting, spa"
+T1998,1467,Tokyo,06/06/2024,10,86000,"spa, shopping"
+T1999,1860,Denver,2023-11-16,3,186000,"spa, snorkeling"
+T2000,1860,Tokyo,2021-10-13,9,111000,"snorkeling, spa, beach"
+T2001,1860,Banff,2022-10-09,3,263000,spa
+T2002,1647,Cancun,"February 02, 2024",5,84000,beach
+T2003,1647,Cape Town,07/13/2021,9,224000,"spa, snorkeling, beach"
+T2004,1247,Cape Town,"August 04, 2024",7,260000,"shopping, wine tasting, spa"
+T2005,1247,Tokyo,2022-01-08,7,113000,"spa, wine tasting"
+T2006,1247,Cancun,05/01/2023,6,78000,shopping
+T2007,1247,Denver,07/29/2023,5,171000,"spa, wine tasting"
+T2008,1546,Rome,2023-06-27,10,220000,"beach, snorkeling, spa"
+T2009,1239,Tokyo,2023-01-13,4,81000,hiking
+T2010,1239,Cape Town,2024-10-06,10,248000,"food tour, hiking, museum tour"
+T2011,1239,Phuket,2025-05-16,3,612000,hiking
+T2012,1220,Tokyo,"May 01, 2025",10,100000,"snorkeling, beach, spa"
+T2013,1220,Cape Town,06/03/2022,4,323000,"beach, snorkeling, spa"
+T2014,1220,Phuket,"February 27, 2022",4,418000,"spa, snorkeling, beach"
+T2015,1834,Cancun,01/03/2025,5,76000,museum tour
+T2016,1834,Cancun,10/15/2023,6,77000,"museum tour, food tour, cultural show"
+T2017,1834,Cancun,2023-06-26,8,95000,"food tour, museum tour, cultural show"
+T2018,1834,Cancun,2021-12-07,6,82000,"food tour, museum tour"
+T2019,1834,Cancun,"May 27, 2022",9,71000,museum tour
+T2020,1092,Tokyo,"August 02, 2023",5,119000,"snorkeling, spa, beach"
+T2021,1092,Cape Town,"September 02, 2022",8,304000,beach
+T2022,1092,Barcelona,04/23/2024,5,173000,snorkeling
+T2023,1092,Banff,2022-12-18,4,299000,"beach, snorkeling, spa"
+T2024,1092,Tokyo,"September 25, 2023",3,106000,beach
+T2025,1114,Bali,"September 29, 2021",10,107000,kayaking
+T2026,1114,Cancun,2025-01-07,10,82000,safari
+T2027,1114,Banff,2023-06-19,10,255000,"safari, kayaking"
+T2028,1114,Barcelona,2023-09-30,8,177000,"hiking, kayaking"
+T2029,1541,Denver,2022-08-07,10,180000,"snorkeling, beach"
+T2030,1541,Denver,07/17/2022,10,193000,"beach, spa, snorkeling"
+T2031,1984,Tokyo,"July 19, 2024",7,103000,"shopping, wine tasting, spa"
+T2032,1984,Phuket,2023-06-29,10,416000,shopping
+T2033,1984,Barcelona,06/03/2025,4,173000,"spa, wine tasting, shopping"
+T2034,1984,Tokyo,"January 14, 2023",6,90000,"shopping, wine tasting"
+T2035,1076,Denver,05/01/2022,9,143000,"safari, kayaking, hiking"
+T2036,1986,Banff,2022-05-19,3,297000,"shopping, wine tasting"
+T2037,1986,Rome,01/29/2024,10,293000,"shopping, spa"
+T2038,1986,Banff,12/28/2021,5,268000,shopping
+T2039,1837,Barcelona,2022-03-09,7,154000,"spa, snorkeling"
+T2040,1837,Tokyo,"February 21, 2023",3,112000,"beach, snorkeling, spa"
+T2041,1837,Denver,02/26/2025,4,150000,spa
+T2042,1837,Bali,2024-10-20,7,121000,snorkeling
+T2043,1837,Denver,04/13/2022,9,146000,"snorkeling, beach, spa"
+T2044,1913,Paris,"January 01, 2024",5,543000,"hiking, museum tour, food tour"
+T2045,1913,Bali,01/25/2022,5,93000,"hiking, museum tour"
+T2046,1132,Denver,2022-12-01,5,145000,food tour
+T2047,1132,Cancun,"November 04, 2022",4,92000,"cultural show, museum tour, food tour"
+T2048,1527,Cancun,11/20/2023,3,84000,beach
+T2049,1791,Banff,05/25/2024,7,333000,"safari, hiking, kayaking"
+T2050,1791,Cancun,2021-12-11,9,81000,"kayaking, safari"
+T2051,1791,Bali,"January 10, 2025",4,110000,"safari, kayaking"
+T2052,1791,Denver,"February 20, 2025",4,155000,kayaking
+T2053,1058,Tokyo,2022-06-16,9,105000,hiking
+T2054,1058,Denver,2023-07-15,9,160000,"kayaking, safari, hiking"
+T2055,1058,Cancun,11/15/2024,3,95000,safari
+T2056,1289,Banff,10/15/2023,5,296000,"hiking, museum tour, food tour"
+T2057,1289,Denver,2023-02-06,8,167000,"food tour, hiking, museum tour"
+T2058,1289,Cancun,09/07/2021,10,69000,museum tour
+T2059,1246,Barcelona,"June 09, 2025",6,151000,"safari, kayaking"
+T2060,1246,Paris,"June 09, 2022",9,423000,"safari, kayaking"
+T2061,1370,Cape Town,"September 03, 2022",4,276000,"shopping, wine tasting, spa"
+T2062,1370,Banff,10/16/2023,10,318000,spa
+T2063,1876,Bali,2023-12-31,9,115000,"food tour, museum tour"
+T2064,1876,Cancun,2022-04-16,9,81000,cultural show
+T2065,1040,Bali,11/09/2023,5,90000,beach
+T2066,1040,Rome,"October 04, 2023",4,281000,"beach, snorkeling"
+T2067,1040,Rome,"April 14, 2024",4,300000,beach
+T2068,1040,Cape Town,2022-03-27,4,308000,"spa, snorkeling"
+T2069,1089,Cancun,"December 07, 2023",5,67000,"food tour, museum tour, cultural show"
+T2070,1089,Rome,06/19/2025,10,298000,"food tour, museum tour, cultural show"
+T2071,1089,Bali,2021-08-01,6,88000,"museum tour, food tour"
+T2072,1089,Tokyo,"June 05, 2023",5,86000,food tour
+T2073,1192,Banff,2022-06-18,5,272000,spa
+T2074,1192,Cancun,2022-10-13,8,69000,spa
+T2075,1430,Cancun,2023-12-11,3,84000,hiking
+T2076,1430,Denver,"November 17, 2021",6,156000,"kayaking, safari, hiking"
+T2077,1430,Denver,"February 14, 2025",4,177000,"kayaking, safari, hiking"
+T2078,1430,Cancun,02/08/2024,9,73000,"kayaking, safari"
+T2079,1068,Cancun,2023-01-02,6,88000,spa
+T2080,1068,Bali,"May 21, 2025",4,117000,snorkeling
+T2081,1068,Bali,2022-10-23,3,107000,snorkeling
+T2082,1741,Rome,04/06/2023,4,228000,food tour
+T2083,1741,Paris,04/02/2022,10,481000,"museum tour, hiking, food tour"
+T2084,1543,Phuket,10/22/2022,5,438000,"safari, hiking"
+T2085,1139,Tokyo,"November 20, 2024",6,98000,wine tasting
+T2086,1139,Cancun,"October 31, 2023",7,87000,"shopping, wine tasting, spa"
+T2087,1139,Cape Town,"November 26, 2024",9,302000,shopping
+T2088,1139,Denver,2023-03-07,8,153000,"wine tasting, spa, shopping"
+T2089,1395,Banff,2021-08-01,9,281000,"kayaking, safari"
+T2090,1969,Barcelona,02/26/2025,10,178000,"snorkeling, beach, spa"
+T2091,1969,Barcelona,"December 09, 2024",5,212000,"spa, snorkeling"
+T2092,1969,Rome,"July 31, 2022",9,282000,beach
+T2093,1969,Bali,"November 02, 2021",9,98000,"beach, spa, snorkeling"
+T2094,1118,Cape Town,2024-10-02,7,299000,"spa, snorkeling"
+T2095,1118,Denver,2021-10-29,5,145000,"beach, spa, snorkeling"
+T2096,1118,Tokyo,2023-03-11,4,83000,"spa, snorkeling"
+T2097,1118,Barcelona,2024-06-13,9,156000,"beach, spa, snorkeling"
+T2098,1658,Denver,03/25/2024,10,161000,beach
+T2099,1658,Bali,2024-04-23,4,103000,spa
+T2100,1658,Barcelona,2022-09-04,6,213000,"spa, beach"
+T2101,1927,Tokyo,"April 10, 2025",4,106000,shopping
+T2102,1796,Cape Town,2023-12-15,6,236000,kayaking
+T2103,1796,Denver,"January 27, 2022",7,184000,"safari, hiking, kayaking"
+T2104,1796,Denver,2022-07-08,5,131000,safari
+T2105,1796,Phuket,05/30/2024,4,596000,"hiking, kayaking, safari"
+T2106,1350,Cancun,2025-05-22,10,87000,"beach, spa, snorkeling"
+T2107,1734,Rome,02/16/2022,7,222000,"spa, snorkeling"
+T2108,1734,Cancun,06/30/2021,8,92000,"snorkeling, spa"
+T2109,1734,Tokyo,"November 03, 2022",9,117000,"snorkeling, spa, beach"
+T2110,1734,Rome,2025-06-07,10,321000,"snorkeling, spa"
+T2111,1879,Denver,2025-05-20,5,168000,"safari, kayaking, hiking"
+T2112,1879,Bali,05/25/2024,7,88000,safari
+T2113,1879,Cape Town,2022-11-19,3,228000,"hiking, safari, kayaking"
+T2114,1879,Banff,"June 28, 2025",10,323000,"kayaking, safari"
+T2115,1554,Cape Town,02/28/2024,7,240000,wine tasting
+T2116,1554,Rome,08/11/2024,9,281000,"shopping, wine tasting, spa"
+T2117,1385,Rome,04/30/2022,4,275000,snorkeling
+T2118,1385,Phuket,2023-03-18,3,535000,"spa, snorkeling"
+T2119,1936,Cancun,"November 05, 2023",6,83000,"safari, hiking"
+T2120,1936,Cancun,06/27/2024,4,87000,safari
+T2121,1936,Cancun,"September 10, 2022",9,78000,"kayaking, safari, hiking"
+T2122,1936,Cancun,"November 18, 2021",3,87000,kayaking
+T2123,1936,Cancun,"May 08, 2023",10,70000,"hiking, safari, kayaking"
+T2124,1608,Barcelona,2022-06-15,3,179000,"snorkeling, beach, spa"
+T2125,1608,Bali,08/12/2022,9,104000,"spa, snorkeling"
+T2126,1608,Rome,12/05/2022,9,221000,"beach, spa, snorkeling"
+T2127,1014,Tokyo,2024-12-13,9,96000,food tour
+T2128,1375,Tokyo,2022-11-26,4,112000,"cultural show, food tour, museum tour"
+T2129,1375,Cape Town,2024-12-09,9,232000,food tour
+T2130,1375,Bali,"January 04, 2022",4,96000,"museum tour, food tour, cultural show"
+T2131,1082,Cancun,"March 23, 2024",5,78000,"hiking, safari, kayaking"
+T2132,1082,Cancun,01/15/2025,8,85000,"kayaking, hiking"
+T2133,1082,Cancun,2025-03-30,8,86000,hiking
+T2134,1082,Cancun,"September 19, 2021",10,95000,kayaking
+T2135,1597,Bali,"November 24, 2021",6,114000,hiking
+T2136,1597,Tokyo,2022-10-16,9,111000,safari
+T2137,1702,Bali,02/08/2024,10,121000,safari
+T2138,1779,Barcelona,09/19/2024,9,173000,"snorkeling, beach, spa"
+T2139,1779,Rome,2022-01-09,10,279000,"snorkeling, spa"
+T2140,1756,Banff,"June 27, 2025",7,324000,"safari, hiking, kayaking"
+T2141,1756,Bali,"October 15, 2023",5,131000,"safari, hiking, kayaking"
+T2142,1756,Barcelona,2023-01-02,10,158000,hiking
+T2143,1756,Tokyo,04/02/2022,9,117000,"safari, kayaking, hiking"
+T2144,1088,Cancun,03/11/2025,7,83000,beach
+T2145,1363,Barcelona,07/09/2024,10,184000,hiking
+T2146,1363,Cape Town,04/12/2022,4,312000,"kayaking, hiking"
+T2147,1273,Cancun,2022-10-29,8,78000,hiking
+T2148,1273,Cancun,08/11/2024,8,95000,"hiking, food tour"
+T2149,1652,Barcelona,2022-08-28,5,167000,spa
+T2150,1652,Barcelona,10/08/2022,4,179000,beach
+T2151,1652,Bali,"April 28, 2024",4,110000,"spa, snorkeling, beach"
+T2152,1652,Bali,12/23/2021,10,95000,"spa, snorkeling, beach"
+T2153,1652,Cancun,"January 30, 2024",8,66000,"spa, beach, snorkeling"
+T2154,1172,Banff,12/06/2021,3,258000,"kayaking, safari"
+T2155,1172,Denver,"October 18, 2022",4,162000,"hiking, safari, kayaking"
+T2156,1172,Rome,12/17/2023,9,293000,"hiking, safari"
+T2157,1559,Banff,"June 15, 2023",7,297000,hiking
+T2158,1559,Cancun,"May 11, 2023",7,73000,"kayaking, hiking"
+T2159,1559,Cape Town,2021-07-14,8,333000,"hiking, kayaking, safari"
+T2160,1559,Banff,06/08/2023,9,331000,"kayaking, safari"
+T2161,1103,Cancun,05/28/2022,3,77000,hiking
+T2162,1103,Bali,"October 05, 2023",7,104000,"hiking, safari"
+T2163,1759,Barcelona,"October 07, 2021",7,186000,"kayaking, hiking"
+T2164,1759,Cape Town,"August 21, 2023",8,291000,"hiking, kayaking, safari"
+T2165,1759,Banff,2023-02-10,3,327000,kayaking
+T2166,1759,Banff,2023-07-20,10,269000,kayaking
+T2167,1759,Cancun,"March 01, 2024",3,79000,"hiking, safari"
+T2168,1671,Bali,02/05/2025,8,124000,"shopping, wine tasting"
+T2169,1671,Cancun,"July 23, 2021",10,69000,"spa, shopping"
+T2170,1671,Bali,"June 22, 2025",8,108000,"shopping, spa, wine tasting"
+T2171,1671,Bali,"January 16, 2022",5,92000,"spa, wine tasting"
+T2172,1371,Cancun,02/19/2022,10,77000,"safari, kayaking, hiking"
+T2173,1371,Rome,2024-01-31,6,228000,safari
+T2174,1371,Denver,07/28/2022,5,186000,safari
+T2175,1371,Cape Town,05/16/2023,9,241000,"kayaking, safari, hiking"
+T2176,1371,Barcelona,02/21/2024,4,200000,"safari, kayaking, hiking"
+T2177,1045,Barcelona,2025-04-09,9,178000,museum tour
+T2178,1045,Rome,2024-01-18,8,260000,food tour
+T2179,1045,Barcelona,05/31/2023,10,193000,cultural show
+T2180,1045,Cape Town,2022-11-17,5,329000,"cultural show, museum tour, food tour"
+T2181,1428,Cancun,2025-01-05,6,69000,museum tour
+T2182,1428,Cancun,2021-07-05,6,94000,"museum tour, cultural show, food tour"
+T2183,1428,Denver,2024-04-11,10,141000,"museum tour, food tour"
+T2184,1428,Tokyo,2022-05-30,5,89000,cultural show
+T2185,1453,Cape Town,2024-11-04,6,323000,"safari, kayaking"
+T2186,1453,Banff,"September 26, 2021",7,249000,"safari, kayaking, hiking"
+T2187,1521,Cancun,"January 20, 2025",6,74000,"hiking, kayaking"
+T2188,1521,Cancun,2025-03-11,4,78000,safari
+T2189,1521,Cancun,2023-01-17,9,68000,kayaking
+T2190,1521,Cancun,08/03/2022,3,71000,hiking
+T2191,1521,Cancun,2024-03-08,4,89000,"safari, kayaking"
+T2192,1823,Paris,2025-03-21,10,487000,hiking
+T2193,1823,Paris,09/13/2024,5,459000,"hiking, kayaking"
+T2194,1823,Cape Town,2022-04-02,3,272000,"safari, hiking, kayaking"
+T2195,1730,Rome,"November 20, 2023",4,259000,"spa, beach, snorkeling"
+T2196,1011,Denver,09/23/2023,4,162000,"cultural show, food tour, museum tour"
+T2197,1011,Tokyo,2022-05-01,8,97000,"cultural show, food tour, museum tour"
+T2198,1011,Bali,05/11/2022,5,104000,"museum tour, food tour, cultural show"
+T2199,1011,Cancun,01/14/2024,10,76000,"food tour, museum tour, cultural show"
+T2200,1214,Paris,04/27/2024,9,510000,"hiking, kayaking, safari"
+T2201,1214,Cape Town,2023-10-20,5,275000,"hiking, kayaking, safari"
+T2202,1214,Tokyo,04/23/2023,10,118000,"kayaking, hiking, safari"
+T2203,1344,Cape Town,05/22/2023,3,324000,"safari, hiking, kayaking"
+T2204,1705,Barcelona,2022-03-06,7,166000,museum tour
+T2205,1705,Cancun,05/17/2023,8,87000,"cultural show, food tour"
+T2206,1705,Bali,09/01/2022,9,127000,"cultural show, museum tour, food tour"
+T2207,1705,Denver,2024-04-29,9,152000,"museum tour, cultural show"
+T2208,1725,Rome,03/02/2022,5,291000,"shopping, wine tasting, spa"
+T2209,1725,Paris,"December 13, 2024",6,557000,"spa, shopping, wine tasting"
+T2210,1725,Phuket,2024-05-19,10,481000,wine tasting
+T2211,1725,Tokyo,11/19/2022,3,108000,"shopping, spa, wine tasting"
+T2212,1725,Cape Town,05/14/2023,8,316000,"wine tasting, spa"
+T2213,1147,Denver,01/13/2023,9,130000,wine tasting
+T2214,1299,Banff,11/12/2024,10,311000,safari
+T2215,1283,Bali,"December 10, 2022",3,99000,cultural show
+T2216,1283,Cancun,"October 18, 2021",6,68000,cultural show
+T2217,1283,Barcelona,"February 03, 2023",4,147000,"cultural show, food tour, museum tour"
+T2218,1750,Tokyo,"January 17, 2025",10,104000,"kayaking, safari, hiking"
+T2219,1412,Tokyo,"December 19, 2024",10,111000,hiking
+T2220,1634,Tokyo,2022-02-16,5,112000,kayaking
+T2221,1634,Tokyo,02/17/2025,6,86000,"hiking, safari, kayaking"
+T2222,1634,Denver,"July 03, 2022",9,177000,kayaking
+T2223,1634,Cancun,2024-12-08,8,81000,"safari, hiking"
+T2224,1634,Rome,"April 07, 2025",6,315000,safari
+T2225,1800,Cancun,06/20/2022,6,68000,"kayaking, safari"
+T2226,1800,Bali,2023-01-08,5,117000,"safari, hiking, kayaking"
+T2227,1800,Denver,08/18/2024,10,190000,"safari, hiking"
+T2228,1800,Tokyo,"December 06, 2023",10,118000,safari
+T2229,1800,Bali,2025-05-28,7,107000,hiking
+T2230,1746,Rome,2024-03-20,3,237000,"museum tour, cultural show"
+T2231,1746,Cape Town,"June 02, 2025",7,321000,cultural show
+T2232,1746,Cancun,02/29/2024,4,83000,cultural show
+T2233,1746,Cape Town,"September 26, 2021",9,315000,"museum tour, cultural show, food tour"
+T2234,1891,Cancun,"April 25, 2022",8,72000,"kayaking, safari"
+T2235,1891,Cancun,2022-02-20,5,78000,"kayaking, hiking, safari"
+T2236,1740,Tokyo,06/12/2024,8,103000,"safari, kayaking, hiking"
+T2237,1173,Bali,10/10/2023,3,125000,"spa, beach"
+T2238,1916,Bali,"December 26, 2021",5,117000,"kayaking, safari, hiking"
+T2239,1916,Barcelona,2025-06-09,3,178000,"hiking, kayaking, safari"
+T2240,1916,Barcelona,2023-09-23,5,169000,hiking
+T2241,1916,Barcelona,2024-06-29,5,197000,kayaking
+T2242,1916,Cancun,05/06/2025,10,89000,"hiking, kayaking"
+T2243,1567,Tokyo,2022-10-03,5,91000,food tour
+T2244,1567,Bali,12/20/2022,7,119000,"food tour, museum tour, cultural show"
+T2245,1567,Denver,12/20/2022,10,185000,"food tour, cultural show"
+T2246,1567,Rome,"March 20, 2025",4,254000,"food tour, cultural show, museum tour"
+T2247,1226,Bali,2024-10-17,6,101000,food tour
+T2248,1226,Denver,2024-07-25,9,162000,"food tour, museum tour"
+T2249,1226,Tokyo,2023-04-01,6,113000,food tour
+T2250,1305,Bali,12/25/2023,5,91000,"kayaking, hiking"
+T2251,1031,Barcelona,04/30/2025,10,167000,"hiking, museum tour, food tour"
+T2252,1523,Cancun,11/21/2022,3,81000,"museum tour, cultural show"
+T2253,1523,Bali,"April 23, 2024",3,102000,"food tour, museum tour, cultural show"
+T2254,1523,Tokyo,"June 25, 2025",9,86000,cultural show
+T2255,1523,Cancun,2022-04-27,5,85000,"food tour, cultural show"
+T2256,1523,Bali,"June 19, 2022",5,110000,"food tour, museum tour, cultural show"
+T2257,1958,Tokyo,05/12/2024,10,81000,wine tasting
+T2258,1958,Cancun,"May 10, 2024",10,89000,"shopping, wine tasting"
+T2259,1958,Bali,"September 01, 2021",9,88000,"spa, shopping, wine tasting"
+T2260,1958,Bali,02/15/2022,7,112000,"shopping, wine tasting"
+T2261,1958,Tokyo,03/18/2022,6,83000,shopping
+T2262,1600,Bali,2022-01-03,7,102000,"museum tour, food tour, hiking"
+T2263,1285,Tokyo,"October 28, 2021",6,81000,"spa, snorkeling, beach"
+T2264,1285,Rome,06/01/2022,8,215000,spa
+T2265,1285,Cape Town,"May 04, 2023",5,238000,"spa, beach"
+T2266,1285,Cancun,2023-08-12,9,68000,"beach, spa, snorkeling"
+T2267,1479,Denver,2023-12-12,9,190000,"hiking, safari, kayaking"
+T2268,1625,Bali,06/04/2022,8,127000,food tour
+T2269,1625,Barcelona,02/22/2024,8,204000,"food tour, museum tour"
+T2270,1918,Rome,"August 30, 2021",4,283000,"snorkeling, spa"
+T2271,1918,Tokyo,"December 04, 2022",7,114000,"beach, spa"
+T2272,1918,Tokyo,"January 27, 2024",6,115000,"beach, snorkeling"
+T2273,1918,Bali,2023-05-02,4,111000,"spa, beach"
+T2274,1933,Denver,"December 04, 2021",3,170000,"wine tasting, spa"
+T2275,1933,Banff,2022-10-01,4,271000,"shopping, spa, wine tasting"
+T2276,1933,Bali,2023-09-25,10,102000,spa
+T2277,1933,Rome,02/21/2023,9,268000,shopping
+T2278,1116,Tokyo,12/29/2022,8,118000,"hiking, kayaking"
+T2279,1949,Bali,2022-09-14,10,96000,safari
+T2280,1949,Barcelona,2025-01-08,4,203000,"safari, kayaking"
+T2281,1949,Barcelona,2022-08-30,4,176000,kayaking
+T2282,1949,Tokyo,2025-01-14,10,98000,safari
+T2283,1949,Denver,"January 17, 2022",8,149000,"kayaking, hiking"
+T2284,1629,Rome,"December 01, 2023",6,224000,"snorkeling, spa, beach"
+T2285,1629,Denver,2024-01-28,6,158000,"beach, snorkeling"
+T2286,1361,Cancun,10/14/2021,7,88000,"kayaking, hiking"
+T2287,1361,Tokyo,"June 11, 2023",8,96000,"safari, kayaking, hiking"
+T2288,1361,Bali,"December 07, 2024",5,112000,"safari, hiking, kayaking"
+T2289,1361,Bali,09/30/2023,8,103000,kayaking
+T2290,1361,Bali,04/16/2023,6,102000,safari
+T2291,1095,Denver,"February 27, 2022",7,187000,"snorkeling, spa"
+T2292,1095,Tokyo,2023-04-28,6,91000,"beach, snorkeling"
+T2293,1261,Bali,2024-05-19,7,118000,"safari, hiking"
+T2294,1261,Barcelona,01/31/2023,4,150000,"kayaking, safari, hiking"
+T2295,1261,Rome,03/16/2022,9,284000,"safari, hiking"
+T2296,1261,Rome,02/13/2024,9,318000,kayaking
+T2297,1261,Barcelona,2024-08-08,4,151000,"safari, hiking"
+T2298,1640,Bali,06/23/2023,3,108000,"hiking, kayaking, safari"
+T2299,1640,Bali,2024-11-01,7,117000,"safari, kayaking"
+T2300,1640,Bali,2024-12-04,10,92000,"hiking, safari, kayaking"
+T2301,1640,Bali,"June 06, 2022",9,89000,"kayaking, safari"
+T2302,1640,Bali,04/04/2022,7,91000,"safari, hiking"
+T2303,1507,Denver,2024-01-02,5,157000,"spa, beach, snorkeling"
+T2304,1507,Tokyo,2023-08-25,8,89000,"spa, snorkeling, beach"
+T2305,1507,Denver,2024-07-13,10,163000,"spa, snorkeling"
+T2306,1579,Phuket,10/31/2022,4,532000,hiking
+T2307,1579,Barcelona,"April 02, 2025",5,211000,"food tour, hiking, museum tour"
+T2308,1579,Banff,2024-02-22,3,278000,"hiking, museum tour"
+T2309,1509,Cancun,2022-08-27,6,66000,"safari, kayaking"
+T2310,1102,Rome,09/23/2024,5,282000,"safari, hiking, kayaking"
+T2311,1102,Bali,"December 20, 2021",3,99000,"hiking, kayaking"
+T2312,1102,Cancun,06/14/2023,5,83000,"hiking, safari, kayaking"
+T2313,1102,Tokyo,2021-12-26,10,104000,"safari, hiking, kayaking"
+T2314,1102,Rome,"March 14, 2024",7,252000,"hiking, safari, kayaking"
+T2315,1062,Rome,06/10/2025,5,224000,"kayaking, hiking, safari"
+T2316,1062,Bali,02/09/2022,9,128000,"kayaking, hiking, safari"
+T2317,1062,Denver,"May 24, 2022",7,174000,"hiking, kayaking, safari"
+T2318,1062,Rome,2022-12-16,3,286000,kayaking
+T2319,1204,Rome,05/06/2023,8,216000,"kayaking, safari"
+T2320,1204,Banff,"April 15, 2022",10,316000,hiking
+T2321,1204,Banff,2023-08-03,6,296000,"safari, hiking"
+T2322,1204,Denver,08/02/2022,5,193000,kayaking
+T2323,1483,Cancun,"May 05, 2025",9,89000,safari
+T2324,1483,Paris,"July 31, 2022",7,528000,kayaking
+T2325,1483,Banff,"October 27, 2023",10,295000,"kayaking, safari"
+T2326,1483,Rome,"December 29, 2021",8,269000,"kayaking, safari"
+T2327,1691,Rome,2022-02-04,10,228000,"wine tasting, shopping, spa"
+T2328,1691,Denver,02/21/2025,10,139000,"wine tasting, spa, shopping"
+T2329,1184,Tokyo,2025-02-22,9,115000,cultural show
+T2330,1683,Phuket,2022-03-04,8,527000,"spa, wine tasting"
+T2331,1683,Banff,09/01/2021,3,299000,"spa, wine tasting, shopping"
+T2332,1683,Banff,2023-12-04,9,231000,"wine tasting, spa, shopping"
+T2333,1683,Barcelona,12/15/2024,7,149000,"wine tasting, shopping"
+T2334,1924,Denver,2025-03-31,5,172000,safari
+T2335,1924,Tokyo,08/10/2023,10,103000,hiking
+T2336,1924,Paris,2025-03-28,3,452000,hiking
+T2337,1924,Bali,"August 03, 2023",8,96000,"kayaking, safari, hiking"
+T2338,1091,Bali,04/17/2024,4,107000,"cultural show, museum tour, food tour"
+T2339,1091,Phuket,2022-11-25,3,476000,"food tour, museum tour"
+T2340,1091,Cancun,"December 21, 2021",6,83000,"cultural show, museum tour, food tour"
+T2341,1091,Rome,"January 06, 2024",8,276000,"museum tour, food tour, cultural show"
+T2342,1947,Barcelona,2022-02-09,4,146000,"kayaking, hiking"
+T2343,1947,Cape Town,"October 04, 2024",9,242000,"kayaking, safari, hiking"
+T2344,1947,Bali,06/27/2023,9,126000,"safari, hiking, kayaking"
+T2345,1947,Banff,03/08/2023,4,305000,"kayaking, hiking, safari"
+T2346,1947,Cancun,"October 08, 2024",3,90000,"hiking, kayaking"
+T2347,1713,Cancun,10/20/2024,5,93000,"spa, wine tasting, shopping"
+T2348,1713,Cancun,"November 05, 2023",10,94000,"shopping, wine tasting, spa"
+T2349,1776,Barcelona,06/07/2025,9,204000,"food tour, museum tour, hiking"
+T2350,1776,Banff,2025-05-24,7,253000,food tour
+T2351,1776,Bali,2023-09-14,8,116000,food tour
+T2352,1901,Tokyo,"April 03, 2023",8,90000,safari
+T2353,1735,Cape Town,"January 09, 2022",8,240000,beach
+T2354,1735,Banff,2024-06-15,4,332000,spa
+T2355,1735,Rome,03/25/2025,7,305000,beach
+T2356,1735,Bali,2023-06-22,6,126000,"beach, spa, snorkeling"
+T2357,1411,Banff,"November 15, 2024",9,276000,"hiking, kayaking"
+T2358,1411,Rome,2022-04-14,8,225000,"safari, kayaking, hiking"
+T2359,1411,Barcelona,08/22/2023,9,159000,kayaking
+T2360,1411,Tokyo,2023-11-08,9,116000,"kayaking, hiking, safari"
+T2361,1411,Rome,"May 13, 2025",8,289000,safari
+T2362,1346,Denver,07/25/2023,5,147000,"food tour, museum tour, cultural show"
+T2363,1346,Cancun,"July 12, 2024",6,94000,"museum tour, cultural show"
+T2364,1346,Barcelona,"July 02, 2021",9,148000,food tour
+T2365,1582,Cancun,"April 05, 2025",10,83000,"spa, beach, snorkeling"
+T2366,1582,Denver,"October 11, 2023",5,146000,snorkeling
+T2367,1582,Tokyo,10/25/2023,3,90000,"snorkeling, beach, spa"
+T2368,1582,Tokyo,"March 31, 2022",5,86000,"spa, beach, snorkeling"
+T2369,1582,Tokyo,09/11/2023,7,108000,"snorkeling, beach, spa"
+T2370,1819,Cape Town,05/08/2022,10,289000,"spa, shopping"
+T2371,1819,Bali,2021-11-29,4,130000,spa
+T2372,1819,Banff,2023-05-20,7,297000,wine tasting
+T2373,1029,Cancun,2024-07-15,10,91000,"kayaking, safari, hiking"
+T2374,1029,Paris,01/02/2024,7,475000,"safari, hiking"
+T2375,1029,Denver,02/20/2022,7,136000,"kayaking, hiking"
+T2376,1054,Cancun,07/16/2022,7,86000,"beach, spa"
+T2377,1054,Tokyo,08/30/2022,10,87000,"spa, beach, snorkeling"
+T2378,1054,Barcelona,2024-07-08,6,189000,snorkeling
+T2379,1054,Denver,"August 10, 2023",5,146000,"beach, spa, snorkeling"
+T2380,1495,Tokyo,"July 14, 2022",9,100000,"hiking, food tour"
+T2381,1495,Cape Town,"June 08, 2022",8,312000,food tour
+T2382,1039,Bali,01/16/2023,9,118000,"kayaking, safari, hiking"
+T2383,1039,Cancun,2022-07-19,9,85000,"safari, hiking, kayaking"
+T2384,1039,Bali,"March 31, 2025",7,93000,safari
+T2385,1039,Barcelona,2023-09-21,8,184000,"hiking, safari, kayaking"
+T2386,1039,Denver,2024-11-21,9,183000,"hiking, safari"
+T2387,1157,Bali,"August 18, 2021",4,109000,"hiking, kayaking, safari"
+T2388,1157,Cancun,2024-09-07,9,75000,"kayaking, hiking"
+T2389,1798,Barcelona,"February 05, 2024",4,161000,"shopping, spa, wine tasting"
+T2390,1798,Denver,2023-12-01,3,156000,"shopping, spa"
+T2391,1798,Cancun,2023-08-09,9,69000,"spa, shopping"
+T2392,1798,Barcelona,2022-05-16,8,148000,spa
+T2393,1146,Cancun,04/03/2023,9,96000,"safari, hiking"
+T2394,1146,Cancun,"August 08, 2021",8,81000,"safari, hiking"
+T2395,1221,Paris,2023-12-15,6,561000,"hiking, kayaking"
+T2396,1221,Tokyo,01/05/2022,4,83000,"kayaking, hiking"
+T2397,1221,Bali,09/03/2023,10,104000,"hiking, kayaking, safari"
+T2398,1221,Cancun,11/26/2023,5,69000,kayaking
+T2399,1221,Barcelona,2022-02-15,6,155000,"hiking, kayaking"
+T2400,1940,Cancun,2023-05-01,4,88000,"spa, wine tasting"
+T2401,1940,Tokyo,05/02/2025,5,118000,"wine tasting, shopping"
+T2402,1940,Denver,2023-08-07,10,192000,"wine tasting, spa, shopping"
+T2403,1940,Denver,2025-02-23,3,176000,"wine tasting, shopping"
+T2404,1944,Cancun,2025-01-08,6,81000,cultural show
+T2405,1944,Tokyo,2023-11-06,8,94000,"museum tour, food tour, cultural show"
+T2406,1607,Cancun,2025-05-24,5,94000,"food tour, museum tour, hiking"
+T2407,1607,Denver,2023-07-29,7,189000,food tour
+T2408,1765,Paris,2023-10-27,3,596000,"hiking, safari, kayaking"
+T2409,1394,Barcelona,"November 28, 2021",6,188000,safari
+T2410,1052,Rome,"March 31, 2024",10,253000,snorkeling
+T2411,1052,Rome,2022-03-27,4,301000,"spa, beach, snorkeling"
+T2412,1052,Phuket,12/31/2023,3,578000,"snorkeling, beach, spa"
+T2413,1052,Barcelona,"July 24, 2022",10,146000,"beach, snorkeling"
+T2414,1052,Bali,"February 26, 2023",3,95000,"spa, beach, snorkeling"
+T2415,1952,Cancun,2023-07-27,8,76000,"spa, beach"
+T2416,1952,Cancun,07/08/2022,7,88000,"spa, beach"
+T2417,1952,Tokyo,02/19/2025,6,115000,spa
+T2418,1571,Bali,2025-06-09,8,109000,"kayaking, hiking, safari"
+T2419,1571,Cancun,"December 21, 2021",6,87000,"kayaking, safari"
+T2420,1571,Cancun,"February 13, 2025",7,80000,"safari, hiking, kayaking"
+T2421,1571,Bali,2022-02-24,6,104000,"hiking, safari, kayaking"
+T2422,1571,Tokyo,2023-06-20,8,118000,"hiking, kayaking, safari"
+T2423,1359,Tokyo,2022-11-08,10,114000,cultural show
+T2424,1359,Cancun,03/30/2025,10,75000,food tour
+T2425,1512,Cancun,2025-02-26,5,87000,"museum tour, food tour, hiking"
+T2426,1512,Denver,"June 21, 2024",9,147000,museum tour
+T2427,1402,Barcelona,"March 31, 2022",4,166000,"kayaking, safari, hiking"
+T2428,1402,Rome,"April 20, 2023",3,223000,safari
+T2429,1867,Rome,2024-04-11,8,247000,"hiking, museum tour"
+T2430,1421,Barcelona,2022-07-12,7,212000,"spa, snorkeling, beach"
+T2431,1421,Cape Town,10/19/2021,4,249000,spa
+T2432,1421,Barcelona,2023-12-21,7,212000,"beach, snorkeling"
+T2433,1421,Denver,2024-11-02,9,192000,beach
+T2434,1448,Cancun,"February 02, 2025",8,74000,spa
+T2435,1448,Tokyo,11/29/2021,10,101000,wine tasting
+T2436,1448,Bali,"October 31, 2021",3,123000,"wine tasting, spa"
+T2437,1448,Barcelona,2022-08-09,7,146000,"shopping, spa, wine tasting"
+T2438,1448,Tokyo,"April 20, 2025",10,116000,"wine tasting, shopping"
+T2439,1165,Bali,01/30/2023,8,106000,safari
+T2440,1165,Tokyo,2021-11-15,8,102000,"safari, kayaking, hiking"
+T2441,1284,Banff,01/03/2022,10,293000,"safari, kayaking, hiking"
+T2442,1284,Cape Town,08/18/2021,8,225000,"hiking, kayaking"
+T2443,1284,Phuket,11/04/2024,7,612000,hiking
+T2444,1080,Bali,2022-01-22,5,123000,safari
+T2445,1080,Banff,2022-10-10,3,319000,"hiking, kayaking"
+T2446,1227,Bali,"June 21, 2023",9,94000,"kayaking, safari"
+T2447,1227,Bali,"January 28, 2024",7,98000,"kayaking, safari, hiking"
+T2448,1227,Tokyo,"May 17, 2025",5,112000,"kayaking, hiking, safari"
+T2449,1227,Cancun,2024-11-11,6,70000,kayaking
+T2450,1447,Tokyo,02/17/2024,5,93000,"museum tour, cultural show"
+T2451,1447,Cancun,03/16/2023,6,83000,cultural show
+T2452,1447,Tokyo,09/09/2023,9,116000,cultural show
+T2453,1447,Phuket,09/11/2021,8,458000,cultural show
+T2454,1353,Barcelona,"October 26, 2024",10,203000,"safari, hiking, kayaking"
+T2455,1353,Bali,2024-08-15,3,87000,"kayaking, hiking"
+T2456,1353,Barcelona,"September 22, 2024",3,160000,kayaking
+T2457,1353,Rome,03/17/2022,8,219000,hiking
+T2458,1353,Banff,2025-06-27,5,232000,"safari, hiking, kayaking"
+T2459,1310,Tokyo,"December 04, 2021",10,86000,spa
+T2460,1310,Tokyo,07/21/2024,8,82000,snorkeling
+T2461,1842,Cape Town,07/01/2021,9,267000,wine tasting
+T2462,1259,Bali,07/11/2023,4,94000,snorkeling
+T2463,1259,Barcelona,2021-07-11,10,205000,"beach, snorkeling, spa"
+T2464,1259,Banff,2025-04-20,3,248000,"beach, snorkeling"
+T2465,1259,Denver,"February 04, 2025",9,160000,spa
+T2466,1323,Rome,02/02/2025,10,215000,"kayaking, hiking"
+T2467,1323,Cancun,2021-09-09,5,67000,safari
+T2468,1323,Bali,2023-11-18,6,97000,safari
+T2469,1009,Banff,2023-10-31,9,241000,kayaking
+T2470,1684,Barcelona,02/23/2025,3,170000,spa
+T2471,1961,Barcelona,10/31/2023,5,174000,"spa, beach"
+T2472,1961,Tokyo,"May 22, 2023",5,103000,"snorkeling, spa, beach"
+T2473,1961,Cancun,"January 16, 2022",6,78000,"beach, snorkeling"
+T2474,1961,Bali,2022-05-20,4,88000,"snorkeling, spa, beach"
+T2475,1030,Tokyo,2024-02-21,3,108000,wine tasting
+T2476,1030,Cancun,2021-07-22,10,87000,spa
+T2477,1030,Banff,05/20/2023,3,296000,wine tasting
+T2478,1794,Bali,10/08/2021,3,114000,"snorkeling, spa, beach"
+T2479,1794,Cancun,"June 29, 2022",6,95000,"snorkeling, spa, beach"
+T2480,1794,Barcelona,"January 30, 2023",10,211000,"snorkeling, beach"
+T2481,1794,Tokyo,"March 04, 2025",7,105000,snorkeling
+T2482,1794,Cape Town,"April 23, 2025",7,249000,"snorkeling, spa, beach"
+T2483,1179,Denver,"July 15, 2024",6,157000,"snorkeling, beach"
+T2484,1027,Cancun,2023-05-10,5,88000,"kayaking, hiking, safari"
+T2485,1027,Banff,04/18/2024,6,311000,"kayaking, safari"
+T2486,1027,Barcelona,"September 27, 2021",5,212000,hiking
+T2487,1027,Phuket,2023-03-01,8,515000,"kayaking, hiking"
+T2488,1027,Paris,12/21/2022,7,494000,"hiking, kayaking, safari"
+T2489,1033,Denver,01/15/2022,9,134000,beach
+T2490,1033,Cape Town,"September 22, 2022",3,289000,"spa, snorkeling, beach"
+T2491,1033,Paris,12/21/2024,6,511000,"spa, snorkeling, beach"
+T2492,1033,Cancun,2021-11-28,7,88000,"snorkeling, spa"
+T2493,1033,Barcelona,09/20/2023,10,192000,"beach, spa, snorkeling"
+T2494,1334,Paris,"July 13, 2023",4,578000,spa
+T2495,1334,Phuket,01/16/2025,5,435000,"spa, shopping, wine tasting"
+T2496,1334,Cape Town,11/12/2022,8,305000,"shopping, spa, wine tasting"
+T2497,1334,Cancun,08/31/2024,9,67000,shopping
+T2498,1334,Rome,"March 31, 2022",3,256000,"spa, shopping, wine tasting"
+T2499,1787,Tokyo,02/28/2024,8,84000,food tour
+T2500,1787,Rome,2025-02-09,8,278000,hiking
+T2501,1787,Bali,"March 04, 2022",8,98000,food tour
+T2502,1787,Rome,08/29/2024,9,279000,"museum tour, hiking, food tour"
+T2503,1787,Cape Town,2022-09-11,4,253000,"food tour, museum tour"
+T2504,1964,Denver,10/21/2022,8,170000,"spa, shopping"
+T2505,1964,Cancun,2022-04-06,7,89000,"shopping, wine tasting, spa"
+T2506,1964,Tokyo,2021-07-02,8,115000,"wine tasting, shopping"
+T2507,1197,Tokyo,"August 24, 2024",5,109000,"food tour, cultural show, museum tour"
+T2508,1197,Cape Town,2025-01-21,6,323000,"cultural show, food tour"
+T2509,1795,Banff,"July 18, 2023",10,247000,"beach, spa"
+T2510,1795,Cape Town,"September 14, 2021",5,249000,"beach, spa"
+T2511,1795,Tokyo,2021-12-11,10,110000,"spa, snorkeling, beach"
+T2512,1392,Cancun,2021-07-08,10,67000,"safari, kayaking, hiking"
+T2513,1392,Banff,12/24/2024,4,261000,safari
+T2514,1392,Banff,2024-10-21,3,240000,kayaking
+T2515,1392,Banff,2023-07-17,6,288000,kayaking
+T2516,1868,Bali,03/04/2025,3,119000,kayaking
+T2517,1868,Cancun,2023-10-02,5,73000,"safari, hiking, kayaking"
+T2518,1899,Barcelona,2023-03-30,8,180000,hiking
+T2519,1899,Rome,2025-06-16,6,274000,"hiking, safari"
+T2520,1899,Tokyo,2024-04-21,5,98000,kayaking
+T2521,1636,Tokyo,07/26/2024,5,96000,"hiking, kayaking"
+T2522,1636,Barcelona,2025-03-05,5,188000,"kayaking, hiking, safari"
+T2523,1537,Bali,"November 02, 2022",4,115000,"safari, hiking"
+T2524,1537,Tokyo,"December 27, 2024",9,112000,"kayaking, hiking"
+T2525,1537,Paris,01/29/2024,7,438000,safari
+T2526,1537,Denver,05/26/2022,9,145000,"kayaking, hiking"
+T2527,1510,Cancun,"September 22, 2021",3,83000,"hiking, safari"
+T2528,1510,Tokyo,2022-12-24,7,84000,safari
+T2529,1510,Tokyo,2023-02-09,4,111000,"hiking, kayaking"
+T2530,1510,Cancun,11/08/2023,8,71000,"hiking, kayaking, safari"
+T2531,1510,Tokyo,2022-03-21,10,109000,"hiking, kayaking, safari"
+T2532,1122,Tokyo,2024-10-03,6,103000,wine tasting
+T2533,1378,Cancun,10/29/2024,3,85000,spa
+T2534,1378,Tokyo,"October 17, 2022",9,119000,"beach, snorkeling"
+T2535,1038,Tokyo,2025-04-13,5,115000,"beach, spa"
+T2536,1038,Cape Town,"October 27, 2024",10,299000,"spa, snorkeling"
+T2537,1038,Denver,"August 13, 2023",5,160000,"spa, beach, snorkeling"
+T2538,1038,Paris,"August 21, 2024",5,556000,"beach, snorkeling"
+T2539,1038,Denver,06/06/2023,10,166000,"snorkeling, spa"
+T2540,1551,Cancun,2024-09-29,10,75000,"spa, wine tasting, shopping"
+T2541,1551,Paris,02/23/2025,3,540000,"spa, shopping, wine tasting"
+T2542,1528,Rome,"February 19, 2023",9,253000,"safari, kayaking"
+T2543,1528,Denver,"November 18, 2021",7,131000,"kayaking, safari, hiking"
+T2544,1528,Bali,02/08/2024,4,119000,"safari, hiking, kayaking"
+T2545,1162,Cancun,11/12/2024,8,82000,beach
+T2546,1162,Tokyo,02/26/2022,7,96000,"beach, snorkeling"
+T2547,1162,Bali,11/15/2023,9,94000,"snorkeling, spa"
+T2548,1162,Bali,2025-01-22,5,117000,"spa, beach, snorkeling"
+T2549,1162,Bali,2022-04-10,5,118000,"spa, snorkeling, beach"
+T2550,1067,Cancun,11/17/2022,4,75000,"food tour, hiking, museum tour"
+T2551,1067,Denver,05/31/2024,10,177000,"hiking, food tour"
+T2552,1067,Bali,"October 22, 2022",9,119000,"museum tour, food tour"
+T2553,1067,Denver,"October 29, 2021",9,181000,"museum tour, food tour, hiking"
+T2554,1124,Tokyo,"August 14, 2023",7,119000,"wine tasting, spa, shopping"
+T2555,1004,Cancun,"October 27, 2022",9,71000,"hiking, kayaking"
+T2556,1699,Phuket,"February 06, 2025",10,603000,beach
+T2557,1699,Bali,"December 05, 2021",7,123000,"spa, snorkeling"
+T2558,1699,Bali,11/08/2021,3,124000,"spa, beach"
+T2559,1699,Cape Town,07/09/2024,5,288000,"spa, snorkeling, beach"
+T2560,1764,Bali,05/06/2024,10,96000,"shopping, wine tasting"
+T2561,1427,Bali,2025-03-02,3,131000,"food tour, museum tour"
+T2562,1427,Cancun,10/19/2021,6,89000,"cultural show, museum tour, food tour"
+T2563,1919,Denver,"July 07, 2021",9,138000,"beach, snorkeling"
+T2564,1919,Rome,"November 15, 2022",4,292000,"snorkeling, spa"
+T2565,1919,Tokyo,"May 25, 2025",4,91000,"spa, snorkeling, beach"
+T2566,1919,Rome,"February 01, 2023",4,321000,"spa, beach"
+T2567,1755,Denver,12/22/2022,8,147000,"spa, shopping, wine tasting"
+T2568,1755,Banff,"September 01, 2021",8,251000,spa
+T2569,1755,Paris,2023-01-18,9,543000,"shopping, spa"
+T2570,1506,Cape Town,02/06/2025,4,311000,"shopping, wine tasting, spa"
+T2571,1506,Denver,06/15/2022,5,188000,"shopping, spa, wine tasting"
+T2572,1506,Cape Town,04/10/2023,9,234000,"shopping, spa"
+T2573,1506,Cancun,10/23/2022,7,73000,shopping
+T2574,1912,Rome,09/28/2024,5,294000,"museum tour, hiking"
+T2575,1912,Rome,"January 26, 2025",3,264000,"food tour, hiking, museum tour"
+T2576,1912,Barcelona,03/15/2023,8,156000,hiking
+T2577,1912,Cape Town,"April 25, 2023",5,303000,"food tour, hiking"
+T2578,1912,Denver,"January 19, 2024",3,167000,hiking
+T2579,1399,Barcelona,11/13/2022,8,212000,"food tour, hiking, museum tour"
+T2580,1399,Barcelona,"June 04, 2023",4,207000,"museum tour, food tour, hiking"
+T2581,1399,Tokyo,10/15/2023,4,84000,"food tour, museum tour"
+T2582,1950,Bali,01/31/2022,9,113000,food tour
+T2583,1950,Phuket,01/23/2025,3,610000,"cultural show, food tour"
+T2584,1352,Bali,"April 17, 2024",7,104000,food tour
+T2585,1352,Tokyo,2022-05-11,5,105000,museum tour
+T2586,1352,Denver,03/18/2022,8,130000,food tour
+T2587,1844,Tokyo,2023-11-02,9,114000,"snorkeling, beach, spa"
+T2588,1844,Tokyo,2024-10-01,9,111000,beach
+T2589,1844,Denver,"January 09, 2023",10,138000,"snorkeling, beach, spa"
+T2590,1704,Bali,"March 26, 2023",3,105000,"safari, hiking, kayaking"
+T2591,1704,Bali,2022-06-09,10,103000,"hiking, kayaking"
+T2592,1704,Cancun,12/15/2024,8,90000,"safari, kayaking"
+T2593,1704,Cancun,05/16/2023,10,73000,"kayaking, safari, hiking"
+T2594,1260,Denver,2023-03-30,10,152000,snorkeling
+T2595,1260,Tokyo,04/29/2023,7,100000,"snorkeling, beach, spa"
+T2596,1260,Banff,12/17/2024,5,324000,spa
+T2597,1260,Cape Town,"March 28, 2025",6,232000,"spa, beach"
+T2598,1333,Phuket,2023-03-20,5,516000,"beach, snorkeling"
+T2599,1333,Paris,"March 28, 2025",6,437000,spa
+T2600,1153,Cancun,"December 30, 2023",5,82000,"beach, spa, snorkeling"
+T2601,1396,Tokyo,"April 25, 2022",8,109000,safari
+T2602,1396,Bali,2022-11-22,9,115000,"kayaking, safari"
+T2603,1396,Denver,09/12/2021,7,132000,kayaking
+T2604,1501,Cancun,02/18/2023,9,79000,hiking
+T2605,1501,Banff,06/30/2021,8,281000,hiking
+T2606,1373,Banff,2024-06-20,8,290000,"food tour, hiking, museum tour"
+T2607,1312,Bali,"February 07, 2025",6,119000,cultural show
+T2608,1312,Cape Town,08/03/2022,9,284000,"cultural show, museum tour, food tour"
+T2609,1312,Phuket,"July 07, 2023",6,542000,"museum tour, food tour, cultural show"
+T2610,1312,Phuket,"September 29, 2022",7,433000,"museum tour, cultural show"
+T2611,1042,Bali,2025-01-08,8,116000,kayaking
+T2612,1042,Rome,10/18/2024,6,241000,"hiking, kayaking"
+T2613,1763,Rome,"September 28, 2024",6,248000,food tour
+T2614,1763,Denver,"September 19, 2023",4,191000,"museum tour, food tour"
+T2615,1763,Cancun,"October 05, 2023",4,89000,hiking
+T2616,1763,Banff,"October 22, 2022",7,260000,"food tour, hiking"
+T2617,1522,Barcelona,2023-04-16,6,203000,shopping
+T2618,1522,Banff,2021-09-04,10,324000,shopping
+T2619,1522,Tokyo,2024-07-22,9,98000,"wine tasting, spa, shopping"
+T2620,1522,Tokyo,2022-10-14,6,112000,"spa, wine tasting, shopping"
+T2621,1522,Bali,09/08/2024,3,108000,"shopping, spa"
+T2622,1902,Cape Town,2022-04-23,5,320000,"shopping, spa, wine tasting"
+T2623,1902,Denver,"March 19, 2023",5,157000,spa
+T2624,1902,Tokyo,"May 13, 2022",4,90000,"shopping, wine tasting, spa"
+T2625,1851,Barcelona,08/11/2023,8,199000,"spa, beach"
+T2626,1851,Bali,07/14/2023,4,123000,"spa, beach, snorkeling"
+T2627,1851,Paris,"March 19, 2024",7,435000,"beach, spa"
+T2628,1851,Banff,2022-06-15,7,342000,"snorkeling, spa, beach"
+T2629,1807,Cape Town,2023-05-25,7,245000,"museum tour, food tour"
+T2630,1807,Paris,2022-01-08,5,586000,food tour
+T2631,1807,Denver,"August 22, 2023",6,135000,hiking
+T2632,1807,Bali,"March 02, 2023",8,130000,"food tour, hiking, museum tour"
+T2633,1727,Cape Town,2025-05-28,10,309000,"snorkeling, spa, beach"
+T2634,1727,Cancun,"March 11, 2023",8,89000,"snorkeling, beach, spa"
+T2635,1727,Cancun,"June 02, 2025",5,89000,"beach, snorkeling, spa"
+T2636,1727,Bali,2021-12-09,10,90000,"beach, snorkeling"
+T2637,1727,Bali,2024-07-15,4,128000,"spa, beach, snorkeling"
+T2638,1841,Barcelona,2025-04-19,4,187000,museum tour
+T2639,1841,Cancun,2023-05-09,8,92000,museum tour
+T2640,1650,Bali,"July 12, 2022",9,97000,"beach, snorkeling"
+T2641,1650,Banff,"February 18, 2024",3,322000,beach
+T2642,1650,Tokyo,"June 01, 2025",9,95000,"spa, beach, snorkeling"
+T2643,1650,Cape Town,12/07/2024,3,294000,"snorkeling, beach, spa"
+T2644,1797,Bali,2024-02-21,4,119000,safari
+T2645,1797,Barcelona,10/06/2022,5,155000,kayaking
+T2646,1797,Banff,03/31/2022,7,286000,"hiking, kayaking, safari"
+T2647,1773,Bali,"November 21, 2024",6,128000,"spa, beach, snorkeling"
+T2648,1773,Denver,"September 09, 2023",4,178000,"snorkeling, spa, beach"
+T2649,1887,Tokyo,"December 26, 2023",7,86000,"wine tasting, spa"
+T2650,1887,Denver,"August 18, 2023",9,172000,spa
+T2651,1887,Rome,2024-02-07,6,307000,"spa, wine tasting, shopping"
+T2652,1887,Rome,"June 04, 2023",5,266000,"shopping, spa"
+T2653,1887,Banff,09/10/2021,6,263000,"wine tasting, shopping, spa"
+T2654,1445,Denver,05/20/2022,6,170000,beach
+T2655,1272,Barcelona,"April 07, 2022",7,202000,"kayaking, safari"
+T2656,1272,Denver,12/09/2024,9,155000,"hiking, kayaking"
+T2657,1272,Rome,2023-11-28,5,316000,"hiking, safari, kayaking"
+T2658,1272,Cape Town,"September 19, 2022",4,333000,"kayaking, safari, hiking"
+T2659,1272,Bali,"April 22, 2024",9,127000,kayaking
+T2660,1882,Paris,2024-05-23,5,543000,"safari, kayaking"
+T2661,1519,Denver,2022-02-25,9,162000,"hiking, safari, kayaking"
+T2662,1519,Denver,01/04/2025,9,175000,safari
+T2663,1519,Cancun,06/24/2025,7,82000,hiking
+T2664,1377,Bali,"October 01, 2024",7,103000,"kayaking, hiking"
+T2665,1377,Cancun,"April 04, 2024",9,91000,"kayaking, safari"
+T2666,1377,Tokyo,02/11/2023,6,103000,"hiking, safari, kayaking"
+T2667,1377,Cancun,2023-10-03,10,89000,safari
+T2668,1498,Rome,04/17/2025,5,271000,"safari, hiking, kayaking"
+T2669,1498,Tokyo,"September 25, 2021",5,98000,"hiking, safari, kayaking"
+T2670,1498,Tokyo,05/23/2025,4,90000,"hiking, safari, kayaking"
+T2671,1498,Banff,12/02/2021,5,285000,"kayaking, hiking, safari"
+T2672,1498,Rome,2022-09-18,8,293000,"kayaking, safari, hiking"
+T2673,1932,Denver,"April 03, 2025",10,159000,"kayaking, safari"
+T2674,1932,Denver,09/19/2023,10,140000,kayaking
+T2675,1932,Denver,2025-01-10,6,176000,"hiking, safari"
+T2676,1825,Phuket,"June 17, 2025",5,510000,"snorkeling, spa, beach"
+T2677,1825,Bali,2022-03-03,5,124000,"snorkeling, spa"
+T2678,1825,Denver,03/31/2025,8,152000,snorkeling
+T2679,1632,Paris,06/16/2025,5,419000,museum tour
+T2680,1632,Rome,2023-06-28,5,296000,cultural show
+T2681,1097,Barcelona,2023-06-13,5,192000,kayaking
+T2682,1097,Tokyo,04/08/2022,10,103000,hiking
+T2683,1097,Denver,2022-06-05,4,173000,kayaking
+T2684,1097,Denver,11/21/2022,4,141000,hiking
+T2685,1128,Bali,06/23/2022,10,88000,"cultural show, food tour"
+T2686,1544,Tokyo,2025-02-25,10,92000,"spa, shopping"
+T2687,1544,Bali,2023-04-20,6,107000,"wine tasting, spa, shopping"
+T2688,1544,Bali,08/11/2023,10,130000,spa
+T2689,1379,Cape Town,"April 18, 2022",8,289000,"safari, hiking, kayaking"
+T2690,1379,Tokyo,04/18/2023,8,90000,"safari, kayaking"
+T2691,1379,Cancun,"October 21, 2021",3,72000,"hiking, safari, kayaking"
+T2692,1379,Rome,05/16/2022,8,317000,"hiking, kayaking, safari"
+T2693,1379,Phuket,04/17/2025,8,611000,"safari, hiking, kayaking"
+T2694,1203,Cancun,"October 04, 2022",10,78000,shopping
+T2695,1203,Denver,11/16/2021,7,162000,"shopping, wine tasting"
+T2696,1343,Cancun,09/08/2023,10,92000,"beach, spa"
+T2697,1343,Rome,2023-06-29,8,292000,"beach, snorkeling"
+T2698,1343,Tokyo,07/11/2022,10,98000,"snorkeling, beach"
+T2699,1343,Cancun,"October 20, 2021",5,72000,"spa, snorkeling"
+T2700,1733,Cancun,2023-11-03,3,70000,"safari, kayaking"
+T2701,1733,Banff,"June 13, 2025",8,296000,safari
+T2702,1733,Barcelona,12/14/2023,10,144000,hiking
+T2703,1866,Cancun,2023-12-27,4,74000,safari
+T2704,1866,Tokyo,"December 31, 2024",3,92000,safari
+T2705,1866,Tokyo,12/25/2023,5,95000,kayaking
+T2706,1866,Bali,2025-04-09,3,129000,"kayaking, hiking, safari"
+T2707,1866,Bali,"June 16, 2022",7,121000,hiking
+T2708,1518,Barcelona,2024-08-06,10,195000,snorkeling
+T2709,1518,Bali,"December 04, 2022",5,91000,beach
+T2710,1518,Tokyo,2022-07-15,3,101000,"snorkeling, beach"
+T2711,1784,Bali,"February 06, 2023",6,127000,"food tour, cultural show, museum tour"
+T2712,1784,Bali,09/09/2021,8,114000,cultural show
+T2713,1784,Tokyo,"April 13, 2022",4,100000,"cultural show, food tour"
+T2714,1488,Denver,02/25/2023,9,144000,"snorkeling, beach, spa"
+T2715,1488,Tokyo,01/10/2023,8,105000,"snorkeling, beach, spa"
+T2716,1488,Bali,11/07/2023,6,106000,"spa, beach, snorkeling"
+T2717,1237,Cape Town,"October 03, 2024",3,253000,shopping
+T2718,1237,Cape Town,2023-08-15,8,310000,spa
+T2719,1549,Bali,2021-09-04,6,96000,hiking
+T2720,1549,Barcelona,2024-03-25,5,176000,"hiking, kayaking, safari"
+T2721,1549,Rome,05/29/2023,6,224000,hiking
+T2722,1400,Denver,03/15/2024,8,160000,museum tour
+T2723,1400,Barcelona,"April 06, 2023",9,186000,museum tour
+T2724,1400,Denver,2024-05-05,9,143000,hiking
+T2725,1570,Denver,07/17/2024,8,166000,"kayaking, safari, hiking"
+T2726,1570,Tokyo,"October 16, 2021",4,105000,"safari, kayaking"
+T2727,1232,Tokyo,"August 29, 2024",3,85000,"snorkeling, beach, spa"
+T2728,1442,Cape Town,09/03/2023,6,324000,"kayaking, hiking, safari"
+T2729,1442,Denver,10/03/2021,3,155000,"kayaking, safari, hiking"
+T2730,1098,Bali,2022-11-14,3,124000,safari
+T2731,1098,Barcelona,2025-01-18,9,185000,safari
+T2732,1098,Barcelona,"September 30, 2022",10,164000,"hiking, safari"
+T2733,1098,Tokyo,2023-05-11,10,100000,"kayaking, hiking"
+T2734,1098,Bali,"July 27, 2022",6,89000,kayaking
+T2735,1880,Barcelona,03/07/2025,7,209000,"kayaking, safari, hiking"
+T2736,1983,Rome,10/29/2021,10,252000,wine tasting
+T2737,1983,Rome,03/20/2025,5,270000,"spa, wine tasting, shopping"
+T2738,1983,Cape Town,07/01/2023,10,304000,"wine tasting, spa, shopping"
+T2739,1983,Rome,2023-04-16,5,215000,spa
+T2740,1511,Denver,2022-04-22,3,129000,wine tasting
+T2741,1511,Rome,2022-08-29,5,276000,"spa, shopping, wine tasting"
+T2742,1698,Cape Town,2021-07-13,8,258000,"food tour, cultural show"
+T2743,1698,Cape Town,2024-11-20,7,276000,"cultural show, museum tour, food tour"
+T2744,1698,Rome,2023-03-24,4,247000,"food tour, museum tour"
+T2745,1698,Barcelona,10/06/2023,10,175000,"museum tour, cultural show"
+T2746,1698,Phuket,"August 14, 2023",5,582000,"museum tour, cultural show, food tour"
+T2747,1217,Barcelona,"August 01, 2023",4,178000,safari
+T2748,1217,Cape Town,"April 11, 2022",7,253000,"safari, kayaking, hiking"
+T2749,1217,Rome,"February 27, 2022",8,241000,"kayaking, safari"
+T2750,1217,Denver,03/25/2024,4,151000,"kayaking, hiking, safari"
+T2751,1360,Denver,2022-06-16,6,168000,"food tour, museum tour, hiking"
+T2752,1360,Banff,2025-01-27,5,325000,"museum tour, hiking, food tour"
+T2753,1360,Paris,"June 10, 2023",9,464000,museum tour
+T2754,1360,Cape Town,"April 18, 2025",5,313000,"museum tour, food tour, hiking"
+T2755,1360,Tokyo,"August 26, 2024",7,114000,hiking
+T2756,1558,Tokyo,"May 11, 2024",8,112000,food tour
+T2757,1558,Bali,2025-02-07,8,130000,museum tour
+T2758,1743,Barcelona,"June 27, 2025",9,195000,"beach, spa"
+T2759,1743,Cancun,04/04/2023,3,70000,"spa, snorkeling"
+T2760,1743,Paris,12/06/2021,7,446000,beach
+T2761,1743,Denver,"May 07, 2024",10,150000,"snorkeling, spa, beach"
+T2762,1963,Cancun,2024-02-23,7,86000,museum tour
+T2763,1963,Cancun,06/19/2024,3,95000,"museum tour, food tour"
+T2764,1963,Cancun,2024-01-24,4,67000,"food tour, museum tour"
+T2765,1963,Cancun,2021-12-06,10,82000,"museum tour, cultural show"
+T2766,1963,Cancun,"July 02, 2022",4,94000,"cultural show, museum tour, food tour"
+T2767,1225,Cape Town,01/09/2025,4,322000,"museum tour, food tour"
+T2768,1018,Tokyo,09/15/2023,7,89000,"food tour, cultural show"
+T2769,1018,Barcelona,"May 10, 2022",4,202000,"food tour, cultural show, museum tour"
+T2770,1018,Bali,2023-12-24,7,101000,cultural show
+T2771,1018,Cancun,09/19/2023,8,94000,"museum tour, cultural show, food tour"
+T2772,1018,Denver,"January 28, 2022",4,152000,cultural show
+T2773,1168,Cancun,01/17/2023,6,88000,"hiking, kayaking, safari"
+T2774,1292,Tokyo,2023-11-29,8,103000,"hiking, safari, kayaking"
+T2775,1612,Phuket,2023-05-14,4,481000,kayaking
+T2776,1612,Banff,"August 11, 2023",10,328000,"kayaking, hiking, safari"
+T2777,1612,Tokyo,"March 28, 2024",10,105000,"hiking, safari"
+T2778,1612,Barcelona,04/23/2023,4,192000,hiking
+T2779,1397,Cape Town,09/24/2021,5,234000,"safari, hiking, kayaking"
+T2780,1397,Denver,"July 02, 2023",9,185000,"kayaking, hiking, safari"
+T2781,1397,Barcelona,"December 18, 2022",7,202000,"kayaking, hiking"
+T2782,1397,Cape Town,"December 15, 2023",8,243000,"hiking, kayaking"
+T2783,1397,Cape Town,01/09/2025,6,233000,"kayaking, safari"
+T2784,1540,Paris,"September 20, 2024",3,555000,"safari, kayaking, hiking"
+T2785,1540,Barcelona,2024-11-17,3,203000,safari
+T2786,1540,Banff,"December 10, 2024",9,239000,"kayaking, hiking, safari"
+T2787,1540,Phuket,2022-07-03,9,436000,"safari, hiking"
+T2788,1540,Banff,2025-02-25,3,285000,"kayaking, hiking, safari"
+T2789,1328,Cancun,2023-02-20,7,65000,spa
+T2790,1328,Cancun,06/05/2024,10,79000,"spa, beach"
+T2791,1328,Bali,09/20/2022,8,101000,"spa, beach"
+T2792,1780,Cancun,2021-11-11,7,65000,beach
+T2793,1780,Cancun,2022-11-13,3,67000,"beach, spa, snorkeling"
+T2794,1780,Cancun,"March 22, 2025",8,66000,snorkeling
+T2795,1780,Cancun,2022-04-29,4,88000,"spa, snorkeling, beach"
+T2796,1631,Cancun,2021-12-30,10,95000,"kayaking, hiking, safari"
+T2797,1631,Phuket,"July 06, 2021",8,482000,"kayaking, hiking, safari"
+T2798,1631,Paris,2025-05-28,8,514000,"hiking, kayaking, safari"
+T2799,1093,Denver,2023-06-09,7,152000,"safari, hiking, kayaking"
+T2800,1093,Denver,2023-03-26,6,192000,"hiking, kayaking, safari"
+T2801,1093,Barcelona,2022-08-01,8,169000,kayaking
+T2802,1093,Denver,2024-07-13,7,129000,"safari, hiking, kayaking"
+T2803,1093,Tokyo,2024-04-14,9,83000,"hiking, safari"
+T2804,1213,Cancun,2021-12-08,10,71000,beach
+T2805,1213,Bali,03/28/2022,7,101000,"snorkeling, beach, spa"
+T2806,1337,Cancun,"June 04, 2024",8,75000,"spa, beach"
+T2807,1337,Cancun,09/19/2021,10,75000,"beach, spa"
+T2808,1337,Cancun,"February 04, 2023",5,78000,"spa, beach, snorkeling"
+T2809,1425,Rome,2022-03-24,4,295000,"hiking, kayaking"
+T2810,1425,Cape Town,"February 09, 2023",4,294000,"hiking, safari"
+T2811,1425,Rome,"September 03, 2022",9,241000,"safari, kayaking"
+T2812,1808,Cancun,05/11/2023,8,75000,museum tour
+T2813,1808,Bali,"September 15, 2021",5,116000,"food tour, museum tour, hiking"
+T2814,1808,Tokyo,2021-10-26,9,108000,"museum tour, food tour, hiking"
+T2815,1115,Tokyo,"July 25, 2021",9,85000,beach
+T2816,1115,Cape Town,"September 03, 2021",5,225000,spa
+T2817,1158,Tokyo,02/28/2025,10,120000,snorkeling
+T2818,1158,Denver,2022-06-11,3,189000,beach
+T2819,1158,Bali,07/31/2023,8,128000,"snorkeling, spa, beach"
+T2820,1158,Denver,"July 04, 2023",3,186000,"spa, beach"
+T2821,1158,Tokyo,"September 24, 2024",6,84000,"spa, beach"
+T2822,1994,Denver,07/26/2024,7,178000,kayaking
+T2823,1994,Tokyo,01/19/2025,3,104000,"safari, kayaking"
+T2824,1112,Tokyo,2021-12-01,4,93000,safari
+T2825,1112,Cape Town,06/16/2025,7,238000,hiking
+T2826,1112,Rome,10/20/2023,3,309000,"kayaking, safari, hiking"
+T2827,1112,Denver,"July 10, 2021",4,173000,"hiking, safari"
+T2828,1036,Bali,2021-08-08,10,120000,hiking
+T2829,1036,Tokyo,05/31/2022,3,93000,"kayaking, safari"
+T2830,1036,Cape Town,2023-02-10,8,261000,hiking
+T2831,1105,Tokyo,12/13/2021,4,106000,hiking
+T2832,1105,Tokyo,03/10/2025,8,117000,"kayaking, hiking, safari"
+T2833,1362,Denver,11/29/2023,10,183000,spa
+T2834,1362,Denver,2021-09-25,5,192000,"wine tasting, shopping"
+T2835,1362,Denver,"August 12, 2024",10,186000,spa
+T2836,1362,Cancun,2022-06-26,3,73000,"shopping, wine tasting, spa"
+T2837,1362,Denver,2024-04-23,6,178000,wine tasting
+T2838,1365,Banff,"December 26, 2023",4,333000,museum tour
+T2839,1441,Denver,03/17/2023,7,187000,food tour
+T2840,1565,Denver,"July 09, 2023",10,132000,beach
+T2841,1565,Rome,2023-05-22,5,282000,"beach, snorkeling, spa"
+T2842,1351,Cancun,2024-06-18,7,67000,food tour
+T2843,1351,Rome,2023-10-17,3,276000,"museum tour, food tour, cultural show"
+T2844,1351,Phuket,2022-07-16,7,474000,food tour
+T2845,1351,Banff,2023-12-02,7,268000,"cultural show, museum tour"
+T2846,1351,Denver,"September 06, 2021",10,132000,museum tour
+T2847,1978,Rome,2022-05-18,5,241000,"food tour, cultural show"
+T2848,1978,Rome,2023-02-23,8,300000,food tour
+T2849,1249,Tokyo,"April 26, 2022",9,108000,"shopping, wine tasting"
+T2850,1854,Tokyo,06/01/2022,10,90000,"hiking, safari"
+T2851,1801,Cancun,08/03/2023,7,95000,"beach, snorkeling"
+T2852,1801,Denver,02/20/2023,10,174000,"spa, snorkeling"
+T2853,1801,Bali,09/14/2022,7,116000,"beach, spa"
+T2854,1801,Rome,01/12/2023,4,247000,beach
+T2855,1406,Rome,"January 22, 2022",6,296000,"safari, hiking, kayaking"
+T2856,1406,Denver,2022-06-06,8,134000,"kayaking, safari, hiking"
+T2857,1858,Cancun,2025-05-18,3,66000,beach
+T2858,1164,Tokyo,2023-04-18,3,81000,"snorkeling, beach, spa"
+T2859,1164,Tokyo,03/02/2025,3,110000,"beach, spa, snorkeling"
+T2860,1881,Barcelona,2024-09-14,8,177000,kayaking
+T2861,1881,Cape Town,2022-11-08,4,312000,kayaking
+T2862,1881,Cancun,2022-06-04,8,73000,"kayaking, safari"
+T2863,1881,Phuket,05/16/2022,9,571000,"kayaking, safari, hiking"
+T2864,1881,Paris,2025-04-20,5,495000,"safari, hiking, kayaking"
+T2865,1818,Cancun,04/05/2023,9,65000,"snorkeling, spa"
+T2866,1818,Tokyo,02/19/2025,9,82000,"beach, spa"
+T2867,1818,Cancun,2022-04-27,5,95000,"beach, spa"
+T2868,1833,Rome,2022-01-11,6,292000,"beach, spa"
+T2869,1833,Banff,"January 11, 2022",5,232000,beach
+T2870,1083,Denver,01/02/2022,5,155000,"hiking, safari"
+T2871,1083,Bali,03/03/2022,4,103000,"kayaking, hiking"
+T2872,1703,Cancun,"December 04, 2021",7,92000,beach
+T2873,1295,Rome,"June 05, 2025",5,279000,food tour
+T2874,1070,Bali,"September 18, 2022",10,102000,"safari, kayaking"
+T2875,1070,Denver,02/02/2022,9,181000,"kayaking, hiking"
+T2876,1070,Barcelona,08/07/2024,8,182000,"safari, kayaking, hiking"
+T2877,1610,Cancun,"June 03, 2023",7,86000,food tour
+T2878,1669,Denver,"June 04, 2022",5,143000,"food tour, cultural show, museum tour"
+T2879,1669,Barcelona,2023-09-23,8,153000,"food tour, museum tour, cultural show"
+T2880,1669,Cancun,"June 28, 2024",6,68000,"cultural show, museum tour"
+T2881,1928,Banff,2023-08-14,3,311000,"kayaking, safari"
+T2882,1928,Tokyo,"December 15, 2021",9,96000,safari
+T2883,1928,Tokyo,12/04/2024,7,95000,"hiking, safari"
+T2884,1928,Banff,"November 11, 2023",9,308000,kayaking
+T2885,1928,Barcelona,08/29/2022,7,188000,kayaking
+T2886,1869,Barcelona,10/04/2021,10,185000,safari
+T2887,1953,Tokyo,02/24/2022,9,92000,"hiking, food tour"
+T2888,1816,Tokyo,11/15/2023,6,119000,"food tour, museum tour, hiking"
+T2889,1816,Tokyo,"July 12, 2021",10,103000,museum tour
+T2890,1816,Cancun,2022-04-12,4,72000,"hiking, museum tour"
+T2891,1816,Bali,"January 06, 2025",10,96000,"museum tour, food tour, hiking"
+T2892,1127,Tokyo,2022-12-22,3,97000,"beach, spa"
+T2893,1888,Cape Town,02/07/2023,7,274000,"kayaking, hiking"
+T2894,1888,Phuket,11/28/2024,9,499000,"safari, hiking, kayaking"
+T2895,1888,Barcelona,12/17/2022,5,205000,"safari, kayaking, hiking"
+T2896,1888,Tokyo,12/23/2023,9,95000,"safari, hiking, kayaking"
+T2897,1888,Bali,"February 08, 2025",8,92000,"hiking, safari, kayaking"
+T2898,1001,Bali,2022-06-05,8,120000,safari
+T2899,1001,Cancun,"August 04, 2022",8,77000,safari
+T2900,1001,Paris,03/05/2022,4,419000,kayaking
+T2901,1001,Barcelona,04/11/2024,4,178000,"kayaking, safari"
+T2902,1853,Tokyo,2025-01-31,3,93000,hiking
+T2903,1853,Tokyo,"June 27, 2023",8,89000,"kayaking, hiking"
+T2904,1853,Cancun,2024-08-13,4,67000,hiking
+T2905,1539,Bali,"March 22, 2025",9,93000,beach
+T2906,1539,Tokyo,2025-03-27,3,94000,"spa, beach, snorkeling"
+T2907,1539,Rome,2023-03-06,9,252000,"beach, spa"
+T2908,1539,Bali,2024-11-24,7,113000,"beach, snorkeling, spa"
+T2909,1539,Barcelona,"April 21, 2025",7,160000,"snorkeling, spa, beach"
+T2910,1601,Denver,10/27/2021,3,160000,"spa, beach"
+T2911,1601,Tokyo,"November 03, 2024",5,99000,snorkeling
+T2912,1308,Cancun,2022-05-24,3,92000,"food tour, museum tour, hiking"
+T2913,1308,Cancun,2022-07-01,5,95000,"museum tour, hiking, food tour"
+T2914,1308,Tokyo,"March 27, 2022",5,98000,"hiking, food tour, museum tour"
+T2915,1585,Bali,"October 06, 2021",5,97000,"safari, hiking"
+T2916,1585,Tokyo,"September 05, 2024",9,119000,"safari, hiking, kayaking"
+T2917,1585,Tokyo,07/18/2021,7,113000,safari
+T2918,1585,Tokyo,2021-08-03,6,86000,"kayaking, hiking, safari"
+T2919,1585,Banff,"December 21, 2022",5,322000,"safari, kayaking, hiking"
+T2920,1410,Banff,01/08/2023,6,265000,"spa, beach, snorkeling"
+T2921,1410,Rome,02/24/2024,5,318000,"spa, beach"
+T2922,1410,Banff,"January 04, 2023",3,290000,beach
+T2923,1171,Cape Town,2021-09-12,10,256000,"wine tasting, shopping"
+T2924,1171,Rome,2023-07-10,5,309000,wine tasting
+T2925,1171,Barcelona,2023-02-02,9,194000,shopping
+T2926,1171,Banff,03/01/2023,7,317000,"wine tasting, spa"
+T2927,1417,Barcelona,2025-05-08,6,158000,"museum tour, food tour, hiking"
+T2928,1417,Cape Town,2023-07-13,4,256000,"museum tour, hiking, food tour"
+T2929,1417,Cape Town,2021-12-26,6,333000,"food tour, hiking, museum tour"
+T2930,1768,Cancun,2025-01-07,4,89000,"safari, hiking, kayaking"
+T2931,1768,Rome,12/01/2024,3,302000,"safari, hiking"
+T2932,1768,Denver,"April 21, 2025",3,192000,safari
+T2933,1692,Banff,2024-06-13,8,331000,"hiking, museum tour, food tour"
+T2934,1692,Phuket,2024-08-02,7,509000,food tour
+T2935,1603,Rome,"January 25, 2024",5,216000,"kayaking, hiking, safari"
+T2936,1460,Banff,"May 09, 2023",6,297000,"safari, kayaking, hiking"
+T2937,1460,Rome,2023-06-03,10,295000,"kayaking, hiking, safari"
+T2938,1460,Banff,2023-05-01,5,302000,kayaking
+T2939,1460,Banff,"December 13, 2022",10,324000,"kayaking, hiking, safari"
+T2940,1460,Banff,"November 18, 2021",6,319000,"kayaking, hiking"
+T2941,1871,Cancun,2022-03-08,4,87000,"spa, snorkeling"
+T2942,1871,Denver,07/31/2023,6,146000,"spa, snorkeling"
+T2943,1871,Denver,"December 23, 2021",10,149000,spa
+T2944,1637,Bali,"June 24, 2025",6,87000,hiking
+T2945,1637,Cancun,2021-07-29,6,91000,"hiking, safari"
+T2946,1637,Bali,"January 12, 2023",6,120000,"safari, kayaking, hiking"
+T2947,1637,Tokyo,"March 09, 2024",10,82000,"safari, hiking"
+T2948,1423,Banff,08/05/2022,5,243000,"museum tour, food tour, cultural show"
+T2949,1423,Cancun,"December 20, 2023",9,81000,"cultural show, food tour, museum tour"
+T2950,1423,Bali,2024-04-21,7,92000,"food tour, cultural show, museum tour"
+T2951,1423,Barcelona,"November 24, 2024",5,175000,museum tour
+T2952,1315,Denver,2022-12-28,3,140000,"beach, spa"
+T2953,1315,Cape Town,2023-05-25,8,281000,"spa, snorkeling, beach"
+T2954,1315,Bali,01/19/2023,7,91000,snorkeling
+T2955,1376,Paris,05/11/2023,6,479000,"hiking, kayaking"
+T2956,1376,Banff,05/07/2025,5,231000,kayaking
+T2957,1524,Paris,"November 02, 2024",4,419000,"spa, beach"
+T2958,1524,Bali,10/28/2023,7,118000,spa
+T2959,1524,Cancun,07/05/2021,5,65000,"spa, beach, snorkeling"
+T2960,1524,Barcelona,01/31/2025,6,168000,"spa, snorkeling"
+T2961,1524,Cape Town,12/15/2023,5,230000,spa
+T2962,1872,Tokyo,2022-12-27,3,119000,kayaking
+T2963,1872,Tokyo,"February 16, 2023",8,97000,"safari, hiking, kayaking"
+T2964,1438,Barcelona,11/16/2023,3,168000,"spa, beach, snorkeling"
+T2965,1744,Banff,2022-09-19,5,292000,safari
+T2966,1744,Cape Town,01/05/2024,8,265000,hiking
+T2967,1744,Paris,06/04/2022,6,493000,"safari, hiking, kayaking"
+T2968,1744,Barcelona,"May 29, 2023",7,202000,"kayaking, safari, hiking"
+T2969,1744,Barcelona,02/10/2024,6,210000,"safari, kayaking"
+T2970,1150,Bali,"January 17, 2022",6,128000,"spa, snorkeling, beach"
+T2971,1150,Denver,2023-12-24,6,160000,"beach, snorkeling"
+T2972,1242,Banff,"March 30, 2023",10,251000,"spa, snorkeling"
+T2973,1556,Tokyo,2024-08-25,4,91000,"snorkeling, beach, spa"
+T2974,1824,Barcelona,2024-08-31,8,197000,wine tasting
+T2975,1824,Tokyo,03/31/2024,6,98000,"wine tasting, shopping"
+T2976,1824,Cancun,2021-11-03,7,76000,"shopping, wine tasting"
+T2977,1812,Rome,"January 25, 2022",7,310000,safari
+T2978,1812,Cancun,"January 27, 2023",8,85000,kayaking
+T2979,1812,Banff,"November 10, 2023",4,261000,hiking
+T2980,1812,Banff,08/25/2023,6,267000,"kayaking, hiking, safari"
+T2981,1812,Barcelona,"November 10, 2021",7,200000,"kayaking, safari"
+T2982,1409,Barcelona,08/11/2024,3,145000,"kayaking, safari, hiking"
+T2983,1409,Banff,"June 24, 2022",5,280000,hiking
+T2984,1409,Rome,"August 25, 2024",9,299000,hiking
+T2985,1143,Tokyo,"November 22, 2021",9,103000,"hiking, kayaking, safari"
+T2986,1526,Denver,11/29/2024,5,178000,"safari, hiking, kayaking"
+T2987,1526,Bali,12/24/2021,8,113000,"kayaking, safari, hiking"
+T2988,1526,Barcelona,2024-11-16,8,160000,"kayaking, safari"
+T2989,1863,Rome,"July 08, 2023",9,313000,kayaking
+T2990,1863,Cancun,"November 12, 2021",10,67000,safari
+T2991,1991,Tokyo,2024-01-30,3,106000,museum tour
+T2992,1991,Bali,"September 24, 2024",9,128000,"food tour, museum tour, cultural show"
+T2993,1832,Cape Town,09/09/2024,4,313000,safari
+T2994,1832,Cape Town,2023-02-21,5,288000,safari
+T2995,1832,Barcelona,2022-03-14,6,152000,"kayaking, hiking, safari"
+T2996,1208,Bali,"August 19, 2022",7,108000,"museum tour, food tour, cultural show"
+T2997,1208,Phuket,"January 18, 2024",6,423000,food tour
+T2998,1208,Cape Town,2022-10-10,10,224000,"food tour, cultural show"
+T2999,1440,Cape Town,11/23/2021,8,331000,"museum tour, food tour, hiking"
+T3000,1440,Banff,02/17/2022,4,250000,"food tour, museum tour"
+T3001,1131,Cape Town,"January 15, 2022",4,288000,"food tour, museum tour, cultural show"
+T3002,1131,Barcelona,01/09/2023,8,213000,"cultural show, food tour, museum tour"
+T3003,1131,Bali,01/04/2025,7,112000,"cultural show, food tour, museum tour"
+T3004,1131,Tokyo,"April 05, 2025",5,96000,museum tour
+T3005,1380,Bali,2024-11-16,9,117000,"snorkeling, spa, beach"
+T3006,1174,Cape Town,"April 25, 2023",5,285000,"food tour, cultural show"
+T3007,1174,Barcelona,09/28/2023,9,174000,cultural show
+T3008,1533,Tokyo,06/12/2024,9,83000,"shopping, wine tasting"
+T3009,1533,Banff,2025-01-10,3,334000,spa
+T3010,1270,Cancun,"February 26, 2024",7,72000,"hiking, kayaking, safari"
+T3011,1270,Cancun,"December 06, 2021",6,82000,"hiking, kayaking"
+T3012,1270,Cancun,08/22/2022,9,74000,"kayaking, hiking"
+T3013,1270,Cancun,2023-10-10,5,94000,"hiking, kayaking"
+T3014,1407,Cancun,2024-09-15,6,89000,"spa, snorkeling, beach"
+T3015,1407,Barcelona,12/29/2022,10,203000,snorkeling
+T3016,1407,Denver,"November 01, 2023",4,162000,beach
+T3017,1407,Barcelona,"April 25, 2023",8,149000,beach
+T3018,1805,Barcelona,2023-01-05,10,159000,"spa, snorkeling"
+T3019,1805,Tokyo,2023-10-21,8,82000,spa
+T3020,1805,Denver,2022-06-10,5,187000,"beach, spa"
+T3021,1123,Banff,02/18/2025,6,315000,hiking
+T3022,1123,Cape Town,05/24/2022,9,327000,hiking
+T3023,1138,Tokyo,04/11/2023,8,115000,kayaking
+T3024,1138,Bali,2021-07-04,9,91000,"safari, hiking, kayaking"
+T3025,1138,Barcelona,01/20/2024,8,145000,"kayaking, hiking"
+T3026,1138,Tokyo,01/11/2024,6,81000,kayaking
+T3027,1051,Cancun,10/09/2024,6,70000,"wine tasting, shopping"
+T3028,1051,Tokyo,12/16/2024,10,121000,"shopping, spa"
+T3029,1051,Cancun,10/01/2021,5,96000,"wine tasting, shopping, spa"
+T3030,1624,Rome,"October 18, 2024",9,262000,"beach, snorkeling, spa"
+T3031,1624,Cape Town,2025-05-08,9,267000,"snorkeling, beach"
+T3032,1275,Paris,2022-06-10,4,589000,food tour
+T3033,1275,Rome,08/23/2021,3,247000,hiking
+T3034,1275,Barcelona,2021-11-29,4,207000,"food tour, museum tour, hiking"
+T3035,1970,Cancun,2022-11-05,7,69000,"cultural show, museum tour"
+T3036,1342,Cancun,03/04/2024,6,72000,beach
+T3037,1342,Cancun,"December 01, 2022",4,79000,spa
+T3038,1342,Cancun,11/11/2021,8,81000,"beach, spa, snorkeling"
+T3039,1342,Cancun,05/24/2022,4,82000,beach
+T3040,1256,Bali,"November 29, 2024",3,102000,"spa, beach"
+T3041,1256,Paris,03/15/2023,5,521000,beach
+T3042,1256,Paris,"April 10, 2025",3,410000,beach
+T3043,1256,Banff,"January 20, 2025",6,269000,"snorkeling, beach"
+T3044,1256,Banff,"May 30, 2025",6,233000,"spa, snorkeling, beach"
+T3045,1182,Tokyo,"January 16, 2023",5,115000,"food tour, hiking"
+T3046,1182,Bali,"November 22, 2021",5,102000,"food tour, museum tour"
+T3047,1182,Tokyo,06/20/2024,4,103000,"museum tour, food tour, hiking"
+T3048,1617,Denver,2022-11-18,3,187000,"spa, shopping, wine tasting"
+T3049,1617,Bali,"July 26, 2023",10,123000,wine tasting
+T3050,1617,Bali,06/11/2025,3,110000,"shopping, spa"
+T3051,1300,Cape Town,2025-03-29,4,271000,food tour
+T3052,1300,Barcelona,03/29/2023,8,169000,museum tour
+T3053,1300,Bali,2023-01-20,7,124000,"cultural show, food tour, museum tour"
+T3054,1300,Rome,"June 21, 2022",9,310000,"museum tour, food tour"
+T3055,1300,Barcelona,"September 14, 2023",6,195000,"food tour, cultural show"
+T3056,1690,Tokyo,"October 04, 2021",4,112000,safari
+T3057,1690,Bali,08/22/2022,10,107000,"safari, hiking"
+T3058,1690,Bali,"July 07, 2024",7,130000,"hiking, kayaking"
+T3059,1690,Bali,2022-05-20,5,114000,"safari, hiking"
+T3060,1770,Barcelona,2021-08-10,9,212000,"food tour, museum tour, hiking"
+T3061,1770,Rome,03/09/2022,3,283000,"museum tour, food tour"
+T3062,1770,Tokyo,2022-12-07,7,105000,"museum tour, hiking, food tour"
+T3063,1770,Tokyo,"August 30, 2023",3,113000,"museum tour, hiking, food tour"
+T3064,1770,Banff,2025-06-03,10,251000,"museum tour, hiking, food tour"
+T3065,1240,Bali,2021-11-15,3,110000,"kayaking, safari"
+T3066,1240,Rome,"January 21, 2022",4,320000,"safari, hiking"
+T3067,1240,Bali,11/16/2022,10,108000,"hiking, safari, kayaking"
+T3068,1240,Paris,"July 31, 2022",9,403000,"safari, kayaking"
+T3069,1240,Barcelona,"April 05, 2023",10,200000,safari
+T3070,1230,Cape Town,"November 18, 2023",6,252000,"food tour, museum tour, hiking"
+T3071,1230,Cape Town,06/14/2025,7,319000,"museum tour, food tour, hiking"
+T3072,1920,Paris,06/19/2022,9,575000,"hiking, kayaking"
+T3073,1920,Banff,"May 22, 2022",7,261000,safari
+T3074,1920,Denver,2025-06-28,5,132000,"hiking, safari, kayaking"
+T3075,1920,Bali,2022-10-20,10,96000,"kayaking, hiking"
+T3076,1326,Barcelona,"January 01, 2024",10,179000,"kayaking, safari"
+T3077,1326,Paris,2025-06-07,3,511000,"safari, hiking, kayaking"
+T3078,1326,Denver,09/17/2021,3,160000,"hiking, safari"
+T3079,1326,Barcelona,05/10/2025,8,200000,hiking
+T3080,1458,Rome,"September 22, 2023",9,318000,"kayaking, hiking"
+T3081,1458,Tokyo,03/19/2023,10,99000,"hiking, safari"
+T3082,1458,Cape Town,"March 06, 2023",5,320000,"safari, hiking"
+T3083,1458,Cape Town,"May 17, 2023",5,331000,"hiking, safari, kayaking"
+T3084,1681,Tokyo,2022-12-09,4,117000,"spa, shopping"
+T3085,1681,Phuket,2021-08-17,5,615000,shopping
+T3086,1681,Bali,08/03/2023,9,94000,"shopping, wine tasting"
+T3087,1681,Phuket,"July 29, 2023",4,474000,"spa, wine tasting"
+T3088,1662,Denver,2024-08-08,3,152000,safari
+T3089,1662,Bali,2022-10-03,6,121000,"hiking, kayaking, safari"
+T3090,1662,Barcelona,"December 29, 2023",5,207000,kayaking
+T3091,1662,Tokyo,05/27/2022,7,112000,"hiking, safari"
+T3092,1662,Cancun,"August 20, 2023",6,91000,"hiking, kayaking"
+T3093,1507,Rome,2023-01-24,9,217000,"beach, snorkeling, spa"
+T3094,1507,Barcelona,12/10/2023,8,170000,snorkeling
+T3095,1465,Tokyo,"June 18, 2023",6,118000,museum tour
+T3096,1465,Cape Town,2025-02-06,3,260000,"cultural show, food tour"
+T3097,1465,Denver,"May 17, 2022",3,181000,museum tour
+T3098,1163,Denver,2021-09-09,9,157000,"snorkeling, spa, beach"
+T3099,1163,Cancun,2025-06-06,4,72000,spa
+T3100,1163,Phuket,07/03/2022,5,510000,"beach, spa, snorkeling"
+T3101,1163,Paris,2023-01-17,8,446000,"spa, beach, snorkeling"
+T3102,1163,Banff,2024-04-25,5,320000,beach
+T3103,1167,Barcelona,2022-05-29,6,167000,"shopping, wine tasting"
+T3104,1167,Bali,2023-12-29,4,111000,wine tasting
+T3105,1167,Cancun,04/02/2022,8,87000,spa
+T3106,1167,Rome,2025-03-04,7,316000,"spa, wine tasting, shopping"
+T3107,1145,Tokyo,06/13/2025,5,96000,"safari, hiking"
+T3108,1145,Barcelona,"November 17, 2022",8,155000,"safari, hiking, kayaking"
+T3109,1145,Denver,2024-10-05,10,178000,kayaking
+T3110,1206,Bali,"April 19, 2023",8,92000,"hiking, museum tour"
+T3111,1206,Bali,2021-12-27,3,125000,"hiking, museum tour, food tour"
+T3112,1206,Cancun,2022-03-13,7,75000,"hiking, food tour"
+T3113,1500,Cancun,2022-08-19,3,93000,"safari, hiking"
+T3114,1500,Cancun,2023-09-30,5,87000,"kayaking, hiking, safari"
+T3115,1500,Cancun,10/03/2023,5,92000,"hiking, safari, kayaking"
+T3116,1500,Cancun,2022-12-06,5,95000,"safari, hiking, kayaking"
+T3117,1500,Cancun,"February 05, 2025",8,83000,kayaking
+T3118,1188,Denver,2023-08-17,4,144000,cultural show
+T3119,1324,Bali,2022-02-20,4,88000,"spa, wine tasting, shopping"
+T3120,1324,Bali,11/03/2022,6,119000,"shopping, wine tasting"
+T3121,1324,Phuket,12/28/2021,7,560000,spa
+T3122,1324,Barcelona,10/25/2023,10,187000,"spa, wine tasting"
+T3123,1324,Cancun,"March 23, 2022",9,93000,"spa, shopping"
+T3124,1657,Denver,09/09/2023,3,178000,"hiking, safari, kayaking"
+T3125,1657,Barcelona,"January 16, 2025",6,191000,"safari, kayaking, hiking"
+T3126,1657,Bali,07/30/2021,6,102000,"kayaking, hiking, safari"
+T3127,1657,Barcelona,2022-09-05,6,213000,"kayaking, hiking"
+T3128,1657,Barcelona,2022-07-30,3,147000,"safari, kayaking, hiking"
+T3129,1745,Cancun,2022-03-22,9,71000,"snorkeling, spa, beach"
+T3130,1745,Denver,11/15/2023,8,154000,"beach, spa"
+T3131,1745,Rome,03/30/2023,10,242000,"spa, beach, snorkeling"
+T3132,1745,Banff,"November 16, 2024",4,313000,"beach, spa, snorkeling"
+T3133,1835,Barcelona,01/09/2023,5,185000,kayaking
+T3134,1835,Bali,03/11/2025,8,130000,"hiking, safari, kayaking"
+T3135,1835,Tokyo,11/11/2021,5,119000,kayaking
+T3136,1855,Banff,04/02/2023,3,270000,food tour
+T3137,1855,Cape Town,"March 29, 2024",4,281000,"museum tour, food tour"
+T3138,1855,Barcelona,"May 04, 2023",4,181000,"hiking, food tour, museum tour"
+T3139,1852,Banff,"December 15, 2022",10,315000,"safari, kayaking"
+T3140,1852,Denver,"April 17, 2024",6,146000,"safari, kayaking, hiking"
+T3141,1852,Phuket,"May 25, 2024",10,586000,"kayaking, hiking, safari"
+T3142,1852,Barcelona,"August 01, 2023",6,156000,safari
+T3143,1900,Barcelona,2025-04-06,7,189000,wine tasting
+T3144,1900,Banff,"October 07, 2024",3,250000,wine tasting
+T3145,1900,Banff,09/20/2023,3,252000,spa
+T3146,1900,Phuket,06/03/2024,10,545000,"shopping, spa, wine tasting"
+T3147,1575,Barcelona,"April 28, 2024",6,154000,"food tour, museum tour"
+T3148,1079,Rome,2023-06-04,5,285000,"safari, kayaking, hiking"
+T3149,1079,Banff,2025-06-21,5,282000,"hiking, safari, kayaking"
+T3150,1814,Cancun,"February 21, 2024",10,94000,"wine tasting, shopping, spa"
+T3151,1814,Bali,"August 18, 2021",5,95000,wine tasting
+T3152,1687,Tokyo,12/11/2024,9,115000,kayaking
+T3153,1687,Barcelona,"September 17, 2024",4,169000,safari
+T3154,1687,Denver,2023-06-16,7,185000,"hiking, safari, kayaking"
+T3155,1687,Cancun,12/29/2024,4,76000,"safari, kayaking"
+T3156,1452,Cancun,06/06/2025,4,74000,museum tour
+T3157,1452,Cancun,09/06/2022,3,81000,museum tour
+T3158,1452,Cancun,12/17/2022,6,69000,"food tour, cultural show, museum tour"
+T3159,1857,Denver,"May 16, 2022",10,166000,"kayaking, hiking"
+T3160,1857,Barcelona,2025-05-14,7,183000,"hiking, safari"
+T3161,1229,Barcelona,"April 25, 2023",8,213000,hiking
+T3162,1229,Denver,"December 01, 2024",6,166000,"kayaking, hiking"
+T3163,1229,Denver,2024-06-09,8,136000,"kayaking, safari, hiking"
+T3164,1229,Tokyo,2023-03-14,9,119000,safari
+T3165,1723,Bali,2022-09-17,10,121000,"hiking, food tour"
+T3166,1723,Cape Town,2023-01-12,5,232000,"hiking, food tour, museum tour"
+T3167,1782,Tokyo,2023-10-24,5,86000,"snorkeling, beach"
+T3168,1100,Denver,10/13/2024,7,172000,food tour
+T3169,1290,Cape Town,2025-02-15,8,334000,"spa, wine tasting"
+T3170,1290,Banff,03/25/2023,5,299000,"spa, wine tasting"
+T3171,1290,Rome,11/05/2021,6,275000,shopping
+T3172,1290,Denver,04/12/2024,7,172000,"shopping, wine tasting"
+T3173,1444,Tokyo,"April 14, 2023",7,121000,safari
+T3174,1444,Rome,01/12/2022,3,278000,"safari, kayaking"
+T3175,1444,Paris,12/16/2024,6,473000,hiking
+T3176,1444,Banff,2023-10-27,7,235000,"hiking, kayaking"
+T3177,1951,Tokyo,2022-03-11,6,98000,"safari, kayaking"
+T3178,1053,Tokyo,"October 05, 2022",10,104000,"hiking, safari, kayaking"
+T3179,1053,Denver,"June 01, 2022",10,141000,safari
+T3180,1391,Tokyo,2021-08-10,10,117000,kayaking
+T3181,1391,Rome,08/29/2023,10,216000,"kayaking, hiking, safari"
+T3182,1391,Banff,2022-12-01,5,335000,kayaking
+T3183,1391,Paris,2025-03-16,6,503000,safari
+T3184,1391,Banff,"June 08, 2025",9,314000,kayaking
+T3185,1967,Bali,"August 01, 2024",6,117000,hiking
+T3186,1967,Tokyo,2024-06-04,9,95000,"kayaking, hiking, safari"
+T3187,1967,Tokyo,"April 16, 2025",4,100000,"hiking, kayaking, safari"
+T3188,1368,Rome,"June 06, 2022",3,220000,"beach, snorkeling, spa"
+T3189,1666,Banff,2025-01-06,6,233000,wine tasting
+T3190,1666,Banff,04/10/2023,8,288000,wine tasting
+T3191,1666,Rome,08/11/2022,5,258000,"wine tasting, spa"
+T3192,1666,Denver,2024-05-17,7,135000,wine tasting
+T3193,1251,Cape Town,2023-11-30,10,231000,wine tasting
+T3194,1251,Paris,"March 24, 2024",9,538000,"shopping, wine tasting, spa"
+T3195,1251,Cancun,2023-02-22,4,89000,"shopping, wine tasting, spa"
+T3196,1251,Paris,2024-04-13,7,540000,shopping
+T3197,1251,Banff,2022-07-21,9,292000,"shopping, wine tasting"
+T3198,1499,Bali,2025-02-22,8,125000,"museum tour, food tour"
+T3199,1499,Denver,2022-03-29,5,136000,"food tour, cultural show, museum tour"
+T3200,1499,Bali,10/26/2022,3,106000,"museum tour, food tour, cultural show"
+T3201,1499,Bali,09/05/2024,7,95000,"food tour, cultural show, museum tour"
+T3202,1475,Denver,2024-03-14,9,174000,spa
+T3203,1670,Denver,"December 21, 2021",5,180000,cultural show
+T3204,1271,Cancun,2024-08-05,6,93000,kayaking
+T3205,1044,Rome,"January 01, 2024",5,291000,"hiking, safari, kayaking"
+T3206,1044,Cancun,"November 12, 2021",3,69000,kayaking
+T3207,1113,Phuket,"April 10, 2022",9,589000,"safari, kayaking"
+T3208,1113,Denver,"June 16, 2023",5,156000,"safari, hiking, kayaking"
+T3209,1113,Cancun,2025-03-27,9,83000,safari
+T3210,1113,Banff,03/25/2024,9,327000,"safari, hiking, kayaking"
+T3211,1024,Rome,11/04/2024,7,270000,"safari, kayaking, hiking"
+T3212,1211,Bali,"April 23, 2023",8,129000,"museum tour, cultural show, food tour"
+T3213,1620,Denver,2023-11-07,9,160000,"kayaking, hiking"
+T3214,1620,Cancun,2023-06-10,10,75000,"kayaking, hiking, safari"
+T3215,1169,Cancun,2021-11-26,5,74000,"shopping, wine tasting, spa"
+T3216,1169,Bali,2022-04-07,7,102000,"shopping, spa, wine tasting"
+T3217,1169,Cancun,2024-11-20,4,92000,"shopping, spa"
+T3218,1591,Bali,2022-12-20,3,128000,"food tour, hiking"
+T3219,1591,Cape Town,"February 05, 2024",7,237000,"food tour, museum tour"
+T3220,1591,Bali,02/16/2022,3,131000,hiking
+T3221,1591,Rome,11/08/2023,8,277000,"food tour, museum tour"
+T3222,1591,Cape Town,12/04/2021,7,263000,food tour
+T3223,1974,Phuket,2025-05-28,6,582000,kayaking
+T3224,1974,Cape Town,2023-10-29,5,231000,"hiking, safari"
+T3225,1974,Banff,09/30/2024,9,322000,"safari, kayaking"
+T3226,1596,Paris,2025-06-26,8,436000,"spa, wine tasting"
+T3227,1596,Phuket,04/20/2024,10,491000,"shopping, wine tasting, spa"
+T3228,1596,Cape Town,2021-07-06,5,278000,spa
+T3229,1520,Rome,05/22/2024,4,278000,"food tour, hiking, museum tour"
+T3230,1520,Barcelona,2022-03-28,3,163000,"food tour, hiking"
+T3231,1520,Bali,"April 26, 2024",10,87000,museum tour
+T3232,1032,Banff,2024-12-22,3,298000,"food tour, hiking, museum tour"
+T3233,1032,Banff,02/15/2024,10,323000,"museum tour, hiking, food tour"
+T3234,1611,Denver,2023-12-14,8,168000,kayaking
+T3235,1611,Cancun,2021-11-23,9,90000,"safari, kayaking, hiking"
+T3236,1611,Barcelona,"July 21, 2023",9,210000,"kayaking, safari, hiking"
+T3237,1109,Banff,03/10/2023,5,273000,"kayaking, hiking"
+T3238,1109,Cape Town,11/08/2023,5,249000,"hiking, safari"
+T3239,1136,Bali,"October 16, 2022",3,87000,kayaking
+T3240,1330,Banff,2022-05-10,7,320000,beach
+T3241,1330,Phuket,2024-11-21,9,603000,"beach, spa"
+T3242,1330,Barcelona,2023-03-17,3,199000,"snorkeling, spa"
+T3243,1330,Bali,09/27/2022,3,113000,snorkeling
+T3244,1330,Denver,2021-06-30,4,170000,"snorkeling, spa"
+T3245,1222,Barcelona,"September 06, 2021",8,161000,hiking
+T3246,1222,Rome,"April 11, 2024",7,250000,"safari, hiking, kayaking"
+T3247,1222,Barcelona,"January 17, 2024",10,150000,hiking
+T3248,1222,Bali,"February 12, 2022",5,117000,"safari, kayaking"
+T3249,1028,Barcelona,06/13/2025,7,176000,"spa, wine tasting, shopping"
+T3250,1028,Cape Town,08/04/2024,6,261000,"wine tasting, spa, shopping"
+T3251,1028,Rome,2021-12-03,6,240000,wine tasting
+T3252,1028,Rome,"July 15, 2022",3,250000,"spa, shopping"
+T3253,1287,Phuket,01/13/2025,9,514000,"food tour, cultural show"
+T3254,1287,Rome,06/29/2021,10,230000,"food tour, cultural show, museum tour"
+T3255,1287,Barcelona,"October 01, 2021",4,171000,museum tour
+T3256,1287,Cape Town,01/25/2023,7,247000,"food tour, museum tour"
+T3257,1287,Phuket,2024-02-22,9,489000,"food tour, cultural show"
+T3258,1722,Rome,2024-09-30,3,250000,"food tour, museum tour, cultural show"
+T3259,1722,Phuket,"March 17, 2025",5,538000,"cultural show, museum tour, food tour"
+T3260,1722,Rome,2024-03-05,5,310000,cultural show
+T3261,1722,Paris,06/23/2023,5,504000,food tour
+T3262,1722,Bali,2024-03-26,5,125000,"museum tour, cultural show"
+T3263,1055,Cancun,2025-01-02,8,87000,"spa, snorkeling"
+T3264,1055,Cape Town,"March 09, 2024",9,226000,"beach, snorkeling, spa"
+T3265,1055,Barcelona,2021-08-31,10,188000,snorkeling
+T3266,1055,Banff,"June 13, 2025",5,253000,snorkeling
+T3267,1055,Rome,"January 05, 2024",10,230000,"beach, snorkeling, spa"
+T3268,1977,Paris,06/15/2023,8,535000,food tour
+T3269,1977,Tokyo,09/13/2022,8,110000,"museum tour, hiking, food tour"
+T3270,1977,Cancun,"November 10, 2022",7,75000,"hiking, food tour, museum tour"
+T3271,1977,Rome,"January 13, 2024",8,233000,food tour
+T3272,1977,Banff,"March 18, 2023",9,331000,museum tour
+T3273,1886,Phuket,2024-04-26,7,452000,safari
+T3274,1886,Barcelona,2024-04-14,4,180000,safari
+T3275,1886,Paris,"November 03, 2023",6,497000,"safari, hiking"
+T3276,1886,Tokyo,02/19/2024,5,113000,"kayaking, hiking, safari"
+T3277,1906,Banff,2025-04-10,9,275000,"hiking, safari"
+T3278,1906,Barcelona,04/28/2024,3,198000,"hiking, kayaking, safari"
+T3279,1048,Cancun,08/13/2024,3,65000,"spa, beach"
+T3280,1909,Banff,"October 21, 2023",8,256000,"hiking, kayaking"
+T3281,1909,Cancun,2024-09-26,7,88000,"kayaking, hiking"
+T3282,1909,Banff,03/26/2024,10,240000,"safari, kayaking, hiking"
+T3283,1909,Denver,"February 26, 2025",9,130000,"kayaking, safari, hiking"
+T3284,1981,Denver,2023-01-15,10,167000,kayaking
+T3285,1981,Paris,07/31/2021,6,547000,kayaking
+T3286,1642,Tokyo,"October 03, 2022",10,105000,"cultural show, museum tour, food tour"
+T3287,1642,Tokyo,"March 05, 2023",8,113000,"cultural show, food tour"
+T3288,1642,Bali,2024-03-27,6,127000,"cultural show, food tour"
+T3289,1642,Tokyo,08/24/2024,6,112000,"food tour, museum tour, cultural show"
+T3290,1642,Bali,01/30/2023,4,89000,"museum tour, cultural show, food tour"
+T3291,1545,Cape Town,"December 18, 2021",6,268000,"museum tour, food tour"
+T3292,1545,Cape Town,"May 11, 2024",3,335000,"food tour, cultural show, museum tour"
+T3293,1545,Cancun,"June 11, 2025",5,72000,"museum tour, food tour"
+T3294,1545,Paris,2025-05-03,10,523000,museum tour
+T3295,1477,Banff,"August 22, 2022",7,231000,safari
+T3296,1477,Tokyo,09/10/2021,5,118000,"safari, kayaking"
+T3297,1477,Cancun,"May 01, 2024",3,77000,"safari, kayaking"
+T3298,1547,Paris,"December 07, 2021",5,427000,"safari, hiking, kayaking"
+T3299,1547,Banff,10/04/2021,8,313000,"kayaking, hiking, safari"
+T3300,1547,Paris,2024-03-25,6,599000,"safari, hiking"
+T3301,1547,Banff,2023-05-07,6,326000,"safari, hiking"
+T3302,1547,Phuket,2021-08-21,3,606000,"hiking, safari"
+T3303,1063,Bali,01/05/2025,3,123000,museum tour
+T3304,1063,Phuket,10/17/2024,10,542000,"museum tour, food tour"
+T3305,1063,Paris,2021-11-19,3,524000,"food tour, hiking"
+T3306,1063,Cape Town,"March 03, 2025",5,325000,"food tour, hiking"
+T3307,1063,Barcelona,11/04/2021,9,149000,museum tour
+T3308,1413,Phuket,05/26/2024,8,527000,"kayaking, safari, hiking"
+T3309,1413,Tokyo,"May 01, 2023",5,86000,"kayaking, safari"
+T3310,1413,Cape Town,"August 31, 2024",3,262000,safari
+T3311,1413,Cancun,"January 31, 2022",10,94000,kayaking
+T3312,1384,Cancun,"August 23, 2024",5,94000,"kayaking, safari"
+T3313,1384,Cancun,12/28/2024,4,78000,"hiking, safari, kayaking"
+T3314,1384,Cancun,09/06/2021,10,86000,"kayaking, hiking"
+T3315,1384,Cancun,"March 31, 2025",7,93000,"kayaking, safari, hiking"
+T3316,1384,Cancun,2023-08-04,10,95000,"hiking, safari"
+T3317,1894,Cancun,06/15/2025,10,82000,museum tour
+T3318,1894,Bali,2025-05-29,10,94000,food tour
+T3319,1894,Tokyo,"April 09, 2022",7,83000,"cultural show, food tour"
+T3320,1894,Cancun,"January 20, 2023",9,91000,food tour
+T3321,1894,Bali,2024-11-15,4,107000,cultural show
+T3322,1322,Phuket,"February 05, 2025",3,563000,"kayaking, hiking"
+T3323,1322,Barcelona,2024-09-21,5,212000,"safari, hiking, kayaking"
+T3324,1322,Cancun,"September 15, 2022",7,95000,kayaking
+T3325,1322,Denver,04/06/2024,4,164000,"hiking, safari"
+T3326,1322,Paris,"August 26, 2022",4,447000,"kayaking, hiking"
+T3327,1451,Bali,12/08/2021,3,125000,hiking
+T3328,1786,Bali,08/13/2022,8,127000,"spa, snorkeling"
+T3329,1786,Barcelona,2023-03-16,6,162000,"snorkeling, spa, beach"
+T3330,1786,Banff,"January 21, 2024",3,319000,"snorkeling, beach"
+T3331,1786,Rome,"December 11, 2023",8,302000,"snorkeling, beach, spa"
+T3332,1234,Cancun,2024-03-30,10,83000,"safari, kayaking, hiking"
+T3333,1234,Cancun,11/05/2024,10,87000,"kayaking, hiking, safari"
+T3334,1656,Bali,"September 05, 2021",7,95000,safari
+T3335,1656,Banff,"December 28, 2024",5,303000,kayaking
+T3336,1557,Rome,2021-11-25,7,227000,safari
+T3337,1557,Banff,2024-10-17,5,281000,"safari, kayaking, hiking"
+T3338,1557,Tokyo,01/25/2022,4,108000,hiking
+T3339,1557,Tokyo,2022-12-23,6,106000,"kayaking, hiking, safari"
+T3340,1462,Bali,2023-10-28,4,98000,"shopping, wine tasting"
+T3341,1462,Barcelona,05/31/2024,9,182000,"wine tasting, spa"
+T3342,1462,Paris,2025-02-03,6,587000,spa
+T3343,1424,Rome,2024-09-25,8,273000,"food tour, museum tour"
+T3344,1424,Rome,"October 21, 2022",6,316000,"food tour, cultural show, museum tour"
+T3345,1424,Barcelona,"November 23, 2024",6,185000,"museum tour, cultural show, food tour"
+T3346,1424,Denver,06/27/2023,5,138000,museum tour
+T3347,1424,Barcelona,09/23/2022,8,174000,"museum tour, cultural show"
+T3348,1885,Rome,04/18/2023,4,267000,"hiking, museum tour, food tour"
+T3349,1885,Denver,"February 19, 2022",3,171000,hiking
+T3350,1885,Cancun,11/18/2024,4,93000,museum tour
+T3351,1885,Denver,11/20/2023,3,178000,museum tour
+T3352,1885,Bali,2022-07-25,6,103000,"food tour, hiking, museum tour"
+T3353,1303,Bali,"March 06, 2024",3,130000,beach
+T3354,1303,Cancun,"April 15, 2022",3,78000,"spa, snorkeling"
+T3355,1889,Cancun,2021-08-16,4,88000,safari
+T3356,1689,Rome,"May 22, 2022",3,221000,"beach, spa"
+T3357,1689,Bali,12/03/2024,6,98000,spa
+T3358,1689,Tokyo,10/01/2023,3,84000,snorkeling
+T3359,1219,Denver,11/01/2021,3,164000,"food tour, cultural show, museum tour"
+T3360,1219,Paris,"November 01, 2022",9,536000,cultural show
+T3361,1219,Cancun,2022-07-12,8,90000,museum tour
+T3362,1875,Rome,2023-11-05,8,274000,safari
+T3363,1875,Cancun,04/14/2023,6,80000,"hiking, kayaking"
+T3364,1875,Barcelona,02/11/2022,9,186000,"safari, hiking, kayaking"
+T3365,1875,Cape Town,05/22/2024,9,260000,safari
+T3366,1875,Barcelona,2023-03-13,6,212000,safari
+T3367,1296,Denver,08/09/2021,7,133000,"food tour, hiking"
+T3368,1296,Denver,2021-11-16,5,130000,"food tour, museum tour"
+T3369,1021,Banff,2024-03-25,4,279000,"wine tasting, spa"
+T3370,1021,Tokyo,2022-06-06,6,105000,shopping
+T3371,1021,Bali,2024-03-05,8,89000,shopping
+T3372,1021,Denver,05/18/2023,5,158000,spa
+T3373,1760,Banff,2022-04-03,7,322000,"spa, snorkeling"
+T3374,1760,Barcelona,2021-11-26,3,212000,"spa, snorkeling"
+T3375,1760,Barcelona,10/17/2023,9,200000,"spa, snorkeling, beach"
+T3376,1760,Denver,2022-06-27,6,168000,"spa, snorkeling, beach"
+T3377,1760,Tokyo,2021-08-20,6,84000,"snorkeling, beach"
+T3378,1420,Tokyo,2024-08-15,10,90000,spa
+T3379,1420,Phuket,02/08/2025,3,462000,"shopping, spa, wine tasting"
+T3380,1420,Cancun,08/12/2022,10,82000,spa
+T3381,1420,Cape Town,2024-07-15,8,268000,"spa, shopping"
+T3382,1325,Bali,2022-01-17,4,120000,"shopping, spa, wine tasting"
+T3383,1325,Barcelona,2023-12-13,3,167000,"wine tasting, shopping, spa"
+T3384,1325,Cape Town,"February 27, 2025",3,320000,"shopping, spa"
+T3385,1325,Rome,2024-03-17,3,309000,spa
+T3386,1199,Banff,"September 06, 2024",9,288000,"snorkeling, beach, spa"
+T3387,1199,Phuket,2022-06-19,4,549000,"beach, spa, snorkeling"
+T3388,1450,Cancun,"February 02, 2024",7,85000,"hiking, kayaking, safari"
+T3389,1450,Tokyo,2023-06-24,7,87000,safari
+T3390,1450,Cancun,2025-04-21,9,71000,"hiking, safari, kayaking"
+T3391,1450,Cancun,01/07/2022,6,77000,hiking
+T3392,1450,Cancun,03/23/2025,7,64000,"kayaking, hiking, safari"
+T3393,1137,Tokyo,12/17/2023,6,120000,"museum tour, cultural show"
+T3394,1137,Cape Town,2024-09-09,9,262000,"museum tour, cultural show, food tour"
+T3395,1536,Cape Town,04/01/2023,10,250000,"hiking, safari, kayaking"
+T3396,1536,Cancun,2022-06-08,5,88000,safari
+T3397,1536,Barcelona,2022-12-28,6,158000,kayaking
+T3398,1696,Rome,"May 21, 2022",7,254000,"shopping, spa"
+T3399,1696,Denver,"September 13, 2023",10,153000,"wine tasting, spa, shopping"
+T3400,1696,Cape Town,2023-07-01,3,285000,shopping
+T3401,1717,Denver,2024-11-20,3,169000,"spa, beach, snorkeling"
+T3402,1646,Cape Town,"March 24, 2024",9,238000,"hiking, safari"
+T3403,1646,Tokyo,03/08/2023,7,118000,"safari, hiking, kayaking"
+T3404,1628,Bali,2021-10-30,10,99000,"safari, hiking, kayaking"
+T3405,1628,Cape Town,01/13/2023,9,308000,"hiking, safari, kayaking"
+T3406,1628,Tokyo,2022-10-05,7,95000,kayaking
+T3407,1628,Rome,2021-07-28,5,308000,"hiking, kayaking"
+T3408,1628,Rome,07/06/2024,8,293000,"kayaking, safari, hiking"
+T3409,1212,Tokyo,"October 01, 2022",4,118000,"museum tour, food tour, cultural show"
+T3410,1212,Cancun,05/06/2023,6,79000,museum tour
+T3411,1212,Cancun,"May 08, 2024",10,70000,"museum tour, food tour"
+T3412,1212,Tokyo,"March 08, 2023",6,96000,"museum tour, cultural show, food tour"
+T3413,1966,Tokyo,"December 13, 2023",10,83000,"snorkeling, spa"
+T3414,1966,Cancun,"September 08, 2021",8,83000,spa
+T3415,1939,Rome,"September 15, 2023",6,256000,"kayaking, safari"
+T3416,1939,Denver,04/27/2022,10,140000,"kayaking, hiking"
+T3417,1939,Rome,"September 05, 2024",6,222000,"kayaking, hiking"
+T3418,1939,Banff,2022-11-01,10,275000,"safari, hiking, kayaking"
+T3419,1939,Cape Town,"September 04, 2021",6,298000,"safari, hiking, kayaking"
+T3420,1926,Cape Town,"March 12, 2025",5,322000,"kayaking, safari"
+T3421,1926,Tokyo,12/26/2022,8,119000,safari
+T3422,1926,Tokyo,2023-05-21,6,106000,"safari, kayaking, hiking"
+T3423,1505,Tokyo,2022-05-14,3,87000,"beach, snorkeling"
+T3424,1505,Tokyo,2025-04-24,8,95000,"spa, snorkeling"
+T3425,1505,Cancun,"April 30, 2023",3,90000,"spa, snorkeling, beach"
+T3426,1505,Tokyo,11/09/2021,3,95000,snorkeling
+T3427,1505,Cancun,11/09/2021,8,71000,spa
+T3428,1935,Denver,2022-05-08,6,153000,"wine tasting, spa"
+T3429,1231,Denver,04/20/2025,9,149000,"spa, shopping"
+T3430,1231,Tokyo,"April 29, 2024",7,108000,spa
+T3431,1231,Denver,2022-10-25,5,144000,"wine tasting, shopping, spa"
+T3432,1231,Denver,2022-10-11,5,188000,"wine tasting, spa"
+T3433,1405,Bali,"June 04, 2025",4,95000,"wine tasting, spa, shopping"
+T3434,1405,Cancun,01/25/2024,7,77000,spa
+T3435,1405,Paris,"October 15, 2022",8,488000,shopping
+T3436,1729,Tokyo,2025-03-23,10,93000,"snorkeling, spa, beach"
+T3437,1729,Cancun,01/14/2023,7,86000,"beach, spa, snorkeling"
+T3438,1729,Bali,07/08/2022,10,93000,"spa, snorkeling"
+T3439,1729,Denver,12/29/2023,7,166000,"beach, spa, snorkeling"
+T3440,1729,Bali,07/08/2021,10,91000,spa
+T3441,1568,Banff,2023-02-16,10,234000,"beach, spa, snorkeling"
+T3442,1568,Tokyo,2024-09-28,3,113000,"snorkeling, spa, beach"
+T3443,1568,Banff,2023-12-28,3,252000,"snorkeling, beach, spa"
+T3444,1568,Denver,2023-09-03,5,174000,spa
+T3445,1568,Cape Town,2023-06-12,5,233000,"beach, spa, snorkeling"
+T3446,1317,Rome,"January 06, 2023",5,316000,spa
+T3447,1183,Rome,"May 19, 2025",8,291000,"beach, snorkeling"
+T3448,1183,Denver,12/06/2022,3,192000,"snorkeling, spa, beach"
+T3449,1183,Cape Town,2024-04-24,3,277000,beach
+T3450,1183,Bali,03/30/2025,6,107000,"snorkeling, beach"
+T3451,1183,Denver,08/12/2024,3,179000,snorkeling
+T3452,1861,Cape Town,2022-05-04,5,285000,beach
+T3453,1861,Banff,02/24/2024,10,273000,"snorkeling, spa"
+T3454,1861,Barcelona,2025-05-05,9,191000,spa
+T3455,1859,Bali,10/28/2022,4,110000,snorkeling
+T3456,1693,Cape Town,01/31/2022,3,240000,spa
+T3457,1693,Barcelona,2021-07-05,9,209000,wine tasting
+T3458,1693,Barcelona,2025-02-27,6,155000,"spa, wine tasting"
+T3459,1609,Tokyo,"October 13, 2024",3,81000,beach
+T3460,1609,Cape Town,"August 14, 2022",9,277000,beach
+T3461,1609,Bali,03/20/2025,10,91000,snorkeling
+T3462,1609,Cape Town,07/09/2021,10,324000,"snorkeling, spa, beach"
+T3463,1609,Cancun,2023-08-10,10,71000,beach
+T3464,1626,Cancun,2023-02-26,8,80000,"kayaking, safari"
+T3465,1485,Tokyo,01/09/2023,10,120000,"snorkeling, spa, beach"
+T3466,1485,Barcelona,06/25/2024,6,199000,"beach, spa"
+T3467,1485,Tokyo,"November 11, 2023",8,101000,"beach, spa"
+T3468,1278,Cancun,"June 07, 2025",6,85000,hiking
+T3469,1278,Cape Town,2021-12-26,7,334000,"safari, hiking, kayaking"
+T3470,1278,Denver,2021-12-17,6,184000,kayaking
+T3471,1630,Barcelona,06/14/2022,7,165000,"beach, spa, snorkeling"
+T3472,1630,Bali,07/15/2022,8,122000,"spa, beach, snorkeling"
+T3473,1630,Tokyo,01/04/2023,9,99000,"snorkeling, spa"
+T3474,1630,Barcelona,2024-02-08,5,182000,"snorkeling, beach"
+T3475,1630,Denver,"August 14, 2024",7,167000,"beach, snorkeling"
+T3476,1020,Paris,"July 07, 2022",7,519000,shopping
+T3477,1020,Rome,07/17/2023,3,307000,"shopping, wine tasting, spa"
+T3478,1020,Phuket,"September 19, 2022",10,460000,wine tasting
+T3479,1020,Tokyo,05/19/2023,8,98000,wine tasting
+T3480,1170,Tokyo,"August 03, 2021",6,99000,"shopping, spa"
+T3481,1170,Denver,"November 07, 2022",10,168000,"wine tasting, spa, shopping"
+T3482,1170,Denver,07/12/2023,3,144000,wine tasting
+T3483,1401,Cancun,2022-07-05,4,81000,"hiking, kayaking, safari"
+T3484,1929,Barcelona,"May 18, 2022",6,178000,"wine tasting, shopping, spa"
+T3485,1929,Bali,08/24/2023,4,114000,wine tasting
+T3486,1929,Banff,"January 01, 2023",4,289000,"shopping, spa, wine tasting"
+T3487,1929,Tokyo,2024-10-21,3,93000,"shopping, spa, wine tasting"
+T3488,1929,Banff,2022-04-22,8,276000,"shopping, spa"
+T3489,1566,Cancun,2021-10-26,8,65000,"safari, hiking, kayaking"
+T3490,1566,Barcelona,2022-03-31,8,145000,hiking
+T3491,1566,Barcelona,"November 04, 2023",9,191000,"kayaking, hiking, safari"
+T3492,1176,Cancun,"September 12, 2022",8,86000,"wine tasting, shopping"
+T3493,1176,Phuket,"August 27, 2022",8,537000,spa
+T3494,1176,Banff,2022-08-21,10,263000,shopping
+T3495,1327,Cancun,12/25/2022,6,82000,"safari, hiking, kayaking"
+T3496,1327,Banff,12/11/2022,3,310000,hiking
+T3497,1327,Rome,10/28/2021,10,306000,"kayaking, hiking"
+T3498,1706,Cancun,2023-10-20,10,91000,"snorkeling, beach"
+T3499,1706,Cancun,2025-02-26,6,79000,spa
+T3500,1198,Cape Town,2023-06-11,4,297000,snorkeling
+T3501,1198,Cancun,2024-05-26,8,68000,"snorkeling, beach"
+T3502,1198,Paris,2023-07-23,4,558000,"beach, spa, snorkeling"
+T3503,1198,Barcelona,2025-04-14,8,174000,"spa, snorkeling, beach"
+T3504,1198,Banff,2023-09-15,9,291000,beach
+T3505,1470,Denver,"February 29, 2024",9,170000,"safari, hiking, kayaking"
+T3506,1470,Bali,2024-10-12,4,125000,"safari, hiking"
+T3507,1470,Cancun,06/15/2025,6,69000,kayaking
+T3508,1996,Cancun,06/02/2023,3,71000,"hiking, museum tour"
+T3509,1996,Bali,07/18/2022,8,95000,"food tour, museum tour, hiking"
+T3510,1694,Tokyo,12/24/2023,9,100000,"hiking, safari, kayaking"
+T3511,1266,Denver,07/08/2022,3,139000,snorkeling
+T3512,1266,Rome,2021-09-01,8,298000,spa
+T3513,1615,Banff,02/21/2025,8,231000,"kayaking, hiking, safari"
+T3514,1615,Cape Town,11/21/2022,9,266000,"safari, hiking, kayaking"
+T3515,1615,Denver,"July 04, 2024",7,167000,"hiking, safari"
+T3516,1615,Banff,03/07/2023,10,256000,hiking
+T3517,1732,Rome,2022-03-07,8,238000,"kayaking, safari, hiking"
+T3518,1732,Rome,"July 22, 2023",7,216000,"safari, kayaking, hiking"
+T3519,1732,Tokyo,"November 06, 2024",7,92000,"safari, kayaking"
+T3520,1732,Cape Town,2023-01-04,5,281000,"safari, hiking"
+T3521,1492,Paris,10/30/2022,9,545000,"kayaking, safari, hiking"
+T3522,1130,Rome,"January 09, 2025",9,227000,kayaking
+T3523,1338,Cancun,05/27/2025,9,76000,"museum tour, food tour"
+T3524,1338,Cancun,04/05/2024,4,67000,"food tour, museum tour"
+T3525,1856,Denver,2024-12-03,9,149000,"kayaking, hiking"
+T3526,1856,Tokyo,2024-06-22,4,95000,"kayaking, safari, hiking"
+T3527,1856,Cancun,2021-07-11,7,77000,"hiking, kayaking, safari"
+T3528,1856,Bali,"September 05, 2021",4,105000,kayaking
+T3529,1856,Denver,05/11/2022,8,150000,safari
+T3530,1489,Denver,10/25/2022,7,178000,safari
+T3531,1489,Bali,"September 12, 2024",3,108000,"kayaking, safari"
+T3532,1572,Cancun,01/06/2023,3,90000,"shopping, spa, wine tasting"
+T3533,1606,Cape Town,"August 28, 2024",8,281000,"spa, beach, snorkeling"
+T3534,1606,Banff,02/25/2023,10,283000,"snorkeling, spa, beach"
+T3535,1606,Cancun,2023-02-09,10,79000,"beach, snorkeling"
+T3536,1193,Cancun,12/01/2022,4,91000,"spa, shopping, wine tasting"
+T3537,1193,Cancun,2024-10-17,6,81000,spa
+T3538,1193,Barcelona,"January 30, 2025",8,171000,"wine tasting, spa, shopping"
+T3539,1193,Barcelona,"March 21, 2023",7,207000,"wine tasting, shopping"
+T3540,1140,Tokyo,2023-11-26,7,105000,shopping
+T3541,1140,Denver,2024-11-26,6,159000,wine tasting
+T3542,1140,Denver,2021-08-22,7,190000,"wine tasting, shopping, spa"
+T3543,1416,Tokyo,06/09/2025,4,95000,shopping
+T3544,1416,Tokyo,"January 12, 2024",4,118000,spa
+T3545,1416,Cancun,03/30/2025,5,83000,spa
+T3546,1660,Banff,06/28/2023,10,290000,"kayaking, hiking"
+T3547,1660,Cape Town,"October 10, 2024",6,310000,"hiking, safari"
+T3548,1476,Cape Town,"May 02, 2022",5,297000,"safari, kayaking"
+T3549,1714,Cape Town,2024-02-09,10,331000,hiking
+T3550,1714,Denver,05/07/2024,8,139000,"safari, kayaking"
+T3551,1714,Paris,2024-01-12,9,460000,kayaking
+T3552,1714,Rome,"October 24, 2023",8,219000,"kayaking, safari"
+T3553,1714,Paris,"May 02, 2025",3,423000,"kayaking, safari, hiking"
+T3554,1152,Barcelona,"October 08, 2022",5,189000,"spa, beach"
+T3555,1849,Cape Town,"December 17, 2022",7,253000,"kayaking, hiking"
+T3556,1849,Phuket,12/12/2022,6,450000,"hiking, kayaking"
+T3557,1849,Phuket,12/24/2021,9,431000,"kayaking, hiking, safari"
+T3558,1849,Cape Town,2021-10-04,9,323000,safari
+T3559,1849,Rome,12/23/2024,6,219000,"safari, hiking, kayaking"
+T3560,1922,Cape Town,"June 21, 2024",7,257000,"wine tasting, shopping, spa"
+T3561,1010,Barcelona,2022-12-19,10,196000,"beach, spa, snorkeling"
+T3562,1010,Cape Town,"June 20, 2025",4,258000,spa
+T3563,1010,Denver,"August 07, 2022",8,185000,"spa, beach"
+T3564,1269,Denver,2024-11-17,7,142000,"food tour, cultural show"
+T3565,1269,Phuket,02/04/2025,7,583000,"museum tour, food tour"
+T3566,1269,Banff,2022-10-10,10,271000,"museum tour, cultural show, food tour"
+T3567,1269,Cancun,"November 07, 2024",9,88000,"food tour, museum tour"
+T3568,1096,Denver,12/07/2021,5,131000,"food tour, hiking"
+T3569,1096,Bali,2023-08-31,7,109000,"food tour, hiking"
+T3570,1096,Barcelona,2023-07-24,10,164000,"museum tour, hiking"
+T3571,1210,Barcelona,09/18/2022,4,210000,kayaking
+T3572,1210,Denver,"July 19, 2024",9,172000,"kayaking, hiking"
+T3573,1210,Cancun,"August 25, 2023",7,90000,"kayaking, safari, hiking"
+T3574,1210,Banff,"September 19, 2023",8,266000,"kayaking, safari, hiking"
+T3575,1989,Rome,"March 03, 2023",8,248000,hiking
+T3576,1989,Banff,"October 01, 2023",7,229000,"food tour, museum tour"
+T3577,1989,Tokyo,11/12/2024,3,113000,"food tour, hiking"
+T3578,1989,Paris,11/28/2023,5,528000,"hiking, museum tour"
+T3579,1752,Barcelona,"December 15, 2021",5,167000,"snorkeling, beach, spa"
+T3580,1752,Barcelona,2024-03-17,10,147000,"snorkeling, spa"
+T3581,1752,Paris,11/18/2023,5,455000,"spa, beach, snorkeling"
+T3582,1569,Barcelona,"November 19, 2022",5,180000,"shopping, wine tasting"
+T3583,1569,Banff,02/24/2025,7,306000,"spa, wine tasting, shopping"
+T3584,1569,Phuket,07/31/2021,5,607000,"spa, wine tasting"
+T3585,1569,Denver,04/27/2023,10,129000,"wine tasting, shopping"
+T3586,1569,Phuket,"September 19, 2023",4,615000,"spa, wine tasting"
+T3587,1813,Cape Town,"November 24, 2024",5,276000,snorkeling
+T3588,1813,Tokyo,04/12/2024,4,89000,snorkeling
+T3589,1813,Cape Town,2022-04-16,8,240000,"snorkeling, beach"
+T3590,1813,Cape Town,"December 19, 2023",5,262000,beach
+T3591,1813,Phuket,"December 18, 2021",9,489000,"spa, beach, snorkeling"
+T3592,1775,Tokyo,"May 15, 2025",8,90000,spa
+T3593,1775,Denver,10/31/2021,6,183000,"wine tasting, spa"
+T3594,1775,Tokyo,"May 18, 2022",3,115000,"shopping, spa"
+T3595,1775,Bali,2024-05-14,7,97000,"wine tasting, shopping"
+T3596,1548,Denver,"July 21, 2022",8,156000,safari
+T3597,1548,Cancun,03/18/2024,4,87000,"safari, hiking"
+T3598,1548,Tokyo,"October 04, 2023",6,112000,"safari, kayaking"
+T3599,1548,Phuket,"January 13, 2022",9,563000,safari
+T3600,1548,Barcelona,"April 26, 2025",7,170000,safari
+T3601,1948,Cancun,"January 18, 2025",9,74000,shopping
+T3602,1948,Cape Town,10/30/2021,9,255000,"wine tasting, shopping"
+T3603,1532,Bali,2024-07-13,7,115000,"kayaking, hiking, safari"
+T3604,1532,Banff,11/03/2024,10,274000,"safari, hiking"
+T3605,1532,Cape Town,2022-08-26,10,280000,"hiking, kayaking, safari"
+T3606,1938,Barcelona,"January 13, 2023",9,196000,"beach, spa, snorkeling"
+T3607,1938,Denver,"June 17, 2023",6,172000,snorkeling
+T3608,1938,Tokyo,2023-04-09,6,102000,"spa, beach"
+T3609,1938,Bali,05/22/2022,10,103000,spa
+T3610,1332,Cancun,2023-08-10,4,74000,"kayaking, hiking"
+T3611,1332,Cancun,01/05/2023,4,69000,"kayaking, safari"
+T3612,1075,Cape Town,02/08/2022,8,309000,"spa, wine tasting, shopping"
+T3613,1075,Cape Town,"April 08, 2025",10,248000,"shopping, wine tasting"
+T3614,1075,Banff,"January 07, 2024",3,339000,shopping
+T3615,1075,Cancun,"February 04, 2024",5,86000,"shopping, wine tasting, spa"
+T3616,1712,Cancun,2024-01-19,6,72000,"beach, spa"
+T3617,1712,Cancun,09/17/2022,7,64000,"spa, beach"
+T3618,1712,Cancun,05/23/2022,4,80000,spa
+T3619,1712,Cancun,2022-11-26,4,65000,"snorkeling, spa"
+T3620,1077,Tokyo,"September 14, 2021",4,82000,"hiking, kayaking"
+T3621,1077,Denver,2024-06-19,8,145000,safari
+T3622,1077,Tokyo,2023-11-19,4,81000,"hiking, kayaking"
+T3623,1077,Tokyo,2022-09-27,4,119000,hiking
+T3624,1077,Bali,2023-02-09,4,115000,"safari, kayaking"
+T3625,1263,Cape Town,12/16/2022,8,241000,"museum tour, food tour"
+T3626,1263,Paris,2023-03-05,5,559000,"museum tour, food tour, hiking"
+T3627,1263,Cancun,"March 02, 2023",6,78000,"food tour, hiking"
+T3628,1263,Denver,"May 22, 2025",3,191000,food tour
+T3629,1998,Bali,"May 04, 2024",8,124000,"beach, snorkeling, spa"
+T3630,1998,Cancun,2025-01-12,7,83000,"beach, snorkeling"
+T3631,1998,Tokyo,08/18/2023,5,95000,"spa, snorkeling, beach"
+T3632,1998,Tokyo,2022-05-17,7,119000,"snorkeling, beach"
+T3633,1149,Paris,03/27/2023,8,444000,"spa, snorkeling, beach"
+T3634,1937,Barcelona,12/24/2022,5,158000,"hiking, safari, kayaking"
+T3635,1937,Cancun,"March 12, 2023",3,77000,"safari, kayaking, hiking"
+T3636,1937,Tokyo,2025-03-01,10,121000,"safari, hiking"
+T3637,1937,Denver,10/17/2022,3,163000,"hiking, safari"
+T3638,1514,Banff,2023-02-24,8,235000,spa
+T3639,1514,Barcelona,2023-09-24,7,182000,beach
+T3640,1514,Cape Town,"July 05, 2022",10,271000,spa
+T3641,1945,Tokyo,12/26/2024,9,100000,shopping
+T3642,1945,Cancun,2022-08-17,8,87000,"shopping, spa"
+T3643,1945,Tokyo,2024-02-19,5,88000,"spa, wine tasting, shopping"
+T3644,1945,Cancun,"May 17, 2022",10,75000,"spa, wine tasting"
+T3645,1945,Tokyo,"October 19, 2021",9,92000,"shopping, wine tasting"
+T3646,1469,Paris,04/16/2025,8,446000,museum tour
+T3647,1469,Rome,2024-08-05,3,259000,food tour
+T3648,1469,Barcelona,2024-05-18,6,193000,cultural show
+T3649,1469,Barcelona,"February 21, 2025",7,191000,"cultural show, food tour"
+T3650,1469,Tokyo,"August 07, 2024",3,97000,"cultural show, food tour, museum tour"
+T3651,1564,Rome,2024-11-25,10,272000,hiking
+T3652,1564,Bali,2023-07-26,10,122000,museum tour
+T3653,1564,Barcelona,10/30/2024,6,173000,"museum tour, food tour"
+T3654,1564,Phuket,2022-07-01,5,587000,"hiking, food tour, museum tour"
+T3655,1564,Paris,2022-12-29,5,519000,food tour
+T3656,1774,Banff,2023-08-08,4,266000,shopping
+T3657,1461,Barcelona,2022-12-18,7,165000,safari
+T3658,1461,Banff,2025-05-25,9,232000,"kayaking, hiking, safari"
+T3659,1461,Barcelona,2024-10-26,7,211000,"kayaking, hiking, safari"
+T3660,1461,Tokyo,"June 28, 2024",4,97000,"kayaking, safari"
+T3661,1253,Rome,2023-03-09,5,280000,"safari, kayaking"
+T3662,1253,Bali,"March 13, 2024",6,122000,hiking
+T3663,1253,Barcelona,"January 26, 2022",3,180000,"kayaking, hiking, safari"
+T3664,1771,Bali,2025-04-22,3,98000,"museum tour, cultural show"
+T3665,1771,Banff,09/21/2024,10,279000,museum tour
+T3666,1771,Cancun,"August 05, 2022",6,66000,"museum tour, food tour, cultural show"
+T3667,1771,Barcelona,04/02/2025,8,201000,"museum tour, cultural show, food tour"
+T3668,1771,Tokyo,2024-07-23,10,94000,"food tour, museum tour, cultural show"
+T3669,1845,Barcelona,2022-11-24,6,171000,beach
+T3670,1845,Banff,"November 10, 2024",10,339000,"beach, snorkeling"
+T3671,1845,Rome,2022-10-13,8,276000,spa
+T3672,1845,Cancun,10/20/2023,5,92000,"snorkeling, spa"
+T3673,1369,Banff,2025-05-22,3,283000,"wine tasting, shopping, spa"
+T3674,1369,Rome,2021-10-08,6,266000,"shopping, wine tasting, spa"
+T3675,1369,Bali,"April 24, 2023",3,124000,spa
+T3676,1369,Denver,2022-07-07,4,129000,"wine tasting, spa"
+T3677,1369,Tokyo,10/31/2021,3,98000,"shopping, spa"
+T3678,1321,Tokyo,"July 18, 2021",7,87000,"food tour, cultural show, museum tour"
+T3679,1321,Tokyo,01/19/2025,10,117000,"food tour, museum tour, cultural show"
+T3680,1321,Cape Town,06/07/2023,8,260000,food tour
+T3681,1695,Paris,08/31/2021,6,452000,"safari, kayaking, hiking"
+T3682,1695,Tokyo,2025-01-08,8,96000,hiking
+T3683,1151,Cancun,"April 04, 2023",5,84000,food tour
+T3684,1151,Denver,"March 11, 2024",9,178000,"museum tour, cultural show, food tour"
+T3685,1151,Cancun,2022-04-04,8,72000,food tour
+T3686,1151,Tokyo,"August 30, 2023",6,91000,cultural show
+T3687,1151,Bali,2022-10-30,9,93000,"cultural show, food tour"
+T3688,1954,Paris,2023-08-13,7,507000,"hiking, kayaking"
+T3689,1954,Cancun,03/02/2023,9,89000,"safari, hiking"
+T3690,1302,Bali,"January 01, 2022",9,89000,"beach, snorkeling"
+T3691,1302,Bali,2024-01-08,5,98000,spa
+T3692,1302,Bali,06/07/2023,3,108000,"snorkeling, beach, spa"
+T3693,1302,Cancun,05/05/2024,4,86000,spa
+T3694,1190,Rome,11/24/2024,8,304000,"wine tasting, spa, shopping"
+T3695,1190,Barcelona,"December 24, 2022",10,151000,"shopping, spa, wine tasting"
+T3696,1586,Phuket,2022-03-25,3,519000,"kayaking, hiking, safari"
+T3697,1586,Banff,2025-05-31,7,233000,"hiking, safari, kayaking"
+T3698,1348,Tokyo,"September 06, 2024",8,87000,museum tour
+T3699,1348,Tokyo,12/27/2024,4,81000,"hiking, food tour"
+T3700,1348,Tokyo,2024-06-25,7,85000,"food tour, museum tour"
+T3701,1348,Bali,2023-03-18,8,92000,"museum tour, hiking, food tour"
+T3702,1243,Denver,2022-07-23,6,188000,"kayaking, hiking, safari"
+T3703,1243,Bali,12/26/2021,4,126000,"safari, kayaking"
+T3704,1793,Tokyo,09/17/2024,3,89000,safari
+T3705,1793,Bali,"November 12, 2021",7,92000,"hiking, safari"
+T3706,1087,Banff,07/12/2023,6,248000,"kayaking, hiking"
+T3707,1751,Bali,12/20/2024,9,94000,wine tasting
+T3708,1751,Denver,12/24/2023,10,136000,"shopping, wine tasting"
+T3709,1751,Denver,"November 08, 2023",4,132000,wine tasting
+T3710,1751,Banff,2022-07-17,10,272000,"wine tasting, shopping, spa"
+T3711,1655,Rome,"October 04, 2021",4,230000,food tour
+T3712,1655,Cape Town,04/13/2024,10,291000,"food tour, museum tour, cultural show"
+T3713,1982,Bali,"August 24, 2023",4,99000,"snorkeling, beach, spa"
+T3714,1778,Barcelona,"September 03, 2023",8,153000,"hiking, food tour, museum tour"
+T3715,1418,Rome,12/03/2022,5,320000,museum tour
+T3716,1418,Barcelona,"May 08, 2024",3,149000,"cultural show, food tour"
+T3717,1418,Bali,2025-01-05,3,115000,museum tour
+T3718,1288,Cape Town,2024-06-03,3,245000,hiking
+T3719,1288,Cape Town,"January 05, 2022",10,236000,kayaking
+T3720,1288,Rome,12/31/2022,3,311000,"safari, kayaking, hiking"
+T3721,1288,Denver,"January 07, 2022",5,138000,"safari, hiking"
+T3722,1648,Rome,12/25/2022,4,295000,"beach, spa"
+T3723,1648,Denver,2024-10-22,3,160000,"spa, snorkeling"
+T3724,1648,Tokyo,09/29/2021,5,95000,"spa, beach, snorkeling"
+T3725,1648,Rome,"September 29, 2022",5,242000,"snorkeling, beach, spa"
+T3726,1648,Tokyo,"September 20, 2023",10,104000,beach
+T3727,1166,Banff,10/27/2022,6,239000,"spa, wine tasting"
+T3728,1166,Denver,2022-03-13,10,190000,"spa, wine tasting, shopping"
+T3729,1166,Phuket,"April 04, 2025",3,600000,"wine tasting, spa"
+T3730,1166,Cancun,03/18/2024,6,75000,"spa, wine tasting"
+T3731,1595,Denver,09/27/2024,9,180000,"safari, kayaking"
+T3732,1595,Bali,2022-06-01,3,92000,safari
+T3733,1595,Bali,07/15/2024,3,117000,hiking
+T3734,1942,Denver,2024-03-13,5,192000,"safari, hiking"
+T3735,1942,Bali,"July 24, 2021",4,124000,"safari, kayaking, hiking"
+T3736,1942,Cancun,"March 28, 2023",7,89000,"kayaking, hiking"
+T3737,1155,Barcelona,2025-05-17,4,146000,"museum tour, cultural show, food tour"
+T3738,1155,Cancun,"October 12, 2024",10,68000,"museum tour, food tour"
+T3739,1155,Barcelona,2023-09-11,8,185000,cultural show
+T3740,1155,Denver,2021-08-06,9,164000,"museum tour, cultural show"
+T3741,1155,Denver,05/13/2022,8,132000,"food tour, cultural show"
+T3742,1356,Bali,02/03/2025,5,109000,"shopping, spa, wine tasting"
+T3743,1381,Cancun,"July 08, 2024",6,71000,"kayaking, safari"
+T3744,1279,Bali,"October 06, 2024",4,87000,"snorkeling, beach"
+T3745,1126,Tokyo,08/28/2023,10,106000,spa
+T3746,1126,Bali,"September 20, 2024",7,125000,"spa, beach, snorkeling"
+T3747,1126,Tokyo,2024-10-10,7,98000,"spa, snorkeling"
+T3748,1126,Tokyo,"March 06, 2023",10,109000,"beach, spa, snorkeling"
+T3749,1707,Paris,2025-02-04,8,570000,safari
+T3750,1777,Denver,08/22/2021,3,172000,"food tour, museum tour"
+T3751,1777,Banff,11/15/2021,8,316000,"museum tour, food tour, cultural show"
+T3752,1777,Cape Town,04/16/2025,7,316000,cultural show
+T3753,1777,Cape Town,12/27/2024,9,289000,"cultural show, museum tour"
+T3754,1022,Barcelona,"July 23, 2022",4,159000,"snorkeling, beach, spa"
+T3755,1616,Phuket,"November 22, 2022",3,417000,"food tour, hiking"
+T3756,1616,Barcelona,11/03/2023,4,146000,"food tour, museum tour, hiking"
+T3757,1616,Barcelona,"February 02, 2023",10,205000,food tour
+T3758,1665,Rome,2022-07-22,4,218000,"beach, spa"
+T3759,1665,Denver,"August 01, 2024",8,191000,spa
+T3760,1665,Cancun,2024-12-15,10,65000,"beach, spa"
+T3761,1282,Bali,2021-11-01,10,91000,"snorkeling, beach"
+T3762,1282,Phuket,10/01/2023,3,584000,"spa, snorkeling"
+T3763,1282,Banff,2024-03-20,8,260000,"beach, spa"
+T3764,1903,Tokyo,03/30/2023,8,114000,"safari, kayaking, hiking"
+T3765,1903,Barcelona,"March 17, 2025",10,143000,"safari, hiking, kayaking"
+T3766,1903,Denver,2025-05-20,3,166000,"hiking, kayaking"
+T3767,1471,Cape Town,11/21/2022,3,334000,"hiking, kayaking"
+T3768,1471,Tokyo,"May 13, 2025",10,111000,"kayaking, safari"
+T3769,1471,Phuket,05/18/2023,4,462000,kayaking
+T3770,1471,Cape Town,"February 24, 2023",8,302000,kayaking
+T3771,1471,Paris,12/23/2024,5,560000,"hiking, kayaking"
+T3772,1738,Tokyo,10/26/2021,3,116000,"kayaking, safari"
+T3773,1738,Cancun,"May 04, 2025",6,70000,safari
+T3774,1367,Phuket,"August 02, 2021",3,475000,"safari, hiking"
+T3775,1367,Cancun,"September 01, 2023",8,69000,"kayaking, safari"
+T3776,1025,Paris,2024-12-08,8,525000,spa
+T3777,1025,Paris,2021-09-07,6,485000,"beach, snorkeling"
+T3778,1025,Banff,"November 03, 2023",10,319000,spa
+T3779,1196,Banff,2023-06-05,5,233000,"kayaking, hiking, safari"
+T3780,1064,Cape Town,2024-10-01,8,239000,"spa, snorkeling, beach"
+T3781,1064,Cape Town,"July 27, 2022",5,317000,"beach, snorkeling, spa"
+T3782,1064,Barcelona,09/25/2023,4,183000,snorkeling
+T3783,1064,Bali,2025-04-14,5,93000,beach
+T3784,1015,Paris,"August 15, 2023",7,580000,"safari, hiking, kayaking"
+T3785,1015,Phuket,10/17/2022,8,503000,hiking
+T3786,1015,Banff,2021-12-17,5,319000,"kayaking, hiking"
+T3787,1015,Cancun,2025-04-29,10,69000,"safari, kayaking, hiking"
+T3788,1015,Rome,11/03/2021,7,226000,kayaking
+T3789,1466,Bali,06/15/2022,4,114000,"museum tour, food tour"
+T3790,1466,Cancun,01/25/2022,4,82000,"food tour, museum tour, hiking"
+T3791,1466,Banff,05/04/2024,8,333000,"hiking, museum tour"
+T3792,1466,Barcelona,07/20/2021,5,148000,"hiking, food tour"
+T3793,1297,Bali,01/08/2025,8,130000,museum tour
+T3794,1297,Denver,2024-09-23,4,130000,"museum tour, cultural show"
+T3795,1883,Cancun,12/22/2023,6,86000,"snorkeling, spa"
+T3796,1883,Rome,2022-05-16,5,278000,"snorkeling, beach"
+T3797,1883,Rome,09/09/2022,10,313000,"beach, snorkeling, spa"
+T3798,1883,Tokyo,"March 19, 2025",10,108000,"beach, spa, snorkeling"
+T3799,1621,Rome,08/07/2023,3,274000,kayaking
+T3800,1621,Phuket,07/23/2021,5,590000,hiking
+T3801,1336,Cancun,03/27/2025,5,69000,spa
+T3802,1336,Denver,2023-07-04,10,180000,snorkeling
+T3803,1336,Cancun,2024-05-24,9,85000,snorkeling
+T3804,1336,Tokyo,2021-08-13,9,91000,spa
+T3805,1820,Cancun,2025-02-17,3,80000,safari
+T3806,1820,Phuket,"April 23, 2024",4,538000,"kayaking, hiking, safari"
+T3807,1026,Denver,2025-04-16,6,154000,kayaking
+T3808,1026,Bali,09/01/2024,4,89000,"safari, kayaking"
+T3809,1026,Tokyo,01/29/2025,9,86000,"safari, hiking"
+T3810,1026,Denver,08/29/2023,3,182000,"kayaking, hiking"
+T3811,1026,Bali,2024-02-05,7,107000,"kayaking, hiking"
+T3812,1588,Cancun,2021-08-26,9,86000,beach
+T3813,1588,Cancun,09/09/2021,3,68000,beach
+T3814,1588,Cancun,09/05/2021,8,84000,"spa, snorkeling"
+T3815,1043,Bali,06/19/2025,9,89000,"snorkeling, spa, beach"
+T3816,1043,Cape Town,2025-05-06,7,326000,"beach, snorkeling"
+T3817,1043,Banff,2022-03-14,3,314000,"spa, snorkeling"
+T3818,1497,Bali,2023-03-15,5,106000,"hiking, kayaking, safari"
+T3819,1497,Cape Town,10/02/2021,4,279000,hiking
+T3820,1792,Banff,2023-02-08,10,331000,"hiking, kayaking"
+T3821,1792,Tokyo,2023-02-07,4,87000,"safari, hiking, kayaking"
+T3822,1792,Denver,"January 24, 2022",10,176000,safari
+T3823,1515,Cancun,2025-04-24,10,70000,snorkeling
+T3824,1515,Bali,"March 15, 2024",5,109000,"snorkeling, spa, beach"
+T3825,1995,Barcelona,2025-04-17,10,204000,"hiking, food tour, museum tour"
+T3826,1995,Bali,06/11/2022,5,123000,"museum tour, food tour"
+T3827,1995,Bali,10/16/2022,8,105000,"museum tour, food tour, hiking"
+T3828,1995,Banff,"May 31, 2023",10,275000,"hiking, food tour"
+T3829,1995,Cancun,11/13/2023,4,88000,museum tour
+T3830,1561,Tokyo,"November 27, 2022",4,100000,food tour
+T3831,1561,Tokyo,2021-11-18,6,90000,"cultural show, food tour"
+T3832,1561,Cancun,2022-07-16,8,89000,cultural show
+T3833,1561,Tokyo,06/17/2023,4,116000,cultural show
+T3834,1917,Tokyo,2023-10-30,10,117000,"museum tour, food tour"
+T3835,1917,Denver,08/10/2023,7,150000,museum tour
+T3836,1454,Cancun,"November 04, 2024",6,85000,safari
+T3837,1387,Rome,"September 14, 2021",4,266000,hiking
+T3838,1387,Banff,2022-07-31,5,288000,hiking
+T3839,1387,Denver,"March 09, 2022",7,155000,hiking
+T3840,1071,Tokyo,2022-12-05,9,84000,"kayaking, safari"
+T3841,1071,Cancun,06/25/2025,6,82000,"hiking, safari"
+T3842,1071,Tokyo,"October 31, 2022",7,93000,"hiking, kayaking, safari"
+T3843,1542,Paris,02/29/2024,10,462000,safari
+T3844,1542,Barcelona,2025-05-27,7,151000,hiking
+T3845,1542,Phuket,2024-07-06,9,544000,"safari, kayaking"
+T3846,1542,Rome,12/11/2022,7,237000,"safari, hiking"
+T3847,1542,Rome,"October 15, 2022",6,249000,"hiking, safari"
+T3848,1456,Cancun,03/20/2023,5,83000,"beach, snorkeling"
+T3849,1456,Barcelona,06/29/2024,7,181000,beach
+T3850,1456,Tokyo,"January 19, 2022",9,115000,"beach, snorkeling"
+T3851,1456,Barcelona,"June 19, 2025",7,175000,"beach, snorkeling, spa"
+T3852,1633,Rome,04/03/2022,9,288000,"spa, snorkeling, beach"
+T3853,1633,Cancun,06/20/2024,7,78000,"spa, beach, snorkeling"
+T3854,1633,Cancun,01/28/2023,6,79000,"beach, snorkeling, spa"
+T3855,1633,Tokyo,03/28/2022,10,121000,"snorkeling, beach, spa"
+T3856,1633,Cancun,2022-07-02,10,88000,"spa, beach"
+T3857,1431,Denver,"September 25, 2022",10,139000,safari
+T3858,1431,Bali,2021-11-13,5,96000,"kayaking, hiking"
+T3859,1431,Bali,2024-09-02,3,100000,safari
+T3860,1431,Tokyo,05/04/2024,8,113000,"kayaking, hiking, safari"
+T3861,1431,Cancun,2021-10-11,9,73000,"kayaking, hiking, safari"
+T3862,1627,Barcelona,"January 25, 2023",7,211000,kayaking
+T3863,1627,Tokyo,2024-04-20,6,94000,"safari, kayaking, hiking"
+T3864,1653,Rome,2021-07-14,7,218000,"spa, beach, snorkeling"
+T3865,1653,Tokyo,2023-03-05,6,95000,"spa, beach"
+T3866,1728,Tokyo,"October 04, 2024",10,118000,spa
+T3867,1264,Denver,"September 15, 2021",4,135000,"safari, kayaking, hiking"
+T3868,1264,Rome,"December 06, 2024",10,318000,"safari, hiking, kayaking"
+T3869,1264,Paris,07/27/2023,5,496000,"hiking, kayaking"
+T3870,1264,Tokyo,08/22/2024,4,108000,"kayaking, safari, hiking"
+T3871,1209,Barcelona,04/06/2022,10,199000,"spa, wine tasting"
+T3872,1316,Bali,2025-01-23,3,122000,"wine tasting, shopping"
+T3873,1316,Rome,2022-01-18,9,256000,shopping
+T3874,1316,Tokyo,2022-09-11,8,120000,shopping
+T3875,1316,Rome,10/26/2022,5,244000,shopping
+T3876,1896,Bali,"August 28, 2022",10,114000,"shopping, spa"
+T3877,1896,Bali,03/17/2024,5,129000,"shopping, wine tasting, spa"
+T3878,1896,Banff,2025-02-03,10,299000,spa
+T3879,1513,Phuket,04/11/2022,10,483000,"safari, hiking, kayaking"
+T3880,1313,Bali,2023-07-09,6,110000,"kayaking, hiking, safari"
+T3881,1313,Bali,2025-05-13,7,94000,"kayaking, hiking"
+T3882,1313,Rome,10/09/2022,6,311000,kayaking
+T3883,1534,Paris,2022-05-10,3,498000,food tour
+T3884,1829,Cancun,"October 11, 2022",3,84000,safari
+T3885,1829,Denver,2024-02-25,6,183000,"hiking, kayaking"
+T3886,1319,Cancun,"August 04, 2024",6,86000,"shopping, wine tasting, spa"
+T3887,1007,Tokyo,"May 04, 2024",4,102000,"snorkeling, beach, spa"
+T3888,1007,Denver,2022-02-14,8,190000,"beach, snorkeling"
+T3889,1007,Barcelona,"June 20, 2025",3,189000,snorkeling
+T3890,1007,Tokyo,08/25/2024,10,85000,beach
+T3891,1393,Bali,2024-08-24,10,122000,"hiking, safari, kayaking"
+T3892,1393,Cancun,08/04/2024,7,77000,"hiking, kayaking"
+T3893,1393,Phuket,"April 25, 2024",5,541000,"hiking, safari"
+T3894,1393,Tokyo,2023-07-06,9,99000,"safari, hiking, kayaking"
+T3895,1393,Rome,2024-01-18,5,310000,"kayaking, hiking"
+T3896,1141,Barcelona,2024-08-15,9,159000,"food tour, cultural show, museum tour"
+T3897,1141,Banff,"June 26, 2022",8,272000,"cultural show, museum tour"
+T3898,1086,Cancun,02/12/2024,5,79000,"hiking, safari"
+T3899,1086,Bali,02/08/2025,6,123000,"safari, kayaking"
+T3900,1086,Denver,2024-12-02,3,139000,"safari, hiking, kayaking"
+T3901,1086,Bali,02/22/2025,3,94000,"kayaking, safari, hiking"
+T3902,1086,Banff,10/25/2023,6,329000,"safari, hiking"
+T3903,1864,Tokyo,05/15/2022,7,108000,shopping
+T3904,1864,Phuket,"March 21, 2025",10,605000,shopping
+T3905,1478,Tokyo,09/04/2021,7,93000,"spa, wine tasting, shopping"
+T3906,1478,Cancun,"July 27, 2024",4,80000,"spa, shopping, wine tasting"
+T3907,1478,Bali,"August 07, 2022",5,101000,"wine tasting, spa"
+T3908,1478,Bali,2025-03-23,6,120000,"shopping, spa"
+T3909,1503,Rome,2021-07-05,4,316000,safari
+T3910,1503,Cape Town,2024-05-07,3,310000,hiking
+T3911,1503,Cape Town,2023-01-23,5,227000,"kayaking, hiking, safari"
+T3912,1503,Bali,2023-05-28,9,117000,"kayaking, safari"
+T3913,1753,Paris,07/10/2022,7,473000,"safari, kayaking"
+T3914,1753,Denver,2022-01-02,4,146000,"kayaking, hiking, safari"
+T3915,1753,Denver,"January 25, 2022",8,138000,"kayaking, hiking, safari"
+T3916,1753,Cancun,"July 14, 2024",5,78000,hiking
+T3917,1215,Barcelona,"August 23, 2023",7,174000,beach
+T3918,1215,Denver,"October 30, 2021",10,168000,"snorkeling, spa, beach"
+T3919,1580,Bali,"September 23, 2023",6,116000,"wine tasting, spa, shopping"
+T3920,1580,Phuket,"April 15, 2023",5,484000,"spa, wine tasting, shopping"
+T3921,1580,Tokyo,04/17/2023,9,110000,"spa, wine tasting"
+T3922,1562,Barcelona,"January 25, 2024",5,184000,safari
+T3923,1562,Tokyo,2025-01-21,6,90000,"kayaking, hiking"
+T3924,1562,Bali,"December 20, 2024",4,115000,"safari, kayaking, hiking"
+T3925,1398,Barcelona,03/09/2024,8,204000,hiking
+T3926,1398,Denver,10/21/2024,5,189000,hiking
+T3927,1398,Barcelona,"April 20, 2024",8,194000,"kayaking, hiking, safari"
+T3928,1398,Bali,2025-02-28,3,108000,"safari, hiking"
+T3929,1925,Cancun,2024-01-26,4,92000,"hiking, food tour, museum tour"
+T3930,1925,Tokyo,11/08/2024,8,99000,museum tour
+T3931,1668,Bali,01/04/2022,10,118000,cultural show
+T3932,1668,Cancun,02/28/2025,9,79000,"cultural show, museum tour, food tour"
+T3933,1668,Tokyo,2024-01-25,9,113000,"cultural show, museum tour"
+T3934,1668,Bali,"April 17, 2023",4,112000,museum tour
+T3935,1490,Tokyo,"September 05, 2023",7,87000,"spa, shopping"
+T3936,1490,Cancun,"September 13, 2021",7,85000,shopping
+T3937,1252,Cancun,01/13/2022,7,92000,"cultural show, food tour"
+T3938,1252,Tokyo,09/22/2023,6,112000,"cultural show, food tour"
+T3939,1907,Cancun,01/30/2023,10,84000,shopping
+T3940,1907,Tokyo,04/21/2023,4,102000,"spa, shopping"
+T3941,1907,Banff,2022-12-21,3,332000,"shopping, wine tasting"
+T3942,1468,Cape Town,2022-07-22,8,290000,"safari, hiking"
+T3943,1468,Tokyo,"November 07, 2021",4,112000,"hiking, kayaking"
+T3944,1468,Rome,"August 29, 2021",10,266000,"kayaking, safari, hiking"
+T3945,1468,Banff,2021-09-22,7,240000,"kayaking, safari"
+T3946,1914,Denver,2025-01-24,4,177000,beach
+T3947,1357,Barcelona,"February 13, 2024",4,187000,"hiking, kayaking, safari"
+T3948,1357,Bali,"November 19, 2021",8,117000,"safari, hiking"
+T3949,1357,Denver,"September 22, 2022",4,167000,"hiking, safari"
+T3950,1254,Phuket,"January 29, 2022",4,550000,snorkeling
+T3951,1254,Barcelona,12/29/2024,7,198000,"snorkeling, beach, spa"
+T3952,1254,Phuket,07/26/2023,10,612000,"snorkeling, beach, spa"
+T3953,1254,Bali,"February 22, 2023",10,87000,beach
+T3954,1276,Tokyo,09/09/2023,6,121000,"cultural show, food tour"
+T3955,1178,Tokyo,06/16/2023,7,100000,"snorkeling, beach, spa"
+T3956,1178,Cancun,01/03/2023,4,89000,"snorkeling, beach, spa"
+T3957,1178,Cancun,"December 03, 2022",4,82000,"snorkeling, beach"
+T3958,1178,Barcelona,2024-11-15,5,151000,spa
+T3959,1178,Cancun,"August 07, 2023",10,91000,"beach, spa"
+T3960,1281,Cancun,09/15/2021,3,82000,"spa, shopping, wine tasting"
+T3961,1281,Tokyo,"December 21, 2022",5,108000,shopping
+T3962,1281,Denver,02/12/2023,10,161000,"spa, wine tasting, shopping"
+T3963,1390,Phuket,"March 23, 2022",3,555000,museum tour
+T3964,1390,Banff,2022-04-14,4,252000,"museum tour, food tour, cultural show"
+T3965,1508,Banff,02/27/2024,9,288000,"kayaking, safari"
+T3966,1508,Cancun,11/05/2024,10,71000,safari
+T3967,1749,Rome,"April 04, 2025",9,263000,"kayaking, hiking"
+T3968,1749,Bali,04/09/2023,9,105000,safari
+T3969,1749,Denver,01/02/2024,3,163000,safari
+T3970,1583,Rome,2022-02-12,5,263000,"hiking, museum tour, food tour"
+T3971,1972,Tokyo,10/04/2024,4,102000,kayaking
+T3972,1972,Cape Town,"September 21, 2022",8,313000,"safari, hiking"
+T3973,1129,Bali,2023-03-29,3,102000,"cultural show, food tour"
+T3974,1129,Barcelona,09/13/2023,6,181000,food tour
+T3975,1129,Phuket,"March 30, 2025",8,512000,"food tour, museum tour"
+T3976,1144,Denver,02/20/2023,3,171000,"hiking, safari, kayaking"
+T3977,1144,Tokyo,2023-07-08,9,86000,"safari, kayaking, hiking"
+T3978,1960,Denver,"April 16, 2024",6,189000,"kayaking, safari, hiking"
+T3979,1960,Rome,2022-07-21,6,319000,"kayaking, safari, hiking"
+T3980,1960,Cancun,"December 23, 2023",5,88000,kayaking
+T3981,1847,Banff,"December 02, 2021",9,286000,"shopping, wine tasting, spa"
+T3982,1847,Bali,"September 23, 2021",8,102000,wine tasting
+T3983,1847,Denver,2023-11-23,6,185000,"shopping, wine tasting, spa"
+T3984,1645,Denver,2024-05-21,3,138000,"hiking, safari, kayaking"
+T3985,1715,Cancun,01/01/2025,8,90000,"kayaking, hiking, safari"
+T3986,1715,Cancun,03/11/2024,10,94000,"hiking, safari"
+T3987,1715,Cancun,"July 20, 2024",4,77000,kayaking
+T3988,1715,Tokyo,"June 28, 2023",4,108000,kayaking
+T3989,1715,Cancun,"September 22, 2024",6,92000,kayaking
+T3990,1905,Denver,"October 26, 2024",10,149000,"hiking, kayaking"
+T3991,1905,Bali,08/12/2022,5,106000,"safari, hiking"
+T3992,1905,Bali,08/30/2023,3,91000,"kayaking, hiking, safari"
+T3993,1905,Bali,03/02/2022,4,118000,kayaking
+T3994,1905,Rome,10/18/2023,6,301000,"hiking, safari"
+T3995,1767,Bali,"August 27, 2022",5,130000,"shopping, spa, wine tasting"
+T3996,1767,Cape Town,"March 05, 2022",7,290000,shopping
+T3997,1767,Denver,2022-01-28,8,174000,"shopping, wine tasting, spa"
+T3998,1767,Tokyo,04/04/2023,8,90000,"shopping, wine tasting, spa"
+T3999,1072,Tokyo,"June 20, 2024",6,88000,kayaking
+T4000,1072,Rome,"July 09, 2021",4,282000,"kayaking, hiking"
+T4001,1072,Barcelona,"May 30, 2022",3,178000,"kayaking, safari"
+T4002,1072,Bali,08/12/2024,6,97000,safari
+T4003,1072,Tokyo,06/25/2025,10,91000,"kayaking, safari, hiking"
+T4004,1908,Banff,01/28/2023,4,247000,wine tasting
+T4005,1908,Banff,"August 31, 2024",5,320000,"shopping, spa"
+T4006,1908,Barcelona,09/27/2021,10,158000,"wine tasting, shopping"
+T4007,1235,Denver,"October 12, 2021",3,160000,cultural show
+T4008,1037,Cape Town,08/13/2024,7,227000,"museum tour, food tour, cultural show"
+T4009,1037,Rome,10/26/2024,4,248000,"museum tour, cultural show, food tour"
+T4010,1037,Tokyo,"October 17, 2021",7,108000,"museum tour, cultural show"

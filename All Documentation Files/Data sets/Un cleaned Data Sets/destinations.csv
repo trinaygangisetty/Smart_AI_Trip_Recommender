@@ -1,0 +1,11 @@
+destination,country,tags,avg_cost_usd,safety_rating
+Cancun,Mexico,"budget-friendly,romantic,cultural,historic",80000,4.6
+Paris,France,"luxury,beach",502000,3.1
+Tokyo,Japan,"historic,party,beach,budget-friendly",101000,3.9
+Bali,Indonesia,"budget-friendly,romantic,historic",109000,2.5
+Cape Town,South Africa,"cultural,nature,adventure",279000,4.8
+Denver,United States,"beach,budget-friendly,historic,party",161000,3.5
+Banff,Canada,"historic,family-friendly",286000,4.4
+Phuket,Thailand,"luxury,historic,romantic",515000,2.9
+Rome,Italy,"historic,party,family-friendly,adventure",268000,3.3
+Barcelona,Spain,"romantic,family-friendly,budget-friendly",179000,2.5
