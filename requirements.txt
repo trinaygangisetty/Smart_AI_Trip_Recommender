@@ -61,7 +61,6 @@ pandas==2.3.0
 pandocfilters==1.5.1
 pillow==11.3.0
 platformdirs==4.2.0
-playwright==1.43.0
 proto-plus==1.26.1
 protobuf==6.31.1
 pyasn1==0.6.1
