@@ -3,7 +3,7 @@ import numpy as np
 import faiss
 from sentence_transformers import SentenceTransformer
 
-df = pd.read_csv("destinations.csv")  
+df = pd.read_csv(r"..\Datasets\destinations.csv")  
 
 df["text"] = df.apply(lambda row: (
     f"{row['destination']} in {row['country']} is great for {row['tags']} travelers. "

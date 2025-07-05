@@ -10,7 +10,7 @@ import ast
 
 client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
 
-# Load embeddings and indexes
+# Loading embeddings and indexes
 @st.cache_resource
 def load_destination_data():
     df = pd.read_pickle("destination_embeddings/destination_embeddings.pkl")
@@ -32,6 +32,7 @@ def load_weather_aware_destinations():
     model = SentenceTransformer("all-MiniLM-L6-v2")
     return df, index, model
 
+# side menu Bar
 st.title("🌍 AI Trip Recommender Dashboard")
 section = st.sidebar.radio("Choose Feature", [
     "📊 BigQuery Recommendations",

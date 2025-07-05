@@ -4,8 +4,8 @@ import faiss
 from sentence_transformers import SentenceTransformer
 
 # Load destination and weather data
-dest_df = pd.read_csv("destinations.csv")
-weather_df = pd.read_csv("weather.csv")  # Should contain destination, month, weather, seasonal_rating
+dest_df = pd.read_csv(r"..\Datasets\destinations.csv")
+weather_df = pd.read_csv(r"..\Datasets\weather.csv")  # Should contain destination, month, weather, seasonal_rating
 
 # Merge destination and weather (one row per destination + month)
 merged = pd.merge(dest_df, weather_df, on="destination")

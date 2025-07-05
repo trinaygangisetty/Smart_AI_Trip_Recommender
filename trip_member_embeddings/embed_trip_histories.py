@@ -5,8 +5,8 @@ from sentence_transformers import SentenceTransformer
 from collections import Counter
 
 # Load cleaned data
-members_df = pd.read_csv("members.csv")
-trips_df = pd.read_csv("trips.csv")
+members_df = pd.read_csv(r"..\Datasets\members.csv")
+trips_df = pd.read_csv(r"..\Datasets\trips.csv")
 
 # Join on member_id
 merged_df = trips_df.merge(members_df, on="member_id")
