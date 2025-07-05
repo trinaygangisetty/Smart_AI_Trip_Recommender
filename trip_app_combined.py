@@ -7,6 +7,14 @@ from google.cloud import bigquery
 import openai
 from openai import OpenAI
 import ast
+import json, os, tempfile
+
+with tempfile.NamedTemporaryFile(delete=False, mode="w", suffix=".json") as f:
+    json.dump(st.secrets["gcp_service_account"], f)
+    f.flush()
+    os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = f.name
+    
+os.environ["GCP_PROJECT_ID"] = st.secrets["GCP_PROJECT_ID"]
 
 client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
 
@@ -91,7 +99,7 @@ if section == "📊 BigQuery Recommendations":
 
 
     if submitted:
-        client = bigquery.Client()
+        client = bigquery.Client(project=os.environ.get("GCP_PROJECT_ID"))
         params = [
             bigquery.ScalarQueryParameter("budget", "INT64", budget),
             bigquery.ScalarQueryParameter("preference", "STRING", preference.lower()),
