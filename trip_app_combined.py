@@ -10,7 +10,7 @@ import ast
 import json, os, tempfile
 
 with tempfile.NamedTemporaryFile(delete=False, mode="w", suffix=".json") as f:
-    json.dump(st.secrets["gcp_service_account"], f)
+    json.dump(dict(st.secrets["gcp_service_account"]), f)
     f.flush()
     os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = f.name
     
