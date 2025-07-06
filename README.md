@@ -10,6 +10,13 @@ This repository contains a comprehensive trip recommendation system built using 
 
 ---
 
+## Live Demo
+
+Check out the live version of the app here:  
+👉 [Smart AI Trip Recommender App](https://trinay-trip-recommendation-app.streamlit.app/)
+
+---
+
 ## Project Structure
 
 ```
