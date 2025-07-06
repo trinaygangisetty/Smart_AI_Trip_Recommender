@@ -1,4 +1,4 @@
-# Smart AI Trip Recommender 🚀
+# Smart AI Trip Recommender
 
 This repository contains a comprehensive trip recommendation system built using Streamlit, BigQuery, FAISS vector search, and large language models (LLMs) via OpenAI. It offers the following features:
 
