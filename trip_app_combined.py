@@ -7,16 +7,7 @@ from google.cloud import bigquery
 import openai
 from openai import OpenAI
 import ast
-import os
-import json
-import tempfile
 from google.oauth2 import service_account
-
-with tempfile.NamedTemporaryFile(delete=False, suffix=".json", mode="w") as temp_file:
-    json.dump(dict(st.secrets["gcp_service_account"]), temp_file)
-    service_account_path = temp_file.name
-    
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = service_account_path
 
 client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
 
@@ -101,7 +92,7 @@ if section == "📊 BigQuery Recommendations":
 
 
     if submitted:
-        credentials = service_account.Credentials.from_service_account_file(service_account_path)
+        credentials = service_account.Credentials.from_service_account_info(st.secrets["gcp_service_account"])
         client = bigquery.Client(credentials=credentials, project=credentials.project_id)
 
         params = [
